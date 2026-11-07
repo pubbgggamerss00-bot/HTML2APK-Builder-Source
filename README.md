@@ -29,7 +29,7 @@ HTML2APK/
 ├── README.md
 ├── apk/
 │   ├── HTML2APK-v1.0-release.apk              ← پوستهٔ تمیز بازسازی‌شده (~۶۰۰KB)
-│   └── HTML2APK_v1.32-zfix2_rebranded.apk     ← ★ APK کامل برندینگ‌شدهٔ v1.32 (~۵۱MB)
+│   └── HTML2APK_v1.32-zfix2_rebranded_v2.apk  ← ★ APK کامل برندینگ‌شدهٔ v1.32 (~۵۱MB)
 ├── android-app/                        ← ★ پروژهٔ تمیز و قابل بیلد (پوستهٔ WebView)
 │   ├── AndroidManifest.xml
 │   ├── build.sh                        ← بیلد بدون Gradle و بدون Android Studio
@@ -65,12 +65,12 @@ HTML2APK/
 
 | مورد | مقدار |
 |---|---|
-| فایل | [`apk/HTML2APK_v1.32-zfix2_rebranded.apk`](apk/HTML2APK_v1.32-zfix2_rebranded.apk) |
+| فایل | [`apk/HTML2APK_v1.32-zfix2_rebranded_v2.apk`](apk/HTML2APK_v1.32-zfix2_rebranded_v2.apk) |
 | حجم | ~۵۱ مگابایت |
 | نام نمایشی | **HTML2APK** (در هر ۴۹ زبان/لوکال) |
 | Package | `com.basitce.htmltoapk` (بدون تغییر — سازگاری کامل داده‌ها) |
 | versionName / Code | `1.32-zfix2` / `45` (بدون تغییر) |
-| امضا | v3 — RSA 2048 · SHA-256 در [`docs/checksums.txt`](docs/checksums.txt) |
+| امضا | **v1 (JAR) + v2 — RSA 2048** · SHA-256 در [`docs/checksums.txt`](docs/checksums.txt) |
 | ایمیل بازخورد | `warzonevangard@gmail.com` (در DEX بازنویسی شد) |
 
 ### ✅ چه چیزهایی تغییر کرد
@@ -85,6 +85,10 @@ HTML2APK/
 - «Get Pro for Free» در سطح منبع/رشته حذف‌شدنی نیست؛ فقط ایمیل ارسالی‌اش تغییر کرد
 - APK دوباره امضا شده؛ بررسی یکپارچگی Pairip ممکن است هنگام اجرا واکنش نشان دهد — **قبل از اتکا، روی گوشی واقعی تست نصب کنید** (APK اصلی دست‌نخورده جایگزین مطمئن است)
 - کلید `HTML2APK_sign.keystore` (رمز: `html2apk_build_2026`) فقط کلید تست است — برای انتشار عمومی کلید اختصاصی بسازید
+
+### 🔧 نسخهٔ v2 — رفع مشکل نصب
+
+نسخهٔ اولیه فقط با امضای **v3** منتشر شده بود (رفتار apksigner هنگام فعال‌بودن v3، بلاک‌های v1/v2 را حذف می‌کند) و روی برخی دستگاه‌ها نصب نمی‌شد. در v2 امضا به **v1 + v2** (استاندارد و سازگار با همهٔ دستگاه‌های اندروید ۷+) تغییر کرد؛ بایت‌های اپ تغییری نکرده‌اند — فقط بلاک امضا. اگر اپ اصلی (HTML to APK Builder) روی گوشی نصب است، چون امضای جدید متفاوت است باید ابتدا آن را حذف کنید.
 
 ---
 
