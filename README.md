@@ -28,7 +28,8 @@
 HTML2APK/
 ├── README.md
 ├── apk/
-│   └── HTML2APK-v1.0-release.apk      ← خروجی نهایی قابل نصب (~۶۰۰KB)
+│   ├── HTML2APK-v1.0-release.apk              ← پوستهٔ تمیز بازسازی‌شده (~۶۰۰KB)
+│   └── HTML2APK_v1.32-zfix2_rebranded.apk     ← ★ APK کامل برندینگ‌شدهٔ v1.32 (~۵۱MB)
 ├── android-app/                        ← ★ پروژهٔ تمیز و قابل بیلد (پوستهٔ WebView)
 │   ├── AndroidManifest.xml
 │   ├── build.sh                        ← بیلد بدون Gradle و بدون Android Studio
@@ -36,10 +37,17 @@ HTML2APK/
 │   │   └── MainActivity.java           ← WebView کامل (JS، فایل، لینک خارجی، Back)
 │   ├── res/                            ← آیکون‌های برندینگ در همهٔ دانسیتی‌ها + تم
 │   └── assets/                         ← ★ محتوای HTML شما اینجاست (index.html)
+├── docs/
+│   ├── HTML2APK_transformation_report.md  ← ★ گزارش کامل تبدیل و QA
+│   ├── patch_log.txt                      ← لاگ ماشین‌خوان همهٔ ویرایش‌ها
+│   ├── checksums.txt                      ← SHA-256 همهٔ خروجی‌ها
+│   └── crc_diff.txt                       ← دیف سطح Entry از اصلی تا برندینگ‌شده
 ├── keystore/
-│   └── html2apk-release.keystore       ← کلید امضای Release
-├── original-decompiled-source/         ← سورس کامل دی‌کامپایل‌شده (~۲۱۱MB)
+│   ├── html2apk-release.keystore       ← کلید امضای پوستهٔ تمیز
+│   └── HTML2APK_sign.keystore          ← کلید امضای APK برندینگ‌شده
+├── original-decompiled-source/         ← سورس کامل دی‌کامپایل‌شده + پچ‌های برندینگ (~۲۱۱MB)
 │   ├── README.md                       ← مستندات تحلیل سورس اصلی
+│   ├── HTML2APK_BRANDING_NOTES.txt     ← یادداشت‌های برندینگ
 │   ├── decompiled_project/             ← پروژهٔ Gradle دی‌کامپایل‌شده
 │   │   └── app/src/main/
 │   │       ├── java/com/basitce/htmltoapk/   ← کد اصلی برنامه (۱۷هزار+ فایل جاوا)
@@ -48,6 +56,35 @@ HTML2APK/
 │   └── webview_shell_template_source/  ← سورس دی‌کامپایل‌شدهٔ پوستهٔ قالب
 └── .github/workflows/build-apk.yml     ← بیلد خودکار APK با GitHub Actions
 ```
+
+---
+
+## 🎨 APK برندینگ‌شدهٔ کامل — HTML2APK v1.32-zfix2
+
+خروجی نهایی پروژهٔ تبدیل: کل برنامهٔ اصلی v1.32-zfix2 با **حفظ ۱۰۰٪ عملکرد** (منطق، موتور ساخت، لایسنس و امنیت بایت‌به‌بایت دست‌نخورده)، فقط با تغییر هویت برند:
+
+| مورد | مقدار |
+|---|---|
+| فایل | [`apk/HTML2APK_v1.32-zfix2_rebranded.apk`](apk/HTML2APK_v1.32-zfix2_rebranded.apk) |
+| حجم | ~۵۱ مگابایت |
+| نام نمایشی | **HTML2APK** (در هر ۴۹ زبان/لوکال) |
+| Package | `com.basitce.htmltoapk` (بدون تغییر — سازگاری کامل داده‌ها) |
+| versionName / Code | `1.32-zfix2` / `45` (بدون تغییر) |
+| امضا | v3 — RSA 2048 · SHA-256 در [`docs/checksums.txt`](docs/checksums.txt) |
+| ایمیل بازخورد | `warzonevangard@gmail.com` (در DEX بازنویسی شد) |
+
+### ✅ چه چیزهایی تغییر کرد
+
+- نام اپ در هر ۴۹ لوکال → **HTML2APK**، تم تیرهٔ سرمه‌ای با اکسنت نئون، آیکون لانچر جدید در همهٔ دانسیتی‌ها
+- بازنویسی ۳ ثابت رشته‌ای در DEX (ازجمله ایمیل دریافت بازخورد → `warzonevangard@gmail.com`)
+- ۵۲ فایل سورس‌ساید پچ‌شده در `original-decompiled-source/` هماهنگ با APK
+
+### ⚠️ محدودیت‌ها (خلاصه — جزئیات کامل در [`docs/HTML2APK_transformation_report.md`](docs/HTML2APK_transformation_report.md))
+
+- بازطراحی کامل Compose از این سورس ممکن نیست (UI با R8 مبهم شده) — تم سراسری تیره اعمال شد
+- «Get Pro for Free» در سطح منبع/رشته حذف‌شدنی نیست؛ فقط ایمیل ارسالی‌اش تغییر کرد
+- APK دوباره امضا شده؛ بررسی یکپارچگی Pairip ممکن است هنگام اجرا واکنش نشان دهد — **قبل از اتکا، روی گوشی واقعی تست نصب کنید** (APK اصلی دست‌نخورده جایگزین مطمئن است)
+- کلید `HTML2APK_sign.keystore` (رمز: `html2apk_build_2026`) فقط کلید تست است — برای انتشار عمومی کلید اختصاصی بسازید
 
 ---
 

@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Tänker…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animationer stängdes av eftersom enheten hade problem. Aktivera dem i inställningarna.</string>
-    <string name="app_name">HTML till APK-byggare</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Ansluter till Google Play, vänligen försök igen om några sekunder.</string>
     <string name="billing_restore_error">Fel vid sökning: %1$s</string>
     <string name="billing_restore_not_found">Inget aktivt köp hittades för detta Google-konto.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Skicka e-post</string>
     <string name="build_failed_dialog_title">Bygget misslyckades</string>
     <string name="build_failed_email_chooser">Skicka felrapport via…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Rapport om byggfel - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Rapport om byggfel - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB-bygge slutfört: %1$s (%2$d byte)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Dela vad du har skapat med världen och få Pro i utbyte. Det krävs bara 3 enkla steg:</string>
     <string name="free_premium_note">Tips: inkludera en skärmdump av visningsantalet i ditt e-postmeddelande för att påskynda verifieringen.</string>
     <string name="free_premium_send_email">Skicka e-post</string>
-    <string name="free_premium_step1_desc">Spela in en video som visar en app eller ett spel du har skapat med HTML to APK och dela den på YouTube, TikTok eller Instagram.</string>
+    <string name="free_premium_step1_desc">Spela in en video som visar en app eller ett spel du har skapat med HTML2APK och dela den på YouTube, TikTok eller Instagram.</string>
     <string name="free_premium_step1_title">Spela in och dela en video</string>
     <string name="free_premium_step2_desc">När din video når 10 000 visningar på någon av dessa plattformar är din belöning redo.</string>
     <string name="free_premium_step2_title">Nå 10 000 visningar</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Använd mappar och projektåtgärder för att hålla ordning på allt.</string>
     <string name="howto_organize_title">Håll ordning på projekt</string>
     <string name="howto_output_body">APK är till för att installera på din telefon eller dela direkt. AAB är formatet som Google Play behöver (Pro). Med Pro kan du även exportera projektet som ett Android Studio-projekt (ZIP) från projektmenyn. Tidigare byggen finns under Byggutdata i samma meny, och huvudmenyn kan exportera eller importera projekt som ZIP-säkerhetskopior.</string>
-    <string name="howto_overview">Med HTML to APK Builder kan du förvandla din webbplats eller dina HTML-filer till en riktig Android-app. Ingen kodning krävs!</string>
+    <string name="howto_overview">Med HTML2APK kan du förvandla din webbplats eller dina HTML-filer till en riktig Android-app. Ingen kodning krävs!</string>
     <string name="howto_pdf_body">Skapa projekt och välj sedan Öppna / visa PDF för att öppna läsaren. Zooma, växla mellan ljust och mörkt läsläge, lägg till bokmärken och fortsätt från din senaste sida. Använd Redigera när du vill ändra ordning på sidor eller kommentera dokumentet. Du kan konvertera ett dokument till en app senare.</string>
     <string name="howto_playstore_signing_action">Läs mer</string>
-    <string name="howto_playstore_signing_body">När Play Console frågar om “Inställningar för app-signering”, välj det första alternativet: &lt;b&gt;Låt Google hantera och skydda din signeringsnyckel för appen (rekommenderas)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Detta aktiverar &lt;b&gt;Play App Signing&lt;/b&gt;. Google behåller den riktiga signeringsnyckeln; du laddar bara upp APK/AAB-filer signerade med din uppladdningsnyckel.&lt;br/&gt;&lt;br/&gt;Om du senare förlorar nyckelarkivet (till exempel genom att avinstallera HTMLtoAPK), kan du begära en &lt;b&gt;återställning av uppladdningsnyckel&lt;/b&gt; i Play Console och användare kommer fortfarande att få uppdateringar.&lt;br/&gt;&lt;br/&gt;Om du måste ladda upp din egen signeringsnyckel, öppna nyckelarkivet i den här appen och tryck på &lt;b&gt;Exportera för Play Store (PEPK)&lt;/b&gt;. Välj samma metod som Play Console visar (hex-publik nyckel eller RSA-publik nyckel PEM) för att generera &lt;b&gt;output.zip&lt;/b&gt; och ladda upp den.&lt;br/&gt;&lt;br/&gt;Välj endast “Exportera och ladda upp din egen nyckel” om du är helt säker på att du kan hålla den nyckeln säker för alltid. Att förlora den innebär att du inte kan uppdatera appen igen.</string>
+    <string name="howto_playstore_signing_body">När Play Console frågar om “Inställningar för app-signering”, välj det första alternativet: &lt;b&gt;Låt Google hantera och skydda din signeringsnyckel för appen (rekommenderas)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Detta aktiverar &lt;b&gt;Play App Signing&lt;/b&gt;. Google behåller den riktiga signeringsnyckeln; du laddar bara upp APK/AAB-filer signerade med din uppladdningsnyckel.&lt;br/&gt;&lt;br/&gt;Om du senare förlorar nyckelarkivet (till exempel genom att avinstallera HTML2APK), kan du begära en &lt;b&gt;återställning av uppladdningsnyckel&lt;/b&gt; i Play Console och användare kommer fortfarande att få uppdateringar.&lt;br/&gt;&lt;br/&gt;Om du måste ladda upp din egen signeringsnyckel, öppna nyckelarkivet i den här appen och tryck på &lt;b&gt;Exportera för Play Store (PEPK)&lt;/b&gt;. Välj samma metod som Play Console visar (hex-publik nyckel eller RSA-publik nyckel PEM) för att generera &lt;b&gt;output.zip&lt;/b&gt; och ladda upp den.&lt;br/&gt;&lt;br/&gt;Välj endast “Exportera och ladda upp din egen nyckel” om du är helt säker på att du kan hålla den nyckeln säker för alltid. Att förlora den innebär att du inte kan uppdatera appen igen.</string>
     <string name="howto_playstore_signing_summary">Förstå uppladdningsnycklar, Play App Signing och PEPK.</string>
     <string name="howto_playstore_signing_title">Val av signeringsnyckel för Play Butik</string>
     <string name="howto_preview_body">Förhandsgranskningen kör din sida på samma sätt som den färdiga appen, inklusive Android API-anrop. HTML-redigeraren färglägger din kod, stänger taggar åt dig och har sök och ersätt; ändringar behålls när du växlar till förhandsgranskningen och tillbaka.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Behåll en kopia på den här enheten</string>
     <string name="keystore_persisted">Sparad i Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projekt: %1$s</string>
-    <string name="keystore_recovery_body">Om du avinstallerade HTMLtoAPK kan de automatiskt genererade signeringsnycklarna ha gått förlorade. En ny version kommer att signeras med en annan nyckel och Play Store kan avvisa uppdateringen.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Lösning 1 - Återställ uppladdningsnyckel (rekommenderas):&lt;/b&gt;&lt;br/&gt;1. Exportera &lt;b&gt;PEM-certifikatet&lt;/b&gt; för ditt nya nyckelarkiv från listan nedan.&lt;br/&gt;2. I Play Console, gå till &lt;b&gt;App-signering &gt; Begär återställning av uppladdningsnyckel&lt;/b&gt;.&lt;br/&gt;3. Fyll i formuläret och ladda upp PEM-filen.&lt;br/&gt;4. När den har godkänts, publicera din nya APK/AAB signerad med den nya nyckeln.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Lösning 2 - Ersätt signeringsnyckel för appen:&lt;/b&gt;&lt;br/&gt;Om Play Console tillåter dig att ladda upp en ny signeringsnyckel för appen, använd &lt;b&gt;Exportera för Play Store (PEPK)&lt;/b&gt; på nyckelarkivet. Välj samma metod som visas i Play Console (hex-nyckel eller RSA PEM), generera output.zip och ladda upp den.&lt;br/&gt;&lt;br/&gt;Användare kommer att fortsätta få uppdateringar eftersom signeringsnyckeln för appen stannar hos Google när du bara återställer uppladdningsnyckeln.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Om Play App Signing är inaktiverat&lt;/b&gt; och du har förlorat signeringsnyckeln måste du publicera appen igen med ett nytt paketnamn.</string>
+    <string name="keystore_recovery_body">Om du avinstallerade HTML2APK kan de automatiskt genererade signeringsnycklarna ha gått förlorade. En ny version kommer att signeras med en annan nyckel och Play Store kan avvisa uppdateringen.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Lösning 1 - Återställ uppladdningsnyckel (rekommenderas):&lt;/b&gt;&lt;br/&gt;1. Exportera &lt;b&gt;PEM-certifikatet&lt;/b&gt; för ditt nya nyckelarkiv från listan nedan.&lt;br/&gt;2. I Play Console, gå till &lt;b&gt;App-signering &gt; Begär återställning av uppladdningsnyckel&lt;/b&gt;.&lt;br/&gt;3. Fyll i formuläret och ladda upp PEM-filen.&lt;br/&gt;4. När den har godkänts, publicera din nya APK/AAB signerad med den nya nyckeln.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Lösning 2 - Ersätt signeringsnyckel för appen:&lt;/b&gt;&lt;br/&gt;Om Play Console tillåter dig att ladda upp en ny signeringsnyckel för appen, använd &lt;b&gt;Exportera för Play Store (PEPK)&lt;/b&gt; på nyckelarkivet. Välj samma metod som visas i Play Console (hex-nyckel eller RSA PEM), generera output.zip och ladda upp den.&lt;br/&gt;&lt;br/&gt;Användare kommer att fortsätta få uppdateringar eftersom signeringsnyckeln för appen stannar hos Google när du bara återställer uppladdningsnyckeln.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Om Play App Signing är inaktiverat&lt;/b&gt; och du har förlorat signeringsnyckeln måste du publicera appen igen med ett nytt paketnamn.</string>
     <string name="keystore_recovery_close">Jag förstår</string>
     <string name="keystore_recovery_open_console">Öppna Play Console</string>
     <string name="keystore_recovery_title">Har du tappat bort din signeringsnyckel?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF-visare</string>
     <string name="licenses_count">%1$d bibliotek</string>
     <string name="licenses_empty">Inga bibliotek matchar din sökning.</string>
-    <string name="licenses_intro">HTML to APK är byggd på programvaran med öppen källkod nedan. Bibliotek märkta \"Generated apps\" paketeras också in i apparna som byggs (annonsbibliotek endast när annonser är aktiverade).</string>
+    <string name="licenses_intro">HTML2APK är byggd på programvaran med öppen källkod nedan. Bibliotek märkta \"Generated apps\" paketeras också in i apparna som byggs (annonsbibliotek endast när annonser är aktiverade).</string>
     <string name="licenses_load_failed">Licenslistan kunde inte laddas.</string>
     <string name="licenses_open_license">Öppna licens</string>
     <string name="licenses_open_website">Webbplats</string>
@@ -1077,7 +1077,7 @@
     <string name="m3c_dropdown_menu_toggle">Utöka/komprimera rullgardinsmeny</string>
     <string name="m3c_snackbar_dismiss">Stäng</string>
     <string name="mail_report_android">Android-version: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK version: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK version: v%1$s (%2$d)</string>
     <string name="mail_report_date">Datum: %1$s</string>
     <string name="mail_report_default_project">Projekt</string>
     <string name="mail_report_device">Enhet: %1$s %2$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Inställningar</string>
     <string name="nav_templates">Mallar</string>
     <string name="not_selected">Inte vald</string>
-    <string name="offer_dialog_message">Dela en video som visar en app du har byggt med HTML to APK. När den når 10 000 visningar bjuder vi på Pro.</string>
+    <string name="offer_dialog_message">Dela en video som visar en app du har byggt med HTML2APK. När den når 10 000 visningar bjuder vi på Pro.</string>
     <string name="offer_dialog_no">Inte nu</string>
     <string name="offer_dialog_title">Få Pro gratis</string>
     <string name="offer_dialog_yes">Hur tjänar jag in det?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Säljs separat, ingen Pro behövs. Nya konton får sin första app gratis.</string>
     <string name="premium_credits_link_title">AI-kreditpaket</string>
     <string name="premium_crown_subtitle">Ta bort alla begränsningar och skapa med full kraft.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Hej! Jag är Emre, 19 år gammal, och jag utvecklar HTML to APK helt på egen hand med stor passion. Mitt mål är att ge dig möjligheten att förvandla dina webbprojekt till riktiga Android-appar sömlöst, utan någon komplex konfiguration.\n\nGenom att uppgradera till Pro stödjer du direkt en ung indieutvecklare och driver den framtida utvecklingen av detta projekt. Tack så mycket för ditt vänliga stöd! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Hej! Jag är Emre, 19 år gammal, och jag utvecklar HTML2APK helt på egen hand med stor passion. Mitt mål är att ge dig möjligheten att förvandla dina webbprojekt till riktiga Android-appar sömlöst, utan någon komplex konfiguration.\n\nGenom att uppgradera till Pro stödjer du direkt en ung indieutvecklare och driver den framtida utvecklingen av detta projekt. Tack så mycket för ditt vänliga stöd! ❤️</string>
     <string name="premium_dev_note_title">En hälsning från utvecklaren 👋</string>
     <string name="premium_error_payment">Betalning ej tillgänglig. Vänligen försök igen senare.</string>
     <string name="premium_extra_ads_detail">Inga påträngande annonser i varken applikationsarbetsytan eller alla exporterade appar. Njut av en ren, distraktionsfri miljö.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Läs obegränsat antal PDF-dokument</string>
     <string name="premium_feature_unlimited_pdf_detail">Gratisplanen tillåter upp till 5 PDF-dokumentprojekt. Pro tar bort begränsningen så att ditt läsbibliotek kan fortsätta växa.</string>
     <string name="premium_feature_watermark_desc">Ta bort vattenstämpel från genererade appar</string>
-    <string name="premium_feature_watermark_detail">Ta bort \'Made with HTML to APK\'-startskärmsindikatorer och vattenstämplar från alla exporterade byggen för helt white-label, varumärkesanpassade applikationer.</string>
+    <string name="premium_feature_watermark_detail">Ta bort \'Made with HTML2APK\'-startskärmsindikatorer och vattenstämplar från alla exporterade byggen för helt white-label, varumärkesanpassade applikationer.</string>
     <string name="premium_feature_webview_desc">Avancerade WebView-inställningar</string>
     <string name="premium_feature_webview_detail">Få full kontroll över hårdvaruacceleration, JS-konsolloggar, anpassade User-Agent-strängar, behörigheter för filuppladdning och cachelagringsstrategier.</string>
     <string name="premium_less_features_button">Visa mindre</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Skicka feedback</string>
     <string name="settings_feedback_chooser">Skicka feedback</string>
     <string name="settings_feedback_no_app">Ingen e-postapp hittades</string>
-    <string name="settings_feedback_subject">HTML till APK Builder - Feedback</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Få Pro gratis</string>
     <string name="settings_free_premium_summary">Dela en video, nå 10 000 visningar, få Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">På</string>
     <string name="support_button_action">Stöd</string>
     <string name="support_cats_interactive_hint">Tryck på valfri katt för att klappa dem! 🐾</string>
-    <string name="support_developer_desc">Hej! Tack så hemskt mycket för att du köper Pro. Som en oberoende soloutvecklare underhåller och förbättrar jag kontinuerligt HTML to APK. Om du älskar appen och vill stödja framtida uppdateringar kan du valfritt köpa mig en kaffe eller en måltid. Varje bidrag betyder världen för mig! ❤️</string>
+    <string name="support_developer_desc">Hej! Tack så hemskt mycket för att du köper Pro. Som en oberoende soloutvecklare underhåller och förbättrar jag kontinuerligt HTML2APK. Om du älskar appen och vill stödja framtida uppdateringar kan du valfritt köpa mig en kaffe eller en måltid. Varje bidrag betyder världen för mig! ❤️</string>
     <string name="support_developer_subtitle">Om du vill stödja mig ☕</string>
     <string name="support_developer_title">Stöd utvecklaren</string>
     <string name="support_success_button">Ingen orsak ❤️</string>
-    <string name="support_success_message">Ditt stöd har tagits emot! Som en oberoende soloutvecklare som skapar HTML to APK, gav du mig enorm kraft, moral och motivation. Våra katter firar för dig! 🐾</string>
+    <string name="support_success_message">Ditt stöd har tagits emot! Som en oberoende soloutvecklare som skapar HTML2APK, gav du mig enorm kraft, moral och motivation. Våra katter firar för dig! 🐾</string>
     <string name="support_success_title">Du är fantastisk! ❤️</string>
     <string name="support_tier_coffee_desc">En varm kopp kaffe för sena kodningskvällar ☕</string>
     <string name="support_tier_coffee_title">Köp en kaffe</string>
     <string name="support_tier_meal_desc">En god middag för att hålla energin och fokus uppe 🍕</string>
     <string name="support_tier_meal_title">Köp en måltid</string>
-    <string name="support_tier_sponsor_desc">Direkt bidrag till framtiden för HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Direkt bidrag till framtiden för HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Supersponsor</string>
     <string name="switch_role">Reglage</string>
     <string name="tab">Flik</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Helskärmslayout</string>
     <string name="template_gallery_desc">Spara en base64-bild i fotogalleriet.</string>
     <string name="template_gallery_title">Spara till galleri</string>
-    <string name="template_guide_body">HTML to APK injicerar ett globalt JavaScript-objekt kallat AndroidAPI i din WebView. Du kan anropa dessa metoder direkt från din HTML/JS-kod:</string>
+    <string name="template_guide_body">HTML2APK injicerar ett globalt JavaScript-objekt kallat AndroidAPI i din WebView. Du kan anropa dessa metoder direkt från din HTML/JS-kod:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // returnerar JSON\nAndroidAPI.getBatteryLevel() // returnerar int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // returnerar int 0-255</string>
-    <string name="template_guide_note">Tips: Använd dessa API:er inuti onclick-hanterare eller vilken JavaScript-funktion som helst. Objektet är automatiskt tillgängligt när din app byggs med HTML to APK.</string>
+    <string name="template_guide_note">Tips: Använd dessa API:er inuti onclick-hanterare eller vilken JavaScript-funktion som helst. Objektet är automatiskt tillgängligt när din app byggs med HTML2APK.</string>
     <string name="template_guide_title">API-guide</string>
     <string name="template_gyroscope_desc">Läs av enhetens rotationshastighet på X-, Y- och Z-axlarna.</string>
     <string name="template_gyroscope_title">Gyroskop</string>

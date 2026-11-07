@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Đang suy nghĩ…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Hoạt ảnh đã bị tắt vì thiết bị đang gặp khó khăn. Hãy bật chúng trong Cài đặt.</string>
-    <string name="app_name">Trình tạo HTML sang APK</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Đang kết nối với Google Play, vui lòng thử lại sau vài giây.</string>
     <string name="billing_restore_error">Lỗi trong quá trình truy vấn: %1$s</string>
     <string name="billing_restore_not_found">Không tìm thấy giao dịch mua nào đang hoạt động cho tài khoản Google này.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Gửi email</string>
     <string name="build_failed_dialog_title">Xây dựng thất bại</string>
     <string name="build_failed_email_chooser">Gửi báo cáo lỗi qua…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Báo cáo lỗi xây dựng - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Báo cáo lỗi xây dựng - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">Quá trình xây dựng AAB đã hoàn tất: %1$s (%2$d byte)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Chia sẻ những gì bạn đã xây dựng với thế giới và nhận lại Pro. Chỉ cần 3 bước đơn giản:</string>
     <string name="free_premium_note">Mẹo: hãy đính kèm ảnh chụp màn hình số lượt xem trong email của bạn để đẩy nhanh quá trình xác minh.</string>
     <string name="free_premium_send_email">Gửi email</string>
-    <string name="free_premium_step1_desc">Quay video giới thiệu ứng dụng hoặc trò chơi bạn đã tạo bằng HTML to APK và chia sẻ trên YouTube, TikTok hoặc Instagram.</string>
+    <string name="free_premium_step1_desc">Quay video giới thiệu ứng dụng hoặc trò chơi bạn đã tạo bằng HTML2APK và chia sẻ trên YouTube, TikTok hoặc Instagram.</string>
     <string name="free_premium_step1_title">Quay và chia sẻ video</string>
     <string name="free_premium_step2_desc">Khi video của bạn đạt 10.000 lượt xem trên bất kỳ nền tảng nào trong số này, phần thưởng của bạn đã sẵn sàng.</string>
     <string name="free_premium_step2_title">Đạt 10.000 lượt xem</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Sử dụng thư mục và các hành động dự án để giữ mọi thứ ngăn nắp.</string>
     <string name="howto_organize_title">Sắp xếp dự án theo thứ tự</string>
     <string name="howto_output_body">APK dùng để cài đặt trên điện thoại của bạn hoặc chia sẻ trực tiếp. AAB là định dạng mà Google Play yêu cầu (bản Pro). Với bản Pro, bạn cũng có thể xuất dự án dưới dạng dự án Android Studio (ZIP) từ menu dự án. Các bản dựng trước đó nằm trong phần Build Outputs trong cùng menu đó, và menu chính có thể xuất hoặc nhập dự án dưới dạng bản sao lưu ZIP.</string>
-    <string name="howto_overview">Với HTML to APK Builder, bạn có thể biến trang web hoặc tệp HTML của mình thành một ứng dụng Android thực thụ. Không cần lập trình!</string>
+    <string name="howto_overview">Với HTML2APK, bạn có thể biến trang web hoặc tệp HTML của mình thành một ứng dụng Android thực thụ. Không cần lập trình!</string>
     <string name="howto_pdf_body">Tạo dự án sau đó Mở / xem PDF sẽ mở trình đọc. Phóng to, chuyển đổi giữa chế độ đọc sáng và tối, thêm dấu trang và tiếp tục từ trang cuối cùng của bạn. Sử dụng Chỉnh sửa khi bạn muốn sắp xếp lại các trang hoặc chú thích tài liệu. Bạn có thể chuyển đổi tài liệu thành ứng dụng sau này.</string>
     <string name="howto_playstore_signing_action">Đọc thêm</string>
-    <string name="howto_playstore_signing_body">Khi Play Console hỏi “Tùy chọn ký ứng dụng”, hãy chọn tùy chọn đầu tiên: &lt;b&gt;Để Google quản lý và bảo vệ khóa ký ứng dụng của bạn (khuyên dùng)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Điều này cho phép &lt;b&gt;Play App Signing&lt;/b&gt;. Google giữ khóa ký thực; bạn chỉ tải lên các tệp APK/AAB đã ký bằng khóa tải lên của mình.&lt;br/&gt;&lt;br/&gt;Nếu sau này bạn làm mất kho khóa (ví dụ: do gỡ cài đặt HTMLtoAPK), bạn có thể yêu cầu &lt;b&gt;đặt lại khóa tải lên&lt;/b&gt; trong Play Console và người dùng vẫn sẽ nhận được các bản cập nhật.&lt;br/&gt;&lt;br/&gt;Nếu bạn bắt buộc phải tải lên khóa ký của riêng mình, hãy mở kho khóa trong ứng dụng này và nhấn &lt;b&gt;Xuất cho Cửa hàng Play (PEPK)&lt;/b&gt;. Chọn cùng phương thức mà Play Console hiển thị (khóa công khai hex hoặc khóa công khai RSA PEM) để tạo &lt;b&gt;output.zip&lt;/b&gt; và tải nó lên.&lt;br/&gt;&lt;br/&gt;Chỉ chọn “Xuất và tải lên khóa của riêng bạn” nếu bạn hoàn toàn chắc chắn rằng mình có thể giữ khóa đó an toàn mãi mãi. Làm mất nó đồng nghĩa với việc bạn không thể cập nhật ứng dụng nữa.</string>
+    <string name="howto_playstore_signing_body">Khi Play Console hỏi “Tùy chọn ký ứng dụng”, hãy chọn tùy chọn đầu tiên: &lt;b&gt;Để Google quản lý và bảo vệ khóa ký ứng dụng của bạn (khuyên dùng)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Điều này cho phép &lt;b&gt;Play App Signing&lt;/b&gt;. Google giữ khóa ký thực; bạn chỉ tải lên các tệp APK/AAB đã ký bằng khóa tải lên của mình.&lt;br/&gt;&lt;br/&gt;Nếu sau này bạn làm mất kho khóa (ví dụ: do gỡ cài đặt HTML2APK), bạn có thể yêu cầu &lt;b&gt;đặt lại khóa tải lên&lt;/b&gt; trong Play Console và người dùng vẫn sẽ nhận được các bản cập nhật.&lt;br/&gt;&lt;br/&gt;Nếu bạn bắt buộc phải tải lên khóa ký của riêng mình, hãy mở kho khóa trong ứng dụng này và nhấn &lt;b&gt;Xuất cho Cửa hàng Play (PEPK)&lt;/b&gt;. Chọn cùng phương thức mà Play Console hiển thị (khóa công khai hex hoặc khóa công khai RSA PEM) để tạo &lt;b&gt;output.zip&lt;/b&gt; và tải nó lên.&lt;br/&gt;&lt;br/&gt;Chỉ chọn “Xuất và tải lên khóa của riêng bạn” nếu bạn hoàn toàn chắc chắn rằng mình có thể giữ khóa đó an toàn mãi mãi. Làm mất nó đồng nghĩa với việc bạn không thể cập nhật ứng dụng nữa.</string>
     <string name="howto_playstore_signing_summary">Tìm hiểu về khóa tải lên, Play App Signing và PEPK.</string>
     <string name="howto_playstore_signing_title">Chọn khóa ký ứng dụng Play Store</string>
     <string name="howto_preview_body">Xem trước chạy trang của bạn giống như ứng dụng hoàn thiện, bao gồm cả các lệnh gọi AndroidAPI. Trình chỉnh sửa HTML tô màu mã của bạn, tự động đóng thẻ và có tính năng tìm kiếm và thay thế; các thay đổi được giữ nguyên khi bạn chuyển sang chế độ xem trước và quay lại.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Giữ một bản sao trên thiết bị này</string>
     <string name="keystore_persisted">Đã lưu vào Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Dự án: %1$s</string>
-    <string name="keystore_recovery_body">Nếu bạn đã gỡ cài đặt HTMLtoAPK, các khóa ký ứng dụng được tạo tự động có thể đã bị mất. Bản dựng mới sẽ được ký bằng một khóa khác và Play Store có thể từ chối cập nhật.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Giải pháp 1 - Đặt lại khóa tải lên (khuyên dùng):&lt;/b&gt;&lt;br/&gt;1. Xuất &lt;b&gt;chứng chỉ PEM&lt;/b&gt; của kho khóa mới của bạn từ danh sách bên dưới.&lt;br/&gt;2. Trong Play Console, đi tới &lt;b&gt;Ký ứng dụng &amp;gt; Yêu cầu đặt lại khóa tải lên&lt;/b&gt;.&lt;br/&gt;3. Điền vào biểu mẫu và tải tệp PEM lên.&lt;br/&gt;4. Sau khi được phê duyệt, hãy xuất bản APK/AAB mới của bạn được ký bằng khóa mới.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Giải pháp 2 - Thay thế khóa ký ứng dụng:&lt;/b&gt;&lt;br/&gt;Nếu Play Console cho phép bạn tải lên khóa ký ứng dụng mới, hãy sử dụng &lt;b&gt;Xuất cho Play Store (PEPK)&lt;/b&gt; trên kho khóa. Chọn cùng phương thức được hiển thị trong Play Console (khóa hex hoặc RSA PEM), tạo output.zip và tải lên.&lt;br/&gt;&lt;br/&gt;Người dùng sẽ tiếp tục nhận được các bản cập nhật vì khóa ký ứng dụng vẫn ở với Google khi bạn chỉ đặt lại khóa tải lên.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Nếu tính năng Ký ứng dụng Play bị tắt&lt;/b&gt; và bạn đã mất khóa ký, bạn phải xuất bản lại ứng dụng với tên gói mới.</string>
+    <string name="keystore_recovery_body">Nếu bạn đã gỡ cài đặt HTML2APK, các khóa ký ứng dụng được tạo tự động có thể đã bị mất. Bản dựng mới sẽ được ký bằng một khóa khác và Play Store có thể từ chối cập nhật.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Giải pháp 1 - Đặt lại khóa tải lên (khuyên dùng):&lt;/b&gt;&lt;br/&gt;1. Xuất &lt;b&gt;chứng chỉ PEM&lt;/b&gt; của kho khóa mới của bạn từ danh sách bên dưới.&lt;br/&gt;2. Trong Play Console, đi tới &lt;b&gt;Ký ứng dụng &amp;gt; Yêu cầu đặt lại khóa tải lên&lt;/b&gt;.&lt;br/&gt;3. Điền vào biểu mẫu và tải tệp PEM lên.&lt;br/&gt;4. Sau khi được phê duyệt, hãy xuất bản APK/AAB mới của bạn được ký bằng khóa mới.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Giải pháp 2 - Thay thế khóa ký ứng dụng:&lt;/b&gt;&lt;br/&gt;Nếu Play Console cho phép bạn tải lên khóa ký ứng dụng mới, hãy sử dụng &lt;b&gt;Xuất cho Play Store (PEPK)&lt;/b&gt; trên kho khóa. Chọn cùng phương thức được hiển thị trong Play Console (khóa hex hoặc RSA PEM), tạo output.zip và tải lên.&lt;br/&gt;&lt;br/&gt;Người dùng sẽ tiếp tục nhận được các bản cập nhật vì khóa ký ứng dụng vẫn ở với Google khi bạn chỉ đặt lại khóa tải lên.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Nếu tính năng Ký ứng dụng Play bị tắt&lt;/b&gt; và bạn đã mất khóa ký, bạn phải xuất bản lại ứng dụng với tên gói mới.</string>
     <string name="keystore_recovery_close">Đã hiểu</string>
     <string name="keystore_recovery_open_console">Mở Play Console</string>
     <string name="keystore_recovery_title">Bạn bị mất khóa ký?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Trình xem PDF</string>
     <string name="licenses_count">%1$d thư viện</string>
     <string name="licenses_empty">Không có thư viện nào khớp với tìm kiếm của bạn.</string>
-    <string name="licenses_intro">HTML to APK được xây dựng dựa trên các phần mềm nguồn mở dưới đây. Các thư viện được đánh dấu “Generated apps” cũng được đóng gói vào các ứng dụng mà nó tạo ra (chỉ bao gồm các thư viện quảng cáo khi quảng cáo được bật).</string>
+    <string name="licenses_intro">HTML2APK được xây dựng dựa trên các phần mềm nguồn mở dưới đây. Các thư viện được đánh dấu “Generated apps” cũng được đóng gói vào các ứng dụng mà nó tạo ra (chỉ bao gồm các thư viện quảng cáo khi quảng cáo được bật).</string>
     <string name="licenses_load_failed">Không thể tải danh sách giấy phép.</string>
     <string name="licenses_open_license">Giấy phép mở</string>
     <string name="licenses_open_website">Trang web</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Bật/tắt trình đơn thả xuống</string>
     <string name="m3c_snackbar_dismiss">Đóng</string>
     <string name="mail_report_android">Phiên bản Android: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Phiên bản HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Phiên bản HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">Ngày: %1$s</string>
     <string name="mail_report_default_project">Dự án</string>
     <string name="mail_report_device">Thiết bị: %1$s %2$s</string>
     <string name="mail_report_end">=== KẾT THÚC BÁO CÁO ===</string>
     <string name="mail_report_format">Định dạng đầu ra: %1$s</string>
-    <string name="mail_report_intro">Quá trình xây dựng đã thất bại trong ứng dụng HTML to APK.</string>
+    <string name="mail_report_intro">Quá trình xây dựng đã thất bại trong ứng dụng HTML2APK.</string>
     <string name="mail_report_intro2">Vui lòng xem lại báo cáo lỗi này.</string>
     <string name="mail_report_package_name">Tên gói: %1$s</string>
     <string name="mail_report_project_name">Tên dự án: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Cài đặt</string>
     <string name="nav_templates">Mẫu</string>
     <string name="not_selected">Chưa chọn</string>
-    <string name="offer_dialog_message">Chia sẻ video giới thiệu ứng dụng bạn đã xây dựng bằng HTML to APK. Khi đạt 10.000 lượt xem, bạn sẽ nhận được Pro miễn phí từ chúng tôi.</string>
+    <string name="offer_dialog_message">Chia sẻ video giới thiệu ứng dụng bạn đã xây dựng bằng HTML2APK. Khi đạt 10.000 lượt xem, bạn sẽ nhận được Pro miễn phí từ chúng tôi.</string>
     <string name="offer_dialog_no">Để sau</string>
     <string name="offer_dialog_title">Nhận Pro miễn phí</string>
     <string name="offer_dialog_yes">Làm thế nào để nhận?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Bán riêng, không cần gói Pro. Tài khoản mới được miễn phí ứng dụng đầu tiên.</string>
     <string name="premium_credits_link_title">Gói tín dụng AI</string>
     <string name="premium_crown_subtitle">Loại bỏ mọi giới hạn và sáng tạo với toàn quyền.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Xin chào! Tôi là Emre, 19 tuổi, và tôi tự mình phát triển HTML to APK với niềm đam mê lớn. Mục tiêu của tôi là giúp bạn biến các dự án web của mình thành ứng dụng Android thực thụ một cách liền mạch mà không cần thiết lập phức tạp. Bằng cách nâng cấp lên Pro, bạn trực tiếp hỗ trợ một nhà phát triển độc lập trẻ tuổi và thúc đẩy sự phát triển trong tương lai của dự án này. Cảm ơn bạn rất nhiều vì sự hỗ trợ quý báu của bạn! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Xin chào! Tôi là Emre, 19 tuổi, và tôi tự mình phát triển HTML2APK với niềm đam mê lớn. Mục tiêu của tôi là giúp bạn biến các dự án web của mình thành ứng dụng Android thực thụ một cách liền mạch mà không cần thiết lập phức tạp. Bằng cách nâng cấp lên Pro, bạn trực tiếp hỗ trợ một nhà phát triển độc lập trẻ tuổi và thúc đẩy sự phát triển trong tương lai của dự án này. Cảm ơn bạn rất nhiều vì sự hỗ trợ quý báu của bạn! ❤️</string>
     <string name="premium_dev_note_title">Lời nhắn từ nhà phát triển 👋</string>
     <string name="premium_error_payment">Thanh toán không khả dụng. Vui lòng thử lại sau.</string>
     <string name="premium_extra_ads_detail">Không có quảng cáo gây phiền nhiễu trong cả không gian làm việc của ứng dụng và tất cả các ứng dụng đã xuất. Tận hưởng môi trường sạch sẽ, không bị xao nhãng.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Đọc tài liệu PDF không giới hạn</string>
     <string name="premium_feature_unlimited_pdf_detail">Gói miễn phí lưu trữ tối đa 5 dự án tài liệu PDF. Gói Pro loại bỏ giới hạn này, giúp thư viện đọc của bạn tiếp tục phát triển.</string>
     <string name="premium_feature_watermark_desc">Xóa hình mờ khỏi các ứng dụng đã tạo</string>
-    <string name="premium_feature_watermark_detail">Xóa các chỉ báo khởi động và hình mờ \'Made with HTML to APK\' khỏi tất cả các bản dựng đã xuất để có các ứng dụng thương hiệu hoàn toàn trắng.</string>
+    <string name="premium_feature_watermark_detail">Xóa các chỉ báo khởi động và hình mờ \'Made with HTML2APK\' khỏi tất cả các bản dựng đã xuất để có các ứng dụng thương hiệu hoàn toàn trắng.</string>
     <string name="premium_feature_webview_desc">Cài đặt WebView nâng cao</string>
     <string name="premium_feature_webview_detail">Kiểm soát hoàn toàn khả năng tăng tốc phần cứng, nhật ký bảng điều khiển JS, chuỗi User-Agent tùy chỉnh, quyền tải tệp lên và chiến lược bộ nhớ đệm.</string>
     <string name="premium_less_features_button">Thu gọn</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Gửi phản hồi</string>
     <string name="settings_feedback_chooser">Gửi phản hồi</string>
     <string name="settings_feedback_no_app">Không tìm thấy ứng dụng email</string>
-    <string name="settings_feedback_subject">Trình tạo HTML sang APK - Phản hồi</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Nhận Pro miễn phí</string>
     <string name="settings_free_premium_summary">Chia sẻ video, đạt 10 nghìn lượt xem, nhận Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Đang bật</string>
     <string name="support_button_action">Hỗ trợ</string>
     <string name="support_cats_interactive_hint">Chạm vào bất kỳ chú mèo nào để vuốt ve chúng! 🐾</string>
-    <string name="support_developer_desc">Xin chào! Cảm ơn bạn rất nhiều vì đã mua bản Pro. Là một nhà phát triển độc lập, tôi liên tục duy trì và cải thiện HTML to APK. Nếu bạn yêu thích ứng dụng và muốn hỗ trợ các bản cập nhật trong tương lai, bạn có thể tùy ý mời tôi một ly cà phê hoặc một bữa ăn. Mọi đóng góp đều vô cùng ý nghĩa đối với tôi! ❤️</string>
+    <string name="support_developer_desc">Xin chào! Cảm ơn bạn rất nhiều vì đã mua bản Pro. Là một nhà phát triển độc lập, tôi liên tục duy trì và cải thiện HTML2APK. Nếu bạn yêu thích ứng dụng và muốn hỗ trợ các bản cập nhật trong tương lai, bạn có thể tùy ý mời tôi một ly cà phê hoặc một bữa ăn. Mọi đóng góp đều vô cùng ý nghĩa đối với tôi! ❤️</string>
     <string name="support_developer_subtitle">Nếu bạn muốn ủng hộ tôi ☕</string>
     <string name="support_developer_title">Ủng hộ nhà phát triển</string>
     <string name="support_success_button">Không có chi ❤️</string>
-    <string name="support_success_message">Sự ủng hộ của bạn đã được nhận! Là một nhà phát triển độc lập tạo ra HTML to APK, bạn đã tiếp thêm cho tôi sức mạnh, tinh thần và động lực to lớn.\n\nNhững chú mèo của chúng tôi đang ăn mừng vì bạn đấy! 🐾</string>
+    <string name="support_success_message">Sự ủng hộ của bạn đã được nhận! Là một nhà phát triển độc lập tạo ra HTML2APK, bạn đã tiếp thêm cho tôi sức mạnh, tinh thần và động lực to lớn.\n\nNhững chú mèo của chúng tôi đang ăn mừng vì bạn đấy! 🐾</string>
     <string name="support_success_title">Bạn thật tuyệt vời! ❤️</string>
     <string name="support_tier_coffee_desc">Một ly cà phê ấm áp cho những đêm lập trình muộn ☕</string>
     <string name="support_tier_coffee_title">Mời một ly cà phê</string>
     <string name="support_tier_meal_desc">Một bữa tối ngon miệng để duy trì năng lượng và sự tập trung 🍕</string>
     <string name="support_tier_meal_title">Mời một bữa ăn</string>
-    <string name="support_tier_sponsor_desc">Đóng góp trực tiếp cho tương lai của HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Đóng góp trực tiếp cho tương lai của HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Siêu nhà tài trợ</string>
     <string name="switch_role">Chuyển</string>
     <string name="tab">Thẻ</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">Bố cục toàn màn hình</string>
     <string name="template_gallery_desc">Lưu hình ảnh base64 vào thư viện ảnh.</string>
     <string name="template_gallery_title">Lưu vào thư viện</string>
-    <string name="template_guide_body">HTML to APK chèn một đối tượng JavaScript toàn cục có tên là AndroidAPI vào WebView của bạn. Bạn có thể gọi các phương thức này trực tiếp từ mã HTML/JS của mình:</string>
+    <string name="template_guide_body">HTML2APK chèn một đối tượng JavaScript toàn cục có tên là AndroidAPI vào WebView của bạn. Bạn có thể gọi các phương thức này trực tiếp từ mã HTML/JS của mình:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Xin chào!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Tiêu đề,Nội dung)\nAndroidAPI.getDeviceInfo() // trả về JSON\nAndroidAPI.getBatteryLevel() // trả về số nguyên 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // trả về số nguyên 0-255</string>
     <string name="template_guide_note">Mẹo: Sử dụng các API này bên trong trình xử lý onclick hoặc bất kỳ hàm JavaScript nào. Đối tượng này sẽ tự động khả dụng khi ứng dụng của bạn được xây dựng bằng HTML sang APK.</string>
     <string name="template_guide_title">Hướng dẫn API</string>

@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">ఆలోచిస్తోంది…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">పరికరం ఇబ్బంది పడుతున్నందున యానిమేషన్‌లు ఆపివేయబడ్డాయి. సెట్టింగ్‌లలో వాటిని ఆన్ చేయండి.</string>
-    <string name="app_name">HTML నుండి APK బిల్డర్</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Google Playకి కనెక్ట్ అవుతోంది, దయచేసి కొన్ని సెకన్ల తర్వాత మళ్లీ ప్రయత్నించండి.</string>
     <string name="billing_restore_error">క్వరీ సమయంలో లోపం: %1$s</string>
     <string name="billing_restore_not_found">ఈ Google ఖాతా కోసం ఎటువంటి యాక్టివ్ కొనుగోలు కనుగొనబడలేదు.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">ఈమెయిల్ పంపండి</string>
     <string name="build_failed_dialog_title">బిల్డ్ విఫలమైంది</string>
     <string name="build_failed_email_chooser">దీని ద్వారా ఎర్రర్ రిపోర్ట్‌ను పంపండి…</string>
-    <string name="build_failed_email_subject">[HTML to APK] బిల్డ్ ఫెయిల్యూర్ రిపోర్ట్ - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] బిల్డ్ ఫెయిల్యూర్ రిపోర్ట్ - %1$s</string>
     <string name="build_format_aab">యాప్ బండిల్</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB బిల్డ్ పూర్తయింది: %1$s (%2$d బైట్లు)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">మీరు రూపొందించిన దానిని ప్రపంచంతో పంచుకోండి మరియు ప్రతిఫలంగా ప్రోని పొందండి. దీనికి కేవలం 3 సాధారణ దశలు మాత్రమే పడుతుంది:</string>
     <string name="free_premium_note">చిట్కా: ధృవీకరణను వేగవంతం చేయడానికి మీ ఇమెయిల్‌లో వ్యూ కౌంట్ యొక్క స్క్రీన్‌షాట్‌ను చేర్చండి.</string>
     <string name="free_premium_send_email">ఇమెయిల్ పంపండి</string>
-    <string name="free_premium_step1_desc">HTML to APKతో మీరు చేసిన యాప్ లేదా గేమ్‌ను ప్రదర్శించే వీడియోను రికార్డ్ చేయండి మరియు దానిని YouTube, TikTok లేదా Instagramలో షేర్ చేయండి.</string>
+    <string name="free_premium_step1_desc">HTML2APKతో మీరు చేసిన యాప్ లేదా గేమ్‌ను ప్రదర్శించే వీడియోను రికార్డ్ చేయండి మరియు దానిని YouTube, TikTok లేదా Instagramలో షేర్ చేయండి.</string>
     <string name="free_premium_step1_title">వీడియోను రికార్డ్ చేసి షేర్ చేయండి</string>
     <string name="free_premium_step2_desc">మీ వీడియో ఈ ప్లాట్‌ఫారమ్‌లలో దేనిలోనైనా 10,000 వీక్షణలను చేరుకున్న తర్వాత, మీ రివార్డ్ సిద్ధంగా ఉంటుంది.</string>
     <string name="free_premium_step2_title">10,000 వీక్షణలను చేరుకోండి</string>
@@ -955,7 +955,7 @@
     <string name="howto_overview">HTML టు APK బిల్డర్‌తో, మీరు మీ వెబ్‌సైట్ లేదా HTML ఫైళ్లను నిజమైన ఆండ్రాయిడ్ యాప్‌గా మార్చవచ్చు. కోడింగ్ అవసరం లేదు!</string>
     <string name="howto_pdf_body">ప్రాజెక్ట్‌ను సృష్టించి, ఆపై PDFని తెరవండి / వీక్షించండి, ఇది రీడర్‌ను తెరుస్తుంది. జూమ్ చేయండి, లైట్ మరియు డార్క్ రీడింగ్ మోడ్‌ల మధ్య మారండి, బుక్‌మార్క్‌లను జోడించండి మరియు మీరు ఆపివేసిన పేజీ నుండి కొనసాగించండి. మీరు పేజీలను క్రమబద్ధీకరించాలనుకున్నప్పుడు లేదా డాక్యుమెంట్‌ను ఉల్లేఖించాలనుకున్నప్పుడు \'ఎడిట్\' ఉపయోగించండి. మీరు డాక్యుమెంట్‌ను తర్వాత యాప్‌గా మార్చుకోవచ్చు.</string>
     <string name="howto_playstore_signing_action">మరింత చదవండి</string>
-    <string name="howto_playstore_signing_body">Play కన్సోల్ “యాప్ సైనింగ్ ప్రాధాన్యతలు” అని అడిగినప్పుడు, మొదటి ఎంపికను ఎంచుకోండి: &lt;b&gt;మీ యాప్ సైనింగ్ కీని నిర్వహించడానికి మరియు రక్షించడానికి Googleని అనుమతించండి (సిఫార్సు చేయబడింది)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;ఇది &lt;b&gt;Play యాప్ సైనింగ్‌ను&lt;/b&gt; ప్రారంభిస్తుంది. Google అసలైన సైనింగ్ కీని ఉంచుతుంది; మీరు మీ అప్‌లోడ్ కీతో సైన్ చేసిన APKలు/AABలను మాత్రమే అప్‌లోడ్ చేస్తారు.&lt;br/&gt;&lt;br/&gt;మీరు తర్వాత కీస్టోర్‌ను కోల్పోతే (ఉదాహరణకు HTMLtoAPKని అన్‌ఇన్‌స్టాల్ చేయడం ద్వారా), మీరు Play కన్సోల్‌లో &lt;b&gt;అప్‌లోడ్ కీ రీసెట్&lt;/b&gt; కోసం అభ్యర్థించవచ్చు మరియు వినియోగదారులు ఇప్పటికీ అప్‌డేట్‌లను అందుకుంటారు.&lt;br/&gt;&lt;br/&gt;మీరు మీ స్వంత సైనింగ్ కీని అప్‌లోడ్ చేయాల్సి వస్తే, ఈ యాప్‌లో కీస్టోర్‌ను తెరిచి &lt;b&gt;Play స్టోర్ కోసం ఎగుమతి చేయి (PEPK)&lt;/b&gt;ని నొక్కండి. &lt;b&gt;output.zip&lt;/b&gt;ని రూపొందించడానికి Play కన్సోల్ చూపే అదే పద్ధతిని (hex పబ్లిక్ కీ లేదా RSA పబ్లిక్ కీ PEM) ఎంచుకుని, దాన్ని అప్‌లోడ్ చేయండి.&lt;br/&gt;&lt;br/&gt;మీరు ఆ కీని ఎప్పటికీ సురక్షితంగా ఉంచగలరని ఖచ్చితంగా తెలిస్తేనే “మీ స్వంత కీని ఎగుమతి చేసి అప్‌లోడ్ చేయి” అని ఎంచుకోండి. దాన్ని కోల్పోతే మీరు మళ్లీ యాప్‌ను అప్‌డేట్ చేయలేరు.</string>
+    <string name="howto_playstore_signing_body">Play కన్సోల్ “యాప్ సైనింగ్ ప్రాధాన్యతలు” అని అడిగినప్పుడు, మొదటి ఎంపికను ఎంచుకోండి: &lt;b&gt;మీ యాప్ సైనింగ్ కీని నిర్వహించడానికి మరియు రక్షించడానికి Googleని అనుమతించండి (సిఫార్సు చేయబడింది)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;ఇది &lt;b&gt;Play యాప్ సైనింగ్‌ను&lt;/b&gt; ప్రారంభిస్తుంది. Google అసలైన సైనింగ్ కీని ఉంచుతుంది; మీరు మీ అప్‌లోడ్ కీతో సైన్ చేసిన APKలు/AABలను మాత్రమే అప్‌లోడ్ చేస్తారు.&lt;br/&gt;&lt;br/&gt;మీరు తర్వాత కీస్టోర్‌ను కోల్పోతే (ఉదాహరణకు HTML2APKని అన్‌ఇన్‌స్టాల్ చేయడం ద్వారా), మీరు Play కన్సోల్‌లో &lt;b&gt;అప్‌లోడ్ కీ రీసెట్&lt;/b&gt; కోసం అభ్యర్థించవచ్చు మరియు వినియోగదారులు ఇప్పటికీ అప్‌డేట్‌లను అందుకుంటారు.&lt;br/&gt;&lt;br/&gt;మీరు మీ స్వంత సైనింగ్ కీని అప్‌లోడ్ చేయాల్సి వస్తే, ఈ యాప్‌లో కీస్టోర్‌ను తెరిచి &lt;b&gt;Play స్టోర్ కోసం ఎగుమతి చేయి (PEPK)&lt;/b&gt;ని నొక్కండి. &lt;b&gt;output.zip&lt;/b&gt;ని రూపొందించడానికి Play కన్సోల్ చూపే అదే పద్ధతిని (hex పబ్లిక్ కీ లేదా RSA పబ్లిక్ కీ PEM) ఎంచుకుని, దాన్ని అప్‌లోడ్ చేయండి.&lt;br/&gt;&lt;br/&gt;మీరు ఆ కీని ఎప్పటికీ సురక్షితంగా ఉంచగలరని ఖచ్చితంగా తెలిస్తేనే “మీ స్వంత కీని ఎగుమతి చేసి అప్‌లోడ్ చేయి” అని ఎంచుకోండి. దాన్ని కోల్పోతే మీరు మళ్లీ యాప్‌ను అప్‌డేట్ చేయలేరు.</string>
     <string name="howto_playstore_signing_summary">అప్‌లోడ్ కీలు, ప్లే యాప్ సైనింగ్ మరియు PEPK గురించి అర్థం చేసుకోండి.</string>
     <string name="howto_playstore_signing_title">Play స్టోర్ సైనింగ్ కీ ఎంపిక</string>
     <string name="howto_preview_body">ప్రివ్యూ మీ పేజీని పూర్తయిన యాప్ ఎలా ఉంటుందో అలా రన్ చేస్తుంది, ఇందులో AndroidAPI కాల్‌లు కూడా ఉంటాయి. HTML ఎడిటర్ మీ కోడ్‌కు రంగులు వేస్తుంది, మీ కోసం ట్యాగ్‌లను క్లోజ్ చేస్తుంది మరియు ఫైండ్ అండ్ రీప్లేస్ ఫీచర్‌ను కలిగి ఉంటుంది; మీరు ప్రివ్యూకి మారినప్పుడు మరియు తిరిగి వచ్చినప్పుడు మార్పులు అలాగే ఉంటాయి.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">ఈ పరికరంలో ఒక కాపీని ఉంచండి</string>
     <string name="keystore_persisted">Downloads/HTMLtoAPK/Keystoresకి సేవ్ చేయబడింది</string>
     <string name="keystore_project_linked">ప్రాజెక్ట్: %1$s</string>
-    <string name="keystore_recovery_body">మీరు HTMLtoAPKని అన్‌ఇన్‌స్టాల్ చేసి ఉంటే, ఆటోమేటిక్‌గా రూపొందించబడిన యాప్ సైనింగ్ కీలు పోయి ఉండవచ్చు. కొత్త బిల్డ్ వేరే కీతో సైన్ చేయబడుతుంది మరియు ప్లే స్టోర్ అప్‌డేట్‌ను తిరస్కరించవచ్చు.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;పరిష్కారం 1 - అప్‌లోడ్ కీని రీసెట్ చేయండి (సిఫార్సు చేయబడింది):&lt;/b&gt;&lt;br/&gt;1. దిగువ జాబితా నుండి మీ కొత్త కీస్టోర్ యొక్క &lt;b&gt;PEM సర్టిఫికేట్‌ను&lt;/b&gt; ఎగుమతి చేయండి.&lt;br/&gt;2. ప్లే కన్సోల్‌లో, &lt;b&gt;యాప్ సైనింగ్ &gt; అప్‌లోడ్ కీ రీసెట్‌ను అభ్యర్థించండి&lt;/b&gt;కి వెళ్లండి.&lt;br/&gt;3. ఫారమ్‌ను పూరించి, PEM ఫైల్‌ను అప్‌లోడ్ చేయండి.&lt;br/&gt;4. ఆమోదించబడిన తర్వాత, కొత్త కీతో సైన్ చేయబడిన మీ కొత్త APK/AABని ప్రచురించండి.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;పరిష్కారం 2 - యాప్ సైనింగ్ కీని భర్తీ చేయండి:&lt;/b&gt;&lt;br/&gt;ప్లే కన్సోల్ మిమ్మల్ని కొత్త యాప్ సైనింగ్ కీని అప్‌లోడ్ చేయడానికి అనుమతిస్తే, కీస్టోర్‌లో &lt;b&gt;ప్లే స్టోర్ కోసం ఎగుమతి (PEPK)&lt;/b&gt;ని ఉపయోగించండి. ప్లే కన్సోల్‌లో చూపిన అదే పద్ధతిని (హెక్స్ కీ లేదా RSA PEM) ఎంచుకోండి, output.zipని రూపొందించండి మరియు దానిని అప్‌లోడ్ చేయండి.&lt;br/&gt;&lt;br/&gt;మీరు అప్‌లోడ్ కీని మాత్రమే రీసెట్ చేసినప్పుడు యాప్ సైనింగ్ కీ గూగుల్ వద్దే ఉంటుంది కాబట్టి వినియోగదారులు అప్‌డేట్‌లను పొందుతూనే ఉంటారు.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;ప్లే యాప్ సైనింగ్ డిసేబుల్ చేయబడి ఉంటే&lt;/b&gt; మరియు మీరు సైనింగ్ కీని పోగొట్టుకుంటే, మీరు కొత్త ప్యాకేజీ పేరుతో యాప్‌ను మళ్లీ ప్రచురించాలి.</string>
+    <string name="keystore_recovery_body">మీరు HTML2APKని అన్‌ఇన్‌స్టాల్ చేసి ఉంటే, ఆటోమేటిక్‌గా రూపొందించబడిన యాప్ సైనింగ్ కీలు పోయి ఉండవచ్చు. కొత్త బిల్డ్ వేరే కీతో సైన్ చేయబడుతుంది మరియు ప్లే స్టోర్ అప్‌డేట్‌ను తిరస్కరించవచ్చు.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;పరిష్కారం 1 - అప్‌లోడ్ కీని రీసెట్ చేయండి (సిఫార్సు చేయబడింది):&lt;/b&gt;&lt;br/&gt;1. దిగువ జాబితా నుండి మీ కొత్త కీస్టోర్ యొక్క &lt;b&gt;PEM సర్టిఫికేట్‌ను&lt;/b&gt; ఎగుమతి చేయండి.&lt;br/&gt;2. ప్లే కన్సోల్‌లో, &lt;b&gt;యాప్ సైనింగ్ &gt; అప్‌లోడ్ కీ రీసెట్‌ను అభ్యర్థించండి&lt;/b&gt;కి వెళ్లండి.&lt;br/&gt;3. ఫారమ్‌ను పూరించి, PEM ఫైల్‌ను అప్‌లోడ్ చేయండి.&lt;br/&gt;4. ఆమోదించబడిన తర్వాత, కొత్త కీతో సైన్ చేయబడిన మీ కొత్త APK/AABని ప్రచురించండి.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;పరిష్కారం 2 - యాప్ సైనింగ్ కీని భర్తీ చేయండి:&lt;/b&gt;&lt;br/&gt;ప్లే కన్సోల్ మిమ్మల్ని కొత్త యాప్ సైనింగ్ కీని అప్‌లోడ్ చేయడానికి అనుమతిస్తే, కీస్టోర్‌లో &lt;b&gt;ప్లే స్టోర్ కోసం ఎగుమతి (PEPK)&lt;/b&gt;ని ఉపయోగించండి. ప్లే కన్సోల్‌లో చూపిన అదే పద్ధతిని (హెక్స్ కీ లేదా RSA PEM) ఎంచుకోండి, output.zipని రూపొందించండి మరియు దానిని అప్‌లోడ్ చేయండి.&lt;br/&gt;&lt;br/&gt;మీరు అప్‌లోడ్ కీని మాత్రమే రీసెట్ చేసినప్పుడు యాప్ సైనింగ్ కీ గూగుల్ వద్దే ఉంటుంది కాబట్టి వినియోగదారులు అప్‌డేట్‌లను పొందుతూనే ఉంటారు.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;ప్లే యాప్ సైనింగ్ డిసేబుల్ చేయబడి ఉంటే&lt;/b&gt; మరియు మీరు సైనింగ్ కీని పోగొట్టుకుంటే, మీరు కొత్త ప్యాకేజీ పేరుతో యాప్‌ను మళ్లీ ప్రచురించాలి.</string>
     <string name="keystore_recovery_close">అర్థమైంది</string>
     <string name="keystore_recovery_open_console">Play కన్సోల్‌ను తెరవండి</string>
     <string name="keystore_recovery_title">మీ సైనింగ్ కీని పోగొట్టుకున్నారా?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF వ్యూయర్</string>
     <string name="licenses_count">%1$d లైబ్రరీలు</string>
     <string name="licenses_empty">మీ శోధనకు ఏ లైబ్రరీ సరిపోలలేదు.</string>
-    <string name="licenses_intro">HTML to APK అనేది క్రింద పేర్కొన్న ఓపెన్ సోర్స్ సాఫ్ట్‌వేర్‌పై నిర్మించబడింది. “Generated apps” అని గుర్తించబడిన లైబ్రరీలు అది రూపొందించే యాప్‌లలో కూడా ప్యాక్ చేయబడతాయి (ప్రకటనలు ఆన్‌లో ఉన్నప్పుడు మాత్రమే ప్రకటనల లైబ్రరీలు).</string>
+    <string name="licenses_intro">HTML2APK అనేది క్రింద పేర్కొన్న ఓపెన్ సోర్స్ సాఫ్ట్‌వేర్‌పై నిర్మించబడింది. “Generated apps” అని గుర్తించబడిన లైబ్రరీలు అది రూపొందించే యాప్‌లలో కూడా ప్యాక్ చేయబడతాయి (ప్రకటనలు ఆన్‌లో ఉన్నప్పుడు మాత్రమే ప్రకటనల లైబ్రరీలు).</string>
     <string name="licenses_load_failed">లైసెన్స్ జాబితాను లోడ్ చేయలేకపోయాము.</string>
     <string name="licenses_open_license">ఓపెన్ లైసెన్స్</string>
     <string name="licenses_open_website">వెబ్‌సైట్</string>
@@ -1083,7 +1083,7 @@
     <string name="mail_report_device">పరికరం: %1$s %2$s</string>
     <string name="mail_report_end">=== నివేదిక ముగింపు ===</string>
     <string name="mail_report_format">అవుట్‌పుట్ ఫార్మాట్: %1$s</string>
-    <string name="mail_report_intro">HTML to APK యాప్‌లో బిల్డ్ విఫలమైంది.</string>
+    <string name="mail_report_intro">HTML2APK యాప్‌లో బిల్డ్ విఫలమైంది.</string>
     <string name="mail_report_intro2">దయచేసి ఈ లోపం నివేదికను సమీక్షించండి.</string>
     <string name="mail_report_package_name">ప్యాకేజీ పేరు: %1$s</string>
     <string name="mail_report_project_name">ప్రాజెక్ట్ పేరు: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">సెట్టింగ్‌లు</string>
     <string name="nav_templates">టెంప్లేట్లు</string>
     <string name="not_selected">ఎంచుకోబడలేదు</string>
-    <string name="offer_dialog_message">HTML to APKతో మీరు రూపొందించిన యాప్‌ను ప్రదర్శించే వీడియోను షేర్ చేయండి. అది 10,000 వీక్షణలను చేరుకున్నప్పుడు, ప్రో మా తరపున మీకు ఉచితం.</string>
+    <string name="offer_dialog_message">HTML2APKతో మీరు రూపొందించిన యాప్‌ను ప్రదర్శించే వీడియోను షేర్ చేయండి. అది 10,000 వీక్షణలను చేరుకున్నప్పుడు, ప్రో మా తరపున మీకు ఉచితం.</string>
     <string name="offer_dialog_no">ఇప్పుడు వద్దు</string>
     <string name="offer_dialog_title">ప్రోని ఉచితంగా పొందండి</string>
     <string name="offer_dialog_yes">నేను దీన్ని ఎలా సంపాదించగలను?</string>
@@ -1280,7 +1280,7 @@
     <string name="premium_credits_link_title">AI క్రెడిట్ ప్యాక్‌లు</string>
     <string name="premium_crown_subtitle">అన్ని పరిమితులను తొలగించి, పూర్తి శక్తితో సృష్టించండి.</string>
     <string name="premium_crown_title">HTML నుండి APK ప్రో</string>
-    <string name="premium_dev_note_desc">హాయ్! నేను ఎంరే, 19 ఏళ్లు, మరియు నేను HTML to APKని పూర్తిగా నా స్వంతంగా గొప్ప అభిరుచితో అభివృద్ధి చేస్తున్నాను. మీ వెబ్ ప్రాజెక్ట్‌లను ఎటువంటి సంక్లిష్టమైన సెటప్ లేకుండానే నిజమైన ఆండ్రాయిడ్ యాప్‌లుగా మార్చుకునేలా మిమ్మల్ని శక్తివంతం చేయడమే నా లక్ష్యం.\n\nప్రోకి అప్‌గ్రేడ్ చేయడం ద్వారా, మీరు ఒక యువ ఇండీ డెవలపర్‌కు నేరుగా మద్దతు ఇస్తారు మరియు ఈ ప్రాజెక్ట్ యొక్క భవిష్యత్తు అభివృద్ధికి ఇంధనంగా ఉంటారు. మీ దయగల మద్దతుకు చాలా ధన్యవాదాలు! ❤️</string>
+    <string name="premium_dev_note_desc">హాయ్! నేను ఎంరే, 19 ఏళ్లు, మరియు నేను HTML2APKని పూర్తిగా నా స్వంతంగా గొప్ప అభిరుచితో అభివృద్ధి చేస్తున్నాను. మీ వెబ్ ప్రాజెక్ట్‌లను ఎటువంటి సంక్లిష్టమైన సెటప్ లేకుండానే నిజమైన ఆండ్రాయిడ్ యాప్‌లుగా మార్చుకునేలా మిమ్మల్ని శక్తివంతం చేయడమే నా లక్ష్యం.\n\nప్రోకి అప్‌గ్రేడ్ చేయడం ద్వారా, మీరు ఒక యువ ఇండీ డెవలపర్‌కు నేరుగా మద్దతు ఇస్తారు మరియు ఈ ప్రాజెక్ట్ యొక్క భవిష్యత్తు అభివృద్ధికి ఇంధనంగా ఉంటారు. మీ దయగల మద్దతుకు చాలా ధన్యవాదాలు! ❤️</string>
     <string name="premium_dev_note_title">డెవలపర్ నుండి ఒక గమనిక 👋</string>
     <string name="premium_error_payment">చెల్లింపు అందుబాటులో లేదు. దయచేసి తర్వాత మళ్ళీ ప్రయత్నించండి.</string>
     <string name="premium_extra_ads_detail">అప్లికేషన్ వర్క్‌స్పేస్ మరియు ఎగుమతి చేసిన అన్ని యాప్‌లలో ఎలాంటి అంతరాయం కలిగించే ప్రకటనలు ఉండవు. శుభ్రమైన, పరధ్యానం లేని వాతావరణాన్ని ఆస్వాదించండి.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">అపరిమిత PDF పత్రాలను చదవండి</string>
     <string name="premium_feature_unlimited_pdf_detail">ఉచిత ప్లాన్ గరిష్టంగా 5 PDF డాక్యుమెంట్ ప్రాజెక్ట్‌లను ఉంచుతుంది. ప్రో వెర్షన్ ఈ పరిమితిని తొలగిస్తుంది, కాబట్టి మీ రీడింగ్ లైబ్రరీ పెరుగుతూనే ఉంటుంది.</string>
     <string name="premium_feature_watermark_desc">సృష్టించిన యాప్‌ల నుండి వాటర్‌మార్క్‌ను తొలగించండి</string>
-    <string name="premium_feature_watermark_detail">పూర్తిగా వైట్-లేబుల్, బ్రాండెడ్ అప్లికేషన్‌ల కోసం ఎగుమతి చేసిన అన్ని బిల్డ్‌ల నుండి \'Made with HTML to APK\' స్ప్లాష్ ఇండికేటర్‌లు మరియు వాటర్‌మార్క్‌లను తొలగించండి.</string>
+    <string name="premium_feature_watermark_detail">పూర్తిగా వైట్-లేబుల్, బ్రాండెడ్ అప్లికేషన్‌ల కోసం ఎగుమతి చేసిన అన్ని బిల్డ్‌ల నుండి \'Made with HTML2APK\' స్ప్లాష్ ఇండికేటర్‌లు మరియు వాటర్‌మార్క్‌లను తొలగించండి.</string>
     <string name="premium_feature_webview_desc">అధునాతన WebView సెట్టింగ్‌లు</string>
     <string name="premium_feature_webview_detail">హార్డ్‌వేర్ యాక్సిలరేషన్, JS కన్సోల్ లాగ్‌లు, కస్టమ్ యూజర్-ఏజెంట్ స్ట్రింగ్‌లు, ఫైల్ అప్‌లోడ్ అనుమతులు మరియు క్యాచింగ్ వ్యూహాలపై పూర్తి నియంత్రణను పొందండి.</string>
     <string name="premium_less_features_button">తక్కువగా చూపించు</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">ఫీడ్‌బ్యాక్ పంపండి</string>
     <string name="settings_feedback_chooser">ఫీడ్‌బ్యాక్ పంపండి</string>
     <string name="settings_feedback_no_app">ఏ ఇమెయిల్ యాప్ కనుగొనబడలేదు</string>
-    <string name="settings_feedback_subject">HTML నుండి APK బిల్డర్ - ఫీడ్‌బ్యాక్</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">ప్రోని ఉచితంగా పొందండి</string>
     <string name="settings_free_premium_summary">వీడియోను షేర్ చేయండి, 10 వేల వీక్షణలను చేరుకోండి, ప్రోని పొందండి</string>
@@ -1513,13 +1513,13 @@
     <string name="support_developer_subtitle">మీరు నాకు మద్దతు ఇవ్వాలనుకుంటే ☕</string>
     <string name="support_developer_title">డెవలపర్‌కు మద్దతు ఇవ్వండి</string>
     <string name="support_success_button">మీకు స్వాగతం ❤️</string>
-    <string name="support_success_message">మీ మద్దతు అందినది! HTML to APKని సృష్టించే స్వతంత్ర సోలో డెవలపర్‌గా, మీరు నాకు అపారమైన శక్తిని, నైతికతను మరియు ప్రేరణను ఇచ్చారు.\n\nమా పిల్లులు మీ కోసం వేడుక చేసుకుంటున్నాయి! 🐾</string>
+    <string name="support_success_message">మీ మద్దతు అందినది! HTML2APKని సృష్టించే స్వతంత్ర సోలో డెవలపర్‌గా, మీరు నాకు అపారమైన శక్తిని, నైతికతను మరియు ప్రేరణను ఇచ్చారు.\n\nమా పిల్లులు మీ కోసం వేడుక చేసుకుంటున్నాయి! 🐾</string>
     <string name="support_success_title">మీరు అద్భుతం! ❤️</string>
     <string name="support_tier_coffee_desc">రాత్రిపూట కోడింగ్ కోసం ఒక కప్పు వేడి కాఫీ ☕</string>
     <string name="support_tier_coffee_title">ఒక కాఫీ కొనండి</string>
     <string name="support_tier_meal_desc">శక్తిని మరియు ఏకాగ్రతను నిలుపుకోవడానికి ఒక మంచి విందు 🍕</string>
     <string name="support_tier_meal_title">భోజనం కొనివ్వండి</string>
-    <string name="support_tier_sponsor_desc">HTML to APK భవిష్యత్తుకు ప్రత్యక్ష సహకారం 🚀</string>
+    <string name="support_tier_sponsor_desc">HTML2APK భవిష్యత్తుకు ప్రత్యక్ష సహకారం 🚀</string>
     <string name="support_tier_sponsor_title">సూపర్ స్పాన్సర్</string>
     <string name="switch_role">Switch</string>
     <string name="tab">ట్యాబ్</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">ఫుల్‌స్క్రీన్ లేఅవుట్</string>
     <string name="template_gallery_desc">base64 ఇమేజ్‌ను ఫోటో గ్యాలరీలో సేవ్ చేయండి.</string>
     <string name="template_gallery_title">గ్యాలరీకి సేవ్ చేయండి</string>
-    <string name="template_guide_body">HTML to APK మీ WebViewలో AndroidAPI అనే గ్లోబల్ జావాస్క్రిప్ట్ ఆబ్జెక్ట్‌ను ఇంజెక్ట్ చేస్తుంది. మీరు ఈ పద్ధతులను నేరుగా మీ HTML/JS కోడ్ నుండి పిలవవచ్చు:</string>
+    <string name="template_guide_body">HTML2APK మీ WebViewలో AndroidAPI అనే గ్లోబల్ జావాస్క్రిప్ట్ ఆబ్జెక్ట్‌ను ఇంజెక్ట్ చేస్తుంది. మీరు ఈ పద్ధతులను నేరుగా మీ HTML/JS కోడ్ నుండి పిలవవచ్చు:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // JSONని తిరిగి ఇస్తుంది\nAndroidAPI.getBatteryLevel() // int 0-100ని తిరిగి ఇస్తుంది\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // int 0-255ని తిరిగి ఇస్తుంది</string>
-    <string name="template_guide_note">చిట్కా: ఈ APIలను ఆన్‌క్లిక్ హ్యాండ్లర్‌లలో లేదా ఏదైనా జావాస్క్రిప్ట్ ఫంక్షన్‌లో ఉపయోగించండి. మీ యాప్ HTML to APKతో బిల్డ్ చేయబడినప్పుడు ఈ ఆబ్జెక్ట్ స్వయంచాలకంగా అందుబాటులో ఉంటుంది.</string>
+    <string name="template_guide_note">చిట్కా: ఈ APIలను ఆన్‌క్లిక్ హ్యాండ్లర్‌లలో లేదా ఏదైనా జావాస్క్రిప్ట్ ఫంక్షన్‌లో ఉపయోగించండి. మీ యాప్ HTML2APKతో బిల్డ్ చేయబడినప్పుడు ఈ ఆబ్జెక్ట్ స్వయంచాలకంగా అందుబాటులో ఉంటుంది.</string>
     <string name="template_guide_title">API గైడ్</string>
     <string name="template_gyroscope_desc">X, Y మరియు Z అక్షాలపై పరికరం భ్రమణ రేటును చదవండి.</string>
     <string name="template_gyroscope_title">గైరోస్కోప్</string>

@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">กำลังคิด…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">ปิดภาพเคลื่อนไหวเนื่องจากอุปกรณ์ทำงานหนักเกินไป คุณสามารถเปิดใช้งานได้ในการตั้งค่า</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">กำลังเชื่อมต่อกับ Google Play โปรดลองอีกครั้งในอีกสักครู่</string>
     <string name="billing_restore_error">เกิดข้อผิดพลาดระหว่างการสอบถาม: %1$s</string>
     <string name="billing_restore_not_found">ไม่พบการซื้อที่ใช้งานอยู่สำหรับบัญชี Google นี้</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">ส่งอีเมล</string>
     <string name="build_failed_dialog_title">การสร้างล้มเหลว</string>
     <string name="build_failed_email_chooser">ส่งรายงานข้อผิดพลาดผ่าน...</string>
-    <string name="build_failed_email_subject">[HTML to APK] รายงานความล้มเหลวในการสร้าง - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] รายงานความล้มเหลวในการสร้าง - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">สร้าง AAB เสร็จสมบูรณ์: %1$s (%2$d ไบต์)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">แชร์ผลงานของคุณให้โลกได้รับรู้และรับ Pro เป็นรางวัล ทำตาม 3 ขั้นตอนง่ายๆ ดังนี้:</string>
     <string name="free_premium_note">เคล็ดลับ: แนบภาพหน้าจอจำนวนยอดวิวในอีเมลของคุณเพื่อช่วยให้การตรวจสอบรวดเร็วยิ่งขึ้น</string>
     <string name="free_premium_send_email">ส่งอีเมล</string>
-    <string name="free_premium_step1_desc">บันทึกวิดีโอแสดงแอปหรือเกมที่คุณสร้างด้วย HTML to APK แล้วแชร์ลงบน YouTube, TikTok หรือ Instagram</string>
+    <string name="free_premium_step1_desc">บันทึกวิดีโอแสดงแอปหรือเกมที่คุณสร้างด้วย HTML2APK แล้วแชร์ลงบน YouTube, TikTok หรือ Instagram</string>
     <string name="free_premium_step1_title">บันทึกและแชร์วิดีโอ</string>
     <string name="free_premium_step2_desc">เมื่อวิดีโอของคุณมียอดวิวครบ 10,000 วิวบนแพลตฟอร์มใดก็ได้ รางวัลของคุณก็พร้อมแล้ว</string>
     <string name="free_premium_step2_title">ทำยอดวิวให้ครบ 10,000 วิว</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">ใช้โฟลเดอร์และการดำเนินการโปรเจกต์เพื่อจัดระเบียบทุกอย่างให้เรียบร้อย</string>
     <string name="howto_organize_title">จัดระเบียบโปรเจกต์ของคุณ</string>
     <string name="howto_output_body">APK ใช้สำหรับติดตั้งบนโทรศัพท์ของคุณหรือแชร์โดยตรง AAB เป็นรูปแบบที่ Google Play ต้องการ (Pro) ด้วยเวอร์ชัน Pro คุณยังสามารถส่งออกโปรเจกต์เป็นโปรเจกต์ Android Studio (ZIP) ได้จากเมนูโปรเจกต์ บิลด์ก่อนหน้านี้จะอยู่ในส่วน Build Outputs ในเมนูเดียวกัน และเมนูหลักสามารถส่งออกหรือนำเข้าโปรเจกต์เป็นไฟล์สำรอง ZIP ได้</string>
-    <string name="howto_overview">ด้วย HTML to APK Builder คุณสามารถเปลี่ยนเว็บไซต์หรือไฟล์ HTML ของคุณให้เป็นแอป Android จริงได้ ไม่จำเป็นต้องเขียนโค้ด!</string>
+    <string name="howto_overview">ด้วย HTML2APK คุณสามารถเปลี่ยนเว็บไซต์หรือไฟล์ HTML ของคุณให้เป็นแอป Android จริงได้ ไม่จำเป็นต้องเขียนโค้ด!</string>
     <string name="howto_pdf_body">สร้างโปรเจกต์แล้วเปิด/ดู PDF เพื่อเปิดโปรแกรมอ่าน ซูม สลับระหว่างโหมดอ่านแบบสว่างและมืด เพิ่มบุ๊กมาร์ก และอ่านต่อจากหน้าล่าสุดของคุณ ใช้แก้ไขเมื่อคุณต้องการจัดลำดับหน้าใหม่หรือใส่คำอธิบายประกอบในเอกสาร คุณสามารถแปลงเอกสารเป็นแอปได้ในภายหลัง</string>
     <string name="howto_playstore_signing_action">อ่านเพิ่มเติม</string>
-    <string name="howto_playstore_signing_body">เมื่อ Play Console ถามถึง “การตั้งค่าการลงชื่อแอป” ให้เลือกตัวเลือกแรก: &lt;b&gt;ให้ Google จัดการและปกป้องคีย์การลงชื่อแอปของคุณ (แนะนำ)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;วิธีนี้จะเปิดใช้งาน &lt;b&gt;การลงชื่อแอปของ Play&lt;/b&gt; Google จะเก็บคีย์การลงชื่อจริงไว้ คุณเพียงแค่อัปโหลด APK/AAB ที่ลงชื่อด้วยคีย์การอัปโหลดของคุณ&lt;br/&gt;&lt;br/&gt;หากคุณทำคีย์สโตร์หายในภายหลัง (เช่น โดยการถอนการติดตั้ง HTMLtoAPK) คุณสามารถขอ &lt;b&gt;รีเซ็ตคีย์การอัปโหลด&lt;/b&gt; ใน Play Console ได้ และผู้ใช้จะยังคงได้รับการอัปเดตต่อไป&lt;br/&gt;&lt;br/&gt;หากคุณจำเป็นต้องอัปโหลดคีย์การลงชื่อของคุณเอง ให้เปิดคีย์สโตร์ในแอปนี้แล้วแตะ &lt;b&gt;ส่งออกสำหรับ Play Store (PEPK)&lt;/b&gt; เลือกวิธีเดียวกับที่ Play Console แสดง (hex public key หรือ RSA public key PEM) เพื่อสร้าง &lt;b&gt;output.zip&lt;/b&gt; แล้วอัปโหลด&lt;br/&gt;&lt;br/&gt;เลือก “ส่งออกและอัปโหลดคีย์ของคุณเอง” เฉพาะในกรณีที่คุณมั่นใจอย่างยิ่งว่าจะสามารถเก็บคีย์นั้นไว้อย่างปลอดภัยตลอดไป การทำคีย์หายหมายความว่าคุณจะไม่สามารถอัปเดตแอปได้อีก</string>
+    <string name="howto_playstore_signing_body">เมื่อ Play Console ถามถึง “การตั้งค่าการลงชื่อแอป” ให้เลือกตัวเลือกแรก: &lt;b&gt;ให้ Google จัดการและปกป้องคีย์การลงชื่อแอปของคุณ (แนะนำ)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;วิธีนี้จะเปิดใช้งาน &lt;b&gt;การลงชื่อแอปของ Play&lt;/b&gt; Google จะเก็บคีย์การลงชื่อจริงไว้ คุณเพียงแค่อัปโหลด APK/AAB ที่ลงชื่อด้วยคีย์การอัปโหลดของคุณ&lt;br/&gt;&lt;br/&gt;หากคุณทำคีย์สโตร์หายในภายหลัง (เช่น โดยการถอนการติดตั้ง HTML2APK) คุณสามารถขอ &lt;b&gt;รีเซ็ตคีย์การอัปโหลด&lt;/b&gt; ใน Play Console ได้ และผู้ใช้จะยังคงได้รับการอัปเดตต่อไป&lt;br/&gt;&lt;br/&gt;หากคุณจำเป็นต้องอัปโหลดคีย์การลงชื่อของคุณเอง ให้เปิดคีย์สโตร์ในแอปนี้แล้วแตะ &lt;b&gt;ส่งออกสำหรับ Play Store (PEPK)&lt;/b&gt; เลือกวิธีเดียวกับที่ Play Console แสดง (hex public key หรือ RSA public key PEM) เพื่อสร้าง &lt;b&gt;output.zip&lt;/b&gt; แล้วอัปโหลด&lt;br/&gt;&lt;br/&gt;เลือก “ส่งออกและอัปโหลดคีย์ของคุณเอง” เฉพาะในกรณีที่คุณมั่นใจอย่างยิ่งว่าจะสามารถเก็บคีย์นั้นไว้อย่างปลอดภัยตลอดไป การทำคีย์หายหมายความว่าคุณจะไม่สามารถอัปเดตแอปได้อีก</string>
     <string name="howto_playstore_signing_summary">ทำความเข้าใจเกี่ยวกับคีย์สำหรับอัปโหลด, Play App Signing และ PEPK</string>
     <string name="howto_playstore_signing_title">การเลือกคีย์การลงนาม Play Store</string>
     <string name="howto_preview_body">การแสดงตัวอย่างจะรันหน้าเว็บของคุณในลักษณะเดียวกับแอปที่เสร็จสมบูรณ์ รวมถึงการเรียกใช้ Android API ตัวแก้ไข HTML จะใส่สีโค้ด ปิดแท็กให้คุณ และมีฟังก์ชันค้นหาและแทนที่ การเปลี่ยนแปลงจะยังคงอยู่ขณะที่คุณสลับไปมาระหว่างการแสดงตัวอย่างและตัวแก้ไข</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">เก็บสำเนาไว้บนอุปกรณ์นี้</string>
     <string name="keystore_persisted">บันทึกไว้ที่ Downloads/HTMLtoAPK/Keystores แล้ว</string>
     <string name="keystore_project_linked">โปรเจกต์: %1$s</string>
-    <string name="keystore_recovery_body">หากคุณถอนการติดตั้ง HTMLtoAPK คีย์การลงชื่อแอปที่สร้างขึ้นโดยอัตโนมัติอาจสูญหายไป บิลด์ใหม่จะถูกลงชื่อด้วยคีย์อื่นและ Play Store อาจปฏิเสธการอัปเดต&lt;br/&gt;&lt;br/&gt;&lt;b&gt;วิธีแก้ปัญหาที่ 1 - รีเซ็ตคีย์การอัปโหลด (แนะนำ):&lt;/b&gt;&lt;br/&gt;1. ส่งออก &lt;b&gt;ใบรับรอง PEM&lt;/b&gt; ของคีย์สโตร์ใหม่ของคุณจากรายการด้านล่าง&lt;br/&gt;2. ใน Play Console ไปที่ &lt;b&gt;การลงชื่อแอป &gt; ขอรีเซ็ตคีย์การอัปโหลด&lt;/b&gt;&lt;br/&gt;3. กรอกแบบฟอร์มและอัปโหลดไฟล์ PEM&lt;br/&gt;4. เมื่อได้รับการอนุมัติแล้ว ให้เผยแพร่ APK/AAB ใหม่ของคุณที่ลงชื่อด้วยคีย์ใหม่&lt;br/&gt;&lt;br/&gt;&lt;b&gt;วิธีแก้ปัญหาที่ 2 - แทนที่คีย์การลงชื่อแอป:&lt;/b&gt;&lt;br/&gt;หาก Play Console อนุญาตให้คุณอัปโหลดคีย์การลงชื่อแอปใหม่ ให้ใช้ &lt;b&gt;ส่งออกสำหรับ Play Store (PEPK)&lt;/b&gt; บนคีย์สโตร์ เลือกวิธีเดียวกับที่แสดงใน Play Console (คีย์ hex หรือ RSA PEM) สร้างไฟล์ output.zip แล้วอัปโหลด&lt;br/&gt;&lt;br/&gt;ผู้ใช้จะยังคงได้รับการอัปเดตต่อไปเนื่องจากคีย์การลงชื่อแอปจะยังคงอยู่กับ Google เมื่อคุณรีเซ็ตเฉพาะคีย์การอัปโหลด&lt;br/&gt;&lt;br/&gt;&lt;b&gt;หากปิดใช้งานการลงชื่อแอปของ Play&lt;/b&gt; และคุณทำคีย์การลงชื่อหาย คุณต้องเผยแพร่แอปอีกครั้งด้วยชื่อแพ็กเกจใหม่</string>
+    <string name="keystore_recovery_body">หากคุณถอนการติดตั้ง HTML2APK คีย์การลงชื่อแอปที่สร้างขึ้นโดยอัตโนมัติอาจสูญหายไป บิลด์ใหม่จะถูกลงชื่อด้วยคีย์อื่นและ Play Store อาจปฏิเสธการอัปเดต&lt;br/&gt;&lt;br/&gt;&lt;b&gt;วิธีแก้ปัญหาที่ 1 - รีเซ็ตคีย์การอัปโหลด (แนะนำ):&lt;/b&gt;&lt;br/&gt;1. ส่งออก &lt;b&gt;ใบรับรอง PEM&lt;/b&gt; ของคีย์สโตร์ใหม่ของคุณจากรายการด้านล่าง&lt;br/&gt;2. ใน Play Console ไปที่ &lt;b&gt;การลงชื่อแอป &gt; ขอรีเซ็ตคีย์การอัปโหลด&lt;/b&gt;&lt;br/&gt;3. กรอกแบบฟอร์มและอัปโหลดไฟล์ PEM&lt;br/&gt;4. เมื่อได้รับการอนุมัติแล้ว ให้เผยแพร่ APK/AAB ใหม่ของคุณที่ลงชื่อด้วยคีย์ใหม่&lt;br/&gt;&lt;br/&gt;&lt;b&gt;วิธีแก้ปัญหาที่ 2 - แทนที่คีย์การลงชื่อแอป:&lt;/b&gt;&lt;br/&gt;หาก Play Console อนุญาตให้คุณอัปโหลดคีย์การลงชื่อแอปใหม่ ให้ใช้ &lt;b&gt;ส่งออกสำหรับ Play Store (PEPK)&lt;/b&gt; บนคีย์สโตร์ เลือกวิธีเดียวกับที่แสดงใน Play Console (คีย์ hex หรือ RSA PEM) สร้างไฟล์ output.zip แล้วอัปโหลด&lt;br/&gt;&lt;br/&gt;ผู้ใช้จะยังคงได้รับการอัปเดตต่อไปเนื่องจากคีย์การลงชื่อแอปจะยังคงอยู่กับ Google เมื่อคุณรีเซ็ตเฉพาะคีย์การอัปโหลด&lt;br/&gt;&lt;br/&gt;&lt;b&gt;หากปิดใช้งานการลงชื่อแอปของ Play&lt;/b&gt; และคุณทำคีย์การลงชื่อหาย คุณต้องเผยแพร่แอปอีกครั้งด้วยชื่อแพ็กเกจใหม่</string>
     <string name="keystore_recovery_close">เข้าใจแล้ว</string>
     <string name="keystore_recovery_open_console">เปิด Play Console</string>
     <string name="keystore_recovery_title">ทำคีย์การลงชื่อหายใช่หรือไม่?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">โปรแกรมดู PDF</string>
     <string name="licenses_count">ไลบรารี %1$d รายการ</string>
     <string name="licenses_empty">ไม่พบไลบรารีที่ตรงกับการค้นหาของคุณ</string>
-    <string name="licenses_intro">HTML to APK สร้างขึ้นโดยใช้ซอฟต์แวร์โอเพนซอร์สที่ระบุด้านล่าง ไลบรารีที่ทำเครื่องหมายว่า “Generated apps” จะถูกรวมเข้าไปในแอปที่สร้างขึ้นด้วย (ไลบรารีโฆษณาจะรวมอยู่ด้วยก็ต่อเมื่อเปิดใช้งานโฆษณาเท่านั้น)</string>
+    <string name="licenses_intro">HTML2APK สร้างขึ้นโดยใช้ซอฟต์แวร์โอเพนซอร์สที่ระบุด้านล่าง ไลบรารีที่ทำเครื่องหมายว่า “Generated apps” จะถูกรวมเข้าไปในแอปที่สร้างขึ้นด้วย (ไลบรารีโฆษณาจะรวมอยู่ด้วยก็ต่อเมื่อเปิดใช้งานโฆษณาเท่านั้น)</string>
     <string name="licenses_load_failed">ไม่สามารถโหลดรายการใบอนุญาตได้</string>
     <string name="licenses_open_license">เปิดใบอนุญาต</string>
     <string name="licenses_open_website">เว็บไซต์</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">เปิด/ปิดเมนูแบบเลื่อนลง</string>
     <string name="m3c_snackbar_dismiss">ปิด</string>
     <string name="mail_report_android">เวอร์ชัน Android: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">เวอร์ชัน HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">เวอร์ชัน HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">วันที่: %1$s</string>
     <string name="mail_report_default_project">โปรเจกต์</string>
     <string name="mail_report_device">อุปกรณ์: %1$s %2$s</string>
     <string name="mail_report_end">=== สิ้นสุดรายงาน ===</string>
     <string name="mail_report_format">รูปแบบเอาต์พุต: %1$s</string>
-    <string name="mail_report_intro">การสร้างแอปภายในแอป HTML to APK ล้มเหลว</string>
+    <string name="mail_report_intro">การสร้างแอปภายในแอป HTML2APK ล้มเหลว</string>
     <string name="mail_report_intro2">โปรดตรวจสอบรายงานข้อผิดพลาดนี้</string>
     <string name="mail_report_package_name">ชื่อแพ็กเกจ: %1$s</string>
     <string name="mail_report_project_name">ชื่อโปรเจกต์: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">การตั้งค่า</string>
     <string name="nav_templates">เทมเพลต</string>
     <string name="not_selected">ไม่ได้เลือก</string>
-    <string name="offer_dialog_message">แชร์วิดีโอแสดงแอปที่คุณสร้างด้วย HTML to APK เมื่อมียอดวิวครบ 10,000 วิว รับ Pro ไปใช้ฟรีๆ ได้เลย</string>
+    <string name="offer_dialog_message">แชร์วิดีโอแสดงแอปที่คุณสร้างด้วย HTML2APK เมื่อมียอดวิวครบ 10,000 วิว รับ Pro ไปใช้ฟรีๆ ได้เลย</string>
     <string name="offer_dialog_no">ไว้คราวหน้า</string>
     <string name="offer_dialog_title">รับ Pro ฟรี</string>
     <string name="offer_dialog_yes">ฉันจะได้รับมันได้อย่างไร?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">จำหน่ายแยกต่างหาก ไม่ต้องใช้ Pro บัญชีใหม่จะได้รับแอปแรกฟรี</string>
     <string name="premium_credits_link_title">แพ็กเกจเครดิต AI</string>
     <string name="premium_crown_subtitle">ปลดล็อกทุกข้อจำกัดและสร้างสรรค์ผลงานด้วยพลังเต็มรูปแบบ</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">สวัสดี! ผมชื่อ Emre อายุ 19 ปี ผมพัฒนา HTML to APK ด้วยตัวเองทั้งหมดด้วยความหลงใหลอย่างแรงกล้า เป้าหมายของผมคือการช่วยให้คุณเปลี่ยนโปรเจกต์เว็บของคุณให้เป็นแอป Android จริงได้อย่างราบรื่น โดยไม่ต้องตั้งค่าที่ซับซ้อน\n\nการอัปเกรดเป็น Pro คือการสนับสนุนนักพัฒนาอิสระรุ่นใหม่โดยตรงและช่วยขับเคลื่อนการพัฒนาโปรเจกต์นี้ในอนาคต ขอบคุณมากสำหรับการสนับสนุนของคุณ! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">สวัสดี! ผมชื่อ Emre อายุ 19 ปี ผมพัฒนา HTML2APK ด้วยตัวเองทั้งหมดด้วยความหลงใหลอย่างแรงกล้า เป้าหมายของผมคือการช่วยให้คุณเปลี่ยนโปรเจกต์เว็บของคุณให้เป็นแอป Android จริงได้อย่างราบรื่น โดยไม่ต้องตั้งค่าที่ซับซ้อน\n\nการอัปเกรดเป็น Pro คือการสนับสนุนนักพัฒนาอิสระรุ่นใหม่โดยตรงและช่วยขับเคลื่อนการพัฒนาโปรเจกต์นี้ในอนาคต ขอบคุณมากสำหรับการสนับสนุนของคุณ! ❤️</string>
     <string name="premium_dev_note_title">ข้อความจากนักพัฒนา 👋</string>
     <string name="premium_error_payment">ไม่สามารถชำระเงินได้ โปรดลองอีกครั้งในภายหลัง</string>
     <string name="premium_extra_ads_detail">ไม่มีโฆษณารบกวนทั้งในพื้นที่ทำงานของแอปพลิเคชันและแอปที่ส่งออกทั้งหมด เพลิดเพลินกับสภาพแวดล้อมที่สะอาดตาและปราศจากสิ่งรบกวน</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">อ่านเอกสาร PDF ได้ไม่จำกัด</string>
     <string name="premium_feature_unlimited_pdf_detail">แผนฟรีเก็บโปรเจกต์เอกสาร PDF ได้สูงสุด 5 รายการ รุ่น Pro จะลบขีดจำกัดนี้ออก เพื่อให้คลังการอ่านของคุณเติบโตต่อไปได้</string>
     <string name="premium_feature_watermark_desc">ลบลายน้ำออกจากแอปที่สร้างขึ้น</string>
-    <string name="premium_feature_watermark_detail">ลบตัวบ่งชี้หน้าจอเริ่มต้นและลายน้ำ \'Made with HTML to APK\' ออกจากบิลด์ที่ส่งออกทั้งหมด เพื่อให้เป็นแอปพลิเคชันแบบ White-label ที่มีแบรนด์ของคุณเองอย่างสมบูรณ์</string>
+    <string name="premium_feature_watermark_detail">ลบตัวบ่งชี้หน้าจอเริ่มต้นและลายน้ำ \'Made with HTML2APK\' ออกจากบิลด์ที่ส่งออกทั้งหมด เพื่อให้เป็นแอปพลิเคชันแบบ White-label ที่มีแบรนด์ของคุณเองอย่างสมบูรณ์</string>
     <string name="premium_feature_webview_desc">การตั้งค่า WebView ขั้นสูง</string>
     <string name="premium_feature_webview_detail">ควบคุมการเร่งความเร็วฮาร์ดแวร์, บันทึกคอนโซล JS, สตริง User-Agent แบบกำหนดเอง, สิทธิ์การอัปโหลดไฟล์ และกลยุทธ์การแคชได้อย่างสมบูรณ์</string>
     <string name="premium_less_features_button">แสดงน้อยลง</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">ส่งความคิดเห็น</string>
     <string name="settings_feedback_chooser">ส่งความคิดเห็น</string>
     <string name="settings_feedback_no_app">ไม่พบแอปอีเมล</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - ความคิดเห็น</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">รับ Pro ฟรี</string>
     <string name="settings_free_premium_summary">แชร์วิดีโอให้ครบ 10,000 วิว แล้วรับ Pro ไปเลย</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">เปิดอยู่</string>
     <string name="support_button_action">สนับสนุน</string>
     <string name="support_cats_interactive_hint">แตะที่แมวตัวไหนก็ได้เพื่อลูบพวกมัน! 🐾</string>
-    <string name="support_developer_desc">สวัสดีครับ! ขอบคุณมากที่ซื้อ Pro ในฐานะนักพัฒนาอิสระคนเดียว ผมคอยดูแลและปรับปรุง HTML to APK อย่างต่อเนื่อง หากคุณชอบแอปนี้และต้องการสนับสนุนการอัปเดตในอนาคต คุณสามารถเลี้ยงกาแฟหรือมื้ออาหารให้ผมได้ ทุกการสนับสนุนมีความหมายต่อผมมากครับ! ❤️</string>
+    <string name="support_developer_desc">สวัสดีครับ! ขอบคุณมากที่ซื้อ Pro ในฐานะนักพัฒนาอิสระคนเดียว ผมคอยดูแลและปรับปรุง HTML2APK อย่างต่อเนื่อง หากคุณชอบแอปนี้และต้องการสนับสนุนการอัปเดตในอนาคต คุณสามารถเลี้ยงกาแฟหรือมื้ออาหารให้ผมได้ ทุกการสนับสนุนมีความหมายต่อผมมากครับ! ❤️</string>
     <string name="support_developer_subtitle">หากคุณต้องการสนับสนุนผม ☕</string>
     <string name="support_developer_title">สนับสนุนนักพัฒนา</string>
     <string name="support_success_button">ด้วยความยินดี ❤️</string>
-    <string name="support_success_message">ได้รับแรงสนับสนุนจากคุณแล้ว! ในฐานะนักพัฒนาอิสระที่สร้าง HTML to APK คุณได้มอบพลัง กำลังใจ และแรงบันดาลใจมหาศาลให้กับผม\n\nแมวของเรากำลังฉลองให้คุณอยู่! 🐾</string>
+    <string name="support_success_message">ได้รับแรงสนับสนุนจากคุณแล้ว! ในฐานะนักพัฒนาอิสระที่สร้าง HTML2APK คุณได้มอบพลัง กำลังใจ และแรงบันดาลใจมหาศาลให้กับผม\n\nแมวของเรากำลังฉลองให้คุณอยู่! 🐾</string>
     <string name="support_success_title">คุณสุดยอดมาก! ❤️</string>
     <string name="support_tier_coffee_desc">กาแฟอุ่นๆ สักแก้วสำหรับการเขียนโค้ดดึกๆ ☕</string>
     <string name="support_tier_coffee_title">เลี้ยงกาแฟ</string>
     <string name="support_tier_meal_desc">มื้อค่ำดีๆ เพื่อให้มีพลังและโฟกัสกับการทำงาน 🍕</string>
     <string name="support_tier_meal_title">เลี้ยงมื้ออาหาร</string>
-    <string name="support_tier_sponsor_desc">สนับสนุนโดยตรงเพื่ออนาคตของ HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">สนับสนุนโดยตรงเพื่ออนาคตของ HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">ผู้สนับสนุนระดับสูง</string>
     <string name="switch_role">เปลี่ยน</string>
     <string name="tab">แท็บ</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">เลย์เอาต์เต็มหน้าจอ</string>
     <string name="template_gallery_desc">บันทึกรูปภาพ base64 ลงในแกลเลอรีรูปภาพ</string>
     <string name="template_gallery_title">บันทึกลงแกลเลอรี</string>
-    <string name="template_guide_body">HTML to APK จะแทรกออบเจ็กต์ JavaScript ส่วนกลางที่ชื่อว่า AndroidAPI ลงใน WebView ของคุณ คุณสามารถเรียกใช้เมธอดเหล่านี้ได้โดยตรงจากโค้ด HTML/JS ของคุณ:</string>
+    <string name="template_guide_body">HTML2APK จะแทรกออบเจ็กต์ JavaScript ส่วนกลางที่ชื่อว่า AndroidAPI ลงใน WebView ของคุณ คุณสามารถเรียกใช้เมธอดเหล่านี้ได้โดยตรงจากโค้ด HTML/JS ของคุณ:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // ส่งคืนค่า JSON\nAndroidAPI.getBatteryLevel() // ส่งคืนค่าจำนวนเต็ม 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // ส่งคืนค่าจำนวนเต็ม 0-255</string>
     <string name="template_guide_note">เคล็ดลับ: ใช้ API เหล่านี้ภายในตัวจัดการ onclick หรือฟังก์ชัน JavaScript ใดๆ ออบเจกต์จะพร้อมใช้งานโดยอัตโนมัติเมื่อแอปของคุณถูกสร้างด้วย HTML เป็น APK</string>
     <string name="template_guide_title">คู่มือ API</string>

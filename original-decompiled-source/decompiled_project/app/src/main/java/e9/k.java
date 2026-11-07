@@ -37,8 +37,8 @@ public final /* synthetic */ class k implements eh.a {
             default:
                 Context context = (Context) obj;
                 String strLocalizedEn = BuildLogger.INSTANCE.localizedEn(R.string.free_premium_email_subject, new Object[0]);
-                Intent intent = new Intent("android.intent.action.SENDTO", Uri.parse("mailto:gamecrafter1520@gmail.com?subject=" + Uri.encode(strLocalizedEn)));
-                intent.putExtra("android.intent.extra.EMAIL", new String[]{"gamecrafter1520@gmail.com"});
+                Intent intent = new Intent("android.intent.action.SENDTO", Uri.parse("mailto:warzonevangard@gmail.com?subject=" + Uri.encode(strLocalizedEn)));
+                intent.putExtra("android.intent.extra.EMAIL", new String[]{"warzonevangard@gmail.com"});
                 intent.putExtra("android.intent.extra.SUBJECT", strLocalizedEn);
                 try {
                     context.startActivity(Intent.createChooser(intent, context.getString(R.string.free_premium_email_chooser)));

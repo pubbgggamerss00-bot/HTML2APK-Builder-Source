@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">سوچ رہا ہے…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">ڈیوائس پر بوجھ کی وجہ سے اینیمیشنز بند کر دی گئی ہیں۔ انہیں سیٹنگز میں جا کر آن کریں۔</string>
-    <string name="app_name">HTML ٹو APK بلڈر</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">گوگل پلے سے منسلک ہو رہا ہے، براہ کرم چند سیکنڈ میں دوبارہ کوشش کریں۔</string>
     <string name="billing_restore_error">استفسار کے دوران خرابی: %1$s</string>
     <string name="billing_restore_not_found">اس گوگل اکاؤنٹ کے لیے کوئی فعال خریداری نہیں ملی۔</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">ای میل بھیجیں</string>
     <string name="build_failed_dialog_title">بلڈ ناکام ہو گیا</string>
     <string name="build_failed_email_chooser">ایرر رپورٹ بھیجیں بذریعہ...</string>
-    <string name="build_failed_email_subject">[HTML to APK] بلڈ کی ناکامی کی رپورٹ - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] بلڈ کی ناکامی کی رپورٹ - %1$s</string>
     <string name="build_format_aab">ایپ بنڈل</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB بلڈ مکمل ہو گئی: %1$s (%2$d بائٹس)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">جو آپ نے بنایا ہے اسے دنیا کے ساتھ شیئر کریں اور بدلے میں پرو حاصل کریں۔ یہ صرف 3 آسان مراحل میں ہوتا ہے:</string>
     <string name="free_premium_note">ٹپ: تصدیق کو تیز کرنے کے لیے اپنی ای میل میں ویو کاؤنٹ کا اسکرین شاٹ شامل کریں۔</string>
     <string name="free_premium_send_email">ای میل بھیجیں</string>
-    <string name="free_premium_step1_desc">HTML to APK کے ساتھ بنائی گئی اپنی ایپ یا گیم کی نمائش کرنے والی ایک ویڈیو ریکارڈ کریں اور اسے YouTube، TikTok یا Instagram پر شیئر کریں۔</string>
+    <string name="free_premium_step1_desc">HTML2APK کے ساتھ بنائی گئی اپنی ایپ یا گیم کی نمائش کرنے والی ایک ویڈیو ریکارڈ کریں اور اسے YouTube، TikTok یا Instagram پر شیئر کریں۔</string>
     <string name="free_premium_step1_title">ایک ویڈیو ریکارڈ کریں اور شیئر کریں</string>
     <string name="free_premium_step2_desc">ایک بار جب آپ کی ویڈیو ان پلیٹ فارمز میں سے کسی پر بھی 10,000 ویوز تک پہنچ جائے، تو آپ کا انعام تیار ہے۔</string>
     <string name="free_premium_step2_title">10,000 ویوز تک پہنچیں</string>
@@ -955,7 +955,7 @@
     <string name="howto_overview">HTML ٹو APK بلڈر کے ساتھ، آپ اپنی ویب سائٹ یا HTML فائلوں کو ایک حقیقی اینڈرائیڈ ایپ میں تبدیل کر سکتے ہیں۔ کسی کوڈنگ کی ضرورت نہیں!</string>
     <string name="howto_pdf_body">پروجیکٹ بنائیں پھر اوپن / ویو پی ڈی ایف ریڈر کھولتا ہے۔ زوم کریں، لائٹ اور ڈارک ریڈنگ کے درمیان سوئچ کریں، بک مارکس شامل کریں اور اپنے آخری صفحے سے جاری رکھیں۔ جب آپ صفحات کو دوبارہ ترتیب دینا یا دستاویز میں تشریح کرنا چاہتے ہیں تو ایڈٹ کا استعمال کریں۔ آپ بعد میں دستاویز کو ایپ میں تبدیل کر سکتے ہیں۔</string>
     <string name="howto_playstore_signing_action">مزید پڑھیں</string>
-    <string name="howto_playstore_signing_body">جب پلے کنسول \"ایپ سائننگ کی ترجیحات\" (App signing preferences) کے بارے میں پوچھے، تو پہلا آپشن منتخب کریں: &lt;b&gt;گوگل کو اپنی ایپ سائننگ کی کو منظم اور محفوظ کرنے دیں (تجویز کردہ)&lt;/b&gt;۔&lt;br/&gt;&lt;br/&gt;یہ &lt;b&gt;پلے ایپ سائننگ&lt;/b&gt; کو فعال کرتا ہے۔ گوگل اصل سائننگ کی کو اپنے پاس رکھتا ہے؛ آپ صرف اپنی اپ لوڈ کی کے ساتھ سائن کردہ APKs/AABs اپ لوڈ کرتے ہیں۔&lt;br/&gt;&lt;br/&gt;اگر آپ بعد میں کی اسٹور کھو دیتے ہیں (مثال کے طور پر HTMLtoAPK کو ان انسٹال کر کے)، تو آپ پلے کنسول میں &lt;b&gt;اپ لوڈ کی ری سیٹ&lt;/b&gt; کی درخواست کر سکتے ہیں اور صارفین کو تب بھی اپ ڈیٹس موصول ہوتی رہیں گی۔&lt;br/&gt;&lt;br/&gt;اگر آپ کو اپنی سائننگ کی خود اپ لوڈ کرنی ہے، تو اس ایپ میں کی اسٹور کھولیں اور &lt;b&gt;پلے اسٹور کے لیے ایکسپورٹ (PEPK)&lt;/b&gt; پر ٹیپ کریں۔ &lt;b&gt;output.zip&lt;/b&gt; بنانے اور اسے اپ لوڈ کرنے کے لیے وہی طریقہ منتخب کریں جو پلے کنسول دکھاتا ہے (ہیکس پبلک کی یا RSA پبلک کی PEM)۔&lt;br/&gt;&lt;br/&gt;صرف تب ہی \"اپنی کی ایکسپورٹ اور اپ لوڈ کریں\" کا انتخاب کریں اگر آپ کو مکمل یقین ہو کہ آپ اس کی کو ہمیشہ محفوظ رکھ سکتے ہیں۔ اسے کھونے کا مطلب ہے کہ آپ دوبارہ ایپ کو اپ ڈیٹ نہیں کر سکیں گے۔</string>
+    <string name="howto_playstore_signing_body">جب پلے کنسول \"ایپ سائننگ کی ترجیحات\" (App signing preferences) کے بارے میں پوچھے، تو پہلا آپشن منتخب کریں: &lt;b&gt;گوگل کو اپنی ایپ سائننگ کی کو منظم اور محفوظ کرنے دیں (تجویز کردہ)&lt;/b&gt;۔&lt;br/&gt;&lt;br/&gt;یہ &lt;b&gt;پلے ایپ سائننگ&lt;/b&gt; کو فعال کرتا ہے۔ گوگل اصل سائننگ کی کو اپنے پاس رکھتا ہے؛ آپ صرف اپنی اپ لوڈ کی کے ساتھ سائن کردہ APKs/AABs اپ لوڈ کرتے ہیں۔&lt;br/&gt;&lt;br/&gt;اگر آپ بعد میں کی اسٹور کھو دیتے ہیں (مثال کے طور پر HTML2APK کو ان انسٹال کر کے)، تو آپ پلے کنسول میں &lt;b&gt;اپ لوڈ کی ری سیٹ&lt;/b&gt; کی درخواست کر سکتے ہیں اور صارفین کو تب بھی اپ ڈیٹس موصول ہوتی رہیں گی۔&lt;br/&gt;&lt;br/&gt;اگر آپ کو اپنی سائننگ کی خود اپ لوڈ کرنی ہے، تو اس ایپ میں کی اسٹور کھولیں اور &lt;b&gt;پلے اسٹور کے لیے ایکسپورٹ (PEPK)&lt;/b&gt; پر ٹیپ کریں۔ &lt;b&gt;output.zip&lt;/b&gt; بنانے اور اسے اپ لوڈ کرنے کے لیے وہی طریقہ منتخب کریں جو پلے کنسول دکھاتا ہے (ہیکس پبلک کی یا RSA پبلک کی PEM)۔&lt;br/&gt;&lt;br/&gt;صرف تب ہی \"اپنی کی ایکسپورٹ اور اپ لوڈ کریں\" کا انتخاب کریں اگر آپ کو مکمل یقین ہو کہ آپ اس کی کو ہمیشہ محفوظ رکھ سکتے ہیں۔ اسے کھونے کا مطلب ہے کہ آپ دوبارہ ایپ کو اپ ڈیٹ نہیں کر سکیں گے۔</string>
     <string name="howto_playstore_signing_summary">اپ لوڈ کیز، پلے ایپ سائننگ اور PEPK کو سمجھیں۔</string>
     <string name="howto_playstore_signing_title">پلے اسٹور سائننگ کلید کا انتخاب</string>
     <string name="howto_preview_body">پریویو آپ کے صفحے کو اسی طرح چلاتا ہے جیسے تیار شدہ ایپ چلے گی، بشمول Android API کالز۔ HTML ایڈیٹر آپ کے کوڈ کو رنگ دیتا ہے، آپ کے لیے ٹیگز بند کرتا ہے اور اس میں تلاش اور تبدیلی (find and replace) کی سہولت موجود ہے۔ جب آپ پریویو اور ایڈیٹر کے درمیان سوئچ کرتے ہیں تو تبدیلیاں برقرار رہتی ہیں۔</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">اس ڈیوائس پر ایک کاپی رکھیں</string>
     <string name="keystore_persisted">Downloads/HTMLtoAPK/Keystores میں محفوظ کر لیا گیا</string>
     <string name="keystore_project_linked">پروجیکٹ: %1$s</string>
-    <string name="keystore_recovery_body">اگر آپ نے HTMLtoAPK کو ان انسٹال کر دیا ہے، تو خودکار طور پر تیار کردہ ایپ سائننگ کیز ضائع ہو سکتی ہیں۔ ایک نیا بلڈ مختلف کلید کے ساتھ سائن کیا جائے گا اور پلے اسٹور اپ ڈیٹ کو مسترد کر سکتا ہے۔&lt;br/&gt;&lt;br/&gt;&lt;b&gt;حل 1 - اپ لوڈ کلید ری سیٹ کریں (تجویز کردہ):&lt;/b&gt;&lt;br/&gt;1. نیچے دی گئی فہرست سے اپنی نئی کی اسٹور کا &lt;b&gt;PEM سرٹیفکیٹ&lt;/b&gt; ایکسپورٹ کریں۔&lt;br/&gt;2. پلے کنسول میں، &lt;b&gt;ایپ سائننگ &gt; اپ لوڈ کلید ری سیٹ کی درخواست کریں&lt;/b&gt; پر جائیں۔&lt;br/&gt;3. فارم پُر کریں اور PEM فائل اپ لوڈ کریں۔&lt;br/&gt;4. منظوری کے بعد، اپنی نئی APK/AAB کو نئی کلید کے ساتھ سائن کر کے شائع کریں۔&lt;br/&gt;&lt;br/&gt;&lt;b&gt;حل 2 - ایپ سائننگ کلید کو تبدیل کریں:&lt;/b&gt;&lt;br/&gt;اگر پلے کنسول آپ کو نئی ایپ سائننگ کلید اپ لوڈ کرنے کی اجازت دیتا ہے، تو کی اسٹور پر &lt;b&gt;پلے اسٹور کے لیے ایکسپورٹ (PEPK)&lt;/b&gt; استعمال کریں۔ پلے کنسول میں دکھایا گیا وہی طریقہ منتخب کریں (hex کلید یا RSA PEM)، output.zip تیار کریں، اور اسے اپ لوڈ کریں۔&lt;br/&gt;&lt;br/&gt;صارفین کو اپ ڈیٹس موصول ہوتی رہیں گی کیونکہ جب آپ صرف اپ لوڈ کلید کو ری سیٹ کرتے ہیں تو ایپ سائننگ کلید گوگل کے پاس رہتی ہے۔&lt;br/&gt;&lt;br/&gt;&lt;b&gt;اگر پلے ایپ سائننگ غیر فعال ہے&lt;/b&gt; اور آپ نے سائننگ کلید کھو دی ہے، تو آپ کو ایپ کو نئے پیکیج نام کے ساتھ دوبارہ شائع کرنا ہوگا۔</string>
+    <string name="keystore_recovery_body">اگر آپ نے HTML2APK کو ان انسٹال کر دیا ہے، تو خودکار طور پر تیار کردہ ایپ سائننگ کیز ضائع ہو سکتی ہیں۔ ایک نیا بلڈ مختلف کلید کے ساتھ سائن کیا جائے گا اور پلے اسٹور اپ ڈیٹ کو مسترد کر سکتا ہے۔&lt;br/&gt;&lt;br/&gt;&lt;b&gt;حل 1 - اپ لوڈ کلید ری سیٹ کریں (تجویز کردہ):&lt;/b&gt;&lt;br/&gt;1. نیچے دی گئی فہرست سے اپنی نئی کی اسٹور کا &lt;b&gt;PEM سرٹیفکیٹ&lt;/b&gt; ایکسپورٹ کریں۔&lt;br/&gt;2. پلے کنسول میں، &lt;b&gt;ایپ سائننگ &gt; اپ لوڈ کلید ری سیٹ کی درخواست کریں&lt;/b&gt; پر جائیں۔&lt;br/&gt;3. فارم پُر کریں اور PEM فائل اپ لوڈ کریں۔&lt;br/&gt;4. منظوری کے بعد، اپنی نئی APK/AAB کو نئی کلید کے ساتھ سائن کر کے شائع کریں۔&lt;br/&gt;&lt;br/&gt;&lt;b&gt;حل 2 - ایپ سائننگ کلید کو تبدیل کریں:&lt;/b&gt;&lt;br/&gt;اگر پلے کنسول آپ کو نئی ایپ سائننگ کلید اپ لوڈ کرنے کی اجازت دیتا ہے، تو کی اسٹور پر &lt;b&gt;پلے اسٹور کے لیے ایکسپورٹ (PEPK)&lt;/b&gt; استعمال کریں۔ پلے کنسول میں دکھایا گیا وہی طریقہ منتخب کریں (hex کلید یا RSA PEM)، output.zip تیار کریں، اور اسے اپ لوڈ کریں۔&lt;br/&gt;&lt;br/&gt;صارفین کو اپ ڈیٹس موصول ہوتی رہیں گی کیونکہ جب آپ صرف اپ لوڈ کلید کو ری سیٹ کرتے ہیں تو ایپ سائننگ کلید گوگل کے پاس رہتی ہے۔&lt;br/&gt;&lt;br/&gt;&lt;b&gt;اگر پلے ایپ سائننگ غیر فعال ہے&lt;/b&gt; اور آپ نے سائننگ کلید کھو دی ہے، تو آپ کو ایپ کو نئے پیکیج نام کے ساتھ دوبارہ شائع کرنا ہوگا۔</string>
     <string name="keystore_recovery_close">سمجھ گیا</string>
     <string name="keystore_recovery_open_console">پلے کنسول کھولیں</string>
     <string name="keystore_recovery_title">اپنی سائننگ کلید کھو دی؟</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF ویور</string>
     <string name="licenses_count">%1$d لائبریریاں</string>
     <string name="licenses_empty">آپ کی تلاش سے کوئی لائبریری مماثل نہیں ہے۔</string>
-    <string name="licenses_intro">HTML to APK نیچے دیے گئے اوپن سورس سافٹ ویئر پر بنایا گیا ہے۔ \"جنریٹڈ ایپس\" کے نشان والی لائبریریاں ان ایپس میں بھی پیک کی جاتی ہیں جو یہ بناتا ہے (اشتہاری لائبریریاں صرف تب جب اشتہارات آن ہوں)۔</string>
+    <string name="licenses_intro">HTML2APK نیچے دیے گئے اوپن سورس سافٹ ویئر پر بنایا گیا ہے۔ \"جنریٹڈ ایپس\" کے نشان والی لائبریریاں ان ایپس میں بھی پیک کی جاتی ہیں جو یہ بناتا ہے (اشتہاری لائبریریاں صرف تب جب اشتہارات آن ہوں)۔</string>
     <string name="licenses_load_failed">لائسنس کی فہرست لوڈ نہیں کی جا سکی۔</string>
     <string name="licenses_open_license">اوپن لائسنس</string>
     <string name="licenses_open_website">ویب سائٹ</string>
@@ -1083,7 +1083,7 @@
     <string name="mail_report_device">ڈیوائس: %1$s %2$s</string>
     <string name="mail_report_end">=== رپورٹ کا اختتام ===</string>
     <string name="mail_report_format">آؤٹ پٹ فارمیٹ: %1$s</string>
-    <string name="mail_report_intro">HTML to APK ایپ میں ایک بلڈ ناکام ہو گیا۔</string>
+    <string name="mail_report_intro">HTML2APK ایپ میں ایک بلڈ ناکام ہو گیا۔</string>
     <string name="mail_report_intro2">براہ کرم اس خرابی کی رپورٹ کا جائزہ لیں۔</string>
     <string name="mail_report_package_name">پیکیج کا نام: %1$s</string>
     <string name="mail_report_project_name">پروجیکٹ کا نام: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">ترتیبات</string>
     <string name="nav_templates">ٹیمپلیٹس</string>
     <string name="not_selected">غیر منتخب کردہ</string>
-    <string name="offer_dialog_message">HTML to APK کے ساتھ بنائی گئی اپنی ایپ کی نمائش کرنے والی ایک ویڈیو شیئر کریں۔ جب یہ 10,000 ویوز تک پہنچ جائے گی، تو پرو ہماری طرف سے ہوگا۔</string>
+    <string name="offer_dialog_message">HTML2APK کے ساتھ بنائی گئی اپنی ایپ کی نمائش کرنے والی ایک ویڈیو شیئر کریں۔ جب یہ 10,000 ویوز تک پہنچ جائے گی، تو پرو ہماری طرف سے ہوگا۔</string>
     <string name="offer_dialog_no">ابھی نہیں</string>
     <string name="offer_dialog_title">مفت میں پرو حاصل کریں</string>
     <string name="offer_dialog_yes">میں اسے کیسے حاصل کروں؟</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">الگ سے فروخت کیا جاتا ہے، کسی پرو کی ضرورت نہیں۔ نئے اکاؤنٹس کو ان کی پہلی ایپ مفت ملتی ہے۔</string>
     <string name="premium_credits_link_title">AI کریڈٹ پیکس</string>
     <string name="premium_crown_subtitle">تمام حدود ختم کریں اور مکمل طاقت کے ساتھ تخلیق کریں۔</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">ہیلو! میں ایمرے ہوں، 19 سال کا، اور میں HTML to APK کو مکمل طور پر اپنے طور پر بڑے شوق سے تیار کرتا ہوں۔ میرا مقصد آپ کو اپنے ویب پروجیکٹس کو بغیر کسی پیچیدہ سیٹ اپ کے، آسانی سے اینڈرائیڈ ایپس میں تبدیل کرنے کے قابل بنانا ہے۔\n\nپرو میں اپ گریڈ کر کے، آپ براہ راست ایک نوجوان انڈی ڈویلپر کی حمایت کرتے ہیں اور اس پروجیکٹ کی مستقبل کی ترقی کو ایندھن فراہم کرتے ہیں۔ آپ کی مہربان حمایت کا بہت بہت شکریہ! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">ہیلو! میں ایمرے ہوں، 19 سال کا، اور میں HTML2APK کو مکمل طور پر اپنے طور پر بڑے شوق سے تیار کرتا ہوں۔ میرا مقصد آپ کو اپنے ویب پروجیکٹس کو بغیر کسی پیچیدہ سیٹ اپ کے، آسانی سے اینڈرائیڈ ایپس میں تبدیل کرنے کے قابل بنانا ہے۔\n\nپرو میں اپ گریڈ کر کے، آپ براہ راست ایک نوجوان انڈی ڈویلپر کی حمایت کرتے ہیں اور اس پروجیکٹ کی مستقبل کی ترقی کو ایندھن فراہم کرتے ہیں۔ آپ کی مہربان حمایت کا بہت بہت شکریہ! ❤️</string>
     <string name="premium_dev_note_title">ڈویلپر کی طرف سے ایک نوٹ 👋</string>
     <string name="premium_error_payment">ادائیگی دستیاب نہیں ہے۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
     <string name="premium_extra_ads_detail">ایپلیکیشن ورک اسپیس اور تمام ایکسپورٹ شدہ ایپس دونوں میں کوئی دخل اندازی کرنے والے اشتہارات نہیں۔ ایک صاف، خلفشار سے پاک ماحول کا لطف اٹھائیں۔</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">لامحدود پی ڈی ایف دستاویزات پڑھیں</string>
     <string name="premium_feature_unlimited_pdf_detail">مفت پلان 5 پی ڈی ایف دستاویز کے پروجیکٹس تک محفوظ رکھتا ہے۔ پرو اس حد کو ختم کر دیتا ہے، تاکہ آپ کی ریڈنگ لائبریری بڑھتی رہے۔</string>
     <string name="premium_feature_watermark_desc">تیار کردہ ایپس سے واٹر مارک ہٹائیں</string>
-    <string name="premium_feature_watermark_detail">مکمل طور پر وائٹ لیبل، برانڈڈ ایپلی کیشنز کے لیے تمام ایکسپورٹ شدہ بلڈز سے \'Made with HTML to APK\' اسپلش انڈیکیٹرز اور واٹر مارکس کو ہٹا دیں۔</string>
+    <string name="premium_feature_watermark_detail">مکمل طور پر وائٹ لیبل، برانڈڈ ایپلی کیشنز کے لیے تمام ایکسپورٹ شدہ بلڈز سے \'Made with HTML2APK\' اسپلش انڈیکیٹرز اور واٹر مارکس کو ہٹا دیں۔</string>
     <string name="premium_feature_webview_desc">ایڈوانسڈ ویب ویو سیٹنگز</string>
     <string name="premium_feature_webview_detail">ہارڈویئر ایکسلریشن، JS کنسول لاگز، کسٹم یوزر ایجنٹ اسٹرنگز، فائل اپ لوڈ کی اجازتوں، اور کیشنگ حکمت عملیوں پر مکمل کنٹرول حاصل کریں۔</string>
     <string name="premium_less_features_button">کم دکھائیں</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">رائے بھیجیں</string>
     <string name="settings_feedback_chooser">فیڈبیک بھیجیں</string>
     <string name="settings_feedback_no_app">کوئی ای میل ایپ نہیں ملی</string>
-    <string name="settings_feedback_subject">HTML ٹو APK بلڈر - رائے</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">مفت میں پرو حاصل کریں</string>
     <string name="settings_free_premium_summary">ویڈیو شیئر کریں، 10 ہزار ویوز حاصل کریں، پرو پائیں</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">آن ہے</string>
     <string name="support_button_action">سپورٹ</string>
     <string name="support_cats_interactive_hint">کسی بھی بلی کو تھپتھپانے کے لیے اس پر کلک کریں! 🐾</string>
-    <string name="support_developer_desc">ہیلو! پرو خریدنے کے لیے آپ کا بہت بہت شکریہ۔ ایک آزاد سولو ڈویلپر کے طور پر، میں مسلسل HTML to APK کو برقرار رکھتا ہوں اور بہتر بناتا ہوں۔ اگر آپ کو ایپ پسند ہے اور آپ مستقبل کی اپ ڈیٹس کی حمایت کرنا چاہتے ہیں، تو آپ اختیاری طور پر مجھے کافی یا کھانا کھلا سکتے ہیں۔ ہر تعاون میرے لیے بہت معنی رکھتا ہے! ❤️</string>
+    <string name="support_developer_desc">ہیلو! پرو خریدنے کے لیے آپ کا بہت بہت شکریہ۔ ایک آزاد سولو ڈویلپر کے طور پر، میں مسلسل HTML2APK کو برقرار رکھتا ہوں اور بہتر بناتا ہوں۔ اگر آپ کو ایپ پسند ہے اور آپ مستقبل کی اپ ڈیٹس کی حمایت کرنا چاہتے ہیں، تو آپ اختیاری طور پر مجھے کافی یا کھانا کھلا سکتے ہیں۔ ہر تعاون میرے لیے بہت معنی رکھتا ہے! ❤️</string>
     <string name="support_developer_subtitle">اگر آپ میری حمایت کرنا چاہتے ہیں ☕</string>
     <string name="support_developer_title">ڈویلپر کی معاونت کریں</string>
     <string name="support_success_button">خوش آمدید ❤️</string>
-    <string name="support_success_message">آپ کا تعاون موصول ہو گیا ہے! HTML to APK بنانے والے ایک آزاد سولو ڈویلپر کے طور پر، آپ نے مجھے زبردست طاقت، حوصلہ اور ترغیب دی ہے۔\n\nہماری بلیاں آپ کے لیے جشن منا رہی ہیں! 🐾</string>
+    <string name="support_success_message">آپ کا تعاون موصول ہو گیا ہے! HTML2APK بنانے والے ایک آزاد سولو ڈویلپر کے طور پر، آپ نے مجھے زبردست طاقت، حوصلہ اور ترغیب دی ہے۔\n\nہماری بلیاں آپ کے لیے جشن منا رہی ہیں! 🐾</string>
     <string name="support_success_title">آپ لاجواب ہیں! ❤️</string>
     <string name="support_tier_coffee_desc">دیر رات کی کوڈنگ کے لیے کافی کا ایک گرم کپ ☕</string>
     <string name="support_tier_coffee_title">کافی خریدیں</string>
     <string name="support_tier_meal_desc">توانائی برقرار رکھنے اور توجہ مرکوز رکھنے کے لیے ایک اچھا کھانا 🍕</string>
     <string name="support_tier_meal_title">کھانا کھلائیں</string>
-    <string name="support_tier_sponsor_desc">HTML to APK کے مستقبل کے لیے براہ راست تعاون 🚀</string>
+    <string name="support_tier_sponsor_desc">HTML2APK کے مستقبل کے لیے براہ راست تعاون 🚀</string>
     <string name="support_tier_sponsor_title">سپر اسپانسر</string>
     <string name="switch_role">سوئچ</string>
     <string name="tab">ٹیب</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">فل سکرین لے آؤٹ</string>
     <string name="template_gallery_desc">ایک base64 تصویر کو فوٹو گیلری میں محفوظ کریں۔</string>
     <string name="template_gallery_title">گیلری میں محفوظ کریں</string>
-    <string name="template_guide_body">HTML to APK آپ کے WebView میں AndroidAPI نامی ایک گلوبل جاوا اسکرپٹ آبجیکٹ داخل کرتا ہے۔ آپ ان طریقوں کو براہ راست اپنے HTML/JS کوڈ سے کال کر سکتے ہیں:</string>
+    <string name="template_guide_body">HTML2APK آپ کے WebView میں AndroidAPI نامی ایک گلوبل جاوا اسکرپٹ آبجیکٹ داخل کرتا ہے۔ آپ ان طریقوں کو براہ راست اپنے HTML/JS کوڈ سے کال کر سکتے ہیں:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // returns JSON\nAndroidAPI.getBatteryLevel() // returns int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // returns int 0-255</string>
     <string name="template_guide_note">ٹپ: ان APIs کو onclick ہینڈلرز یا کسی بھی جاوا اسکرپٹ فنکشن کے اندر استعمال کریں۔ جب آپ کی ایپ HTML سے APK میں بنتی ہے تو یہ آبجیکٹ خود بخود دستیاب ہو جاتا ہے۔</string>
     <string name="template_guide_title">API گائیڈ</string>

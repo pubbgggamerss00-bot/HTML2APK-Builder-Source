@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">йо&amp;#39;ೋಚಿಸಲಾಗುತ್ತಿದೆ…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">ಸಾಧನವು ನಿಧಾನವಾಗಿದ್ದರಿಂದ ಅನಿಮೇಷನ್‌ಗಳನ್ನು ಆಫ್ ಮಾಡಲಾಗಿದೆ. ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಅವುಗಳನ್ನು ಆನ್ ಮಾಡಿ.</string>
-    <string name="app_name">HTML ಟು APK ಬಿಲ್ಡರ್</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Google Play ಗೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ, ದಯವಿಟ್ಟು ಕೆಲವು ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
     <string name="billing_restore_error">ಕ್ವೆರಿ ಮಾಡುವಾಗ ದೋಷ: %1$s</string>
     <string name="billing_restore_not_found">ಈ Google ಖಾತೆಗಾಗಿ ಯಾವುದೇ ಸಕ್ರಿಯ ಖರೀದಿ ಕಂಡುಬಂದಿಲ್ಲ.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">ಇಮೇಲ್ ಕಳುಹಿಸಿ</string>
     <string name="build_failed_dialog_title">ಬಿಲ್ಡ್ ವಿಫಲವಾಗಿದೆ</string>
     <string name="build_failed_email_chooser">ದೋಷ ವರದಿಯನ್ನು ಕಳುಹಿಸಿ...</string>
-    <string name="build_failed_email_subject">[HTML to APK] ಬಿಲ್ಡ್ ವೈಫಲ್ಯದ ವರದಿ - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] ಬಿಲ್ಡ್ ವೈಫಲ್ಯದ ವರದಿ - %1$s</string>
     <string name="build_format_aab">ಆ್ಯಪ್ ಬಂಡಲ್</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB ಬಿಲ್ಡ್ ಪೂರ್ಣಗೊಂಡಿದೆ: %1$s (%2$d ಬೈಟ್‌ಗಳು)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">ನೀವು ನಿರ್ಮಿಸಿದ್ದನ್ನು ಪ್ರಪಂಚದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ ಮತ್ತು ಬದಲಿಗೆ ಪ್ರೊ ಆವೃತ್ತಿಯನ್ನು ಪಡೆಯಿರಿ. ಇದು ಕೇವಲ 3 ಸರಳ ಹಂತಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ:</string>
     <string name="free_premium_note">ಸಲಹೆ: ಪರಿಶೀಲನೆಯನ್ನು ವೇಗಗೊಳಿಸಲು ನಿಮ್ಮ ಇಮೇಲ್‌ನಲ್ಲಿ ವೀಕ್ಷಣೆಯ ಸಂಖ್ಯೆಯ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅನ್ನು ಸೇರಿಸಿ.</string>
     <string name="free_premium_send_email">ಇಮೇಲ್ ಕಳುಹಿಸಿ</string>
-    <string name="free_premium_step1_desc">HTML to APK ಬಳಸಿ ನೀವು ಮಾಡಿದ ಆ್ಯಪ್ ಅಥವಾ ಗೇಮ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವ ವೀಡಿಯೊವನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ ಮತ್ತು ಅದನ್ನು YouTube, TikTok ಅಥವಾ Instagram ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ.</string>
+    <string name="free_premium_step1_desc">HTML2APK ಬಳಸಿ ನೀವು ಮಾಡಿದ ಆ್ಯಪ್ ಅಥವಾ ಗೇಮ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವ ವೀಡಿಯೊವನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ ಮತ್ತು ಅದನ್ನು YouTube, TikTok ಅಥವಾ Instagram ನಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಿ.</string>
     <string name="free_premium_step1_title">ವೀಡಿಯೊವನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಿ ಮತ್ತು ಹಂಚಿಕೊಳ್ಳಿ</string>
     <string name="free_premium_step2_desc">ನಿಮ್ಮ ವೀಡಿಯೊ ಈ ಯಾವುದೇ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳಲ್ಲಿ 10,000 ವೀಕ್ಷಣೆಗಳನ್ನು ತಲುಪಿದ ನಂತರ, ನಿಮ್ಮ ಬಹುಮಾನ ಸಿದ್ಧವಾಗಿರುತ್ತದೆ.</string>
     <string name="free_premium_step2_title">10,000 ವೀಕ್ಷಣೆಗಳನ್ನು ತಲುಪಿ</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">ಎಲ್ಲವನ್ನೂ ಅಚ್ಚುಕಟ್ಟಾಗಿಡಲು ಫೋಲ್ಡರ್‌ಗಳು ಮತ್ತು ಪ್ರಾಜೆಕ್ಟ್ ಕ್ರಿಯೆಗಳನ್ನು ಬಳಸಿ.</string>
     <string name="howto_organize_title">ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಕ್ರಮಬದ್ಧವಾಗಿ ಇರಿಸಿ</string>
     <string name="howto_output_body">APK ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಅಥವಾ ನೇರವಾಗಿ ಹಂಚಿಕೊಳ್ಳಲು ಆಗಿದೆ. AAB ಎನ್ನುವುದು Google Play ಗೆ ಅಗತ್ಯವಿರುವ ಸ್ವರೂಪವಾಗಿದೆ (Pro). Pro ನೊಂದಿಗೆ ನೀವು ಪ್ರಾಜೆಕ್ಟ್ ಮೆನುವಿನಿಂದ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಆಂಡ್ರಾಯ್ಡ್ ಸ್ಟುಡಿಯೋ ಪ್ರಾಜೆಕ್ಟ್ (ZIP) ಆಗಿ ರಫ್ತು ಮಾಡಬಹುದು. ಹಿಂದಿನ ಬಿಲ್ಡ್‌ಗಳು ಅದೇ ಮೆನುವಿನಲ್ಲಿರುವ ಬಿಲ್ಡ್ ಔಟ್‌ಪುಟ್‌ಗಳ ಅಡಿಯಲ್ಲಿವೆ, ಮತ್ತು ಮುಖ್ಯ ಮೆನುವಿನಿಂದ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ZIP ಬ್ಯಾಕಪ್‌ಗಳಾಗಿ ರಫ್ತು ಅಥವಾ ಆಮದು ಮಾಡಿಕೊಳ್ಳಬಹುದು.</string>
-    <string name="howto_overview">HTML to APK Builder ನೊಂದಿಗೆ, ನೀವು ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಅಥವಾ HTML ಫೈಲ್‌ಗಳನ್ನು ನಿಜವಾದ ಆಂಡ್ರಾಯ್ಡ್ ಆ್ಯಪ್ ಆಗಿ ಪರಿವರ್ತಿಸಬಹುದು. ಯಾವುದೇ ಕೋಡಿಂಗ್ ಅಗತ್ಯವಿಲ್ಲ!</string>
+    <string name="howto_overview">HTML2APK ನೊಂದಿಗೆ, ನೀವು ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಅಥವಾ HTML ಫೈಲ್‌ಗಳನ್ನು ನಿಜವಾದ ಆಂಡ್ರಾಯ್ಡ್ ಆ್ಯಪ್ ಆಗಿ ಪರಿವರ್ತಿಸಬಹುದು. ಯಾವುದೇ ಕೋಡಿಂಗ್ ಅಗತ್ಯವಿಲ್ಲ!</string>
     <string name="howto_pdf_body">ಪ್ರಾಜೆಕ್ಟ್ ರಚಿಸಿ, ನಂತರ ಓಪನ್ / ವ್ಯೂ PDF ಆಯ್ಕೆ ಮಾಡಿದರೆ ರೀಡರ್ ತೆರೆಯುತ್ತದೆ. ಜೂಮ್ ಮಾಡಿ, ಲೈಟ್ ಮತ್ತು ಡಾರ್ಕ್ ಮೋಡ್‌ಗಳ ನಡುವೆ ಬದಲಾಯಿಸಿ, ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ಸೇರಿಸಿ ಮತ್ತು ನೀವು ಕೊನೆಯದಾಗಿ ಓದಿದ ಪುಟದಿಂದ ಮುಂದುವರಿಸಿ. ಪುಟಗಳನ್ನು ಮರುಕ್ರಮಗೊಳಿಸಲು ಅಥವಾ ಡಾಕ್ಯುಮೆಂಟ್‌ಗೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಸೇರಿಸಲು ಎಡಿಟ್ ಬಳಸಿ. ನೀವು ನಂತರ ಡಾಕ್ಯುಮೆಂಟ್ ಅನ್ನು ಆ್ಯಪ್ ಆಗಿ ಪರಿವರ್ತಿಸಬಹುದು.</string>
     <string name="howto_playstore_signing_action">ಇನ್ನಷ್ಟು ಓದಿ</string>
-    <string name="howto_playstore_signing_body">Play Console “App signing preferences” (ಆ್ಯಪ್ ಸಹಿ ಮಾಡುವ ಆದ್ಯತೆಗಳು) ಕೇಳಿದಾಗ, ಮೊದಲ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ: &lt;b&gt;Google ನಿಮ್ಮ ಆ್ಯಪ್ ಸಹಿ ಮಾಡುವ ಕೀಯನ್ನು ನಿರ್ವಹಿಸಲಿ ಮತ್ತು ರಕ್ಷಿಸಲಿ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;ಇದು &lt;b&gt;Play App Signing&lt;/b&gt; ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ. Google ನಿಜವಾದ ಸಹಿ ಕೀಯನ್ನು ಇರಿಸುತ್ತದೆ; ನೀವು ನಿಮ್ಮ ಅಪ್‌ಲೋಡ್ ಕೀಯೊಂದಿಗೆ ಸಹಿ ಮಾಡಿದ APKಗಳು/AABಗಳನ್ನು ಮಾತ್ರ ಅಪ್‌ಲೋಡ್ ಮಾಡುತ್ತೀರಿ.&lt;br/&gt;&lt;br/&gt;ನೀವು ನಂತರ ಕೀಸ್ಟೋರ್ ಅನ್ನು ಕಳೆದುಕೊಂಡರೆ (ಉದಾಹರಣೆಗೆ HTMLtoAPK ಅನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವ ಮೂಲಕ), ನೀವು Play Console ನಲ್ಲಿ &lt;b&gt;ಅಪ್‌ಲೋಡ್ ಕೀ ಮರುಹೊಂದಿಕೆಯನ್ನು (upload key reset)&lt;/b&gt; ವಿನಂತಿಸಬಹುದು ಮತ್ತು ಬಳಕೆದಾರರು ಇನ್ನೂ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸುತ್ತಾರೆ.&lt;br/&gt;&lt;br/&gt;ನೀವು ನಿಮ್ಮ ಸ್ವಂತ ಸಹಿ ಕೀಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲೇಬೇಕಾದರೆ, ಈ ಆ್ಯಪ್‌ನಲ್ಲಿ ಕೀಸ್ಟೋರ್ ಅನ್ನು ತೆರೆಯಿರಿ ಮತ್ತು &lt;b&gt;Play Store ಗಾಗಿ ರಫ್ತು ಮಾಡಿ (PEPK)&lt;/b&gt; ಎಂಬುದನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ. &lt;b&gt;output.zip&lt;/b&gt; ಅನ್ನು ರಚಿಸಲು ಮತ್ತು ಅದನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು Play Console ತೋರಿಸುವ ಅದೇ ವಿಧಾನವನ್ನು (hex public key ಅಥವಾ RSA public key PEM) ಆರಿಸಿ.&lt;br/&gt;&lt;br/&gt;ನೀವು ಆ ಕೀಯನ್ನು ಶಾಶ್ವತವಾಗಿ ಸುರಕ್ಷಿತವಾಗಿಡಬಹುದು ಎಂದು ಸಂಪೂರ್ಣವಾಗಿ ಖಚಿತವಾಗಿದ್ದರೆ ಮಾತ್ರ “ನಿಮ್ಮ ಸ್ವಂತ ಕೀಯನ್ನು ರಫ್ತು ಮಾಡಿ ಮತ್ತು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ” ಎಂಬುದನ್ನು ಆರಿಸಿ. ಅದನ್ನು ಕಳೆದುಕೊಂಡರೆ ನೀವು ಮತ್ತೆ ಆ್ಯಪ್ ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.</string>
+    <string name="howto_playstore_signing_body">Play Console “App signing preferences” (ಆ್ಯಪ್ ಸಹಿ ಮಾಡುವ ಆದ್ಯತೆಗಳು) ಕೇಳಿದಾಗ, ಮೊದಲ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ: &lt;b&gt;Google ನಿಮ್ಮ ಆ್ಯಪ್ ಸಹಿ ಮಾಡುವ ಕೀಯನ್ನು ನಿರ್ವಹಿಸಲಿ ಮತ್ತು ರಕ್ಷಿಸಲಿ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;ಇದು &lt;b&gt;Play App Signing&lt;/b&gt; ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸುತ್ತದೆ. Google ನಿಜವಾದ ಸಹಿ ಕೀಯನ್ನು ಇರಿಸುತ್ತದೆ; ನೀವು ನಿಮ್ಮ ಅಪ್‌ಲೋಡ್ ಕೀಯೊಂದಿಗೆ ಸಹಿ ಮಾಡಿದ APKಗಳು/AABಗಳನ್ನು ಮಾತ್ರ ಅಪ್‌ಲೋಡ್ ಮಾಡುತ್ತೀರಿ.&lt;br/&gt;&lt;br/&gt;ನೀವು ನಂತರ ಕೀಸ್ಟೋರ್ ಅನ್ನು ಕಳೆದುಕೊಂಡರೆ (ಉದಾಹರಣೆಗೆ HTML2APK ಅನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡುವ ಮೂಲಕ), ನೀವು Play Console ನಲ್ಲಿ &lt;b&gt;ಅಪ್‌ಲೋಡ್ ಕೀ ಮರುಹೊಂದಿಕೆಯನ್ನು (upload key reset)&lt;/b&gt; ವಿನಂತಿಸಬಹುದು ಮತ್ತು ಬಳಕೆದಾರರು ಇನ್ನೂ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸುತ್ತಾರೆ.&lt;br/&gt;&lt;br/&gt;ನೀವು ನಿಮ್ಮ ಸ್ವಂತ ಸಹಿ ಕೀಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲೇಬೇಕಾದರೆ, ಈ ಆ್ಯಪ್‌ನಲ್ಲಿ ಕೀಸ್ಟೋರ್ ಅನ್ನು ತೆರೆಯಿರಿ ಮತ್ತು &lt;b&gt;Play Store ಗಾಗಿ ರಫ್ತು ಮಾಡಿ (PEPK)&lt;/b&gt; ಎಂಬುದನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ. &lt;b&gt;output.zip&lt;/b&gt; ಅನ್ನು ರಚಿಸಲು ಮತ್ತು ಅದನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು Play Console ತೋರಿಸುವ ಅದೇ ವಿಧಾನವನ್ನು (hex public key ಅಥವಾ RSA public key PEM) ಆರಿಸಿ.&lt;br/&gt;&lt;br/&gt;ನೀವು ಆ ಕೀಯನ್ನು ಶಾಶ್ವತವಾಗಿ ಸುರಕ್ಷಿತವಾಗಿಡಬಹುದು ಎಂದು ಸಂಪೂರ್ಣವಾಗಿ ಖಚಿತವಾಗಿದ್ದರೆ ಮಾತ್ರ “ನಿಮ್ಮ ಸ್ವಂತ ಕೀಯನ್ನು ರಫ್ತು ಮಾಡಿ ಮತ್ತು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ” ಎಂಬುದನ್ನು ಆರಿಸಿ. ಅದನ್ನು ಕಳೆದುಕೊಂಡರೆ ನೀವು ಮತ್ತೆ ಆ್ಯಪ್ ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ.</string>
     <string name="howto_playstore_signing_summary">ಅಪ್‌ಲೋಡ್ ಕೀಗಳು, ಪ್ಲೇ ಆ್ಯಪ್ ಸೈನಿಂಗ್ ಮತ್ತು PEPK ಕುರಿತು ತಿಳಿಯಿರಿ.</string>
     <string name="howto_playstore_signing_title">Play ಸ್ಟೋರ್ ಸೈನಿಂಗ್ ಕೀ ಆಯ್ಕೆ</string>
     <string name="howto_preview_body">ಪೂರ್ವವೀಕ್ಷಣೆಯು ಆಂಡ್ರಾಯ್ಡ್ API ಕರೆಗಳನ್ನು ಒಳಗೊಂಡಂತೆ, ಅಂತಿಮ ಅಪ್ಲಿಕೇಶನ್ ಹೇಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆಯೋ ಅದೇ ರೀತಿ ನಿಮ್ಮ ಪುಟವನ್ನು ಚಲಾಯಿಸುತ್ತದೆ. HTML ಎಡಿಟರ್ ನಿಮ್ಮ ಕೋಡ್‌ಗೆ ಬಣ್ಣ ನೀಡುತ್ತದೆ, ನಿಮಗಾಗಿ ಟ್ಯಾಗ್‌ಗಳನ್ನು ಮುಚ್ಚುತ್ತದೆ ಮತ್ತು ಹುಡುಕುವ ಮತ್ತು ಬದಲಾಯಿಸುವ ಸೌಲಭ್ಯವನ್ನು ಹೊಂದಿದೆ; ನೀವು ಪೂರ್ವವೀಕ್ಷಣೆಗೆ ಬದಲಾಯಿಸಿದಾಗ ಮತ್ತು ಮತ್ತೆ ಹಿಂದಕ್ಕೆ ಬಂದಾಗ ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">ಈ ಸಾಧನದಲ್ಲಿ ಪ್ರತಿಯನ್ನು ಇರಿಸಿ</string>
     <string name="keystore_persisted">Downloads/HTMLtoAPK/Keystores ಗೆ ಉಳಿಸಲಾಗಿದೆ</string>
     <string name="keystore_project_linked">ಯೋಜನೆ: %1$s</string>
-    <string name="keystore_recovery_body">ನೀವು HTMLtoAPK ಅನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ್ದರೆ, ಸ್ವಯಂ-ರಚಿತ ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಕೀಗಳು ಕಳೆದುಹೋಗಿರಬಹುದು. ಹೊಸ ಬಿಲ್ಡ್ ಅನ್ನು ವಿಭಿನ್ನ ಕೀಯೊಂದಿಗೆ ಸೈನ್ ಮಾಡಲಾಗುತ್ತದೆ ಮತ್ತು Play Store ಅಪ್‌ಡೇಟ್ ಅನ್ನು ತಿರಸ್ಕರಿಸಬಹುದು.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;ಪರಿಹಾರ 1 - ಅಪ್‌ಲೋಡ್ ಕೀಯನ್ನು ಮರುಹೊಂದಿಸಿ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ):&lt;/b&gt;&lt;br/&gt;1. ಕೆಳಗಿನ ಪಟ್ಟಿಯಿಂದ ನಿಮ್ಮ ಹೊಸ ಕೀಸ್ಟೋರ್‌ನ &lt;b&gt;PEM ಪ್ರಮಾಣಪತ್ರವನ್ನು&lt;/b&gt; ರಫ್ತು ಮಾಡಿ.&lt;br/&gt;2. Play ಕನ್ಸೋಲ್‌ನಲ್ಲಿ, &lt;b&gt;ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ &gt; ಅಪ್‌ಲೋಡ್ ಕೀ ಮರುಹೊಂದಿಕೆಯನ್ನು ವಿನಂತಿಸಿ&lt;/b&gt; ಗೆ ಹೋಗಿ.&lt;br/&gt;3. ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು PEM ಫೈಲ್ ಅನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.&lt;br/&gt;4. ಅನುಮೋದನೆಯಾದ ನಂತರ, ಹೊಸ ಕೀಯೊಂದಿಗೆ ಸೈನ್ ಮಾಡಲಾದ ನಿಮ್ಮ ಹೊಸ APK/AAB ಅನ್ನು ಪ್ರಕಟಿಸಿ.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;ಪರಿಹಾರ 2 - ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಕೀಯನ್ನು ಬದಲಾಯಿಸಿ:&lt;/b&gt;&lt;br/&gt;Play ಕನ್ಸೋಲ್ ನಿಮಗೆ ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಕೀಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಅನುಮತಿಸಿದರೆ, ಕೀಸ್ಟೋರ್‌ನಲ್ಲಿ &lt;b&gt;Play Store ಗಾಗಿ ರಫ್ತು ಮಾಡಿ (PEPK)&lt;/b&gt; ಬಳಸಿ. Play ಕನ್ಸೋಲ್‌ನಲ್ಲಿ ತೋರಿಸಿರುವ ಅದೇ ವಿಧಾನವನ್ನು (hex ಕೀ ಅಥವಾ RSA PEM) ಆಯ್ಕೆಮಾಡಿ, output.zip ಅನ್ನು ರಚಿಸಿ ಮತ್ತು ಅದನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.&lt;br/&gt;&lt;br/&gt;ನೀವು ಅಪ್‌ಲೋಡ್ ಕೀಯನ್ನು ಮಾತ್ರ ಮರುಹೊಂದಿಸಿದಾಗ ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಕೀ Google ನೊಂದಿಗೆ ಇರುವುದರಿಂದ ಬಳಕೆದಾರರು ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸುವುದನ್ನು ಮುಂದುವರಿಸುತ್ತಾರೆ.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Play ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದರೆ&lt;/b&gt; ಮತ್ತು ನೀವು ಸೈನಿಂಗ್ ಕೀಯನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದರೆ, ನೀವು ಹೊಸ ಪ್ಯಾಕೇಜ್ ಹೆಸರಿನೊಂದಿಗೆ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮತ್ತೆ ಪ್ರಕಟಿಸಬೇಕು.</string>
+    <string name="keystore_recovery_body">ನೀವು HTML2APK ಅನ್ನು ಅನ್‌ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ್ದರೆ, ಸ್ವಯಂ-ರಚಿತ ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಕೀಗಳು ಕಳೆದುಹೋಗಿರಬಹುದು. ಹೊಸ ಬಿಲ್ಡ್ ಅನ್ನು ವಿಭಿನ್ನ ಕೀಯೊಂದಿಗೆ ಸೈನ್ ಮಾಡಲಾಗುತ್ತದೆ ಮತ್ತು Play Store ಅಪ್‌ಡೇಟ್ ಅನ್ನು ತಿರಸ್ಕರಿಸಬಹುದು.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;ಪರಿಹಾರ 1 - ಅಪ್‌ಲೋಡ್ ಕೀಯನ್ನು ಮರುಹೊಂದಿಸಿ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ):&lt;/b&gt;&lt;br/&gt;1. ಕೆಳಗಿನ ಪಟ್ಟಿಯಿಂದ ನಿಮ್ಮ ಹೊಸ ಕೀಸ್ಟೋರ್‌ನ &lt;b&gt;PEM ಪ್ರಮಾಣಪತ್ರವನ್ನು&lt;/b&gt; ರಫ್ತು ಮಾಡಿ.&lt;br/&gt;2. Play ಕನ್ಸೋಲ್‌ನಲ್ಲಿ, &lt;b&gt;ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ &gt; ಅಪ್‌ಲೋಡ್ ಕೀ ಮರುಹೊಂದಿಕೆಯನ್ನು ವಿನಂತಿಸಿ&lt;/b&gt; ಗೆ ಹೋಗಿ.&lt;br/&gt;3. ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು PEM ಫೈಲ್ ಅನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.&lt;br/&gt;4. ಅನುಮೋದನೆಯಾದ ನಂತರ, ಹೊಸ ಕೀಯೊಂದಿಗೆ ಸೈನ್ ಮಾಡಲಾದ ನಿಮ್ಮ ಹೊಸ APK/AAB ಅನ್ನು ಪ್ರಕಟಿಸಿ.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;ಪರಿಹಾರ 2 - ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಕೀಯನ್ನು ಬದಲಾಯಿಸಿ:&lt;/b&gt;&lt;br/&gt;Play ಕನ್ಸೋಲ್ ನಿಮಗೆ ಹೊಸ ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಕೀಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಅನುಮತಿಸಿದರೆ, ಕೀಸ್ಟೋರ್‌ನಲ್ಲಿ &lt;b&gt;Play Store ಗಾಗಿ ರಫ್ತು ಮಾಡಿ (PEPK)&lt;/b&gt; ಬಳಸಿ. Play ಕನ್ಸೋಲ್‌ನಲ್ಲಿ ತೋರಿಸಿರುವ ಅದೇ ವಿಧಾನವನ್ನು (hex ಕೀ ಅಥವಾ RSA PEM) ಆಯ್ಕೆಮಾಡಿ, output.zip ಅನ್ನು ರಚಿಸಿ ಮತ್ತು ಅದನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.&lt;br/&gt;&lt;br/&gt;ನೀವು ಅಪ್‌ಲೋಡ್ ಕೀಯನ್ನು ಮಾತ್ರ ಮರುಹೊಂದಿಸಿದಾಗ ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಕೀ Google ನೊಂದಿಗೆ ಇರುವುದರಿಂದ ಬಳಕೆದಾರರು ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವೀಕರಿಸುವುದನ್ನು ಮುಂದುವರಿಸುತ್ತಾರೆ.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Play ಅಪ್ಲಿಕೇಶನ್ ಸೈನಿಂಗ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿದ್ದರೆ&lt;/b&gt; ಮತ್ತು ನೀವು ಸೈನಿಂಗ್ ಕೀಯನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದರೆ, ನೀವು ಹೊಸ ಪ್ಯಾಕೇಜ್ ಹೆಸರಿನೊಂದಿಗೆ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮತ್ತೆ ಪ್ರಕಟಿಸಬೇಕು.</string>
     <string name="keystore_recovery_close">ಅರ್ಥವಾಯಿತು</string>
     <string name="keystore_recovery_open_console">Play ಕನ್ಸೋಲ್ ತೆರೆಯಿರಿ</string>
     <string name="keystore_recovery_title">ನಿಮ್ಮ ಸೈನಿಂಗ್ ಕೀ ಕಳೆದುಹೋಗಿದೆಯೇ?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF ವೀಕ್ಷಕ</string>
     <string name="licenses_count">%1$d ಲೈಬ್ರರಿಗಳು</string>
     <string name="licenses_empty">ನಿಮ್ಮ ಹುಡುಕಾಟಕ್ಕೆ ಯಾವುದೇ ಲೈಬ್ರರಿ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.</string>
-    <string name="licenses_intro">HTML to APK ಕೆಳಗಿನ ಓಪನ್ ಸೋರ್ಸ್ ಸಾಫ್ಟ್‌ವೇರ್ ಮೇಲೆ ನಿರ್ಮಿಸಲಾಗಿದೆ. “Generated apps” ಎಂದು ಗುರುತಿಸಲಾದ ಲೈಬ್ರರಿಗಳನ್ನು ಅದು ನಿರ್ಮಿಸುವ ಆ್ಯಪ್‌ಗಳಲ್ಲಿಯೂ ಪ್ಯಾಕೇಜ್ ಮಾಡಲಾಗುತ್ತದೆ (ಜಾಹೀರಾತುಗಳು ಆನ್ ಆಗಿದ್ದಾಗ ಮಾತ್ರ ಜಾಹೀರಾತು ಲೈಬ್ರರಿಗಳು).</string>
+    <string name="licenses_intro">HTML2APK ಕೆಳಗಿನ ಓಪನ್ ಸೋರ್ಸ್ ಸಾಫ್ಟ್‌ವೇರ್ ಮೇಲೆ ನಿರ್ಮಿಸಲಾಗಿದೆ. “Generated apps” ಎಂದು ಗುರುತಿಸಲಾದ ಲೈಬ್ರರಿಗಳನ್ನು ಅದು ನಿರ್ಮಿಸುವ ಆ್ಯಪ್‌ಗಳಲ್ಲಿಯೂ ಪ್ಯಾಕೇಜ್ ಮಾಡಲಾಗುತ್ತದೆ (ಜಾಹೀರಾತುಗಳು ಆನ್ ಆಗಿದ್ದಾಗ ಮಾತ್ರ ಜಾಹೀರಾತು ಲೈಬ್ರರಿಗಳು).</string>
     <string name="licenses_load_failed">ಪರವಾನಗಿ ಪಟ್ಟಿಯನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
     <string name="licenses_open_license">ಲೈಸೆನ್ಸ್ ತೆರೆಯಿರಿ</string>
     <string name="licenses_open_website">ವೆಬ್‌ಸೈಟ್</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
     <string name="nav_templates">ಟೆಂಪ್ಲೇಟ್‌ಗಳು</string>
     <string name="not_selected">ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ</string>
-    <string name="offer_dialog_message">HTML to APK ಬಳಸಿ ನೀವು ನಿರ್ಮಿಸಿದ ಆ್ಯಪ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವ ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ. ಅದು 10,000 ವೀಕ್ಷಣೆಗಳನ್ನು ತಲುಪಿದಾಗ, ಪ್ರೊ ಆವೃತ್ತಿ ನಮಗೆ ಉಚಿತ.</string>
+    <string name="offer_dialog_message">HTML2APK ಬಳಸಿ ನೀವು ನಿರ್ಮಿಸಿದ ಆ್ಯಪ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವ ವೀಡಿಯೊವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ. ಅದು 10,000 ವೀಕ್ಷಣೆಗಳನ್ನು ತಲುಪಿದಾಗ, ಪ್ರೊ ಆವೃತ್ತಿ ನಮಗೆ ಉಚಿತ.</string>
     <string name="offer_dialog_no">ಈಗ ಬೇಡ</string>
     <string name="offer_dialog_title">ಪ್ರೊ ಆವೃತ್ತಿಯನ್ನು ಉಚಿತವಾಗಿ ಪಡೆಯಿರಿ</string>
     <string name="offer_dialog_yes">ನಾನು ಅದನ್ನು ಹೇಗೆ ಗಳಿಸುವುದು?</string>
@@ -1280,7 +1280,7 @@
     <string name="premium_credits_link_title">AI ಕ್ರೆಡಿಟ್ ಪ್ಯಾಕ್‌ಗಳು</string>
     <string name="premium_crown_subtitle">ಎಲ್ಲಾ ಮಿತಿಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಮತ್ತು ಪೂರ್ಣ ಸಾಮರ್ಥ್ಯದೊಂದಿಗೆ ರಚಿಸಿ.</string>
     <string name="premium_crown_title">HTML ನಿಂದ APK ಪ್ರೊ</string>
-    <string name="premium_dev_note_desc">ನಮಸ್ಕಾರ! ನಾನು ಎಮ್ರೆ, 19 ವರ್ಷ ವಯಸ್ಸಿನವನು, ಮತ್ತು ನಾನು HTML to APK ಅನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನನ್ನ ಸ್ವಂತ ಆಸಕ್ತಿಯಿಂದ ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತಿದ್ದೇನೆ. ನಿಮ್ಮ ವೆಬ್ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಯಾವುದೇ ಸಂಕೀರ್ಣ ಸೆಟಪ್ ಇಲ್ಲದೆ ಸುಲಭವಾಗಿ ಆಂಡ್ರಾಯ್ಡ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಾಗಿ ಪರಿವರ್ತಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಮಾಡುವುದು ನನ್ನ ಗುರಿಯಾಗಿದೆ.\n\nPro ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡುವ ಮೂಲಕ, ನೀವು ಯುವ ಇಂಡೀ ಡೆವಲಪರ್‌ಗೆ ನೇರವಾಗಿ ಬೆಂಬಲ ನೀಡುತ್ತೀರಿ ಮತ್ತು ಈ ಯೋಜನೆಯ ಭವಿಷ್ಯದ ಅಭಿವೃದ್ಧಿಗೆ ಉತ್ತೇಜನ ನೀಡುತ್ತೀರಿ. ನಿಮ್ಮ ದಯೆಯ ಬೆಂಬಲಕ್ಕೆ ತುಂಬಾ ಧನ್ಯವಾದಗಳು! ❤️</string>
+    <string name="premium_dev_note_desc">ನಮಸ್ಕಾರ! ನಾನು ಎಮ್ರೆ, 19 ವರ್ಷ ವಯಸ್ಸಿನವನು, ಮತ್ತು ನಾನು HTML2APK ಅನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ನನ್ನ ಸ್ವಂತ ಆಸಕ್ತಿಯಿಂದ ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತಿದ್ದೇನೆ. ನಿಮ್ಮ ವೆಬ್ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಯಾವುದೇ ಸಂಕೀರ್ಣ ಸೆಟಪ್ ಇಲ್ಲದೆ ಸುಲಭವಾಗಿ ಆಂಡ್ರಾಯ್ಡ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಾಗಿ ಪರಿವರ್ತಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಮಾಡುವುದು ನನ್ನ ಗುರಿಯಾಗಿದೆ.\n\nPro ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡುವ ಮೂಲಕ, ನೀವು ಯುವ ಇಂಡೀ ಡೆವಲಪರ್‌ಗೆ ನೇರವಾಗಿ ಬೆಂಬಲ ನೀಡುತ್ತೀರಿ ಮತ್ತು ಈ ಯೋಜನೆಯ ಭವಿಷ್ಯದ ಅಭಿವೃದ್ಧಿಗೆ ಉತ್ತೇಜನ ನೀಡುತ್ತೀರಿ. ನಿಮ್ಮ ದಯೆಯ ಬೆಂಬಲಕ್ಕೆ ತುಂಬಾ ಧನ್ಯವಾದಗಳು! ❤️</string>
     <string name="premium_dev_note_title">ಡೆವಲಪರ್‌ನಿಂದ ಒಂದು ಟಿಪ್ಪಣಿ 👋</string>
     <string name="premium_error_payment">ಪಾವತಿ ಲಭ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
     <string name="premium_extra_ads_detail">ಅಪ್ಲಿಕೇಶನ್ ವರ್ಕ್‌ಸ್ಪೇಸ್ ಮತ್ತು ಎಲ್ಲಾ ರಫ್ತು ಮಾಡಿದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಲ್ಲಿ ಯಾವುದೇ ಕಿರಿಕಿರಿ ಉಂಟುಮಾಡುವ ಜಾಹೀರಾತುಗಳಿಲ್ಲ. ಸ್ವಚ್ಛವಾದ, ಗೊಂದಲವಿಲ್ಲದ ವಾತಾವರಣವನ್ನು ಆನಂದಿಸಿ.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">ಅನಿಯಮಿತ PDF ಡಾಕ್ಯುಮೆಂಟ್‌ಗಳನ್ನು ಓದಿ</string>
     <string name="premium_feature_unlimited_pdf_detail">ಉಚಿತ ಪ್ಲಾನ್ 5 PDF ಡಾಕ್ಯುಮೆಂಟ್ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಇರಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಪ್ರೊ ಆವೃತ್ತಿಯು ಈ ಮಿತಿಯನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ, ಇದರಿಂದ ನಿಮ್ಮ ಓದುವ ಲೈಬ್ರರಿಯು ಬೆಳೆಯುತ್ತಲೇ ಇರಬಹುದು.</string>
     <string name="premium_feature_watermark_desc">ರಚಿಸಲಾದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಂದ ವಾಟರ್‌ಮಾರ್ಕ್ ತೆಗೆದುಹಾಕಿ</string>
-    <string name="premium_feature_watermark_detail">ಸಂಪೂರ್ಣ ವೈಟ್-ಲೇಬಲ್, ಬ್ರ್ಯಾಂಡೆಡ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗಾಗಿ ಎಲ್ಲಾ ರಫ್ತು ಮಾಡಿದ ಬಿಲ್ಡ್‌ಗಳಿಂದ \'Made with HTML to APK\' ಸ್ಪ್ಲಾಶ್ ಸೂಚಕಗಳು ಮತ್ತು ವಾಟರ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.</string>
+    <string name="premium_feature_watermark_detail">ಸಂಪೂರ್ಣ ವೈಟ್-ಲೇಬಲ್, ಬ್ರ್ಯಾಂಡೆಡ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗಾಗಿ ಎಲ್ಲಾ ರಫ್ತು ಮಾಡಿದ ಬಿಲ್ಡ್‌ಗಳಿಂದ \'Made with HTML2APK\' ಸ್ಪ್ಲಾಶ್ ಸೂಚಕಗಳು ಮತ್ತು ವಾಟರ್‌ಮಾರ್ಕ್‌ಗಳನ್ನು ತೆಗೆದುಹಾಕಿ.</string>
     <string name="premium_feature_webview_desc">ಸುಧಾರಿತ WebView ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
     <string name="premium_feature_webview_detail">ಹಾರ್ಡ್‌ವೇರ್ ವೇಗವರ್ಧನೆ, JS ಕನ್ಸೋಲ್ ಲಾಗ್‌ಗಳು, ಕಸ್ಟಮ್ ಯೂಸರ್-ಏಜೆಂಟ್ ಸ್ಟ್ರಿಂಗ್‌ಗಳು, ಫೈಲ್ ಅಪ್‌ಲೋಡ್ ಅನುಮತಿಗಳು ಮತ್ತು ಕ್ಯಾಶಿಂಗ್ ತಂತ್ರಗಳ ಮೇಲೆ ಸಂಪೂರ್ಣ ನಿಯಂತ್ರಣವನ್ನು ಪಡೆಯಿರಿ.</string>
     <string name="premium_less_features_button">ಕಡಿಮೆ ತೋರಿಸು</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕಳುಹಿಸಿ</string>
     <string name="settings_feedback_chooser">ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕಳುಹಿಸಿ</string>
     <string name="settings_feedback_no_app">ಯಾವುದೇ ಇಮೇಲ್ ಅಪ್ಲಿಕೇಶನ್ ಕಂಡುಬಂದಿಲ್ಲ</string>
-    <string name="settings_feedback_subject">HTML ಟು APK ಬಿಲ್ಡರ್ - ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">ಪ್ರೊ ಆವೃತ್ತಿಯನ್ನು ಉಚಿತವಾಗಿ ಪಡೆಯಿರಿ</string>
     <string name="settings_free_premium_summary">ವೀಡಿಯೊ ಹಂಚಿಕೊಳ್ಳಿ, 10K ವೀಕ್ಷಣೆಗಳನ್ನು ತಲುಪಿ, ಪ್ರೊ ಪಡೆಯಿರಿ</string>
@@ -1509,7 +1509,7 @@
     <string name="state_on">ಆನ್ ಆಗಿದೆ</string>
     <string name="support_button_action">ಬೆಂಬಲಿಸಿ</string>
     <string name="support_cats_interactive_hint">ಯಾವುದಾದರೂ ಬೆಕ್ಕನ್ನು ಮುಟ್ಟಲು ಅದರ ಮೇಲೆ ಟ್ಯಾಪ್ ಮಾಡಿ! 🐾</string>
-    <string name="support_developer_desc">ನಮಸ್ಕಾರ! Pro ಖರೀದಿಸಿದ್ದಕ್ಕಾಗಿ ತುಂಬಾ ಧನ್ಯವಾದಗಳು. ಸ್ವತಂತ್ರ ಡೆವಲಪರ್ ಆಗಿ, ನಾನು HTML to APK ಅನ್ನು ನಿರಂತರವಾಗಿ ನಿರ್ವಹಿಸುತ್ತೇನೆ ಮತ್ತು ಸುಧಾರಿಸುತ್ತೇನೆ. ನೀವು ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಇಷ್ಟಪಟ್ಟರೆ ಮತ್ತು ಭವಿಷ್ಯದ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಬೆಂಬಲಿಸಲು ಬಯಸಿದರೆ, ನೀವು ನನಗೆ ಕಾಫಿ ಅಥವಾ ಊಟವನ್ನು ಖರೀದಿಸಬಹುದು. ಪ್ರತಿಯೊಂದು ಕೊಡುಗೆಯೂ ನನಗೆ ಬಹಳ ಮುಖ್ಯ! ❤️</string>
+    <string name="support_developer_desc">ನಮಸ್ಕಾರ! Pro ಖರೀದಿಸಿದ್ದಕ್ಕಾಗಿ ತುಂಬಾ ಧನ್ಯವಾದಗಳು. ಸ್ವತಂತ್ರ ಡೆವಲಪರ್ ಆಗಿ, ನಾನು HTML2APK ಅನ್ನು ನಿರಂತರವಾಗಿ ನಿರ್ವಹಿಸುತ್ತೇನೆ ಮತ್ತು ಸುಧಾರಿಸುತ್ತೇನೆ. ನೀವು ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಇಷ್ಟಪಟ್ಟರೆ ಮತ್ತು ಭವಿಷ್ಯದ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಬೆಂಬಲಿಸಲು ಬಯಸಿದರೆ, ನೀವು ನನಗೆ ಕಾಫಿ ಅಥವಾ ಊಟವನ್ನು ಖರೀದಿಸಬಹುದು. ಪ್ರತಿಯೊಂದು ಕೊಡುಗೆಯೂ ನನಗೆ ಬಹಳ ಮುಖ್ಯ! ❤️</string>
     <string name="support_developer_subtitle">ನೀವು ನನಗೆ ಬೆಂಬಲಿಸಲು ಬಯಸಿದರೆ ☕</string>
     <string name="support_developer_title">ಡೆವಲಪರ್‌ಗೆ ಬೆಂಬಲ ನೀಡಿ</string>
     <string name="support_success_button">ನಿಮಗೆ ಸ್ವಾಗತ ❤️</string>
@@ -1519,7 +1519,7 @@
     <string name="support_tier_coffee_title">ಒಂದು ಕಾಫಿ ಖರೀದಿಸಿ</string>
     <string name="support_tier_meal_desc">ಶಕ್ತಿಯುತವಾಗಿ ಮತ್ತು ಏಕಾಗ್ರತೆಯಿಂದ ಇರಲು ಒಂದು ಉತ್ತಮ ಭೋಜನ 🍕</string>
     <string name="support_tier_meal_title">ಊಟವನ್ನು ಖರೀದಿಸಿ</string>
-    <string name="support_tier_sponsor_desc">HTML to APK ನ ಭವಿಷ್ಯಕ್ಕೆ ನೇರ ಕೊಡುಗೆ 🚀</string>
+    <string name="support_tier_sponsor_desc">HTML2APK ನ ಭವಿಷ್ಯಕ್ಕೆ ನೇರ ಕೊಡುಗೆ 🚀</string>
     <string name="support_tier_sponsor_title">ಸೂಪರ್ ಸ್ಪಾನ್ಸರ್</string>
     <string name="switch_role">ಬದಲಿಸಿ</string>
     <string name="tab">ಟ್ಯಾಬ್</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">ಪೂರ್ಣ-ಪರದೆಯ ಲೇಔಟ್</string>
     <string name="template_gallery_desc">base64 ಇಮೇಜ್ ಅನ್ನು ಫೋಟೋ ಗ್ಯಾಲರಿಯಲ್ಲಿ ಉಳಿಸಿ.</string>
     <string name="template_gallery_title">ಗ್ಯಾಲರಿಗೆ ಉಳಿಸಿ</string>
-    <string name="template_guide_body">HTML to APK ನಿಮ್ಮ WebView ನಲ್ಲಿ AndroidAPI ಎಂಬ ಜಾಗತಿಕ JavaScript ಆಬ್ಜೆಕ್ಟ್ ಅನ್ನು ಇಂಜೆಕ್ಟ್ ಮಾಡುತ್ತದೆ. ನೀವು ಈ ವಿಧಾನಗಳನ್ನು ನೇರವಾಗಿ ನಿಮ್ಮ HTML/JS ಕೋಡ್‌ನಿಂದ ಕರೆಯಬಹುದು:</string>
+    <string name="template_guide_body">HTML2APK ನಿಮ್ಮ WebView ನಲ್ಲಿ AndroidAPI ಎಂಬ ಜಾಗತಿಕ JavaScript ಆಬ್ಜೆಕ್ಟ್ ಅನ್ನು ಇಂಜೆಕ್ಟ್ ಮಾಡುತ್ತದೆ. ನೀವು ಈ ವಿಧಾನಗಳನ್ನು ನೇರವಾಗಿ ನಿಮ್ಮ HTML/JS ಕೋಡ್‌ನಿಂದ ಕರೆಯಬಹುದು:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // JSON ಅನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ\nAndroidAPI.getBatteryLevel() // 0-100 ರ ನಡುವಿನ ಪೂರ್ಣಾಂಕವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // 0-255 ರ ನಡುವಿನ ಪೂರ್ಣಾಂಕವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತದೆ</string>
     <string name="template_guide_note">ಸಲಹೆ: ಈ APIಗಳನ್ನು onclick ಹ್ಯಾಂಡ್ಲರ್‌ಗಳು ಅಥವಾ ಯಾವುದೇ JavaScript ಫಂಕ್ಷನ್‌ನಲ್ಲಿ ಬಳಸಿ. ನಿಮ್ಮ ಆ್ಯಪ್ ಅನ್ನು HTML ನಿಂದ APK ಗೆ ಬಿಲ್ಡ್ ಮಾಡಿದಾಗ ಈ ಆಬ್ಜೆಕ್ಟ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಲಭ್ಯವಿರುತ್ತದೆ.</string>
     <string name="template_guide_title">API ಮಾರ್ಗದರ್ಶಿ</string>

@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">새가드쥬다...</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">기기 성능 문제로 애니메이션이 꺼졌습니다. 설정에서 다시 켤 수 있습니다.</string>
-    <string name="app_name">HTML to APK 빌더</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Google Play에 연결 중입니다. 잠시 후 다시 시도해 주세요.</string>
     <string name="billing_restore_error">쿼리 중 오류 발생: %1$s</string>
     <string name="billing_restore_not_found">이 Google 계정에서 활성화된 구매 내역을 찾을 수 없습니다.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">이메일 보내기</string>
     <string name="build_failed_dialog_title">빌드 실패</string>
     <string name="build_failed_email_chooser">다음으로 오류 보고서 보내기…</string>
-    <string name="build_failed_email_subject">[HTML to APK] 빌드 실패 보고서 - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] 빌드 실패 보고서 - %1$s</string>
     <string name="build_format_aab">앱 번들</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB 빌드 완료됨: %1$s (%2$d 바이트)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">당신이 만든 결과물을 세상에 공유하고 Pro를 받아보세요. 3단계만 거치면 됩니다:</string>
     <string name="free_premium_note">팁: 인증 속도를 높이려면 이메일에 조회수가 포함된 스크린샷을 첨부하세요.</string>
     <string name="free_premium_send_email">이메일 보내기</string>
-    <string name="free_premium_step1_desc">HTML to APK로 만든 앱이나 게임을 소개하는 영상을 녹화하여 YouTube, TikTok 또는 Instagram에 공유하세요.</string>
+    <string name="free_premium_step1_desc">HTML2APK로 만든 앱이나 게임을 소개하는 영상을 녹화하여 YouTube, TikTok 또는 Instagram에 공유하세요.</string>
     <string name="free_premium_step1_title">영상 녹화 및 공유</string>
     <string name="free_premium_step2_desc">해당 플랫폼 중 하나에서 영상 조회수가 10,000회에 도달하면 보상을 받을 준비가 완료됩니다.</string>
     <string name="free_premium_step2_title">조회수 10,000회 달성</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">폴더와 프로젝트 작업을 사용하여 모든 것을 깔끔하게 정리하세요.</string>
     <string name="howto_organize_title">프로젝트 정리하기</string>
     <string name="howto_output_body">APK는 휴대폰에 설치하거나 직접 공유하기 위한 형식입니다. AAB는 Google Play에 필요한 형식입니다(Pro). Pro 버전을 사용하면 프로젝트 메뉴에서 프로젝트를 Android Studio 프로젝트(ZIP)로 내보낼 수도 있습니다. 이전 빌드는 동일한 메뉴의 빌드 출력에서 확인할 수 있으며, 메인 메뉴에서 프로젝트를 ZIP 백업으로 내보내거나 가져올 수 있습니다.</string>
-    <string name="howto_overview">HTML to APK Builder를 사용하면 웹사이트나 HTML 파일을 실제 Android 앱으로 변환할 수 있습니다. 코딩이 필요하지 않습니다!</string>
+    <string name="howto_overview">HTML2APK를 사용하면 웹사이트나 HTML 파일을 실제 Android 앱으로 변환할 수 있습니다. 코딩이 필요하지 않습니다!</string>
     <string name="howto_pdf_body">프로젝트를 생성한 후 PDF 열기/보기를 선택하면 리더가 열립니다. 확대/축소, 밝은 모드와 어두운 모드 간 전환, 북마크 추가 및 마지막 페이지부터 계속 읽기가 가능합니다. 페이지 순서를 변경하거나 문서에 주석을 달려면 편집을 사용하세요. 나중에 문서를 앱으로 변환할 수 있습니다.</string>
     <string name="howto_playstore_signing_action">더 읽기</string>
-    <string name="howto_playstore_signing_body">Play Console에서 “앱 서명 환경설정”을 물어보면 첫 번째 옵션인 &lt;b&gt;Google에서 앱 서명 키를 관리하고 보호하도록 허용(권장)&lt;/b&gt;을 선택하세요.&lt;br/&gt;&lt;br/&gt;이렇게 하면 &lt;b&gt;Play 앱 서명&lt;/b&gt;이 활성화됩니다. Google이 실제 서명 키를 보관하며, 사용자는 업로드 키로 서명된 APK/AAB만 업로드하면 됩니다.&lt;br/&gt;&lt;br/&gt;나중에 키 저장소를 분실하더라도(예: HTMLtoAPK 제거 시), Play Console에서 &lt;b&gt;업로드 키 재설정&lt;/b&gt;을 요청할 수 있으며 사용자는 계속 업데이트를 받을 수 있습니다.&lt;br/&gt;&lt;br/&gt;직접 서명 키를 업로드해야 하는 경우, 이 앱에서 키 저장소를 열고 &lt;b&gt;Play 스토어용으로 내보내기(PEPK)&lt;/b&gt;를 탭하세요. Play Console에 표시된 것과 동일한 방법(16진수 공개 키 또는 RSA 공개 키 PEM)을 선택하여 &lt;b&gt;output.zip&lt;/b&gt;을 생성하고 업로드하세요.&lt;br/&gt;&lt;br/&gt;“직접 키 내보내기 및 업로드”는 해당 키를 영원히 안전하게 보관할 수 있다고 확신하는 경우에만 선택하세요. 키를 분실하면 앱을 다시 업데이트할 수 없습니다.</string>
+    <string name="howto_playstore_signing_body">Play Console에서 “앱 서명 환경설정”을 물어보면 첫 번째 옵션인 &lt;b&gt;Google에서 앱 서명 키를 관리하고 보호하도록 허용(권장)&lt;/b&gt;을 선택하세요.&lt;br/&gt;&lt;br/&gt;이렇게 하면 &lt;b&gt;Play 앱 서명&lt;/b&gt;이 활성화됩니다. Google이 실제 서명 키를 보관하며, 사용자는 업로드 키로 서명된 APK/AAB만 업로드하면 됩니다.&lt;br/&gt;&lt;br/&gt;나중에 키 저장소를 분실하더라도(예: HTML2APK 제거 시), Play Console에서 &lt;b&gt;업로드 키 재설정&lt;/b&gt;을 요청할 수 있으며 사용자는 계속 업데이트를 받을 수 있습니다.&lt;br/&gt;&lt;br/&gt;직접 서명 키를 업로드해야 하는 경우, 이 앱에서 키 저장소를 열고 &lt;b&gt;Play 스토어용으로 내보내기(PEPK)&lt;/b&gt;를 탭하세요. Play Console에 표시된 것과 동일한 방법(16진수 공개 키 또는 RSA 공개 키 PEM)을 선택하여 &lt;b&gt;output.zip&lt;/b&gt;을 생성하고 업로드하세요.&lt;br/&gt;&lt;br/&gt;“직접 키 내보내기 및 업로드”는 해당 키를 영원히 안전하게 보관할 수 있다고 확신하는 경우에만 선택하세요. 키를 분실하면 앱을 다시 업데이트할 수 없습니다.</string>
     <string name="howto_playstore_signing_summary">업로드 키, Play 앱 서명 및 PEPK에 대해 알아보세요.</string>
     <string name="howto_playstore_signing_title">Play 스토어 서명 키 선택</string>
     <string name="howto_preview_body">미리보기는 Android API 호출을 포함하여 완성된 앱과 동일한 방식으로 페이지를 실행합니다. HTML 편집기는 코드를 색상으로 표시하고, 태그를 자동으로 닫으며, 찾기 및 바꾸기 기능을 제공합니다. 미리보기로 전환했다가 돌아와도 변경 사항은 유지됩니다.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">이 기기에 사본 보관</string>
     <string name="keystore_persisted">Downloads/HTMLtoAPK/Keystores에 저장됨</string>
     <string name="keystore_project_linked">프로젝트: %1$s</string>
-    <string name="keystore_recovery_body">HTMLtoAPK를 제거했다면 자동 생성된 앱 서명 키가 손실되었을 수 있습니다. 새 빌드는 다른 키로 서명되므로 Play 스토어에서 업데이트가 거부될 수 있습니다.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;해결 방법 1 - 업로드 키 재설정(권장):&lt;/b&gt;&lt;br/&gt;1. 아래 목록에서 새 키 저장소의 &lt;b&gt;PEM 인증서&lt;/b&gt;를 내보냅니다.&lt;br/&gt;2. Play Console에서 &lt;b&gt;앱 서명 &gt; 업로드 키 재설정 요청&lt;/b&gt;으로 이동합니다.&lt;br/&gt;3. 양식을 작성하고 PEM 파일을 업로드합니다.&lt;br/&gt;4. 승인되면 새 키로 서명된 새 APK/AAB를 게시합니다.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;해결 방법 2 - 앱 서명 키 교체:&lt;/b&gt;&lt;br/&gt;Play Console에서 새 앱 서명 키 업로드를 허용하는 경우, 키 저장소에서 &lt;b&gt;Play 스토어용으로 내보내기(PEPK)&lt;/b&gt;를 사용하세요. Play Console에 표시된 것과 동일한 방법(16진수 키 또는 RSA PEM)을 선택하고 output.zip을 생성하여 업로드하세요.&lt;br/&gt;&lt;br/&gt;업로드 키만 재설정하면 앱 서명 키는 Google에 그대로 유지되므로 사용자는 계속 업데이트를 받을 수 있습니다.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Play 앱 서명이 비활성화되어 있고&lt;/b&gt; 서명 키를 분실한 경우, 새 패키지 이름으로 앱을 다시 게시해야 합니다.</string>
+    <string name="keystore_recovery_body">HTML2APK를 제거했다면 자동 생성된 앱 서명 키가 손실되었을 수 있습니다. 새 빌드는 다른 키로 서명되므로 Play 스토어에서 업데이트가 거부될 수 있습니다.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;해결 방법 1 - 업로드 키 재설정(권장):&lt;/b&gt;&lt;br/&gt;1. 아래 목록에서 새 키 저장소의 &lt;b&gt;PEM 인증서&lt;/b&gt;를 내보냅니다.&lt;br/&gt;2. Play Console에서 &lt;b&gt;앱 서명 &gt; 업로드 키 재설정 요청&lt;/b&gt;으로 이동합니다.&lt;br/&gt;3. 양식을 작성하고 PEM 파일을 업로드합니다.&lt;br/&gt;4. 승인되면 새 키로 서명된 새 APK/AAB를 게시합니다.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;해결 방법 2 - 앱 서명 키 교체:&lt;/b&gt;&lt;br/&gt;Play Console에서 새 앱 서명 키 업로드를 허용하는 경우, 키 저장소에서 &lt;b&gt;Play 스토어용으로 내보내기(PEPK)&lt;/b&gt;를 사용하세요. Play Console에 표시된 것과 동일한 방법(16진수 키 또는 RSA PEM)을 선택하고 output.zip을 생성하여 업로드하세요.&lt;br/&gt;&lt;br/&gt;업로드 키만 재설정하면 앱 서명 키는 Google에 그대로 유지되므로 사용자는 계속 업데이트를 받을 수 있습니다.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Play 앱 서명이 비활성화되어 있고&lt;/b&gt; 서명 키를 분실한 경우, 새 패키지 이름으로 앱을 다시 게시해야 합니다.</string>
     <string name="keystore_recovery_close">확인</string>
     <string name="keystore_recovery_open_console">Play Console 열기</string>
     <string name="keystore_recovery_title">서명 키를 분실하셨나요?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF 뷰어</string>
     <string name="licenses_count">%1$d개의 라이브러리</string>
     <string name="licenses_empty">검색어와 일치하는 라이브러리가 없습니다.</string>
-    <string name="licenses_intro">HTML to APK는 아래 오픈 소스 소프트웨어를 기반으로 구축되었습니다. “생성된 앱”으로 표시된 라이브러리는 빌드된 앱에도 패키징됩니다(광고 라이브러리는 광고가 켜져 있을 때만 포함).</string>
+    <string name="licenses_intro">HTML2APK는 아래 오픈 소스 소프트웨어를 기반으로 구축되었습니다. “생성된 앱”으로 표시된 라이브러리는 빌드된 앱에도 패키징됩니다(광고 라이브러리는 광고가 켜져 있을 때만 포함).</string>
     <string name="licenses_load_failed">라이선스 목록을 불러올 수 없습니다.</string>
     <string name="licenses_open_license">오픈 라이선스</string>
     <string name="licenses_open_website">웹사이트</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">전환 드롭다운 메뉴</string>
     <string name="m3c_snackbar_dismiss">닫기</string>
     <string name="mail_report_android">Android 버전: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK 버전: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK 버전: v%1$s (%2$d)</string>
     <string name="mail_report_date">날짜: %1$s</string>
     <string name="mail_report_default_project">프로젝트</string>
     <string name="mail_report_device">기기: %1$s %2$s</string>
     <string name="mail_report_end">=== 보고서 끝 ===</string>
     <string name="mail_report_format">출력 형식: %1$s</string>
-    <string name="mail_report_intro">HTML to APK 앱 내부에서 빌드가 실패했습니다.</string>
+    <string name="mail_report_intro">HTML2APK 앱 내부에서 빌드가 실패했습니다.</string>
     <string name="mail_report_intro2">이 오류 보고서를 검토해 주세요.</string>
     <string name="mail_report_package_name">패키지 이름: %1$s</string>
     <string name="mail_report_project_name">프로젝트 이름: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">설정</string>
     <string name="nav_templates">템플릿</string>
     <string name="not_selected">선택되지 않음</string>
-    <string name="offer_dialog_message">HTML to APK로 만든 앱을 소개하는 영상을 공유하세요. 조회수 10,000회를 달성하면 Pro를 무료로 드립니다.</string>
+    <string name="offer_dialog_message">HTML2APK로 만든 앱을 소개하는 영상을 공유하세요. 조회수 10,000회를 달성하면 Pro를 무료로 드립니다.</string>
     <string name="offer_dialog_no">나중에</string>
     <string name="offer_dialog_title">무료로 Pro 받기</string>
     <string name="offer_dialog_yes">어떻게 받을 수 있나요?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">별도 판매, Pro 필요 없음. 새 계정은 첫 번째 앱을 무료로 이용할 수 있습니다.</string>
     <string name="premium_credits_link_title">AI 크레딧 팩</string>
     <string name="premium_crown_subtitle">모든 제한을 제거하고 자유롭게 제작하세요.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">안녕하세요! 저는 19살 개발자 Emre입니다. 저는 큰 열정을 가지고 HTML to APK를 직접 개발하고 있습니다. 제 목표는 여러분이 복잡한 설정 없이 웹 프로젝트를 실제 안드로이드 앱으로 원활하게 변환할 수 있도록 돕는 것입니다.\n\nPro 버전으로 업그레이드하시면 젊은 인디 개발자를 직접 지원하고 이 프로젝트의 미래 개발에 큰 힘이 됩니다. 따뜻한 후원에 진심으로 감사드립니다! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">안녕하세요! 저는 19살 개발자 Emre입니다. 저는 큰 열정을 가지고 HTML2APK를 직접 개발하고 있습니다. 제 목표는 여러분이 복잡한 설정 없이 웹 프로젝트를 실제 안드로이드 앱으로 원활하게 변환할 수 있도록 돕는 것입니다.\n\nPro 버전으로 업그레이드하시면 젊은 인디 개발자를 직접 지원하고 이 프로젝트의 미래 개발에 큰 힘이 됩니다. 따뜻한 후원에 진심으로 감사드립니다! ❤️</string>
     <string name="premium_dev_note_title">개발자의 메시지 👋</string>
     <string name="premium_error_payment">결제를 사용할 수 없습니다. 나중에 다시 시도해 주세요.</string>
     <string name="premium_extra_ads_detail">애플리케이션 작업 공간과 내보낸 모든 앱에서 방해되는 광고가 전혀 없습니다. 깨끗하고 집중할 수 있는 환경을 즐기세요.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">무제한 PDF 문서 읽기</string>
     <string name="premium_feature_unlimited_pdf_detail">무료 플랜은 최대 5개의 PDF 문서 프로젝트를 유지할 수 있습니다. Pro 버전은 이 제한을 제거하여 독서 라이브러리를 계속 확장할 수 있게 합니다.</string>
     <string name="premium_feature_watermark_desc">생성된 앱에서 워터마크 제거</string>
-    <string name="premium_feature_watermark_detail">완벽한 화이트 라벨 브랜딩 애플리케이션을 위해 모든 내보낸 빌드에서 \'Made with HTML to APK\' 스플래시 표시 및 워터마크를 제거하세요.</string>
+    <string name="premium_feature_watermark_detail">완벽한 화이트 라벨 브랜딩 애플리케이션을 위해 모든 내보낸 빌드에서 \'Made with HTML2APK\' 스플래시 표시 및 워터마크를 제거하세요.</string>
     <string name="premium_feature_webview_desc">고급 WebView 설정</string>
     <string name="premium_feature_webview_detail">하드웨어 가속, JS 콘솔 로그, 사용자 지정 User-Agent 문자열, 파일 업로드 권한 및 캐싱 전략을 완벽하게 제어하세요.</string>
     <string name="premium_less_features_button">간략히 보기</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">피드백 보내기</string>
     <string name="settings_feedback_chooser">피드백 보내기</string>
     <string name="settings_feedback_no_app">이메일 앱을 찾을 수 없습니다</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - 피드백</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">무료로 Pro 받기</string>
     <string name="settings_free_premium_summary">영상을 공유하고 조회수 1만 회를 달성하여 Pro를 받으세요</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">사용</string>
     <string name="support_button_action">후원하기</string>
     <string name="support_cats_interactive_hint">고양이를 탭하여 쓰다듬어 주세요! 🐾</string>
-    <string name="support_developer_desc">안녕하세요! Pro 버전을 구매해 주셔서 대단히 감사합니다. 1인 개발자로서 저는 HTML to APK를 지속적으로 유지 관리하고 개선하고 있습니다. 앱이 마음에 드시고 향후 업데이트를 지원하고 싶으시다면, 커피나 식사 한 끼를 대접해 주실 수 있습니다. 모든 후원은 저에게 큰 힘이 됩니다! ❤️</string>
+    <string name="support_developer_desc">안녕하세요! Pro 버전을 구매해 주셔서 대단히 감사합니다. 1인 개발자로서 저는 HTML2APK를 지속적으로 유지 관리하고 개선하고 있습니다. 앱이 마음에 드시고 향후 업데이트를 지원하고 싶으시다면, 커피나 식사 한 끼를 대접해 주실 수 있습니다. 모든 후원은 저에게 큰 힘이 됩니다! ❤️</string>
     <string name="support_developer_subtitle">저를 후원하고 싶으시다면 ☕</string>
     <string name="support_developer_title">개발자 후원하기</string>
     <string name="support_success_button">천만에요 ❤️</string>
-    <string name="support_success_message">후원이 접수되었습니다! HTML to APK를 만드는 1인 개발자로서, 보내주신 후원은 저에게 엄청난 힘과 사기, 동기부여가 됩니다.\n\n저희 고양이들이 당신을 위해 축하하고 있어요! 🐾</string>
+    <string name="support_success_message">후원이 접수되었습니다! HTML2APK를 만드는 1인 개발자로서, 보내주신 후원은 저에게 엄청난 힘과 사기, 동기부여가 됩니다.\n\n저희 고양이들이 당신을 위해 축하하고 있어요! 🐾</string>
     <string name="support_success_title">정말 감사합니다! ❤️</string>
     <string name="support_tier_coffee_desc">밤샘 코딩을 위한 따뜻한 커피 한 잔 ☕</string>
     <string name="support_tier_coffee_title">커피 한 잔 사주기</string>
     <string name="support_tier_meal_desc">에너지를 충전하고 집중할 수 있는 맛있는 저녁 식사 🍕</string>
     <string name="support_tier_meal_title">식사 대접하기</string>
-    <string name="support_tier_sponsor_desc">HTML to APK의 미래를 위한 직접적인 후원 🚀</string>
+    <string name="support_tier_sponsor_desc">HTML2APK의 미래를 위한 직접적인 후원 🚀</string>
     <string name="support_tier_sponsor_title">슈퍼 스폰서</string>
     <string name="switch_role">스위치</string>
     <string name="tab">탭</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">전체 화면 레이아웃</string>
     <string name="template_gallery_desc">base64 이미지를 사진 갤러리에 저장합니다.</string>
     <string name="template_gallery_title">갤러리에 저장</string>
-    <string name="template_guide_body">HTML to APK는 AndroidAPI라는 전역 JavaScript 객체를 WebView에 삽입합니다. HTML/JS 코드에서 직접 다음 메서드를 호출할 수 있습니다:</string>
+    <string name="template_guide_body">HTML2APK는 AndroidAPI라는 전역 JavaScript 객체를 WebView에 삽입합니다. HTML/JS 코드에서 직접 다음 메서드를 호출할 수 있습니다:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // JSON 반환\nAndroidAPI.getBatteryLevel() // 0-100 정수 반환\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // 0-255 정수 반환</string>
-    <string name="template_guide_note">팁: onclick 핸들러나 JavaScript 함수 내에서 이 API들을 사용하세요. HTML to APK로 앱을 빌드하면 해당 객체를 자동으로 사용할 수 있습니다.</string>
+    <string name="template_guide_note">팁: onclick 핸들러나 JavaScript 함수 내에서 이 API들을 사용하세요. HTML2APK로 앱을 빌드하면 해당 객체를 자동으로 사용할 수 있습니다.</string>
     <string name="template_guide_title">API 가이드</string>
     <string name="template_gyroscope_desc">X, Y, Z 축의 기기 회전 속도를 읽습니다.</string>
     <string name="template_gyroscope_title">자이로스코프</string>

@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Σκέψη…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Οι κινούμενες εικόνες απενεργοποιήθηκαν επειδή η συσκευή αντιμετώπιζε δυσκολίες. Ενεργοποιήστε τις από τις Ρυθμίσεις.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Σύνδεση στο Google Play, παρακαλώ δοκιμάστε ξανά σε λίγα δευτερόλεπτα.</string>
     <string name="billing_restore_error">Σφάλμα κατά το ερώτημα: %1$s</string>
     <string name="billing_restore_not_found">Δεν βρέθηκε ενεργή αγορά για αυτόν τον λογαριασμό Google.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Αποστολή email</string>
     <string name="build_failed_dialog_title">Η δημιουργία απέτυχε</string>
     <string name="build_failed_email_chooser">Αποστολή αναφοράς σφάλματος μέσω…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Αναφορά αποτυχίας δημιουργίας - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Αναφορά αποτυχίας δημιουργίας - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">Η δημιουργία του AAB ολοκληρώθηκε: %1$s (%2$d bytes)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Μοιραστείτε αυτό που δημιουργήσατε με τον κόσμο και αποκτήστε το Pro ως αντάλλαγμα. Χρειάζονται μόνο 3 απλά βήματα:</string>
     <string name="free_premium_note">Συμβουλή: συμπεριλάβετε ένα στιγμιότυπο οθόνης του αριθμού προβολών στο email σας για να επιταχύνετε την επαλήθευση.</string>
     <string name="free_premium_send_email">Αποστολή Email</string>
-    <string name="free_premium_step1_desc">Καταγράψτε ένα βίντεο που παρουσιάζει μια εφαρμογή ή ένα παιχνίδι που δημιουργήσατε με το HTML to APK και μοιραστείτε το στο YouTube, το TikTok ή το Instagram.</string>
+    <string name="free_premium_step1_desc">Καταγράψτε ένα βίντεο που παρουσιάζει μια εφαρμογή ή ένα παιχνίδι που δημιουργήσατε με το HTML2APK και μοιραστείτε το στο YouTube, το TikTok ή το Instagram.</string>
     <string name="free_premium_step1_title">Καταγράψτε και μοιραστείτε ένα βίντεο</string>
     <string name="free_premium_step2_desc">Μόλις το βίντεό σας φτάσει τις 10.000 προβολές σε οποιαδήποτε από αυτές τις πλατφόρμες, η ανταμοιβή σας είναι έτοιμη.</string>
     <string name="free_premium_step2_title">Φτάστε τις 10.000 προβολές</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Χρησιμοποιήστε φακέλους και ενέργειες έργου για να διατηρείτε τα πάντα τακτοποιημένα.</string>
     <string name="howto_organize_title">Διατηρήστε τα έργα σας σε τάξη</string>
     <string name="howto_output_body">Το APK προορίζεται για εγκατάσταση στο τηλέφωνό σας ή για άμεση κοινή χρήση. Το AAB είναι η μορφή που απαιτεί το Google Play (Pro). Με την έκδοση Pro μπορείτε επίσης να εξαγάγετε το έργο ως έργο Android Studio (ZIP) από το μενού έργου. Οι προηγούμενες εκδόσεις βρίσκονται στις Εξόδους Μεταγλώττισης (Build Outputs) στο ίδιο μενού, και το κύριο μενού μπορεί να εξαγάγει ή να εισαγάγει έργα ως αντίγραφα ασφαλείας ZIP.</string>
-    <string name="howto_overview">Με το HTML to APK Builder, μπορείτε να μετατρέψετε τον ιστότοπό σας ή τα αρχεία HTML σε μια πραγματική εφαρμογή Android. Δεν απαιτείται προγραμματισμός!</string>
+    <string name="howto_overview">Με το HTML2APK, μπορείτε να μετατρέψετε τον ιστότοπό σας ή τα αρχεία HTML σε μια πραγματική εφαρμογή Android. Δεν απαιτείται προγραμματισμός!</string>
     <string name="howto_pdf_body">Η επιλογή Δημιουργία έργου και στη συνέχεια Άνοιγμα / προβολή PDF ανοίγει το πρόγραμμα ανάγνωσης. Κάντε ζουμ, εναλλαγή μεταξύ φωτεινής και σκοτεινής ανάγνωσης, προσθέστε σελιδοδείκτες και συνεχίστε από την τελευταία σας σελίδα. Χρησιμοποιήστε την Επεξεργασία όταν θέλετε να αναδιατάξετε σελίδες ή να σχολιάσετε το έγγραφο. Μπορείτε να μετατρέψετε ένα έγγραφο σε εφαρμογή αργότερα.</string>
     <string name="howto_playstore_signing_action">Διαβάστε περισσότερα</string>
-    <string name="howto_playstore_signing_body">Όταν το Play Console ζητήσει «Προτιμήσεις υπογραφής εφαρμογής», επιλέξτε την πρώτη επιλογή: &lt;b&gt;Αφήστε την Google να διαχειρίζεται και να προστατεύει το κλειδί υπογραφής της εφαρμογής σας (προτείνεται)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Αυτό ενεργοποιεί το &lt;b&gt;Play App Signing&lt;/b&gt;. Η Google διατηρεί το πραγματικό κλειδί υπογραφής. Εσείς ανεβάζετε μόνο APK/AAB υπογεγραμμένα με το κλειδί μεταφόρτωσης.&lt;br/&gt;&lt;br/&gt;Αν αργότερα χάσετε το keystore (για παράδειγμα απεγκαθιστώντας το HTMLtoAPK), μπορείτε να ζητήσετε &lt;b&gt;επαναφορά κλειδιού μεταφόρτωσης&lt;/b&gt; στο Play Console και οι χρήστες θα συνεχίσουν να λαμβάνουν ενημερώσεις.&lt;br/&gt;&lt;br/&gt;Αν πρέπει οπωσδήποτε να ανεβάσετε το δικό σας κλειδί υπογραφής, ανοίξτε το keystore σε αυτή την εφαρμογή και πατήστε &lt;b&gt;Εξαγωγή για το Play Store (PEPK)&lt;/b&gt;. Επιλέξτε την ίδια μέθοδο που εμφανίζει το Play Console (δημόσιο κλειδί hex ή δημόσιο κλειδί RSA PEM) για να δημιουργήσετε το &lt;b&gt;output.zip&lt;/b&gt; και ανεβάστε το.&lt;br/&gt;&lt;br/&gt;Επιλέξτε «Εξαγωγή και μεταφόρτωση του δικού σας κλειδιού» μόνο αν είστε απόλυτα σίγουροι ότι μπορείτε να κρατήσετε αυτό το κλειδί ασφαλές για πάντα. Αν το χάσετε, δεν θα μπορείτε να ενημερώσετε ξανά την εφαρμογή.</string>
+    <string name="howto_playstore_signing_body">Όταν το Play Console ζητήσει «Προτιμήσεις υπογραφής εφαρμογής», επιλέξτε την πρώτη επιλογή: &lt;b&gt;Αφήστε την Google να διαχειρίζεται και να προστατεύει το κλειδί υπογραφής της εφαρμογής σας (προτείνεται)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Αυτό ενεργοποιεί το &lt;b&gt;Play App Signing&lt;/b&gt;. Η Google διατηρεί το πραγματικό κλειδί υπογραφής. Εσείς ανεβάζετε μόνο APK/AAB υπογεγραμμένα με το κλειδί μεταφόρτωσης.&lt;br/&gt;&lt;br/&gt;Αν αργότερα χάσετε το keystore (για παράδειγμα απεγκαθιστώντας το HTML2APK), μπορείτε να ζητήσετε &lt;b&gt;επαναφορά κλειδιού μεταφόρτωσης&lt;/b&gt; στο Play Console και οι χρήστες θα συνεχίσουν να λαμβάνουν ενημερώσεις.&lt;br/&gt;&lt;br/&gt;Αν πρέπει οπωσδήποτε να ανεβάσετε το δικό σας κλειδί υπογραφής, ανοίξτε το keystore σε αυτή την εφαρμογή και πατήστε &lt;b&gt;Εξαγωγή για το Play Store (PEPK)&lt;/b&gt;. Επιλέξτε την ίδια μέθοδο που εμφανίζει το Play Console (δημόσιο κλειδί hex ή δημόσιο κλειδί RSA PEM) για να δημιουργήσετε το &lt;b&gt;output.zip&lt;/b&gt; και ανεβάστε το.&lt;br/&gt;&lt;br/&gt;Επιλέξτε «Εξαγωγή και μεταφόρτωση του δικού σας κλειδιού» μόνο αν είστε απόλυτα σίγουροι ότι μπορείτε να κρατήσετε αυτό το κλειδί ασφαλές για πάντα. Αν το χάσετε, δεν θα μπορείτε να ενημερώσετε ξανά την εφαρμογή.</string>
     <string name="howto_playstore_signing_summary">Κατανοήστε τα κλειδιά μεταφόρτωσης, το Play App Signing και το PEPK.</string>
     <string name="howto_playstore_signing_title">Επιλογή κλειδιού υπογραφής Play Store</string>
     <string name="howto_preview_body">Η προεπισκόπηση εκτελεί τη σελίδα σας με τον τρόπο που θα λειτουργεί η ολοκληρωμένη εφαρμογή, συμπεριλαμβανομένων των κλήσεων AndroidAPI. Ο επεξεργαστής HTML χρωματίζει τον κώδικά σας, κλείνει τις ετικέτες για εσάς και διαθέτει εύρεση και αντικατάσταση. Οι αλλαγές διατηρούνται ενώ μεταβαίνετε στην προεπισκόπηση και επιστρέφετε.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Διατήρηση αντιγράφου σε αυτήν τη συσκευή</string>
     <string name="keystore_persisted">Αποθηκεύτηκε στο Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Έργο: %1$s</string>
-    <string name="keystore_recovery_body">Εάν απεγκαταστήσατε το HTMLtoAPK, τα αυτόματα παραγόμενα κλειδιά υπογραφής εφαρμογής ενδέχεται να έχουν χαθεί. Μια νέα έκδοση θα υπογραφεί με διαφορετικό κλειδί και το Play Store ενδέχεται να απορρίψει την ενημέρωση.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Λύση 1 - Επαναφορά κλειδιού μεταφόρτωσης (προτείνεται):&lt;/b&gt;&lt;br/&gt;1. Εξάγετε το &lt;b&gt;πιστοποιητικό PEM&lt;/b&gt; του νέου σας keystore από την παρακάτω λίστα.&lt;br/&gt;2. Στο Play Console, μεταβείτε στο &lt;b&gt;Υπογραφή εφαρμογής &gt; Αίτημα επαναφοράς κλειδιού μεταφόρτωσης&lt;/b&gt;.&lt;br/&gt;3. Συμπληρώστε τη φόρμα και μεταφορτώστε το αρχείο PEM.&lt;br/&gt;4. Μόλις εγκριθεί, δημοσιεύστε το νέο σας APK/AAB υπογεγραμμένο με το νέο κλειδί.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Λύση 2 - Αντικατάσταση κλειδιού υπογραφής εφαρμογής:&lt;/b&gt;&lt;br/&gt;Εάν το Play Console σας επιτρέπει να μεταφορτώσετε ένα νέο κλειδί υπογραφής εφαρμογής, χρησιμοποιήστε την &lt;b&gt;Εξαγωγή για το Play Store (PEPK)&lt;/b&gt; στο keystore. Επιλέξτε την ίδια μέθοδο που εμφανίζεται στο Play Console (δεκαεξαδικό κλειδί ή RSA PEM), δημιουργήστε το output.zip και μεταφορτώστε το.&lt;br/&gt;&lt;br/&gt;Οι χρήστες θα συνεχίσουν να λαμβάνουν ενημερώσεις επειδή το κλειδί υπογραφής της εφαρμογής παραμένει στην Google όταν επαναφέρετε μόνο το κλειδί μεταφόρτωσης.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Εάν η υπογραφή εφαρμογής Play είναι απενεργοποιημένη&lt;/b&gt; και χάσατε το κλειδί υπογραφής, πρέπει να δημοσιεύσετε την εφαρμογή ξανά με νέο όνομα πακέτου.</string>
+    <string name="keystore_recovery_body">Εάν απεγκαταστήσατε το HTML2APK, τα αυτόματα παραγόμενα κλειδιά υπογραφής εφαρμογής ενδέχεται να έχουν χαθεί. Μια νέα έκδοση θα υπογραφεί με διαφορετικό κλειδί και το Play Store ενδέχεται να απορρίψει την ενημέρωση.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Λύση 1 - Επαναφορά κλειδιού μεταφόρτωσης (προτείνεται):&lt;/b&gt;&lt;br/&gt;1. Εξάγετε το &lt;b&gt;πιστοποιητικό PEM&lt;/b&gt; του νέου σας keystore από την παρακάτω λίστα.&lt;br/&gt;2. Στο Play Console, μεταβείτε στο &lt;b&gt;Υπογραφή εφαρμογής &gt; Αίτημα επαναφοράς κλειδιού μεταφόρτωσης&lt;/b&gt;.&lt;br/&gt;3. Συμπληρώστε τη φόρμα και μεταφορτώστε το αρχείο PEM.&lt;br/&gt;4. Μόλις εγκριθεί, δημοσιεύστε το νέο σας APK/AAB υπογεγραμμένο με το νέο κλειδί.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Λύση 2 - Αντικατάσταση κλειδιού υπογραφής εφαρμογής:&lt;/b&gt;&lt;br/&gt;Εάν το Play Console σας επιτρέπει να μεταφορτώσετε ένα νέο κλειδί υπογραφής εφαρμογής, χρησιμοποιήστε την &lt;b&gt;Εξαγωγή για το Play Store (PEPK)&lt;/b&gt; στο keystore. Επιλέξτε την ίδια μέθοδο που εμφανίζεται στο Play Console (δεκαεξαδικό κλειδί ή RSA PEM), δημιουργήστε το output.zip και μεταφορτώστε το.&lt;br/&gt;&lt;br/&gt;Οι χρήστες θα συνεχίσουν να λαμβάνουν ενημερώσεις επειδή το κλειδί υπογραφής της εφαρμογής παραμένει στην Google όταν επαναφέρετε μόνο το κλειδί μεταφόρτωσης.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Εάν η υπογραφή εφαρμογής Play είναι απενεργοποιημένη&lt;/b&gt; και χάσατε το κλειδί υπογραφής, πρέπει να δημοσιεύσετε την εφαρμογή ξανά με νέο όνομα πακέτου.</string>
     <string name="keystore_recovery_close">Το κατάλαβα</string>
     <string name="keystore_recovery_open_console">Άνοιγμα του Play Console</string>
     <string name="keystore_recovery_title">Χάσατε το κλειδί υπογραφής σας;</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Πρόγραμμα προβολής PDF</string>
     <string name="licenses_count">%1$d βιβλιοθήκες</string>
     <string name="licenses_empty">Δεν βρέθηκε καμία βιβλιοθήκη που να ταιριάζει με την αναζήτησή σας.</string>
-    <string name="licenses_intro">Το HTML to APK βασίζεται στο παρακάτω λογισμικό ανοιχτού κώδικα. Οι βιβλιοθήκες που επισημαίνονται ως «Generated apps» συσκευάζονται επίσης στις εφαρμογές που δημιουργεί (οι βιβλιοθήκες διαφημίσεων μόνο όταν οι διαφημίσεις είναι ενεργοποιημένες).</string>
+    <string name="licenses_intro">Το HTML2APK βασίζεται στο παρακάτω λογισμικό ανοιχτού κώδικα. Οι βιβλιοθήκες που επισημαίνονται ως «Generated apps» συσκευάζονται επίσης στις εφαρμογές που δημιουργεί (οι βιβλιοθήκες διαφημίσεων μόνο όταν οι διαφημίσεις είναι ενεργοποιημένες).</string>
     <string name="licenses_load_failed">Η λίστα αδειών δεν ήταν δυνατό να φορτωθεί.</string>
     <string name="licenses_open_license">Άνοιγμα άδειας</string>
     <string name="licenses_open_website">Ιστότοπος</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Εναλλαγή αναπτυσσόμενου μενού</string>
     <string name="m3c_snackbar_dismiss">Παράβλεψη</string>
     <string name="mail_report_android">Έκδοση Android: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Έκδοση HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Έκδοση HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">Ημερομηνία: %1$s</string>
     <string name="mail_report_default_project">Έργο</string>
     <string name="mail_report_device">Συσκευή: %1$s %2$s</string>
     <string name="mail_report_end">=== ΤΕΛΟΣ ΑΝΑΦΟΡΑΣ ===</string>
     <string name="mail_report_format">Μορφή εξόδου: %1$s</string>
-    <string name="mail_report_intro">Μια διαδικασία δημιουργίας απέτυχε μέσα στην εφαρμογή HTML to APK.</string>
+    <string name="mail_report_intro">Μια διαδικασία δημιουργίας απέτυχε μέσα στην εφαρμογή HTML2APK.</string>
     <string name="mail_report_intro2">Παρακαλώ ελέγξτε αυτή την αναφορά σφάλματος.</string>
     <string name="mail_report_package_name">Όνομα πακέτου: %1$s</string>
     <string name="mail_report_project_name">Όνομα έργου: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Ρυθμίσεις</string>
     <string name="nav_templates">Πρότυπα</string>
     <string name="not_selected">Δεν έχει επιλεχθεί</string>
-    <string name="offer_dialog_message">Μοιραστείτε ένα βίντεο που παρουσιάζει μια εφαρμογή που δημιουργήσατε με το HTML to APK. Όταν φτάσει τις 10.000 προβολές, το Pro είναι δικό μας δώρο.</string>
+    <string name="offer_dialog_message">Μοιραστείτε ένα βίντεο που παρουσιάζει μια εφαρμογή που δημιουργήσατε με το HTML2APK. Όταν φτάσει τις 10.000 προβολές, το Pro είναι δικό μας δώρο.</string>
     <string name="offer_dialog_no">Όχι τώρα</string>
     <string name="offer_dialog_title">Αποκτήστε το Pro δωρεάν</string>
     <string name="offer_dialog_yes">Πώς μπορώ να το κερδίσω;</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Πωλούνται χωριστά, δεν απαιτείται Pro. Οι νέοι λογαριασμοί έχουν την πρώτη τους εφαρμογή δωρεάν.</string>
     <string name="premium_credits_link_title">Πακέτα μονάδων τεχνητής νοημοσύνης</string>
     <string name="premium_crown_subtitle">Καταργήστε όλα τα όρια και δημιουργήστε με πλήρη ισχύ.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Γεια! Είμαι ο Emre, 19 ετών, και αναπτύσσω το HTML to APK εντελώς μόνος μου με μεγάλο πάθος. Στόχος μου είναι να σας δώσω τη δυνατότητα να μετατρέψετε τα web projects σας σε πραγματικές εφαρμογές Android απρόσκοπτα, χωρίς περίπλοκες ρυθμίσεις. Αναβαθμίζοντας σε Pro, υποστηρίζετε άμεσα έναν νεαρό indie προγραμματιστή και ενισχύετε τη μελλοντική ανάπτυξη αυτού του έργου. Σας ευχαριστώ πολύ για την ευγενική σας υποστήριξη! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Γεια! Είμαι ο Emre, 19 ετών, και αναπτύσσω το HTML2APK εντελώς μόνος μου με μεγάλο πάθος. Στόχος μου είναι να σας δώσω τη δυνατότητα να μετατρέψετε τα web projects σας σε πραγματικές εφαρμογές Android απρόσκοπτα, χωρίς περίπλοκες ρυθμίσεις. Αναβαθμίζοντας σε Pro, υποστηρίζετε άμεσα έναν νεαρό indie προγραμματιστή και ενισχύετε τη μελλοντική ανάπτυξη αυτού του έργου. Σας ευχαριστώ πολύ για την ευγενική σας υποστήριξη! ❤️</string>
     <string name="premium_dev_note_title">Ένα σημείωμα από τον προγραμματιστή 👋</string>
     <string name="premium_error_payment">Η πληρωμή δεν είναι διαθέσιμη. Παρακαλώ δοκιμάστε ξανά αργότερα.</string>
     <string name="premium_extra_ads_detail">Μηδενικές παρεμβατικές διαφημίσεις τόσο στον χώρο εργασίας της εφαρμογής όσο και σε όλες τις εξαγόμενες εφαρμογές. Απολαύστε ένα καθαρό περιβάλλον χωρίς περισπασμούς.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Ανάγνωση απεριόριστων εγγράφων PDF</string>
     <string name="premium_feature_unlimited_pdf_detail">Το δωρεάν πρόγραμμα διατηρεί έως και 5 έργα εγγράφων PDF. Το Pro καταργεί το όριο, ώστε η βιβλιοθήκη ανάγνωσής σας να μπορεί να συνεχίσει να μεγαλώνει.</string>
     <string name="premium_feature_watermark_desc">Αφαίρεση υδατογραφήματος από τις δημιουργημένες εφαρμογές</string>
-    <string name="premium_feature_watermark_detail">Αφαιρέστε τις ενδείξεις \'Made with HTML to APK\' και τα υδατογραφήματα από όλες τις εξαγόμενες εκδόσεις για πλήρως white-label, επώνυμες εφαρμογές.</string>
+    <string name="premium_feature_watermark_detail">Αφαιρέστε τις ενδείξεις \'Made with HTML2APK\' και τα υδατογραφήματα από όλες τις εξαγόμενες εκδόσεις για πλήρως white-label, επώνυμες εφαρμογές.</string>
     <string name="premium_feature_webview_desc">Προηγμένες ρυθμίσεις WebView</string>
     <string name="premium_feature_webview_detail">Αποκτήστε πλήρη έλεγχο της επιτάχυνσης υλικού, των αρχείων καταγραφής κονσόλας JS, των προσαρμοσμένων συμβολοσειρών User-Agent, των δικαιωμάτων μεταφόρτωσης αρχείων και των στρατηγικών προσωρινής αποθήκευσης.</string>
     <string name="premium_less_features_button">Εμφάνιση λιγότερων</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Αποστολή σχολίων</string>
     <string name="settings_feedback_chooser">Αποστολή σχολίων</string>
     <string name="settings_feedback_no_app">Δεν βρέθηκε εφαρμογή email</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Σχόλια</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Αποκτήστε το Pro δωρεάν</string>
     <string name="settings_free_premium_summary">Μοιραστείτε ένα βίντεο, φτάστε τις 10 χιλιάδες προβολές, αποκτήστε το Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Ενεργός</string>
     <string name="support_button_action">Υποστήριξη</string>
     <string name="support_cats_interactive_hint">Άγγιξε οποιαδήποτε γάτα για να τη χαϊδέψεις! 🐾</string>
-    <string name="support_developer_desc">Γεια σας! Σας ευχαριστώ πολύ για την αγορά της έκδοσης Pro. Ως ανεξάρτητος προγραμματιστής, συντηρώ και βελτιώνω συνεχώς το HTML to APK. Αν σας αρέσει η εφαρμογή και θέλετε να υποστηρίξετε μελλοντικές ενημερώσεις, μπορείτε προαιρετικά να μου κεράσετε έναν καφέ ή ένα γεύμα. Κάθε συνεισφορά σημαίνει τα πάντα για μένα! ❤️</string>
+    <string name="support_developer_desc">Γεια σας! Σας ευχαριστώ πολύ για την αγορά της έκδοσης Pro. Ως ανεξάρτητος προγραμματιστής, συντηρώ και βελτιώνω συνεχώς το HTML2APK. Αν σας αρέσει η εφαρμογή και θέλετε να υποστηρίξετε μελλοντικές ενημερώσεις, μπορείτε προαιρετικά να μου κεράσετε έναν καφέ ή ένα γεύμα. Κάθε συνεισφορά σημαίνει τα πάντα για μένα! ❤️</string>
     <string name="support_developer_subtitle">Αν θα θέλατε να με υποστηρίξετε ☕</string>
     <string name="support_developer_title">Υποστηρίξτε τον προγραμματιστή</string>
     <string name="support_success_button">Παρακαλώ ❤️</string>
-    <string name="support_success_message">Η υποστήριξή σας ελήφθη! Ως ανεξάρτητος προγραμματιστής που δημιουργεί το HTML to APK, μου δώσατε τεράστια δύναμη, ηθικό και κίνητρο. Οι γάτες μας γιορτάζουν για εσάς! 🐾</string>
+    <string name="support_success_message">Η υποστήριξή σας ελήφθη! Ως ανεξάρτητος προγραμματιστής που δημιουργεί το HTML2APK, μου δώσατε τεράστια δύναμη, ηθικό και κίνητρο. Οι γάτες μας γιορτάζουν για εσάς! 🐾</string>
     <string name="support_success_title">Είσαι καταπληκτικός! ❤️</string>
     <string name="support_tier_coffee_desc">Ένας ζεστός καφές για προγραμματισμό αργά το βράδυ ☕</string>
     <string name="support_tier_coffee_title">Κέρασε έναν καφέ</string>
     <string name="support_tier_meal_desc">Ένα ωραίο δείπνο για να παραμείνω γεμάτος ενέργεια και συγκεντρωμένος 🍕</string>
     <string name="support_tier_meal_title">Κέρασε ένα γεύμα</string>
-    <string name="support_tier_sponsor_desc">Άμεση συνεισφορά στο μέλλον του HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Άμεση συνεισφορά στο μέλλον του HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super Χορηγός</string>
     <string name="switch_role">Εναλλαγή</string>
     <string name="tab">Καρτέλα</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">Διάταξη πλήρους οθόνης</string>
     <string name="template_gallery_desc">Αποθήκευση μιας εικόνας base64 στη συλλογή φωτογραφιών.</string>
     <string name="template_gallery_title">Αποθήκευση στη Συλλογή</string>
-    <string name="template_guide_body">Το HTML to APK εισάγει ένα καθολικό αντικείμενο JavaScript που ονομάζεται AndroidAPI στο WebView σας. Μπορείτε να καλέσετε αυτές τις μεθόδους απευθείας από τον κώδικα HTML/JS:</string>
+    <string name="template_guide_body">Το HTML2APK εισάγει ένα καθολικό αντικείμενο JavaScript που ονομάζεται AndroidAPI στο WebView σας. Μπορείτε να καλέσετε αυτές τις μεθόδους απευθείας από τον κώδικα HTML/JS:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // επιστρέφει JSON\nAndroidAPI.getBatteryLevel() // επιστρέφει int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // επιστρέφει int 0-255</string>
     <string name="template_guide_note">Συμβουλή: Χρησιμοποιήστε αυτά τα API μέσα σε χειριστές onclick ή οποιαδήποτε συνάρτηση JavaScript. Το αντικείμενο είναι αυτόματα διαθέσιμο όταν η εφαρμογή σας δημιουργείται με HTML σε APK.</string>
     <string name="template_guide_title">Οδηγός API</string>

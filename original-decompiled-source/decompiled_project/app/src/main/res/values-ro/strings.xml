@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Se gândește…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animațiile au fost dezactivate deoarece dispozitivul întâmpina dificultăți. Activează-le din Setări.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Se conectează la Google Play, te rugăm să încerci din nou în câteva secunde.</string>
     <string name="billing_restore_error">Eroare în timpul interogării: %1$s</string>
     <string name="billing_restore_not_found">Nu a fost găsită nicio achiziție activă pentru acest cont Google.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Trimite e-mail</string>
     <string name="build_failed_dialog_title">Construcția a eșuat</string>
     <string name="build_failed_email_chooser">Trimite raportul de eroare prin...</string>
-    <string name="build_failed_email_subject">[HTML to APK] Raport de eșec al construcției - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Raport de eșec al construcției - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">Compilare AAB finalizată: %1$s (%2$d octeți)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Arată lumii ce ai creat și primește Pro în schimb. Durează doar 3 pași simpli:</string>
     <string name="free_premium_note">Sfat: include o captură de ecran cu numărul de vizualizări în e-mail pentru a accelera verificarea.</string>
     <string name="free_premium_send_email">Trimite e-mail</string>
-    <string name="free_premium_step1_desc">Înregistrează un videoclip care prezintă o aplicație sau un joc creat cu HTML to APK și distribuie-l pe YouTube, TikTok sau Instagram.</string>
+    <string name="free_premium_step1_desc">Înregistrează un videoclip care prezintă o aplicație sau un joc creat cu HTML2APK și distribuie-l pe YouTube, TikTok sau Instagram.</string>
     <string name="free_premium_step1_title">Înregistrează și distribuie un videoclip</string>
     <string name="free_premium_step2_desc">Odată ce videoclipul tău atinge 10.000 de vizualizări pe oricare dintre aceste platforme, recompensa ta este pregătită.</string>
     <string name="free_premium_step2_title">Atinge 10.000 de vizualizări</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Folosește foldere și acțiuni de proiect pentru a păstra totul în ordine.</string>
     <string name="howto_organize_title">Păstrează proiectele în ordine</string>
     <string name="howto_output_body">APK este pentru instalarea pe telefon sau pentru partajare directă. AAB este formatul de care are nevoie Google Play (Pro). Cu Pro poți, de asemenea, să exporți proiectul ca proiect Android Studio (ZIP) din meniul proiectului. Construcțiile anterioare se află sub Rezultate Construcție în același meniu, iar meniul principal poate exporta sau importa proiecte ca copii de rezervă ZIP.</string>
-    <string name="howto_overview">Cu HTML to APK Builder, poți transforma site-ul tău sau fișierele HTML într-o aplicație Android reală. Nu este necesară programarea!</string>
+    <string name="howto_overview">Cu HTML2APK, poți transforma site-ul tău sau fișierele HTML într-o aplicație Android reală. Nu este necesară programarea!</string>
     <string name="howto_pdf_body">Creează un proiect, apoi Deschide / vizualizează PDF pentru a deschide cititorul. Mărește, comută între modul de citire luminos și întunecat, adaugă semne de carte și continuă de la ultima pagină citită. Folosește Editare când dorești să reordonezi paginile sau să adnotezi documentul. Poți converti un document într-o aplicație mai târziu.</string>
     <string name="howto_playstore_signing_action">Citește mai mult</string>
-    <string name="howto_playstore_signing_body">Când Play Console solicită „Preferințe de semnare a aplicației”, alege prima opțiune: &lt;b&gt;Lasă Google să gestioneze și să protejeze cheia de semnare a aplicației (recomandat)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Aceasta activează &lt;b&gt;Play App Signing&lt;/b&gt;. Google păstrează cheia de semnare reală; tu încarci doar fișiere APK/AAB semnate cu cheia ta de încărcare.&lt;br/&gt;&lt;br/&gt;Dacă pierzi ulterior keystore-ul (de exemplu, prin dezinstalarea HTMLtoAPK), poți solicita o &lt;b&gt;resetare a cheii de încărcare&lt;/b&gt; în Play Console, iar utilizatorii vor primi în continuare actualizări.&lt;br/&gt;&lt;br/&gt;Dacă trebuie să încarci propria cheie de semnare, deschide keystore-ul în această aplicație și atinge &lt;b&gt;Exportă pentru Play Store (PEPK)&lt;/b&gt;. Alege aceeași metodă pe care o afișează Play Console (cheie publică hex sau cheie publică RSA PEM) pentru a genera &lt;b&gt;output.zip&lt;/b&gt; și încarcă-l.&lt;br/&gt;&lt;br/&gt;Alege „Exportă și încarcă propria cheie” doar dacă ești absolut sigur că poți păstra acea cheie în siguranță pentru totdeauna. Pierderea ei înseamnă că nu vei mai putea actualiza aplicația.</string>
+    <string name="howto_playstore_signing_body">Când Play Console solicită „Preferințe de semnare a aplicației”, alege prima opțiune: &lt;b&gt;Lasă Google să gestioneze și să protejeze cheia de semnare a aplicației (recomandat)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Aceasta activează &lt;b&gt;Play App Signing&lt;/b&gt;. Google păstrează cheia de semnare reală; tu încarci doar fișiere APK/AAB semnate cu cheia ta de încărcare.&lt;br/&gt;&lt;br/&gt;Dacă pierzi ulterior keystore-ul (de exemplu, prin dezinstalarea HTML2APK), poți solicita o &lt;b&gt;resetare a cheii de încărcare&lt;/b&gt; în Play Console, iar utilizatorii vor primi în continuare actualizări.&lt;br/&gt;&lt;br/&gt;Dacă trebuie să încarci propria cheie de semnare, deschide keystore-ul în această aplicație și atinge &lt;b&gt;Exportă pentru Play Store (PEPK)&lt;/b&gt;. Alege aceeași metodă pe care o afișează Play Console (cheie publică hex sau cheie publică RSA PEM) pentru a genera &lt;b&gt;output.zip&lt;/b&gt; și încarcă-l.&lt;br/&gt;&lt;br/&gt;Alege „Exportă și încarcă propria cheie” doar dacă ești absolut sigur că poți păstra acea cheie în siguranță pentru totdeauna. Pierderea ei înseamnă că nu vei mai putea actualiza aplicația.</string>
     <string name="howto_playstore_signing_summary">Înțelege cheile de încărcare, Play App Signing și PEPK.</string>
     <string name="howto_playstore_signing_title">Selectarea cheii de semnare pentru Play Store</string>
     <string name="howto_preview_body">Previzualizarea rulează pagina ta așa cum va fi în aplicația finalizată, incluzând apelurile API Android. Editorul HTML colorează codul, închide etichetele pentru tine și are funcție de căutare și înlocuire; modificările sunt păstrate în timp ce treci la previzualizare și înapoi.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Păstrați o copie pe acest dispozitiv</string>
     <string name="keystore_persisted">Salvat în Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Proiect: %1$s</string>
-    <string name="keystore_recovery_body">Dacă ai dezinstalat HTMLtoAPK, cheile de semnare a aplicației generate automat s-ar putea să fi fost pierdute. O nouă versiune va fi semnată cu o cheie diferită, iar Play Store ar putea respinge actualizarea.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Soluția 1 - Resetarea cheii de încărcare (recomandat):&lt;/b&gt;&lt;br/&gt;1. Exportă &lt;b&gt;certificatul PEM&lt;/b&gt; al noului tău keystore din lista de mai jos.&lt;br/&gt;2. În Play Console, mergi la &lt;b&gt;Semnarea aplicației &gt; Solicită resetarea cheii de încărcare&lt;/b&gt;.&lt;br/&gt;3. Completează formularul și încarcă fișierul PEM.&lt;br/&gt;4. Odată aprobat, publică noul tău APK/AAB semnat cu noua cheie.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Soluția 2 - Înlocuirea cheii de semnare a aplicației:&lt;/b&gt;&lt;br/&gt;Dacă Play Console îți permite să încarci o nouă cheie de semnare a aplicației, folosește &lt;b&gt;Exportă pentru Play Store (PEPK)&lt;/b&gt; pe keystore. Alege aceeași metodă afișată în Play Console (cheie hex sau RSA PEM), generează output.zip și încarcă-l.&lt;br/&gt;&lt;br/&gt;Utilizatorii vor primi în continuare actualizări deoarece cheia de semnare a aplicației rămâne la Google atunci când resetezi doar cheia de încărcare.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Dacă Play App Signing este dezactivat&lt;/b&gt; și ai pierdut cheia de semnare, trebuie să publici aplicația din nou cu un nume de pachet nou.</string>
+    <string name="keystore_recovery_body">Dacă ai dezinstalat HTML2APK, cheile de semnare a aplicației generate automat s-ar putea să fi fost pierdute. O nouă versiune va fi semnată cu o cheie diferită, iar Play Store ar putea respinge actualizarea.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Soluția 1 - Resetarea cheii de încărcare (recomandat):&lt;/b&gt;&lt;br/&gt;1. Exportă &lt;b&gt;certificatul PEM&lt;/b&gt; al noului tău keystore din lista de mai jos.&lt;br/&gt;2. În Play Console, mergi la &lt;b&gt;Semnarea aplicației &gt; Solicită resetarea cheii de încărcare&lt;/b&gt;.&lt;br/&gt;3. Completează formularul și încarcă fișierul PEM.&lt;br/&gt;4. Odată aprobat, publică noul tău APK/AAB semnat cu noua cheie.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Soluția 2 - Înlocuirea cheii de semnare a aplicației:&lt;/b&gt;&lt;br/&gt;Dacă Play Console îți permite să încarci o nouă cheie de semnare a aplicației, folosește &lt;b&gt;Exportă pentru Play Store (PEPK)&lt;/b&gt; pe keystore. Alege aceeași metodă afișată în Play Console (cheie hex sau RSA PEM), generează output.zip și încarcă-l.&lt;br/&gt;&lt;br/&gt;Utilizatorii vor primi în continuare actualizări deoarece cheia de semnare a aplicației rămâne la Google atunci când resetezi doar cheia de încărcare.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Dacă Play App Signing este dezactivat&lt;/b&gt; și ai pierdut cheia de semnare, trebuie să publici aplicația din nou cu un nume de pachet nou.</string>
     <string name="keystore_recovery_close">Am înțeles</string>
     <string name="keystore_recovery_open_console">Deschide Play Console</string>
     <string name="keystore_recovery_title">Ți-ai pierdut cheia de semnare?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Vizualizator PDF</string>
     <string name="licenses_count">%1$d biblioteci</string>
     <string name="licenses_empty">Nicio bibliotecă nu corespunde căutării dvs.</string>
-    <string name="licenses_intro">HTML to APK este construit pe baza software-ului open source de mai jos. Bibliotecile marcate cu „Aplicații generate” sunt, de asemenea, incluse în aplicațiile pe care le creează (bibliotecile de reclame doar când reclamele sunt activate).</string>
+    <string name="licenses_intro">HTML2APK este construit pe baza software-ului open source de mai jos. Bibliotecile marcate cu „Aplicații generate” sunt, de asemenea, incluse în aplicațiile pe care le creează (bibliotecile de reclame doar când reclamele sunt activate).</string>
     <string name="licenses_load_failed">Lista de licențe nu a putut fi încărcată.</string>
     <string name="licenses_open_license">Licență deschisă</string>
     <string name="licenses_open_website">Site web</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Comută meniul drop-down</string>
     <string name="m3c_snackbar_dismiss">Închide</string>
     <string name="mail_report_android">Versiune Android: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Versiune HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Versiune HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">Data: %1$s</string>
     <string name="mail_report_default_project">Proiect</string>
     <string name="mail_report_device">Dispozitiv: %1$s %2$s</string>
     <string name="mail_report_end">=== SFÂRȘITUL RAPORTULUI ===</string>
     <string name="mail_report_format">Format ieșire: %1$s</string>
-    <string name="mail_report_intro">O compilare a eșuat în interiorul aplicației HTML to APK.</string>
+    <string name="mail_report_intro">O compilare a eșuat în interiorul aplicației HTML2APK.</string>
     <string name="mail_report_intro2">Vă rugăm să examinați acest raport de eroare.</string>
     <string name="mail_report_package_name">Nume pachet: %1$s</string>
     <string name="mail_report_project_name">Nume proiect: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Setări</string>
     <string name="nav_templates">Șabloane</string>
     <string name="not_selected">Neselectat</string>
-    <string name="offer_dialog_message">Distribuie un videoclip care prezintă o aplicație creată cu HTML to APK. Când atinge 10.000 de vizualizări, primești versiunea Pro din partea noastră.</string>
+    <string name="offer_dialog_message">Distribuie un videoclip care prezintă o aplicație creată cu HTML2APK. Când atinge 10.000 de vizualizări, primești versiunea Pro din partea noastră.</string>
     <string name="offer_dialog_no">Nu acum</string>
     <string name="offer_dialog_title">Obține Pro gratuit</string>
     <string name="offer_dialog_yes">Cum îl pot câștiga?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Vândute separat, nu este nevoie de Pro. Conturile noi primesc prima aplicație gratuit.</string>
     <string name="premium_credits_link_title">Pachete de credite AI</string>
     <string name="premium_crown_subtitle">Elimină toate limitele și creează la capacitate maximă.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Bună! Sunt Emre, am 19 ani și dezvolt HTML to APK complet singur, cu mare pasiune. Scopul meu este să îți ofer posibilitatea de a transforma proiectele tale web în aplicații Android reale, fără nicio configurare complexă.\n\nTrecând la versiunea Pro, susții direct un dezvoltator independent tânăr și alimentezi dezvoltarea viitoare a acestui proiect. Îți mulțumesc mult pentru susținerea ta amabilă! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Bună! Sunt Emre, am 19 ani și dezvolt HTML2APK complet singur, cu mare pasiune. Scopul meu este să îți ofer posibilitatea de a transforma proiectele tale web în aplicații Android reale, fără nicio configurare complexă.\n\nTrecând la versiunea Pro, susții direct un dezvoltator independent tânăr și alimentezi dezvoltarea viitoare a acestui proiect. Îți mulțumesc mult pentru susținerea ta amabilă! ❤️</string>
     <string name="premium_dev_note_title">O notă de la dezvoltator 👋</string>
     <string name="premium_error_payment">Plata nu este disponibilă. Vă rugăm să încercați din nou mai târziu.</string>
     <string name="premium_extra_ads_detail">Zero reclame intruzive atât în spațiul de lucru al aplicației, cât și în toate aplicațiile exportate. Bucură-te de un mediu curat, fără distrageri.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Citește documente PDF nelimitate</string>
     <string name="premium_feature_unlimited_pdf_detail">Planul gratuit păstrează până la 5 proiecte de documente PDF. Versiunea Pro elimină limita, astfel încât biblioteca ta de lectură să poată continua să crească.</string>
     <string name="premium_feature_watermark_desc">Elimină filigranul din aplicațiile generate</string>
-    <string name="premium_feature_watermark_detail">Elimină indicatorii de pornire și filigranele „Made with HTML to APK” din toate versiunile exportate pentru aplicații complet white-label și branduite.</string>
+    <string name="premium_feature_watermark_detail">Elimină indicatorii de pornire și filigranele „Made with HTML2APK” din toate versiunile exportate pentru aplicații complet white-label și branduite.</string>
     <string name="premium_feature_webview_desc">Setări avansate WebView</string>
     <string name="premium_feature_webview_detail">Obține control complet asupra accelerării hardware, jurnalelor consolei JS, șirurilor User-Agent personalizate, permisiunilor de încărcare a fișierelor și strategiilor de cache.</string>
     <string name="premium_less_features_button">Afișează mai puțin</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Trimite feedback</string>
     <string name="settings_feedback_chooser">Trimite feedback</string>
     <string name="settings_feedback_no_app">Nu a fost găsită nicio aplicație de e-mail</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Feedback</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Obține Pro gratuit</string>
     <string name="settings_free_premium_summary">Distribuie un videoclip, atinge 10.000 de vizualizări, obține Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Activat</string>
     <string name="support_button_action">Susține</string>
     <string name="support_cats_interactive_hint">Apasă pe orice pisică pentru a o mângâia! 🐾</string>
-    <string name="support_developer_desc">Bună! Îți mulțumesc foarte mult pentru achiziționarea versiunii Pro. Ca dezvoltator independent, întrețin și îmbunătățesc continuu HTML to APK. Dacă îți place aplicația și dorești să susții actualizările viitoare, poți, opțional, să-mi cumperi o cafea sau o masă. Fiecare contribuție înseamnă enorm pentru mine! ❤️</string>
+    <string name="support_developer_desc">Bună! Îți mulțumesc foarte mult pentru achiziționarea versiunii Pro. Ca dezvoltator independent, întrețin și îmbunătățesc continuu HTML2APK. Dacă îți place aplicația și dorești să susții actualizările viitoare, poți, opțional, să-mi cumperi o cafea sau o masă. Fiecare contribuție înseamnă enorm pentru mine! ❤️</string>
     <string name="support_developer_subtitle">Dacă dorești să mă susții ☕</string>
     <string name="support_developer_title">Susține dezvoltatorul</string>
     <string name="support_success_button">Cu plăcere ❤️</string>
-    <string name="support_success_message">Susținerea ta a fost primită! Ca dezvoltator independent care creează HTML to APK, mi-ai oferit o putere, un moral și o motivație extraordinare.\n\nPisicile noastre sărbătoresc pentru tine! 🐾</string>
+    <string name="support_success_message">Susținerea ta a fost primită! Ca dezvoltator independent care creează HTML2APK, mi-ai oferit o putere, un moral și o motivație extraordinare.\n\nPisicile noastre sărbătoresc pentru tine! 🐾</string>
     <string name="support_success_title">Ești uimitor! ❤️</string>
     <string name="support_tier_coffee_desc">O ceașcă caldă de cafea pentru programare târzie în noapte ☕</string>
     <string name="support_tier_coffee_title">Cumpără o cafea</string>
     <string name="support_tier_meal_desc">O cină bună pentru a rămâne energizat și concentrat 🍕</string>
     <string name="support_tier_meal_title">Cumpără o masă</string>
-    <string name="support_tier_sponsor_desc">Contribuție directă la viitorul HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Contribuție directă la viitorul HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super Sponsor</string>
     <string name="switch_role">Comută</string>
     <string name="tab">Filă</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Aspect pe tot ecranul</string>
     <string name="template_gallery_desc">Salvează o imagine base64 în galeria foto.</string>
     <string name="template_gallery_title">Salvează în Galerie</string>
-    <string name="template_guide_body">HTML to APK injectează un obiect JavaScript global numit AndroidAPI în WebView-ul tău. Poți apela aceste metode direct din codul tău HTML/JS:</string>
+    <string name="template_guide_body">HTML2APK injectează un obiect JavaScript global numit AndroidAPI în WebView-ul tău. Poți apela aceste metode direct din codul tău HTML/JS:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Salut!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Titlu,Corp)\nAndroidAPI.getDeviceInfo() // returnează JSON\nAndroidAPI.getBatteryLevel() // returnează int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // returnează int 0-255</string>
-    <string name="template_guide_note">Sfat: Utilizați aceste API-uri în interiorul gestionarelor onclick sau în orice funcție JavaScript. Obiectul este disponibil automat când aplicația este creată cu HTML to APK.</string>
+    <string name="template_guide_note">Sfat: Utilizați aceste API-uri în interiorul gestionarelor onclick sau în orice funcție JavaScript. Obiectul este disponibil automat când aplicația este creată cu HTML2APK.</string>
     <string name="template_guide_title">Ghid API</string>
     <string name="template_gyroscope_desc">Citește rata de rotație a dispozitivului pe axele X, Y și Z.</string>
     <string name="template_gyroscope_title">Giroscop</string>

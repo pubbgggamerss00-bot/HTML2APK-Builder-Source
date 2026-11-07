@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Razmišljam…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animacije su isključene jer uređaj ima poteškoća u radu. Uključite ih u postavkama.</string>
-    <string name="app_name">HTML u APK graditelj</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Povezivanje s Google Playom, pokušajte ponovno za nekoliko sekundi.</string>
     <string name="billing_restore_error">Pogreška tijekom upita: %1$s</string>
     <string name="billing_restore_not_found">Nije pronađena aktivna kupnja za ovaj Google račun.</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Podijelite sa svijetom ono što ste izradili i zauzvrat dobijte Pro. Potrebna su samo 3 jednostavna koraka:</string>
     <string name="free_premium_note">Savjet: uključite snimku zaslona broja pregleda u svoju e-poštu kako biste ubrzali provjeru.</string>
     <string name="free_premium_send_email">Pošalji e-poštu</string>
-    <string name="free_premium_step1_desc">Snimite video koji prikazuje aplikaciju ili igru koju ste izradili pomoću HTML to APK i podijelite ga na YouTubeu, TikToku ili Instagramu.</string>
+    <string name="free_premium_step1_desc">Snimite video koji prikazuje aplikaciju ili igru koju ste izradili pomoću HTML2APK i podijelite ga na YouTubeu, TikToku ili Instagramu.</string>
     <string name="free_premium_step1_title">Snimite i podijelite video</string>
     <string name="free_premium_step2_desc">Kada vaš video dosegne 10.000 pregleda na bilo kojoj od ovih platformi, vaša nagrada je spremna.</string>
     <string name="free_premium_step2_title">Dosegnite 10.000 pregleda</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Koristite mape i radnje projekta kako biste sve održali urednim.</string>
     <string name="howto_organize_title">Držite projekte urednima</string>
     <string name="howto_output_body">APK služi za instalaciju na vaš telefon ili izravno dijeljenje. AAB je format koji je potreban za Google Play (Pro). S verzijom Pro također možete izvesti projekt kao Android Studio projekt (ZIP) iz izbornika projekta. Ranije verzije izgradnje nalaze se pod Build Outputs u istom izborniku, a glavni izbornik može izvoziti ili uvoziti projekte kao ZIP sigurnosne kopije.</string>
-    <string name="howto_overview">Uz HTML to APK Builder, možete pretvoriti svoju web stranicu ili HTML datoteke u pravu Android aplikaciju. Nije potrebno kodiranje!</string>
+    <string name="howto_overview">Uz HTML2APK, možete pretvoriti svoju web stranicu ili HTML datoteke u pravu Android aplikaciju. Nije potrebno kodiranje!</string>
     <string name="howto_pdf_body">Stvorite projekt, a zatim Otvori / pregledaj PDF otvara čitač. Zumirajte, prebacujte se između svijetlog i tamnog načina čitanja, dodajte oznake i nastavite od zadnje stranice. Koristite Uredi kada želite promijeniti redoslijed stranica ili dodati bilješke u dokument. Dokument kasnije možete pretvoriti u aplikaciju.</string>
     <string name="howto_playstore_signing_action">Pročitaj više</string>
-    <string name="howto_playstore_signing_body">Kada vas Play konzola pita za „Postavke potpisivanja aplikacije”, odaberite prvu opciju: &lt;b&gt;Neka Google upravlja i štiti vaš ključ za potpisivanje aplikacije (preporučeno)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Ovo omogućuje &lt;b&gt;Play App Signing&lt;/b&gt;. Google čuva pravi ključ za potpisivanje; vi samo učitavate APK/AAB datoteke potpisane vašim ključem za učitavanje.&lt;br/&gt;&lt;br/&gt;Ako kasnije izgubite keystore (na primjer deinstalacijom HTMLtoAPK), možete zatražiti &lt;b&gt;ponovno postavljanje ključa za učitavanje&lt;/b&gt; u Play konzoli i korisnici će i dalje primati ažuriranja.&lt;br/&gt;&lt;br/&gt;Ako morate učitati vlastiti ključ za potpisivanje, otvorite keystore u ovoj aplikaciji i dodirnite &lt;b&gt;Izvezi za Trgovinu Play (PEPK)&lt;/b&gt;. Odaberite istu metodu koju prikazuje Play konzola (heksadecimalni javni ključ ili RSA javni ključ PEM) kako biste generirali &lt;b&gt;output.zip&lt;/b&gt; i učitali ga.&lt;br/&gt;&lt;br/&gt;Odaberite „Izvezi i učitaj vlastiti ključ” samo ako ste apsolutno sigurni da taj ključ možete zauvijek čuvati na sigurnom. Gubitak ključa znači da više nikada nećete moći ažurirati aplikaciju.</string>
+    <string name="howto_playstore_signing_body">Kada vas Play konzola pita za „Postavke potpisivanja aplikacije”, odaberite prvu opciju: &lt;b&gt;Neka Google upravlja i štiti vaš ključ za potpisivanje aplikacije (preporučeno)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Ovo omogućuje &lt;b&gt;Play App Signing&lt;/b&gt;. Google čuva pravi ključ za potpisivanje; vi samo učitavate APK/AAB datoteke potpisane vašim ključem za učitavanje.&lt;br/&gt;&lt;br/&gt;Ako kasnije izgubite keystore (na primjer deinstalacijom HTML2APK), možete zatražiti &lt;b&gt;ponovno postavljanje ključa za učitavanje&lt;/b&gt; u Play konzoli i korisnici će i dalje primati ažuriranja.&lt;br/&gt;&lt;br/&gt;Ako morate učitati vlastiti ključ za potpisivanje, otvorite keystore u ovoj aplikaciji i dodirnite &lt;b&gt;Izvezi za Trgovinu Play (PEPK)&lt;/b&gt;. Odaberite istu metodu koju prikazuje Play konzola (heksadecimalni javni ključ ili RSA javni ključ PEM) kako biste generirali &lt;b&gt;output.zip&lt;/b&gt; i učitali ga.&lt;br/&gt;&lt;br/&gt;Odaberite „Izvezi i učitaj vlastiti ključ” samo ako ste apsolutno sigurni da taj ključ možete zauvijek čuvati na sigurnom. Gubitak ključa znači da više nikada nećete moći ažurirati aplikaciju.</string>
     <string name="howto_playstore_signing_summary">Razumijevanje ključeva za učitavanje, Play App Signing i PEPK.</string>
     <string name="howto_playstore_signing_title">Odabir ključa za potpisivanje u Trgovini Play</string>
     <string name="howto_preview_body">Pregled pokreće vašu stranicu onako kako će izgledati gotova aplikacija, uključujući AndroidAPI pozive. HTML uređivač bojama označava vaš kod, automatski zatvara oznake te ima funkciju pretraživanja i zamjene; promjene se zadržavaju dok se prebacujete na pregled i natrag.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Zadrži kopiju na ovom uređaju</string>
     <string name="keystore_persisted">Spremljeno u Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projekt: %1$s</string>
-    <string name="keystore_recovery_body">Ako ste deinstalirali HTMLtoAPK, automatski generirani ključevi za potpisivanje aplikacije možda su izgubljeni. Nova verzija bit će potpisana drugim ključem, a Trgovina Play može odbiti ažuriranje.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Rješenje 1 - Poništavanje ključa za prijenos (preporučeno):&lt;/b&gt;&lt;br/&gt;1. Izvezite &lt;b&gt;PEM certifikat&lt;/b&gt; svog novog keystore-a s popisa ispod.&lt;br/&gt;2. U Play konzoli idite na &lt;b&gt;Potpisivanje aplikacije &gt; Zatraži poništavanje ključa za prijenos&lt;/b&gt;.&lt;br/&gt;3. Ispunite obrazac i prenesite PEM datoteku.&lt;br/&gt;4. Nakon odobrenja, objavite svoj novi APK/AAB potpisan novim ključem.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Rješenje 2 - Zamjena ključa za potpisivanje aplikacije:&lt;/b&gt;&lt;br/&gt;Ako vam Play konzola dopušta prijenos novog ključa za potpisivanje aplikacije, koristite &lt;b&gt;Izvoz za Trgovinu Play (PEPK)&lt;/b&gt; na keystore-u. Odaberite istu metodu prikazanu u Play konzoli (heksadecimalni ključ ili RSA PEM), generirajte output.zip i prenesite ga.&lt;br/&gt;&lt;br/&gt;Korisnici će i dalje primati ažuriranja jer ključ za potpisivanje aplikacije ostaje kod Googlea kada poništite samo ključ za prijenos.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ako je Play App Signing onemogućen&lt;/b&gt; i izgubili ste ključ za potpisivanje, morate ponovno objaviti aplikaciju s novim nazivom paketa.</string>
+    <string name="keystore_recovery_body">Ako ste deinstalirali HTML2APK, automatski generirani ključevi za potpisivanje aplikacije možda su izgubljeni. Nova verzija bit će potpisana drugim ključem, a Trgovina Play može odbiti ažuriranje.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Rješenje 1 - Poništavanje ključa za prijenos (preporučeno):&lt;/b&gt;&lt;br/&gt;1. Izvezite &lt;b&gt;PEM certifikat&lt;/b&gt; svog novog keystore-a s popisa ispod.&lt;br/&gt;2. U Play konzoli idite na &lt;b&gt;Potpisivanje aplikacije &gt; Zatraži poništavanje ključa za prijenos&lt;/b&gt;.&lt;br/&gt;3. Ispunite obrazac i prenesite PEM datoteku.&lt;br/&gt;4. Nakon odobrenja, objavite svoj novi APK/AAB potpisan novim ključem.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Rješenje 2 - Zamjena ključa za potpisivanje aplikacije:&lt;/b&gt;&lt;br/&gt;Ako vam Play konzola dopušta prijenos novog ključa za potpisivanje aplikacije, koristite &lt;b&gt;Izvoz za Trgovinu Play (PEPK)&lt;/b&gt; na keystore-u. Odaberite istu metodu prikazanu u Play konzoli (heksadecimalni ključ ili RSA PEM), generirajte output.zip i prenesite ga.&lt;br/&gt;&lt;br/&gt;Korisnici će i dalje primati ažuriranja jer ključ za potpisivanje aplikacije ostaje kod Googlea kada poništite samo ključ za prijenos.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ako je Play App Signing onemogućen&lt;/b&gt; i izgubili ste ključ za potpisivanje, morate ponovno objaviti aplikaciju s novim nazivom paketa.</string>
     <string name="keystore_recovery_close">Razumijem</string>
     <string name="keystore_recovery_open_console">Otvori Play konzolu</string>
     <string name="keystore_recovery_title">Izgubili ste ključ za potpisivanje?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF preglednik</string>
     <string name="licenses_count">%1$d knjižnica</string>
     <string name="licenses_empty">Nijedna biblioteka ne odgovara vašem pretraživanju.</string>
-    <string name="licenses_intro">HTML to APK izgrađen je na temelju softvera otvorenog koda navedenog u nastavku. Knjižnice označene kao “Generirane aplikacije” također se pakiraju u aplikacije koje izgrađuje (knjižnice za oglase samo kada su oglasi uključeni).</string>
+    <string name="licenses_intro">HTML2APK izgrađen je na temelju softvera otvorenog koda navedenog u nastavku. Knjižnice označene kao “Generirane aplikacije” također se pakiraju u aplikacije koje izgrađuje (knjižnice za oglase samo kada su oglasi uključeni).</string>
     <string name="licenses_load_failed">Popis licenci nije bilo moguće učitati.</string>
     <string name="licenses_open_license">Otvorena licenca</string>
     <string name="licenses_open_website">Web stranica</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Prekidač za padajući izbornik</string>
     <string name="m3c_snackbar_dismiss">Odbaci</string>
     <string name="mail_report_android">Android verzija: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Verzija HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Verzija HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">Datum: %1$s</string>
     <string name="mail_report_default_project">Projekt</string>
     <string name="mail_report_device">Uređaj: %1$s %2$s</string>
     <string name="mail_report_end">=== KRAJ IZVJEŠTAJA ===</string>
     <string name="mail_report_format">Izlazni format: %1$s</string>
-    <string name="mail_report_intro">Izgradnja nije uspjela unutar aplikacije HTML to APK.</string>
+    <string name="mail_report_intro">Izgradnja nije uspjela unutar aplikacije HTML2APK.</string>
     <string name="mail_report_intro2">Molimo pregledajte ovo izvješće o pogrešci.</string>
     <string name="mail_report_package_name">Naziv paketa: %1$s</string>
     <string name="mail_report_project_name">Naziv projekta: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Postavke</string>
     <string name="nav_templates">Predlošci</string>
     <string name="not_selected">Nije odabrano</string>
-    <string name="offer_dialog_message">Podijelite video koji prikazuje aplikaciju koju ste izradili pomoću HTML to APK. Kada dosegne 10.000 pregleda, Pro je na naš račun.</string>
+    <string name="offer_dialog_message">Podijelite video koji prikazuje aplikaciju koju ste izradili pomoću HTML2APK. Kada dosegne 10.000 pregleda, Pro je na naš račun.</string>
     <string name="offer_dialog_no">Ne sada</string>
     <string name="offer_dialog_title">Dobijte Pro besplatno</string>
     <string name="offer_dialog_yes">Kako ga mogu zaraditi?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Prodaje se zasebno, Pro nije potreban. Novi računi dobivaju svoju prvu aplikaciju besplatno.</string>
     <string name="premium_credits_link_title">Paketi AI bodova</string>
     <string name="premium_crown_subtitle">Uklonite sva ograničenja i stvarajte punom snagom.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Bok! Ja sam Emre, imam 19 godina i razvijam HTML to APK potpuno sam s velikom strašću. Moj cilj je omogućiti vam da svoje web projekte neprimjetno pretvorite u prave Android aplikacije, bez ikakvog složenog postavljanja. Nadogradnjom na Pro verziju izravno podržavate mladog indie programera i potičete budući razvoj ovog projekta. Puno vam hvala na vašoj ljubaznoj podršci! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Bok! Ja sam Emre, imam 19 godina i razvijam HTML2APK potpuno sam s velikom strašću. Moj cilj je omogućiti vam da svoje web projekte neprimjetno pretvorite u prave Android aplikacije, bez ikakvog složenog postavljanja. Nadogradnjom na Pro verziju izravno podržavate mladog indie programera i potičete budući razvoj ovog projekta. Puno vam hvala na vašoj ljubaznoj podršci! ❤️</string>
     <string name="premium_dev_note_title">Poruka od programera 👋</string>
     <string name="premium_error_payment">Plaćanje nije dostupno. Pokušajte ponovo kasnije.</string>
     <string name="premium_extra_ads_detail">Nema nametljivih oglasa u radnom prostoru aplikacije niti u svim izvezenim aplikacijama. Uživajte u čistom okruženju bez ometanja.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Čitajte neograničen broj PDF dokumenata</string>
     <string name="premium_feature_unlimited_pdf_detail">Besplatni plan zadržava do 5 projekata PDF dokumenata. Pro verzija uklanja ograničenje, tako da vaša biblioteka za čitanje može nastaviti rasti.</string>
     <string name="premium_feature_watermark_desc">Ukloni vodeni žig iz generiranih aplikacija</string>
-    <string name="premium_feature_watermark_detail">Uklonite indikatore uvodnog zaslona \'Made with HTML to APK\' i vodene žigove iz svih izvezenih verzija za potpuno bijele, brendirane aplikacije.</string>
+    <string name="premium_feature_watermark_detail">Uklonite indikatore uvodnog zaslona \'Made with HTML2APK\' i vodene žigove iz svih izvezenih verzija za potpuno bijele, brendirane aplikacije.</string>
     <string name="premium_feature_webview_desc">Napredne postavke WebView-a</string>
     <string name="premium_feature_webview_detail">Ostvarite potpunu kontrolu nad hardverskim ubrzanjem, JS zapisima konzole, prilagođenim User-Agent nizovima, dozvolama za prijenos datoteka i strategijama predmemoriranja.</string>
     <string name="premium_less_features_button">Prikaži manje</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Pošalji povratne informacije</string>
     <string name="settings_feedback_chooser">Pošalji povratne informacije</string>
     <string name="settings_feedback_no_app">Nije pronađena aplikacija za e-poštu</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Povratne informacije</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Dobijte Pro besplatno</string>
     <string name="settings_free_premium_summary">Podijelite video, dosegnite 10 tisuća pregleda, dobijte Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Uključeno</string>
     <string name="support_button_action">Podrži</string>
     <string name="support_cats_interactive_hint">Dodirnite bilo koju mačku da je pomazite! 🐾</string>
-    <string name="support_developer_desc">Pozdrav! Puno vam hvala na kupnji Pro verzije. Kao neovisni solo programer, kontinuirano održavam i poboljšavam HTML to APK. Ako volite aplikaciju i želite podržati buduća ažuriranja, možete mi opcionalno kupiti kavu ili obrok. Svaki doprinos mi puno znači! ❤️</string>
+    <string name="support_developer_desc">Pozdrav! Puno vam hvala na kupnji Pro verzije. Kao neovisni solo programer, kontinuirano održavam i poboljšavam HTML2APK. Ako volite aplikaciju i želite podržati buduća ažuriranja, možete mi opcionalno kupiti kavu ili obrok. Svaki doprinos mi puno znači! ❤️</string>
     <string name="support_developer_subtitle">Ako me želite podržati ☕</string>
     <string name="support_developer_title">Podržite programera</string>
     <string name="support_success_button">Nema na čemu ❤️</string>
-    <string name="support_success_message">Vaša podrška je primljena! Kao neovisni solo programer koji stvara HTML to APK, dali ste mi ogromnu snagu, moral i motivaciju.\n\nNaše mačke slave za vas! 🐾</string>
+    <string name="support_success_message">Vaša podrška je primljena! Kao neovisni solo programer koji stvara HTML2APK, dali ste mi ogromnu snagu, moral i motivaciju.\n\nNaše mačke slave za vas! 🐾</string>
     <string name="support_success_title">Nevjerojatni ste! ❤️</string>
     <string name="support_tier_coffee_desc">Topla šalica kave za kasnonoćno programiranje ☕</string>
     <string name="support_tier_coffee_title">Kupite kavu</string>
     <string name="support_tier_meal_desc">Lijepa večera za energiju i fokus 🍕</string>
     <string name="support_tier_meal_title">Kupite obrok</string>
-    <string name="support_tier_sponsor_desc">Izravan doprinos budućnosti HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Izravan doprinos budućnosti HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super sponzor</string>
     <string name="switch_role">Prekidač</string>
     <string name="tab">Kartica</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Izgled preko cijelog zaslona</string>
     <string name="template_gallery_desc">Spremi base64 sliku u galeriju fotografija.</string>
     <string name="template_gallery_title">Spremi u galeriju</string>
-    <string name="template_guide_body">HTML to APK ubacuje globalni JavaScript objekt pod nazivom AndroidAPI u vaš WebView. Ove metode možete pozvati izravno iz svog HTML/JS koda:</string>
+    <string name="template_guide_body">HTML2APK ubacuje globalni JavaScript objekt pod nazivom AndroidAPI u vaš WebView. Ove metode možete pozvati izravno iz svog HTML/JS koda:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Pozdrav!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Naslov,Tijelo)\nAndroidAPI.getDeviceInfo() // vraća JSON\nAndroidAPI.getBatteryLevel() // vraća int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // vraća int 0-255</string>
-    <string name="template_guide_note">Savjet: Koristite ove API-je unutar onclick rukovatelja ili bilo koje JavaScript funkcije. Objekt je automatski dostupan kada je vaša aplikacija izgrađena pomoću HTML to APK.</string>
+    <string name="template_guide_note">Savjet: Koristite ove API-je unutar onclick rukovatelja ili bilo koje JavaScript funkcije. Objekt je automatski dostupan kada je vaša aplikacija izgrađena pomoću HTML2APK.</string>
     <string name="template_guide_title">API vodič</string>
     <string name="template_gyroscope_desc">Očitajte brzinu rotacije uređaja na X, Y i Z osi.</string>
     <string name="template_gyroscope_title">Žiroskop</string>

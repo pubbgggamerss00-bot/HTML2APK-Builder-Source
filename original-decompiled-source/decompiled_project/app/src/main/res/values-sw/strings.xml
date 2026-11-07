@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Inawaza…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Miondoko imezimwa kwa sababu kifaa kilikuwa kinatatizika. Iwake katika Mipangilio.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Inaunganisha kwenye Google Play, tafadhali jaribu tena baada ya sekunde chache.</string>
     <string name="billing_restore_error">Hitilafu wakati wa hoja: %1$s</string>
     <string name="billing_restore_not_found">Hakuna ununuzi unaotumika uliopatikana kwa akaunti hii ya Google.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Tuma Barua Pepe</string>
     <string name="build_failed_dialog_title">Ujenzi Umeshindwa</string>
     <string name="build_failed_email_chooser">Tuma ripoti ya hitilafu kupitia…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Ripoti ya Kushindwa kwa Ujenzi - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Ripoti ya Kushindwa kwa Ujenzi - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">Ujenzi wa AAB umekamilika: %1$s (%2$d kaunta)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Shiriki ulichounda na ulimwengu na upate Pro kama zawadi. Inachukua hatua 3 rahisi tu:</string>
     <string name="free_premium_note">Kidokezo: ambatanisha picha ya skrini ya idadi ya maoni kwenye barua pepe yako ili kuharakisha uthibitishaji.</string>
     <string name="free_premium_send_email">Tuma Barua Pepe</string>
-    <string name="free_premium_step1_desc">Rekodi video inayoonyesha programu au mchezo uliotengeneza kwa kutumia HTML to APK na uishiriki kwenye YouTube, TikTok au Instagram.</string>
+    <string name="free_premium_step1_desc">Rekodi video inayoonyesha programu au mchezo uliotengeneza kwa kutumia HTML2APK na uishiriki kwenye YouTube, TikTok au Instagram.</string>
     <string name="free_premium_step1_title">Rekodi na ushiriki video</string>
     <string name="free_premium_step2_desc">Video yako ikifikisha maoni 10,000 kwenye mojawapo ya majukwaa haya, zawadi yako itakuwa tayari.</string>
     <string name="free_premium_step2_title">Fikia maoni 10,000</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Tumia folda na vitendo vya mradi ili kuweka kila kitu nadhifu.</string>
     <string name="howto_organize_title">Weka miradi katika mpangilio</string>
     <string name="howto_output_body">APK ni kwa ajili ya kusakinisha kwenye simu yako au kushiriki moja kwa moja. AAB ndio umbizo ambalo Google Play inahitaji (Pro). Ukiwa na Pro unaweza pia kusafirisha mradi kama mradi wa Android Studio (ZIP) kutoka kwenye menyu ya mradi. Miundo ya awali iko chini ya Pato la Kujenga (Build Outputs) kwenye menyu ileile, na menyu kuu inaweza kusafirisha au kuingiza miradi kama nakala rudufu za ZIP.</string>
-    <string name="howto_overview">Ukiwa na HTML to APK Builder, unaweza kubadilisha tovuti yako au faili za HTML kuwa programu halisi ya Android. Hakuna uandishi wa msimbo unaohitajika!</string>
+    <string name="howto_overview">Ukiwa na HTML2APK, unaweza kubadilisha tovuti yako au faili za HTML kuwa programu halisi ya Android. Hakuna uandishi wa msimbo unaohitajika!</string>
     <string name="howto_pdf_body">Unda Mradi kisha Fungua / tazama PDF ili kufungua kisomaji. Vuta karibu, badilisha kati ya usomaji wa mwanga na giza, ongeza alamisho na uendelee kutoka ukurasa wako wa mwisho. Tumia Hariri unapotaka kupanga upya kurasa au kuweka maelezo kwenye hati. Unaweza kubadilisha hati kuwa programu baadaye.</string>
     <string name="howto_playstore_signing_action">Soma zaidi</string>
-    <string name="howto_playstore_signing_body">Wakati Play Console inapouliza “Mapendeleo ya kusaini programu”, chagua chaguo la kwanza: &lt;b&gt;Ruhusu Google idhibiti na ilinde ufunguo wako wa kusaini programu (inapendekezwa)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Hii inawasha &lt;b&gt;Play App Signing&lt;/b&gt;. Google inahifadhi ufunguo halisi wa kusaini; wewe unapakia tu APK/AAB zilizosainiwa na ufunguo wako wa kupakia.&lt;br/&gt;&lt;br/&gt;Ikiwa baadaye utapoteza keystore (kwa mfano kwa kufuta HTMLtoAPK), unaweza kuomba &lt;b&gt;kuweka upya ufunguo wa kupakia&lt;/b&gt; katika Play Console na watumiaji wataendelea kupokea masasisho.&lt;br/&gt;&lt;br/&gt;Ikiwa lazima upakie ufunguo wako mwenyewe wa kusaini, fungua keystore katika programu hii na uguse &lt;b&gt;Hamisha kwa ajili ya Play Store (PEPK)&lt;/b&gt;. Chagua mbinu ile ile inayoonyeshwa na Play Console (hex public key au RSA public key PEM) ili kutengeneza &lt;b&gt;output.zip&lt;/b&gt; na uipakie.&lt;br/&gt;&lt;br/&gt;Chagua tu “Hamisha na upakie ufunguo wako mwenyewe” ikiwa una uhakika kabisa kuwa unaweza kuuweka ufunguo huo salama milele. Kuupoteza kunamaanisha huwezi kusasisha programu tena.</string>
+    <string name="howto_playstore_signing_body">Wakati Play Console inapouliza “Mapendeleo ya kusaini programu”, chagua chaguo la kwanza: &lt;b&gt;Ruhusu Google idhibiti na ilinde ufunguo wako wa kusaini programu (inapendekezwa)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Hii inawasha &lt;b&gt;Play App Signing&lt;/b&gt;. Google inahifadhi ufunguo halisi wa kusaini; wewe unapakia tu APK/AAB zilizosainiwa na ufunguo wako wa kupakia.&lt;br/&gt;&lt;br/&gt;Ikiwa baadaye utapoteza keystore (kwa mfano kwa kufuta HTML2APK), unaweza kuomba &lt;b&gt;kuweka upya ufunguo wa kupakia&lt;/b&gt; katika Play Console na watumiaji wataendelea kupokea masasisho.&lt;br/&gt;&lt;br/&gt;Ikiwa lazima upakie ufunguo wako mwenyewe wa kusaini, fungua keystore katika programu hii na uguse &lt;b&gt;Hamisha kwa ajili ya Play Store (PEPK)&lt;/b&gt;. Chagua mbinu ile ile inayoonyeshwa na Play Console (hex public key au RSA public key PEM) ili kutengeneza &lt;b&gt;output.zip&lt;/b&gt; na uipakie.&lt;br/&gt;&lt;br/&gt;Chagua tu “Hamisha na upakie ufunguo wako mwenyewe” ikiwa una uhakika kabisa kuwa unaweza kuuweka ufunguo huo salama milele. Kuupoteza kunamaanisha huwezi kusasisha programu tena.</string>
     <string name="howto_playstore_signing_summary">Elewa funguo za kupakia, Play App Signing na PEPK.</string>
     <string name="howto_playstore_signing_title">Uteuzi wa ufunguo wa kusaini wa Play Store</string>
     <string name="howto_preview_body">Onyesho la awali huendesha ukurasa wako jinsi programu iliyokamilika itakavyokuwa, ikijumuisha miito ya AndroidAPI. Kihariri cha HTML hupaka rangi msimbo wako, hufunga tagi kwa ajili yako, na kina utendaji wa kutafuta na kuchukua nafasi; mabadiliko huhifadhiwa wakati unapoenda kwenye onyesho la awali na kurudi.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Weka nakala kwenye kifaa hiki</string>
     <string name="keystore_persisted">Imehifadhiwa kwenye Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Mradi: %1$s</string>
-    <string name="keystore_recovery_body">Ikiwa uliondoa HTMLtoAPK, funguo za kusaini programu zilizotengenezwa kiotomatiki zinaweza kuwa zimepotea. Ujenzi mpya utasainiwa kwa ufunguo tofauti na Play Store inaweza kukataa sasisho.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Suluhisho 1 - Weka upya ufunguo wa kupakia (inapendekezwa):&lt;/b&gt;&lt;br/&gt;1. Hamisha &lt;b&gt;cheti cha PEM&lt;/b&gt; cha keystore yako mpya kutoka kwenye orodha hapa chini.&lt;br/&gt;2. Katika Play Console, nenda kwenye &lt;b&gt;Kusaini programu &gt; Omba kuweka upya ufunguo wa kupakia&lt;/b&gt;.&lt;br/&gt;3. Jaza fomu na upakie faili ya PEM.&lt;br/&gt;4. Baada ya kuidhinishwa, chapisha APK/AAB yako mpya iliyosainiwa kwa ufunguo mpya.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Suluhisho 2 - Badilisha ufunguo wa kusaini programu:&lt;/b&gt;&lt;br/&gt;Ikiwa Play Console inakuruhusu kupakia ufunguo mpya wa kusaini programu, tumia &lt;b&gt;Hamisha kwa ajili ya Play Store (PEPK)&lt;/b&gt; kwenye keystore. Chagua mbinu ile ile iliyoonyeshwa kwenye Play Console (ufunguo wa hex au RSA PEM), tengeneza output.zip, na uipakie.&lt;br/&gt;&lt;br/&gt;Watumiaji wataendelea kupokea masasisho kwa sababu ufunguo wa kusaini programu unabaki na Google unapoweka upya ufunguo wa kupakia pekee.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ikiwa Kusaini Programu kwa Play kumezimwa&lt;/b&gt; na umepoteza ufunguo wa kusaini, lazima uchapishe programu tena kwa jina jipya la kifurushi.</string>
+    <string name="keystore_recovery_body">Ikiwa uliondoa HTML2APK, funguo za kusaini programu zilizotengenezwa kiotomatiki zinaweza kuwa zimepotea. Ujenzi mpya utasainiwa kwa ufunguo tofauti na Play Store inaweza kukataa sasisho.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Suluhisho 1 - Weka upya ufunguo wa kupakia (inapendekezwa):&lt;/b&gt;&lt;br/&gt;1. Hamisha &lt;b&gt;cheti cha PEM&lt;/b&gt; cha keystore yako mpya kutoka kwenye orodha hapa chini.&lt;br/&gt;2. Katika Play Console, nenda kwenye &lt;b&gt;Kusaini programu &gt; Omba kuweka upya ufunguo wa kupakia&lt;/b&gt;.&lt;br/&gt;3. Jaza fomu na upakie faili ya PEM.&lt;br/&gt;4. Baada ya kuidhinishwa, chapisha APK/AAB yako mpya iliyosainiwa kwa ufunguo mpya.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Suluhisho 2 - Badilisha ufunguo wa kusaini programu:&lt;/b&gt;&lt;br/&gt;Ikiwa Play Console inakuruhusu kupakia ufunguo mpya wa kusaini programu, tumia &lt;b&gt;Hamisha kwa ajili ya Play Store (PEPK)&lt;/b&gt; kwenye keystore. Chagua mbinu ile ile iliyoonyeshwa kwenye Play Console (ufunguo wa hex au RSA PEM), tengeneza output.zip, na uipakie.&lt;br/&gt;&lt;br/&gt;Watumiaji wataendelea kupokea masasisho kwa sababu ufunguo wa kusaini programu unabaki na Google unapoweka upya ufunguo wa kupakia pekee.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ikiwa Kusaini Programu kwa Play kumezimwa&lt;/b&gt; na umepoteza ufunguo wa kusaini, lazima uchapishe programu tena kwa jina jipya la kifurushi.</string>
     <string name="keystore_recovery_close">Nimeelewa</string>
     <string name="keystore_recovery_open_console">Fungua Play Console</string>
     <string name="keystore_recovery_title">Umepoteza ufunguo wako wa kusaini?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Kitazamaji cha PDF</string>
     <string name="licenses_count">Maktaba %1$d</string>
     <string name="licenses_empty">Hakuna maktaba inayolingana na utafutaji wako.</string>
-    <string name="licenses_intro">HTML to APK imejengwa kwa kutumia programu huria iliyo hapa chini. Maktaba zilizotiwa alama ya “Programu zilizotengenezwa” pia hupakiwa kwenye programu inazojenga (maktaba za matangazo huwekwa tu wakati matangazo yamewashwa).</string>
+    <string name="licenses_intro">HTML2APK imejengwa kwa kutumia programu huria iliyo hapa chini. Maktaba zilizotiwa alama ya “Programu zilizotengenezwa” pia hupakiwa kwenye programu inazojenga (maktaba za matangazo huwekwa tu wakati matangazo yamewashwa).</string>
     <string name="licenses_load_failed">Orodha ya leseni haikuweza kupakiwa.</string>
     <string name="licenses_open_license">Fungua leseni</string>
     <string name="licenses_open_website">Tovuti</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Badilisha hali ya menyu kunjuzi</string>
     <string name="m3c_snackbar_dismiss">Ondoa</string>
     <string name="mail_report_android">Toleo la Android: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Toleo la HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Toleo la HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">Tarehe: %1$s</string>
     <string name="mail_report_default_project">Mradi</string>
     <string name="mail_report_device">Kifaa: %1$s %2$s</string>
     <string name="mail_report_end">=== MWISHO WA RIPOTI ===</string>
     <string name="mail_report_format">Muundo wa matokeo: %1$s</string>
-    <string name="mail_report_intro">Ujenzi umeshindwa ndani ya programu ya HTML to APK.</string>
+    <string name="mail_report_intro">Ujenzi umeshindwa ndani ya programu ya HTML2APK.</string>
     <string name="mail_report_intro2">Tafadhali kagua ripoti hii ya hitilafu.</string>
     <string name="mail_report_package_name">Jina la kifurushi: %1$s</string>
     <string name="mail_report_project_name">Jina la mradi: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Mipangilio</string>
     <string name="nav_templates">Violezo</string>
     <string name="not_selected">Hujachagua</string>
-    <string name="offer_dialog_message">Shiriki video inayoonyesha programu uliyounda kwa kutumia HTML to APK. Ikifikisha maoni 10,000, Pro ni yetu.</string>
+    <string name="offer_dialog_message">Shiriki video inayoonyesha programu uliyounda kwa kutumia HTML2APK. Ikifikisha maoni 10,000, Pro ni yetu.</string>
     <string name="offer_dialog_no">Si Sasa</string>
     <string name="offer_dialog_title">Pata Pro Bila Malipo</string>
     <string name="offer_dialog_yes">Ninaipataje?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Inauzwa kando, hakuna Pro inayohitajika. Akaunti mpya zinapata programu yao ya kwanza bila malipo.</string>
     <string name="premium_credits_link_title">Vifurushi vya mkopo vya AI</string>
     <string name="premium_crown_subtitle">Ondoa vikwazo vyote na uunde kwa nguvu kamili.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Habari! Mimi ni Emre, nina miaka 19, na ninatengeneza HTML to APK peke yangu kwa shauku kubwa. Lengo langu ni kukuwezesha kugeuza miradi yako ya wavuti kuwa programu halisi za Android bila mshono, bila usanidi wowote mgumu.\n\nKwa kuboresha hadi Pro, unasaidia moja kwa moja msanidi programu kijana na kuchochea maendeleo ya baadaye ya mradi huu. Asante sana kwa msaada wako mzuri! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Habari! Mimi ni Emre, nina miaka 19, na ninatengeneza HTML2APK peke yangu kwa shauku kubwa. Lengo langu ni kukuwezesha kugeuza miradi yako ya wavuti kuwa programu halisi za Android bila mshono, bila usanidi wowote mgumu.\n\nKwa kuboresha hadi Pro, unasaidia moja kwa moja msanidi programu kijana na kuchochea maendeleo ya baadaye ya mradi huu. Asante sana kwa msaada wako mzuri! ❤️</string>
     <string name="premium_dev_note_title">Ujumbe kutoka kwa Msanidi 👋</string>
     <string name="premium_error_payment">Malipo hayapatikani. Tafadhali jaribu tena baadaye.</string>
     <string name="premium_extra_ads_detail">Hakuna matangazo ya kuvamia katika nafasi ya kazi ya programu na programu zote zilizosafirishwa. Furahia mazingira safi, yasiyo na usumbufu.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Soma hati za PDF bila kikomo</string>
     <string name="premium_feature_unlimited_pdf_detail">Mpango wa bure huhifadhi hadi miradi 5 ya hati za PDF. Pro huondoa kikomo hicho, ili maktaba yako ya kusoma iweze kuendelea kukua.</string>
     <string name="premium_feature_watermark_desc">Ondoa alama ya maji kutoka kwa programu zilizotengenezwa</string>
-    <string name="premium_feature_watermark_detail">Ondoa viashiria vya skrini ya kuanzia na alama za maji za \'Made with HTML to APK\' kutoka kwa miundo yote iliyosafirishwa kwa programu za lebo nyeupe na zenye chapa kamili.</string>
+    <string name="premium_feature_watermark_detail">Ondoa viashiria vya skrini ya kuanzia na alama za maji za \'Made with HTML2APK\' kutoka kwa miundo yote iliyosafirishwa kwa programu za lebo nyeupe na zenye chapa kamili.</string>
     <string name="premium_feature_webview_desc">Mipangilio ya hali ya juu ya WebView</string>
     <string name="premium_feature_webview_detail">Pata udhibiti kamili wa kuongeza kasi ya maunzi, kumbukumbu za koni ya JS, mifuatano maalum ya User-Agent, ruhusa za kupakia faili, na mikakati ya kache.</string>
     <string name="premium_less_features_button">Onyesha Chini</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Tuma Maoni</string>
     <string name="settings_feedback_chooser">Tuma maoni</string>
     <string name="settings_feedback_no_app">Hakuna programu ya barua pepe iliyopatikana</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Maoni</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Pata Pro Bila Malipo</string>
     <string name="settings_free_premium_summary">Shiriki video, fikia maoni 10K, pata Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Imewashwa</string>
     <string name="support_button_action">Saidia</string>
     <string name="support_cats_interactive_hint">Gusa paka yeyote ili umbembeleze! 🐾</string>
-    <string name="support_developer_desc">Habari! Asante sana kwa kununua Pro. Kama msanidi programu binafsi, ninaendelea kudumisha na kuboresha HTML to APK. Ikiwa unapenda programu hii na ungependa kusaidia masasisho ya baadaye, unaweza kuninunulia kahawa au mlo kwa hiari. Kila mchango una maana kubwa kwangu! ❤️</string>
+    <string name="support_developer_desc">Habari! Asante sana kwa kununua Pro. Kama msanidi programu binafsi, ninaendelea kudumisha na kuboresha HTML2APK. Ikiwa unapenda programu hii na ungependa kusaidia masasisho ya baadaye, unaweza kuninunulia kahawa au mlo kwa hiari. Kila mchango una maana kubwa kwangu! ❤️</string>
     <string name="support_developer_subtitle">Ikiwa Ungependa Kunisaidia ☕</string>
     <string name="support_developer_title">Msaidie Msanidi</string>
     <string name="support_success_button">Karibu ❤️</string>
-    <string name="support_success_message">Msaada wako umepokelewa! Kama msanidi programu binafsi anayeunda HTML to APK, umenipa nguvu kubwa, ari na motisha. Paka wetu wanasherehekea kwa ajili yako! 🐾</string>
+    <string name="support_success_message">Msaada wako umepokelewa! Kama msanidi programu binafsi anayeunda HTML2APK, umenipa nguvu kubwa, ari na motisha. Paka wetu wanasherehekea kwa ajili yako! 🐾</string>
     <string name="support_success_title">Wewe ni wa ajabu! ❤️</string>
     <string name="support_tier_coffee_desc">Kikombe cha kahawa cha moto kwa ajili ya kuandika msimbo usiku ☕</string>
     <string name="support_tier_coffee_title">Nunua Kahawa</string>
     <string name="support_tier_meal_desc">Chakula kitamu cha jioni ili kubaki na nguvu na umakini 🍕</string>
     <string name="support_tier_meal_title">Nunua Mlo</string>
-    <string name="support_tier_sponsor_desc">Mchango wa moja kwa moja kwa mustakabali wa HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Mchango wa moja kwa moja kwa mustakabali wa HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Mfadhili Mkuu</string>
     <string name="switch_role">Swichi</string>
     <string name="tab">Kichupo</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Mpangilio wa Skrini nzima</string>
     <string name="template_gallery_desc">Hifadhi picha ya base64 kwenye ghala la picha.</string>
     <string name="template_gallery_title">Hifadhi kwenye Ghala</string>
-    <string name="template_guide_body">HTML to APK huingiza kitu cha JavaScript cha kimataifa kinachoitwa AndroidAPI kwenye WebView yako. Unaweza kupiga mbinu hizi moja kwa moja kutoka kwa msimbo wako wa HTML/JS:</string>
+    <string name="template_guide_body">HTML2APK huingiza kitu cha JavaScript cha kimataifa kinachoitwa AndroidAPI kwenye WebView yako. Unaweza kupiga mbinu hizi moja kwa moja kutoka kwa msimbo wako wa HTML/JS:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // inarudisha JSON\nAndroidAPI.getBatteryLevel() // inarudisha int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // inarudisha int 0-255</string>
-    <string name="template_guide_note">Kidokezo: Tumia API hizi ndani ya vishughulikiaji vya onclick au kazi yoyote ya JavaScript. Kitu hiki kinapatikana kiotomatiki wakati programu yako inapoundwa na HTML to APK.</string>
+    <string name="template_guide_note">Kidokezo: Tumia API hizi ndani ya vishughulikiaji vya onclick au kazi yoyote ya JavaScript. Kitu hiki kinapatikana kiotomatiki wakati programu yako inapoundwa na HTML2APK.</string>
     <string name="template_guide_title">Mwongozo wa API</string>
     <string name="template_gyroscope_desc">Soma kiwango cha mzunguko wa kifaa kwenye mhimili wa X, Y na Z.</string>
     <string name="template_gyroscope_title">Gyroscope</string>

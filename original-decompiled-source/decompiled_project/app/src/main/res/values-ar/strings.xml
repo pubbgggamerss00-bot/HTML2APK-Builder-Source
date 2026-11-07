@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">جاري التفكير...</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">تم إيقاف الرسوم المتحركة لأن الجهاز كان يواجه صعوبة في الأداء. يمكنك تشغيلها من الإعدادات.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">جاري الاتصال بـ Google Play، يرجى المحاولة مرة أخرى بعد بضع ثوانٍ.</string>
     <string name="billing_restore_error">خطأ أثناء الاستعلام: %1$s</string>
     <string name="billing_restore_not_found">لم يتم العثور على عملية شراء نشطة لحساب Google هذا.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">إرسال بريد إلكتروني</string>
     <string name="build_failed_dialog_title">فشل البناء</string>
     <string name="build_failed_email_chooser">إرسال تقرير الخطأ عبر...</string>
-    <string name="build_failed_email_subject">[HTML to APK] تقرير فشل البناء - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] تقرير فشل البناء - %1$s</string>
     <string name="build_format_aab">حزمة التطبيق (App Bundle)</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">اكتمل بناء AAB: %1$s (%2$d بايت)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">شارك ما قمت بإنشائه مع العالم واحصل على Pro في المقابل. الأمر يتطلب 3 خطوات بسيطة فقط:</string>
     <string name="free_premium_note">نصيحة: أرفق لقطة شاشة لعدد المشاهدات في بريدك الإلكتروني لتسريع عملية التحقق.</string>
     <string name="free_premium_send_email">إرسال بريد إلكتروني</string>
-    <string name="free_premium_step1_desc">سجل مقطع فيديو يعرض تطبيقاً أو لعبة قمت بإنشائها باستخدام HTML to APK وشاركه على يوتيوب أو تيك توك أو إنستغرام.</string>
+    <string name="free_premium_step1_desc">سجل مقطع فيديو يعرض تطبيقاً أو لعبة قمت بإنشائها باستخدام HTML2APK وشاركه على يوتيوب أو تيك توك أو إنستغرام.</string>
     <string name="free_premium_step1_title">سجل وشارك مقطع فيديو</string>
     <string name="free_premium_step2_desc">بمجرد وصول الفيديو الخاص بك إلى 10,000 مشاهدة على أي من هذه المنصات، ستكون مكافأتك جاهزة.</string>
     <string name="free_premium_step2_title">حقق 10,000 مشاهدة</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">استخدم المجلدات وإجراءات المشروع للحفاظ على ترتيب كل شيء.</string>
     <string name="howto_organize_title">حافظ على ترتيب مشاريعك</string>
     <string name="howto_output_body">صيغة APK مخصصة للتثبيت على هاتفك أو للمشاركة المباشرة. صيغة AAB هي التنسيق الذي يحتاجه متجر Google Play (للنسخة الاحترافية). مع النسخة الاحترافية، يمكنك أيضاً تصدير المشروع كمشروع Android Studio (بصيغة ZIP) من قائمة المشروع. توجد الإصدارات السابقة ضمن مخرجات البناء (Build Outputs) في نفس القائمة، ويمكن للقائمة الرئيسية تصدير أو استيراد المشاريع كنسخ احتياطية بصيغة ZIP.</string>
-    <string name="howto_overview">باستخدام HTML to APK Builder، يمكنك تحويل موقع الويب الخاص بك أو ملفات HTML إلى تطبيق Android حقيقي. لا حاجة للبرمجة!</string>
+    <string name="howto_overview">باستخدام HTML2APK، يمكنك تحويل موقع الويب الخاص بك أو ملفات HTML إلى تطبيق Android حقيقي. لا حاجة للبرمجة!</string>
     <string name="howto_pdf_body">أنشئ مشروعاً ثم افتح / اعرض ملف PDF لفتح القارئ. يمكنك التكبير، والتبديل بين وضع القراءة الفاتح والداكن، وإضافة إشارات مرجعية، والمتابعة من آخر صفحة توقفت عندها. استخدم التعديل عندما تريد إعادة ترتيب الصفحات أو إضافة تعليقات توضيحية على المستند. يمكنك تحويل المستند إلى تطبيق لاحقاً.</string>
     <string name="howto_playstore_signing_action">اقرأ المزيد</string>
-    <string name="howto_playstore_signing_body">عندما تطلب منك وحدة تحكم Play \"تفضيلات توقيع التطبيق\"، اختر الخيار الأول: &lt;b&gt;دع Google تدير وتحمي مفتاح توقيع تطبيقك (موصى به)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;هذا يفعّل &lt;b&gt;توقيع تطبيق Play&lt;/b&gt;. تحتفظ Google بمفتاح التوقيع الحقيقي؛ وأنت تقوم فقط بتحميل ملفات APK/AAB الموقعة بمفتاح التحميل الخاص بك.&lt;br/&gt;&lt;br/&gt;إذا فقدت مخزن المفاتيح لاحقًا (على سبيل المثال عن طريق إلغاء تثبيت HTMLtoAPK)، يمكنك طلب &lt;b&gt;إعادة تعيين مفتاح التحميل&lt;/b&gt; في وحدة تحكم Play وسيستمر المستخدمون في تلقي التحديثات.&lt;br/&gt;&lt;br/&gt;إذا كان يجب عليك تحميل مفتاح التوقيع الخاص بك، افتح مخزن المفاتيح في هذا التطبيق واضغط على &lt;b&gt;تصدير لمتجر Play (PEPK)&lt;/b&gt;. اختر نفس الطريقة التي تظهرها وحدة تحكم Play (المفتاح العام السداسي أو مفتاح RSA العام PEM) لإنشاء &lt;b&gt;output.zip&lt;/b&gt; وتحميله.&lt;br/&gt;&lt;br/&gt;اختر \"تصدير وتحميل مفتاحك الخاص\" فقط إذا كنت متأكدًا تمامًا من قدرتك على الحفاظ على أمان ذلك المفتاح إلى الأبد. فقدانه يعني أنك لن تتمكن من تحديث التطبيق مرة أخرى.</string>
+    <string name="howto_playstore_signing_body">عندما تطلب منك وحدة تحكم Play \"تفضيلات توقيع التطبيق\"، اختر الخيار الأول: &lt;b&gt;دع Google تدير وتحمي مفتاح توقيع تطبيقك (موصى به)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;هذا يفعّل &lt;b&gt;توقيع تطبيق Play&lt;/b&gt;. تحتفظ Google بمفتاح التوقيع الحقيقي؛ وأنت تقوم فقط بتحميل ملفات APK/AAB الموقعة بمفتاح التحميل الخاص بك.&lt;br/&gt;&lt;br/&gt;إذا فقدت مخزن المفاتيح لاحقًا (على سبيل المثال عن طريق إلغاء تثبيت HTML2APK)، يمكنك طلب &lt;b&gt;إعادة تعيين مفتاح التحميل&lt;/b&gt; في وحدة تحكم Play وسيستمر المستخدمون في تلقي التحديثات.&lt;br/&gt;&lt;br/&gt;إذا كان يجب عليك تحميل مفتاح التوقيع الخاص بك، افتح مخزن المفاتيح في هذا التطبيق واضغط على &lt;b&gt;تصدير لمتجر Play (PEPK)&lt;/b&gt;. اختر نفس الطريقة التي تظهرها وحدة تحكم Play (المفتاح العام السداسي أو مفتاح RSA العام PEM) لإنشاء &lt;b&gt;output.zip&lt;/b&gt; وتحميله.&lt;br/&gt;&lt;br/&gt;اختر \"تصدير وتحميل مفتاحك الخاص\" فقط إذا كنت متأكدًا تمامًا من قدرتك على الحفاظ على أمان ذلك المفتاح إلى الأبد. فقدانه يعني أنك لن تتمكن من تحديث التطبيق مرة أخرى.</string>
     <string name="howto_playstore_signing_summary">افهم مفاتيح التحميل، وتوقيع تطبيقات Play، وPEPK.</string>
     <string name="howto_playstore_signing_title">اختيار مفتاح توقيع متجر Play</string>
     <string name="howto_preview_body">تعرض المعاينة صفحتك بالطريقة التي سيعمل بها التطبيق النهائي، بما في ذلك استدعاءات Android API. يقوم محرر HTML بتلوين الكود الخاص بك، وإغلاق الوسوم نيابة عنك، ويحتوي على ميزة البحث والاستبدال؛ يتم الاحتفاظ بالتغييرات أثناء التبديل إلى المعاينة والعودة.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">احتفظ بنسخة على هذا الجهاز</string>
     <string name="keystore_persisted">تم الحفظ في Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">المشروع: %1$s</string>
-    <string name="keystore_recovery_body">إذا قمت بإلغاء تثبيت HTMLtoAPK، فقد تكون مفاتيح توقيع التطبيق التي تم إنشاؤها تلقائياً قد فُقدت. سيتم توقيع إصدار جديد بمفتاح مختلف وقد يرفض متجر Play التحديث.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;الحل 1 - إعادة تعيين مفتاح التحميل (موصى به):&lt;/b&gt;&lt;br/&gt;1. قم بتصدير &lt;b&gt;شهادة PEM&lt;/b&gt; الخاصة بمخزن المفاتيح الجديد من القائمة أدناه.&lt;br/&gt;2. في وحدة تحكم Play، انتقل إلى &lt;b&gt;توقيع التطبيق &gt; طلب إعادة تعيين مفتاح التحميل&lt;/b&gt;.&lt;br/&gt;3. املأ النموذج وقم بتحميل ملف PEM.&lt;br/&gt;4. بمجرد الموافقة، انشر ملف APK/AAB الجديد الموقع بالمفتاح الجديد.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;الحل 2 - استبدال مفتاح توقيع التطبيق:&lt;/b&gt;&lt;br/&gt;إذا سمحت لك وحدة تحكم Play بتحميل مفتاح توقيع تطبيق جديد، استخدم &lt;b&gt;تصدير لمتجر Play (PEPK)&lt;/b&gt; في مخزن المفاتيح. اختر نفس الطريقة الموضحة في وحدة تحكم Play (مفتاح سداسي عشري أو RSA PEM)، وقم بإنشاء output.zip، ثم قم بتحميله.&lt;br/&gt;&lt;br/&gt;سيستمر المستخدمون في تلقي التحديثات لأن مفتاح توقيع التطبيق يبقى مع Google عند إعادة تعيين مفتاح التحميل فقط.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;إذا تم تعطيل توقيع تطبيق Play&lt;/b&gt; وفقدت مفتاح التوقيع، يجب عليك نشر التطبيق مرة أخرى باسم حزمة جديد.</string>
+    <string name="keystore_recovery_body">إذا قمت بإلغاء تثبيت HTML2APK، فقد تكون مفاتيح توقيع التطبيق التي تم إنشاؤها تلقائياً قد فُقدت. سيتم توقيع إصدار جديد بمفتاح مختلف وقد يرفض متجر Play التحديث.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;الحل 1 - إعادة تعيين مفتاح التحميل (موصى به):&lt;/b&gt;&lt;br/&gt;1. قم بتصدير &lt;b&gt;شهادة PEM&lt;/b&gt; الخاصة بمخزن المفاتيح الجديد من القائمة أدناه.&lt;br/&gt;2. في وحدة تحكم Play، انتقل إلى &lt;b&gt;توقيع التطبيق &gt; طلب إعادة تعيين مفتاح التحميل&lt;/b&gt;.&lt;br/&gt;3. املأ النموذج وقم بتحميل ملف PEM.&lt;br/&gt;4. بمجرد الموافقة، انشر ملف APK/AAB الجديد الموقع بالمفتاح الجديد.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;الحل 2 - استبدال مفتاح توقيع التطبيق:&lt;/b&gt;&lt;br/&gt;إذا سمحت لك وحدة تحكم Play بتحميل مفتاح توقيع تطبيق جديد، استخدم &lt;b&gt;تصدير لمتجر Play (PEPK)&lt;/b&gt; في مخزن المفاتيح. اختر نفس الطريقة الموضحة في وحدة تحكم Play (مفتاح سداسي عشري أو RSA PEM)، وقم بإنشاء output.zip، ثم قم بتحميله.&lt;br/&gt;&lt;br/&gt;سيستمر المستخدمون في تلقي التحديثات لأن مفتاح توقيع التطبيق يبقى مع Google عند إعادة تعيين مفتاح التحميل فقط.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;إذا تم تعطيل توقيع تطبيق Play&lt;/b&gt; وفقدت مفتاح التوقيع، يجب عليك نشر التطبيق مرة أخرى باسم حزمة جديد.</string>
     <string name="keystore_recovery_close">فهمت</string>
     <string name="keystore_recovery_open_console">افتح وحدة تحكم Play</string>
     <string name="keystore_recovery_title">هل فقدت مفتاح التوقيع الخاص بك؟</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">عارض PDF</string>
     <string name="licenses_count">%1$d مكتبات</string>
     <string name="licenses_empty">لا توجد مكتبة تطابق بحثك.</string>
-    <string name="licenses_intro">تم بناء HTML to APK على البرامج مفتوحة المصدر أدناه. يتم أيضاً تجميع المكتبات المميزة بـ \"التطبيقات المنشأة\" (Generated apps) داخل التطبيقات التي يبنيها (مكتبات الإعلانات فقط عند تفعيل الإعلانات).</string>
+    <string name="licenses_intro">تم بناء HTML2APK على البرامج مفتوحة المصدر أدناه. يتم أيضاً تجميع المكتبات المميزة بـ \"التطبيقات المنشأة\" (Generated apps) داخل التطبيقات التي يبنيها (مكتبات الإعلانات فقط عند تفعيل الإعلانات).</string>
     <string name="licenses_load_failed">تعذر تحميل قائمة التراخيص.</string>
     <string name="licenses_open_license">فتح الترخيص</string>
     <string name="licenses_open_website">الموقع الإلكتروني</string>
@@ -1077,7 +1077,7 @@
     <string name="m3c_dropdown_menu_toggle">توسيع القائمة المنسدلة أو تصغيرها</string>
     <string name="m3c_snackbar_dismiss">إغلاق</string>
     <string name="mail_report_android">إصدار أندرويد: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">إصدار HTML to APK: الإصدار v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">إصدار HTML2APK: الإصدار v%1$s (%2$d)</string>
     <string name="mail_report_date">التاريخ: %1$s</string>
     <string name="mail_report_default_project">المشروع</string>
     <string name="mail_report_device">الجهاز: %1$s %2$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">الإعدادات</string>
     <string name="nav_templates">القوالب</string>
     <string name="not_selected">غير محدّد</string>
-    <string name="offer_dialog_message">شارك مقطع فيديو يعرض تطبيقاً قمت بإنشائه باستخدام HTML to APK. عندما يصل إلى 10,000 مشاهدة، ستحصل على نسخة Pro مجاناً.</string>
+    <string name="offer_dialog_message">شارك مقطع فيديو يعرض تطبيقاً قمت بإنشائه باستخدام HTML2APK. عندما يصل إلى 10,000 مشاهدة، ستحصل على نسخة Pro مجاناً.</string>
     <string name="offer_dialog_no">ليس الآن</string>
     <string name="offer_dialog_title">احصل على Pro مجاناً</string>
     <string name="offer_dialog_yes">كيف يمكنني كسبها؟</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">تُباع بشكل منفصل، ولا تتطلب حساب Pro. تحصل الحسابات الجديدة على تطبيقها الأول مجاناً.</string>
     <string name="premium_credits_link_title">حزم رصيد الذكاء الاصطناعي</string>
     <string name="premium_crown_subtitle">أزل جميع القيود وأنشئ تطبيقاتك بكامل القوة.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">مرحباً! أنا إمري، عمري 19 عاماً، وأقوم بتطوير HTML to APK بمفردي وبشغف كبير. هدفي هو تمكينك من تحويل مشاريع الويب الخاصة بك إلى تطبيقات أندرويد حقيقية بسلاسة، دون أي إعدادات معقدة.\n\nمن خلال الترقية إلى Pro، أنت تدعم مباشرة مطوراً مستقلاً شاباً وتساهم في التطوير المستقبلي لهذا المشروع. شكراً جزيلاً لدعمك اللطيف! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">مرحباً! أنا إمري، عمري 19 عاماً، وأقوم بتطوير HTML2APK بمفردي وبشغف كبير. هدفي هو تمكينك من تحويل مشاريع الويب الخاصة بك إلى تطبيقات أندرويد حقيقية بسلاسة، دون أي إعدادات معقدة.\n\nمن خلال الترقية إلى Pro، أنت تدعم مباشرة مطوراً مستقلاً شاباً وتساهم في التطوير المستقبلي لهذا المشروع. شكراً جزيلاً لدعمك اللطيف! ❤️</string>
     <string name="premium_dev_note_title">ملاحظة من المطور 👋</string>
     <string name="premium_error_payment">الدفع غير متاح. يرجى المحاولة مرة أخرى لاحقاً.</string>
     <string name="premium_extra_ads_detail">صفر إعلانات مزعجة في كل من مساحة عمل التطبيق وجميع التطبيقات المصدرة. استمتع ببيئة نظيفة وخالية من التشتيت.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">قراءة عدد غير محدود من مستندات PDF</string>
     <string name="premium_feature_unlimited_pdf_detail">تحتفظ الخطة المجانية بما يصل إلى 5 مشاريع مستندات PDF. تزيل النسخة الاحترافية هذا الحد، حتى تستمر مكتبة القراءة الخاصة بك في النمو.</string>
     <string name="premium_feature_watermark_desc">إزالة العلامة المائية من التطبيقات التي تم إنشاؤها</string>
-    <string name="premium_feature_watermark_detail">أزل مؤشرات شاشة البداية والعلامات المائية \'Made with HTML to APK\' من جميع الإصدارات المصدرة للحصول على تطبيقات ذات علامة تجارية خاصة بك بالكامل.</string>
+    <string name="premium_feature_watermark_detail">أزل مؤشرات شاشة البداية والعلامات المائية \'Made with HTML2APK\' من جميع الإصدارات المصدرة للحصول على تطبيقات ذات علامة تجارية خاصة بك بالكامل.</string>
     <string name="premium_feature_webview_desc">إعدادات WebView المتقدمة</string>
     <string name="premium_feature_webview_detail">احصل على تحكم كامل في تسريع الأجهزة، وسجلات وحدة تحكم JS، وسلاسل وكيل المستخدم المخصصة، وأذونات تحميل الملفات، واستراتيجيات التخزين المؤقت.</string>
     <string name="premium_less_features_button">عرض أقل</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">إرسال ملاحظات</string>
     <string name="settings_feedback_chooser">إرسال ملاحظات</string>
     <string name="settings_feedback_no_app">لم يتم العثور على تطبيق بريد إلكتروني</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - ملاحظات</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">احصل على Pro مجاناً</string>
     <string name="settings_free_premium_summary">شارك فيديو، حقق 10 آلاف مشاهدة، واحصل على Pro</string>
@@ -1509,7 +1509,7 @@
     <string name="state_on">مفعَّل</string>
     <string name="support_button_action">دعم</string>
     <string name="support_cats_interactive_hint">اضغط على أي قطة لمداعبتها! 🐾</string>
-    <string name="support_developer_desc">مرحباً! شكراً جزيلاً لشرائك نسخة Pro. بصفتي مطوراً مستقلاً، أقوم باستمرار بصيانة وتحسين تطبيق HTML to APK. إذا كنت تحب التطبيق وترغب في دعم التحديثات المستقبلية، يمكنك اختيارياً شراء قهوة أو وجبة لي. كل مساهمة تعني لي الكثير! ❤️</string>
+    <string name="support_developer_desc">مرحباً! شكراً جزيلاً لشرائك نسخة Pro. بصفتي مطوراً مستقلاً، أقوم باستمرار بصيانة وتحسين تطبيق HTML2APK. إذا كنت تحب التطبيق وترغب في دعم التحديثات المستقبلية، يمكنك اختيارياً شراء قهوة أو وجبة لي. كل مساهمة تعني لي الكثير! ❤️</string>
     <string name="support_developer_subtitle">إذا كنت ترغب في دعمي ☕</string>
     <string name="support_developer_title">ادعم المطور</string>
     <string name="support_success_button">على الرحب والسعة ❤️</string>
@@ -1519,7 +1519,7 @@
     <string name="support_tier_coffee_title">شراء قهوة</string>
     <string name="support_tier_meal_desc">وجبة عشاء لطيفة للبقاء نشيطاً ومركزاً 🍕</string>
     <string name="support_tier_meal_title">شراء وجبة</string>
-    <string name="support_tier_sponsor_desc">مساهمة مباشرة في مستقبل HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">مساهمة مباشرة في مستقبل HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">راعي متميز</string>
     <string name="switch_role">تبديل</string>
     <string name="tab">علامة تبويب</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">تخطيط ملء الشاشة</string>
     <string name="template_gallery_desc">حفظ صورة بتنسيق base64 في معرض الصور.</string>
     <string name="template_gallery_title">حفظ في المعرض</string>
-    <string name="template_guide_body">يقوم HTML to APK بحقن كائن JavaScript عالمي يسمى AndroidAPI في WebView الخاص بك. يمكنك استدعاء هذه الطرق مباشرة من كود HTML/JS الخاص بك:</string>
+    <string name="template_guide_body">يقوم HTML2APK بحقن كائن JavaScript عالمي يسمى AndroidAPI في WebView الخاص بك. يمكنك استدعاء هذه الطرق مباشرة من كود HTML/JS الخاص بك:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // returns JSON\nAndroidAPI.getBatteryLevel() // returns int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // returns int 0-255</string>
     <string name="template_guide_note">نصيحة: استخدم واجهات برمجة التطبيقات هذه داخل معالجات onclick أو أي دالة JavaScript. الكائن متاح تلقائياً عند بناء تطبيقك باستخدام HTML إلى APK.</string>
     <string name="template_guide_title">دليل واجهة برمجة التطبيقات (API)</string>

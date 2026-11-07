@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Send Email</string>
     <string name="build_failed_dialog_title">Build Failed</string>
     <string name="build_failed_email_chooser">Send error report via…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Build Failure Report - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Build Failure Report - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB build completed: %1$s (%2$d bytes)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Share what you built with the world and get Pro in return. It only takes 3 simple steps:</string>
     <string name="free_premium_note">Tip: include a screenshot of the view count in your email to speed up verification.</string>
     <string name="free_premium_send_email">Send Email</string>
-    <string name="free_premium_step1_desc">Record a video showcasing an app or game you made with HTML to APK and share it on YouTube, TikTok or Instagram.</string>
+    <string name="free_premium_step1_desc">Record a video showcasing an app or game you made with HTML2APK and share it on YouTube, TikTok or Instagram.</string>
     <string name="free_premium_step1_title">Record and share a video</string>
     <string name="free_premium_step2_desc">Once your video reaches 10,000 organic views on any of these platforms, your reward will be ready.</string>
     <string name="free_premium_step2_title">Reach 10,000 views</string>
@@ -879,7 +879,7 @@
     <string name="guide_hero_test">Test</string>
     <string name="guide_hero_title">Your publishing path</string>
     <string name="guide_step10_body">Check your existing backups first. If Play App Signing is enabled, you can create a new keystore and request a lost upload key reset in Play Console using its PEM certificate. This leaves the app signing key held by Google unchanged. See the recovery section in Keystore Manager for the steps.</string>
-    <string name="guide_step11_body">Reinstalling HTML to APK does not automatically restore your old key. If you previously saved a persistent copy, use Find backups on device in Keystore Manager. You can also import an exported .p12 file using its password and alias. Then check that the correct keystore is selected in your project.</string>
+    <string name="guide_step11_body">Reinstalling HTML2APK does not automatically restore your old key. If you previously saved a persistent copy, use Find backups on device in Keystore Manager. You can also import an exported .p12 file using its password and alias. Then check that the correct keystore is selected in your project.</string>
     <string name="guide_step1_body">Create your Google Play Console account and complete the identity and device checks required for your account type. New accounts have a one-time registration fee of US$25. Check the requirements shown in Play Console before publishing.</string>
     <string name="guide_step2_body">Set your project name, unique package name and icon. Use the target SDK level required by Google Play. Select AAB as the publishing format; this option requires Pro in our app. APK is for direct installation and sharing; new Google Play apps are published as AABs.</string>
     <string name="guide_step3_body">Keep your keystore file, passwords and key alias in a safe place. With Pro, you can export it as a .p12 file. Keep a separate copy on your computer or in secure cloud storage as well as any device backup. A PEM certificate alone cannot be used to sign an app.</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF Viewer</string>
     <string name="licenses_count">%1$d libraries</string>
     <string name="licenses_empty">No library matches your search.</string>
-    <string name="licenses_intro">HTML to APK is built on the open source software below. Libraries marked “Generated apps” are also packaged into the apps it builds (ad libraries only when ads are on).</string>
+    <string name="licenses_intro">HTML2APK is built on the open source software below. Libraries marked “Generated apps” are also packaged into the apps it builds (ad libraries only when ads are on).</string>
     <string name="licenses_load_failed">The license list could not be loaded.</string>
     <string name="licenses_open_license">Open license</string>
     <string name="licenses_open_website">Website</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Toggle dropdown menu</string>
     <string name="m3c_snackbar_dismiss">Dismiss</string>
     <string name="mail_report_android">Android version: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK version: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK version: v%1$s (%2$d)</string>
     <string name="mail_report_date">Date: %1$s</string>
     <string name="mail_report_default_project">Project</string>
     <string name="mail_report_device">Device: %1$s %2$s</string>
     <string name="mail_report_end">=== END OF REPORT ===</string>
     <string name="mail_report_format">Output format: %1$s</string>
-    <string name="mail_report_intro">A build failed inside the HTML to APK app.</string>
+    <string name="mail_report_intro">A build failed inside the HTML2APK app.</string>
     <string name="mail_report_intro2">Please review this error report.</string>
     <string name="mail_report_package_name">Package name: %1$s</string>
     <string name="mail_report_project_name">Project name: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Settings</string>
     <string name="nav_templates">Templates</string>
     <string name="not_selected">Not selected</string>
-    <string name="offer_dialog_message">Share a video showcasing an app you built with HTML to APK. When it reaches 10,000 views, Pro is on us.</string>
+    <string name="offer_dialog_message">Share a video showcasing an app you built with HTML2APK. When it reaches 10,000 views, Pro is on us.</string>
     <string name="offer_dialog_no">Not Now</string>
     <string name="offer_dialog_title">Get Pro for Free</string>
     <string name="offer_dialog_yes">How Do I Earn It?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Sold separately, no Pro needed.</string>
     <string name="premium_credits_link_title">AI credit packs</string>
     <string name="premium_crown_subtitle">Remove all limits and create with full power.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Hi! I\'m Emre, 19 years old, and I develop HTML to APK completely on my own with great passion. My goal is to empower you to turn your web projects into real Android apps seamlessly, without any complex setup.\n\nBy upgrading to Pro, you directly support a young indie developer and fuel the future development of this project. Thank you so much for your kind support! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Hi! I\'m Emre, 19 years old, and I develop HTML2APK completely on my own with great passion. My goal is to empower you to turn your web projects into real Android apps seamlessly, without any complex setup.\n\nBy upgrading to Pro, you directly support a young indie developer and fuel the future development of this project. Thank you so much for your kind support! ❤️</string>
     <string name="premium_dev_note_title">A Note from the Developer 👋</string>
     <string name="premium_error_payment">Payment unavailable. Please try again later.</string>
     <string name="premium_extra_ads_detail">Zero intrusive ads in both the application workspace and all exported apps. Enjoy a clean, distraction-free environment.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Read unlimited PDF documents</string>
     <string name="premium_feature_unlimited_pdf_detail">The free plan keeps up to 5 PDF document projects. Pro removes the limit, so your reading library can keep growing.</string>
     <string name="premium_feature_watermark_desc">Remove watermark from generated apps</string>
-    <string name="premium_feature_watermark_detail">Remove \'Made with HTML to APK\' splash indicators and watermarks from all exported builds for completely white-label, branded applications.</string>
+    <string name="premium_feature_watermark_detail">Remove \'Made with HTML2APK\' splash indicators and watermarks from all exported builds for completely white-label, branded applications.</string>
     <string name="premium_feature_webview_desc">Advanced WebView settings</string>
     <string name="premium_feature_webview_detail">Gain complete control over hardware acceleration, JS console logs, custom User-Agent strings, file upload permissions, and caching strategies.</string>
     <string name="premium_less_features_button">Show Less</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Send Feedback</string>
     <string name="settings_feedback_chooser">Send feedback</string>
     <string name="settings_feedback_no_app">No email app found</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Feedback</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Get Pro for Free</string>
     <string name="settings_free_premium_summary">Share a video, reach 10K views, get Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">On</string>
     <string name="support_button_action">Support</string>
     <string name="support_cats_interactive_hint">Tap on any cat to pet them! 🐾</string>
-    <string name="support_developer_desc">Hello! Thank you so much for purchasing Pro. As an independent solo developer, I continuously maintain and improve HTML to APK. If you love the app and wish to support future updates, you can optionally buy me a coffee or a meal. Every contribution means the world to me! ❤️</string>
+    <string name="support_developer_desc">Hello! Thank you so much for purchasing Pro. As an independent solo developer, I continuously maintain and improve HTML2APK. If you love the app and wish to support future updates, you can optionally buy me a coffee or a meal. Every contribution means the world to me! ❤️</string>
     <string name="support_developer_subtitle">If You\'d Like to Support Me ☕</string>
     <string name="support_developer_title">Support the Developer</string>
     <string name="support_success_button">You\'re Welcome ❤️</string>
-    <string name="support_success_message">Your support has been received! As an independent solo developer creating HTML to APK, you gave me tremendous power, morale and motivation.\n\nOur cats are celebrating for you! 🐾</string>
+    <string name="support_success_message">Your support has been received! As an independent solo developer creating HTML2APK, you gave me tremendous power, morale and motivation.\n\nOur cats are celebrating for you! 🐾</string>
     <string name="support_success_title">You Are Amazing! ❤️</string>
     <string name="support_tier_coffee_desc">A warm cup of coffee for late-night coding ☕</string>
     <string name="support_tier_coffee_title">Buy a Coffee</string>
     <string name="support_tier_meal_desc">A nice dinner to stay fueled and focused 🍕</string>
     <string name="support_tier_meal_title">Buy a Meal</string>
-    <string name="support_tier_sponsor_desc">Direct contribution to the future of HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Direct contribution to the future of HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super Sponsor</string>
     <string name="switch_role">Switch</string>
     <string name="tab">Tab</string>

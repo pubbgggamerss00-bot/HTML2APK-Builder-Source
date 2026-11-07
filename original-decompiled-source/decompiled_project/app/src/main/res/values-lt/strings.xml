@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Mąstoma…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animacijos išjungtos, nes įrenginys veikė sunkiai. Įjunkite jas nustatymuose.</string>
-    <string name="app_name">HTML į APK kūrimo įrankis</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Jungiamasi prie „Google Play“, bandykite dar kartą po kelių sekundžių.</string>
     <string name="billing_restore_error">Klaida vykdant užklausą: %1$s</string>
     <string name="billing_restore_not_found">Šiai „Google“ paskyrai nerasta aktyvių pirkinių.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Siųsti el. laišką</string>
     <string name="build_failed_dialog_title">Kūrimas nepavyko</string>
     <string name="build_failed_email_chooser">Siųsti klaidų ataskaitą per...</string>
-    <string name="build_failed_email_subject">[HTML to APK] Kūrimo klaidos ataskaita - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Kūrimo klaidos ataskaita - %1$s</string>
     <string name="build_format_aab">Programų paketas (App Bundle)</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB kūrimas baigtas: %1$s (%2$d baitų)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Papasakokite pasauliui apie savo kūrinį ir gaukite „Pro“ versiją. Tai tik 3 paprasti žingsniai:</string>
     <string name="free_premium_note">Patarimas: į el. laišką įtraukite peržiūrų skaičiaus ekrano kopiją, kad paspartintumėte patikrinimą.</string>
     <string name="free_premium_send_email">Siųsti el. laišką</string>
-    <string name="free_premium_step1_desc">Įrašykite vaizdo įrašą, kuriame pristatoma programėlė ar žaidimas, sukurtas naudojant „HTML to APK“, ir pasidalykite juo „YouTube“, „TikTok“ arba „Instagram“.</string>
+    <string name="free_premium_step1_desc">Įrašykite vaizdo įrašą, kuriame pristatoma programėlė ar žaidimas, sukurtas naudojant „HTML2APK“, ir pasidalykite juo „YouTube“, „TikTok“ arba „Instagram“.</string>
     <string name="free_premium_step1_title">Įrašykite ir pasidalykite vaizdo įrašu</string>
     <string name="free_premium_step2_desc">Kai jūsų vaizdo įrašas pasieks 10 000 peržiūrų bet kurioje iš šių platformų, jūsų atlygis bus paruoštas.</string>
     <string name="free_premium_step2_title">Pasiekite 10 000 peržiūrų</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Naudokite aplankus ir projekto veiksmus, kad viskas būtų tvarkinga.</string>
     <string name="howto_organize_title">Palaikykite tvarką projektuose</string>
     <string name="howto_output_body">APK skirtas diegti telefone arba bendrinti tiesiogiai. AAB yra formatas, kurio reikia „Google Play“ („Pro“). Su „Pro“ taip pat galite eksportuoti projektą kaip „Android Studio“ projektą (ZIP) iš projekto meniu. Ankstesni kūrimai yra tame pačiame meniu skiltyje „Build Outputs“, o pagrindiniame meniu galima eksportuoti arba importuoti projektus kaip ZIP atsargines kopijas.</string>
-    <string name="howto_overview">Naudodami „HTML to APK Builder“, galite paversti savo svetainę ar HTML failus tikra „Android“ programėle. Nereikia jokių programavimo žinių!</string>
+    <string name="howto_overview">Naudodami „HTML2APK“, galite paversti savo svetainę ar HTML failus tikra „Android“ programėle. Nereikia jokių programavimo žinių!</string>
     <string name="howto_pdf_body">Sukurkite projektą, tada pasirinkite „Atidaryti / peržiūrėti PDF“, kad atidarytumėte skaitytuvą. Priartinkite, perjunkite šviesų ir tamsų skaitymo režimą, pridėkite žymes ir tęskite nuo paskutinio puslapio. Naudokite „Redaguoti“, kai norite pakeisti puslapių tvarką arba komentuoti dokumentą. Vėliau dokumentą galėsite konvertuoti į programėlę.</string>
     <string name="howto_playstore_signing_action">Skaityti daugiau</string>
-    <string name="howto_playstore_signing_body">Kai „Play Console“ paklaus „Programos pasirašymo nuostatos“ (App signing preferences), pasirinkite pirmąją parinktį: &lt;b&gt;Leisti „Google“ tvarkyti ir apsaugoti jūsų programos pasirašymo raktą (rekomenduojama)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Tai įgalina &lt;b&gt;„Play“ programų pasirašymą&lt;/b&gt;. „Google“ saugo tikrąjį pasirašymo raktą; jūs įkeliate tik APK/AAB failus, pasirašytus jūsų įkėlimo raktu.&lt;br/&gt;&lt;br/&gt;Jei vėliau prarasite raktų saugyklą (pvz., pašalinę „HTMLtoAPK“), „Play Console“ galite paprašyti &lt;b&gt;iš naujo nustatyti įkėlimo raktą&lt;/b&gt; ir vartotojai vis tiek gaus naujinius.&lt;br/&gt;&lt;br/&gt;Jei privalote įkelti savo pasirašymo raktą, atidarykite raktų saugyklą šioje programoje ir bakstelėkite &lt;b&gt;Eksportuoti „Play“ parduotuvei (PEPK)&lt;/b&gt;. Pasirinkite tą patį metodą, kurį rodo „Play Console“ (šešioliktainis viešasis raktas arba RSA viešasis raktas PEM), kad sugeneruotumėte &lt;b&gt;output.zip&lt;/b&gt; ir įkelkite jį.&lt;br/&gt;&lt;br/&gt;Pasirinkite „Eksportuoti ir įkelti savo raktą“ tik tada, jei esate visiškai tikri, kad galėsite saugoti tą raktą amžinai. Jį praradus, programos daugiau nebegalėsite atnaujinti.</string>
+    <string name="howto_playstore_signing_body">Kai „Play Console“ paklaus „Programos pasirašymo nuostatos“ (App signing preferences), pasirinkite pirmąją parinktį: &lt;b&gt;Leisti „Google“ tvarkyti ir apsaugoti jūsų programos pasirašymo raktą (rekomenduojama)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Tai įgalina &lt;b&gt;„Play“ programų pasirašymą&lt;/b&gt;. „Google“ saugo tikrąjį pasirašymo raktą; jūs įkeliate tik APK/AAB failus, pasirašytus jūsų įkėlimo raktu.&lt;br/&gt;&lt;br/&gt;Jei vėliau prarasite raktų saugyklą (pvz., pašalinę „HTML2APK“), „Play Console“ galite paprašyti &lt;b&gt;iš naujo nustatyti įkėlimo raktą&lt;/b&gt; ir vartotojai vis tiek gaus naujinius.&lt;br/&gt;&lt;br/&gt;Jei privalote įkelti savo pasirašymo raktą, atidarykite raktų saugyklą šioje programoje ir bakstelėkite &lt;b&gt;Eksportuoti „Play“ parduotuvei (PEPK)&lt;/b&gt;. Pasirinkite tą patį metodą, kurį rodo „Play Console“ (šešioliktainis viešasis raktas arba RSA viešasis raktas PEM), kad sugeneruotumėte &lt;b&gt;output.zip&lt;/b&gt; ir įkelkite jį.&lt;br/&gt;&lt;br/&gt;Pasirinkite „Eksportuoti ir įkelti savo raktą“ tik tada, jei esate visiškai tikri, kad galėsite saugoti tą raktą amžinai. Jį praradus, programos daugiau nebegalėsite atnaujinti.</string>
     <string name="howto_playstore_signing_summary">Sužinokite apie įkėlimo raktus, „Play App Signing“ ir PEPK.</string>
     <string name="howto_playstore_signing_title">„Play Store“ pasirašymo rakto pasirinkimas</string>
     <string name="howto_preview_body">Peržiūra paleidžia jūsų puslapį taip, kaip jis veiks galutinėje programėlėje, įskaitant „Android API“ iškvietimus. HTML redaktorius spalvina kodą, automatiškai uždaro žymas, turi paieškos ir pakeitimo funkciją; pakeitimai išsaugomi perjungiant į peržiūrą ir atgal.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Išsaugoti kopiją šiame įrenginyje</string>
     <string name="keystore_persisted">Išsaugota aplanke Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projektas: %1$s</string>
-    <string name="keystore_recovery_body">Jei pašalinote „HTMLtoAPK“, automatiškai sugeneruoti programos pasirašymo raktai galėjo būti prarasti. Naujas kūrinys bus pasirašytas kitu raktu ir „Play“ parduotuvė gali atmesti atnaujinimą.&lt;br/&gt;&lt;br/&gt;&lt;&gt;1 sprendimas – iš naujo nustatyti įkėlimo raktą (rekomenduojama):&lt;/b&gt;&lt;br/&gt;1. Eksportuokite naujos saugyklos &lt;&gt;&lt;&gt;&lt;/b&gt; PEM sertifikatą iš žemiau pateikto sąrašo.&lt;br/&gt;2. „Play Console“ eikite į &lt;&gt;Programos pasirašymas &gt; Prašyti iš naujo nustatyti įkėlimo raktą&lt;/b&gt;.&lt;br/&gt;3. Užpildykite formą ir įkelkite PEM failą.&lt;br/&gt;4. Kai bus patvirtinta, paskelbkite savo naują APK/AAB, pasirašytą nauju raktu.&lt;br/&gt;&lt;br/&gt;&lt;&gt;2 sprendimas – pakeisti programos pasirašymo raktą:&lt;/b&gt;&lt;br/&gt;Jei „Play Console“ leidžia įkelti naują programos pasirašymo raktą, saugykloje naudokite &lt;&gt;Eksportuoti „Play“ parduotuvei (PEPK)&lt;/b&gt;. Pasirinkite tą patį metodą, kuris rodomas „Play Console“ (šešioliktainis raktas arba RSA PEM), sugeneruokite output.zip ir įkelkite jį.&lt;br/&gt;&lt;br/&gt; Vartotojai ir toliau gaus atnaujinimus, nes programos pasirašymo raktas lieka „Google“, kai iš naujo nustatote tik įkėlimo raktą.&lt;br/&gt;&lt;br/&gt;&lt;&gt;Jei „Play“ programų pasirašymas išjungtas&lt;/b&gt; ir praradote pasirašymo raktą, turite dar kartą paskelbti programą su nauju paketo pavadinimu.</string>
+    <string name="keystore_recovery_body">Jei pašalinote „HTML2APK“, automatiškai sugeneruoti programos pasirašymo raktai galėjo būti prarasti. Naujas kūrinys bus pasirašytas kitu raktu ir „Play“ parduotuvė gali atmesti atnaujinimą.&lt;br/&gt;&lt;br/&gt;&lt;&gt;1 sprendimas – iš naujo nustatyti įkėlimo raktą (rekomenduojama):&lt;/b&gt;&lt;br/&gt;1. Eksportuokite naujos saugyklos &lt;&gt;&lt;&gt;&lt;/b&gt; PEM sertifikatą iš žemiau pateikto sąrašo.&lt;br/&gt;2. „Play Console“ eikite į &lt;&gt;Programos pasirašymas &gt; Prašyti iš naujo nustatyti įkėlimo raktą&lt;/b&gt;.&lt;br/&gt;3. Užpildykite formą ir įkelkite PEM failą.&lt;br/&gt;4. Kai bus patvirtinta, paskelbkite savo naują APK/AAB, pasirašytą nauju raktu.&lt;br/&gt;&lt;br/&gt;&lt;&gt;2 sprendimas – pakeisti programos pasirašymo raktą:&lt;/b&gt;&lt;br/&gt;Jei „Play Console“ leidžia įkelti naują programos pasirašymo raktą, saugykloje naudokite &lt;&gt;Eksportuoti „Play“ parduotuvei (PEPK)&lt;/b&gt;. Pasirinkite tą patį metodą, kuris rodomas „Play Console“ (šešioliktainis raktas arba RSA PEM), sugeneruokite output.zip ir įkelkite jį.&lt;br/&gt;&lt;br/&gt; Vartotojai ir toliau gaus atnaujinimus, nes programos pasirašymo raktas lieka „Google“, kai iš naujo nustatote tik įkėlimo raktą.&lt;br/&gt;&lt;br/&gt;&lt;&gt;Jei „Play“ programų pasirašymas išjungtas&lt;/b&gt; ir praradote pasirašymo raktą, turite dar kartą paskelbti programą su nauju paketo pavadinimu.</string>
     <string name="keystore_recovery_close">Supratau</string>
     <string name="keystore_recovery_open_console">Atidaryti „Play“ konsolę</string>
     <string name="keystore_recovery_title">Pametėte pasirašymo raktą?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF peržiūros programa</string>
     <string name="licenses_count">%1$d bibliotekos</string>
     <string name="licenses_empty">Nėra jūsų paiešką atitinkančios bibliotekos.</string>
-    <string name="licenses_intro">„HTML to APK“ sukurta naudojant toliau nurodytą atvirojo kodo programinę įrangą. Bibliotekos, pažymėtos „Sugeneruotos programos“, taip pat yra supakuojamos į jos kuriamas programas (skelbimų bibliotekos tik tada, kai skelbimai įjungti).</string>
+    <string name="licenses_intro">„HTML2APK“ sukurta naudojant toliau nurodytą atvirojo kodo programinę įrangą. Bibliotekos, pažymėtos „Sugeneruotos programos“, taip pat yra supakuojamos į jos kuriamas programas (skelbimų bibliotekos tik tada, kai skelbimai įjungti).</string>
     <string name="licenses_load_failed">Nepavyko įkelti licencijų sąrašo.</string>
     <string name="licenses_open_license">Atvira licencija</string>
     <string name="licenses_open_website">Svetainė</string>
@@ -1083,7 +1083,7 @@
     <string name="mail_report_device">Įrenginys: %1$s %2$s</string>
     <string name="mail_report_end">=== ATASKAITOS PABAIGA ===</string>
     <string name="mail_report_format">Išvesties formatas: %1$s</string>
-    <string name="mail_report_intro">Kuriant programą HTML to APK įvyko klaida.</string>
+    <string name="mail_report_intro">Kuriant programą HTML2APK įvyko klaida.</string>
     <string name="mail_report_intro2">Peržiūrėkite šią klaidų ataskaitą.</string>
     <string name="mail_report_package_name">Paketo pavadinimas: %1$s</string>
     <string name="mail_report_project_name">Projekto pavadinimas: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Nustatymai</string>
     <string name="nav_templates">Šablonai</string>
     <string name="not_selected">Nepasirinkta</string>
-    <string name="offer_dialog_message">Pasidalykite vaizdo įrašu, kuriame pristatoma programėlė, sukurta naudojant „HTML to APK“. Kai jis pasieks 10 000 peržiūrų, „Pro“ versiją gausite nemokamai.</string>
+    <string name="offer_dialog_message">Pasidalykite vaizdo įrašu, kuriame pristatoma programėlė, sukurta naudojant „HTML2APK“. Kai jis pasieks 10 000 peržiūrų, „Pro“ versiją gausite nemokamai.</string>
     <string name="offer_dialog_no">Ne dabar</string>
     <string name="offer_dialog_title">Gaukite „Pro“ nemokamai</string>
     <string name="offer_dialog_yes">Kaip tai užsidirbti?</string>
@@ -1280,7 +1280,7 @@
     <string name="premium_credits_link_title">Dirbtinio intelekto kreditų paketai</string>
     <string name="premium_crown_subtitle">Pašalinkite visus apribojimus ir kurkite su visa galia.</string>
     <string name="premium_crown_title">HTML į APK Pro</string>
-    <string name="premium_dev_note_desc">Labas! Esu Emre, man 19 metų, ir aš su dideliu užsidegimu visiškai savarankiškai kuriu „HTML to APK“. Mano tikslas – suteikti jums galimybę sklandžiai paversti savo žiniatinklio projektus tikromis „Android“ programėlėmis, be jokios sudėtingos sąrankos.\n\nAtnaujindami į „Pro“, jūs tiesiogiai remiate jauną nepriklausomą kūrėją ir skatinate tolesnį šio projekto vystymą. Labai ačiū už jūsų geranorišką paramą! ❤️</string>
+    <string name="premium_dev_note_desc">Labas! Esu Emre, man 19 metų, ir aš su dideliu užsidegimu visiškai savarankiškai kuriu „HTML2APK“. Mano tikslas – suteikti jums galimybę sklandžiai paversti savo žiniatinklio projektus tikromis „Android“ programėlėmis, be jokios sudėtingos sąrankos.\n\nAtnaujindami į „Pro“, jūs tiesiogiai remiate jauną nepriklausomą kūrėją ir skatinate tolesnį šio projekto vystymą. Labai ačiū už jūsų geranorišką paramą! ❤️</string>
     <string name="premium_dev_note_title">Kūrėjo pastaba 👋</string>
     <string name="premium_error_payment">Mokėjimas negalimas. Bandykite dar kartą vėliau.</string>
     <string name="premium_extra_ads_detail">Jokių įkyrių skelbimų tiek programos darbo srityje, tiek visose eksportuotose programose. Mėgaukitės švaria aplinka be jokių trukdžių.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Skaitykite neribotą skaičių PDF dokumentų</string>
     <string name="premium_feature_unlimited_pdf_detail">Nemokamas planas leidžia turėti iki 5 PDF dokumentų projektų. „Pro“ versija panaikina šį apribojimą, todėl jūsų skaitymo biblioteka gali nuolat augti.</string>
     <string name="premium_feature_watermark_desc">Pašalinti vandens ženklą iš sukurtų programėlių</string>
-    <string name="premium_feature_watermark_detail">Pašalinkite „Made with HTML to APK“ pradinius indikatorius ir vandens ženklus iš visų eksportuotų versijų, kad sukurtumėte visiškai „white-label“ prekės ženklo programas.</string>
+    <string name="premium_feature_watermark_detail">Pašalinkite „Made with HTML2APK“ pradinius indikatorius ir vandens ženklus iš visų eksportuotų versijų, kad sukurtumėte visiškai „white-label“ prekės ženklo programas.</string>
     <string name="premium_feature_webview_desc">Išplėstiniai „WebView“ nustatymai</string>
     <string name="premium_feature_webview_detail">Įgykite visišką aparatinės įrangos spartinimo, JS konsolės žurnalų, pasirinktinių „User-Agent“ eilučių, failų įkėlimo leidimų ir talpyklos strategijų kontrolę.</string>
     <string name="premium_less_features_button">Rodyti mažiau</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Siųsti atsiliepimą</string>
     <string name="settings_feedback_chooser">Siųsti atsiliepimą</string>
     <string name="settings_feedback_no_app">Nerasta el. pašto programėlė</string>
-    <string name="settings_feedback_subject">HTML į APK kūrimo įrankis – atsiliepimas</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Gaukite „Pro“ nemokamai</string>
     <string name="settings_free_premium_summary">Pasidalykite vaizdo įrašu, pasiekite 10 tūkst. peržiūrų, gaukite „Pro“</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Įjungta</string>
     <string name="support_button_action">Paremti</string>
     <string name="support_cats_interactive_hint">Bakstelėkite bet kurią katę, kad ją paglostytumėte! 🐾</string>
-    <string name="support_developer_desc">Sveiki! Labai dėkoju, kad įsigijote „Pro“. Kaip nepriklausomas kūrėjas, nuolat prižiūriu ir tobulinu „HTML to APK“. Jei jums patinka ši programėlė ir norite paremti būsimus atnaujinimus, galite nupirkti man kavos ar pietus. Kiekvienas indėlis man reiškia labai daug! ❤️</string>
+    <string name="support_developer_desc">Sveiki! Labai dėkoju, kad įsigijote „Pro“. Kaip nepriklausomas kūrėjas, nuolat prižiūriu ir tobulinu „HTML2APK“. Jei jums patinka ši programėlė ir norite paremti būsimus atnaujinimus, galite nupirkti man kavos ar pietus. Kiekvienas indėlis man reiškia labai daug! ❤️</string>
     <string name="support_developer_subtitle">Jei norite mane paremti ☕</string>
     <string name="support_developer_title">Paremkite kūrėją</string>
     <string name="support_success_button">Nėra už ką ❤️</string>
-    <string name="support_success_message">Jūsų parama gauta! Kaip nepriklausomam kūrėjui, kuriančiam „HTML to APK“, suteikėte man didžiulės galios, moralės ir motyvacijos.\n\nMūsų katės švenčia už jus! 🐾</string>
+    <string name="support_success_message">Jūsų parama gauta! Kaip nepriklausomam kūrėjui, kuriančiam „HTML2APK“, suteikėte man didžiulės galios, moralės ir motyvacijos.\n\nMūsų katės švenčia už jus! 🐾</string>
     <string name="support_success_title">Jūs esate nuostabūs! ❤️</string>
     <string name="support_tier_coffee_desc">Šiltas kavos puodelis vėlyvam programavimui ☕</string>
     <string name="support_tier_coffee_title">Nupirkti kavos</string>
     <string name="support_tier_meal_desc">Gardūs pietūs, kad išlikčiau energingas ir susikaupęs 🍕</string>
     <string name="support_tier_meal_title">Nupirkti pietus</string>
-    <string name="support_tier_sponsor_desc">Tiesioginis indėlis į „HTML to APK“ ateitį 🚀</string>
+    <string name="support_tier_sponsor_desc">Tiesioginis indėlis į „HTML2APK“ ateitį 🚀</string>
     <string name="support_tier_sponsor_title">Super rėmėjas</string>
     <string name="switch_role">Jungiklis</string>
     <string name="tab">Tabuliavimo klavišas</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Viso ekrano išdėstymas</string>
     <string name="template_gallery_desc">Išsaugokite base64 vaizdą nuotraukų galerijoje.</string>
     <string name="template_gallery_title">Išsaugoti galerijoje</string>
-    <string name="template_guide_body">„HTML to APK“ įterpia globalų „JavaScript“ objektą, vadinamą „AndroidAPI“, į jūsų „WebView“. Šiuos metodus galite iškviesti tiesiogiai iš savo HTML/JS kodo:</string>
+    <string name="template_guide_body">„HTML2APK“ įterpia globalų „JavaScript“ objektą, vadinamą „AndroidAPI“, į jūsų „WebView“. Šiuos metodus galite iškviesti tiesiogiai iš savo HTML/JS kodo:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Labas!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Pavadinimas,Turinys)\nAndroidAPI.getDeviceInfo() // grąžina JSON\nAndroidAPI.getBatteryLevel() // grąžina int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // grąžina int 0-255</string>
-    <string name="template_guide_note">Patarimas: naudokite šias API „onclick“ tvarkyklėse arba bet kurioje „JavaScript“ funkcijoje. Objektas automatiškai pasiekiamas, kai jūsų programa sukurta naudojant „HTML to APK“.</string>
+    <string name="template_guide_note">Patarimas: naudokite šias API „onclick“ tvarkyklėse arba bet kurioje „JavaScript“ funkcijoje. Objektas automatiškai pasiekiamas, kai jūsų programa sukurta naudojant „HTML2APK“.</string>
     <string name="template_guide_title">API vadovas</string>
     <string name="template_gyroscope_desc">Nuskaityti įrenginio sukimosi greitį X, Y ir Z ašimis.</string>
     <string name="template_gyroscope_title">Giroskopas</string>

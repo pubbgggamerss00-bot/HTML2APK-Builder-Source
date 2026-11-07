@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Mõtlen...</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animatsioonid lülitati välja, kuna seadmel oli raskusi. Lülita need sisse seadetes.</string>
-    <string name="app_name">HTML-i APK-ehitaja</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Ühendamine Google Playga, palun proovi mõne sekundi pärast uuesti.</string>
     <string name="billing_restore_error">Viga päringu ajal: %1$s</string>
     <string name="billing_restore_not_found">Selle Google\'i konto jaoks ei leitud ühtegi aktiivset ostu.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Saada e-kiri</string>
     <string name="build_failed_dialog_title">Ehitamine ebaõnnestus</string>
     <string name="build_failed_email_chooser">Saada vearaport kaudu…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Ehitusvea raport - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Ehitusvea raport - %1$s</string>
     <string name="build_format_aab">Rakendusepakett</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB järk lõpetatud: %1$s (%2$d baiti)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Jaga oma loomingut maailmaga ja saa vastutasuks Pro. See võtab vaid 3 lihtsat sammu:</string>
     <string name="free_premium_note">Nõuanne: lisa e-kirjale ekraanipilt vaatamiste arvust, et kiirendada kontrollimist.</string>
     <string name="free_premium_send_email">Saada e-kiri</string>
-    <string name="free_premium_step1_desc">Salvesta video, mis tutvustab HTML to APK-ga tehtud rakendust või mängu, ja jaga seda YouTube\'is, TikTokis või Instagramis.</string>
+    <string name="free_premium_step1_desc">Salvesta video, mis tutvustab HTML2APK-ga tehtud rakendust või mängu, ja jaga seda YouTube\'is, TikTokis või Instagramis.</string>
     <string name="free_premium_step1_title">Salvesta ja jaga videot</string>
     <string name="free_premium_step2_desc">Kui sinu video saavutab 10 000 vaatamist mõnel neist platvormidest, on sinu preemia valmis.</string>
     <string name="free_premium_step2_title">Saavuta 10 000 vaatamist</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Kasutage kaustu ja projektitoiminguid, et hoida kõik korras.</string>
     <string name="howto_organize_title">Hoia projektid korras</string>
     <string name="howto_output_body">APK on mõeldud telefoni installimiseks või otse jagamiseks. AAB on vorming, mida Google Play vajab (Pro). Pro-versiooniga saad projekti menüüst eksportida ka Android Studio projektina (ZIP). Varasemad järgud asuvad samas menüüs jaotises Build Outputs ning peamenüüst saab projekte ZIP-varukoopiatena eksportida või importida.</string>
-    <string name="howto_overview">HTML to APK Builderiga saate muuta oma veebisaidi või HTML-failid tõeliseks Androidi rakenduseks. Programmeerimist pole vaja!</string>
+    <string name="howto_overview">HTML2APKiga saate muuta oma veebisaidi või HTML-failid tõeliseks Androidi rakenduseks. Programmeerimist pole vaja!</string>
     <string name="howto_pdf_body">Looge projekt ja seejärel avage / vaadake PDF-i, et avada lugeja. Suumige, lülituge heleda ja tumeda lugemisrežiimi vahel, lisage järjehoidjaid ja jätkake viimaselt leheküljelt. Kasutage redigeerimist, kui soovite lehekülgi ümber järjestada või dokumenti kommenteerida. Saate dokumendi hiljem rakenduseks teisendada.</string>
     <string name="howto_playstore_signing_action">Loe lähemalt</string>
-    <string name="howto_playstore_signing_body">Kui Play konsool küsib „Rakenduse allkirjastamise eelistused“, valige esimene variant: &lt;b&gt;Laske Google\'il hallata ja kaitsta oma rakenduse allkirjastamisvõtit (soovitatav)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;See võimaldab &lt;b&gt;Play rakenduse allkirjastamist&lt;/b&gt;. Google hoiab päris allkirjastamisvõtit; teie laadite üles ainult oma üleslaadimisvõtmega allkirjastatud APK-d/AAB-d.&lt;br/&gt;&lt;br/&gt;Kui kaotate hiljem võtmehoidla (näiteks HTMLtoAPK desinstallimise tõttu), saate Play konsoolis taotleda &lt;b&gt;üleslaadimisvõtme lähtestamist&lt;/b&gt; ja kasutajad saavad endiselt värskendusi.&lt;br/&gt;&lt;br/&gt;Kui peate oma allkirjastamisvõtme ise üles laadima, avage selles rakenduses võtmehoidla ja puudutage &lt;b&gt;Ekspordi Play poe jaoks (PEPK)&lt;/b&gt;. Valige sama meetod, mida Play konsool näitab (kuueteistkümnendsüsteemis avalik võti või RSA avalik võti PEM), et luua &lt;b&gt;output.zip&lt;/b&gt; ja see üles laadida.&lt;br/&gt;&lt;br/&gt;Valige „Ekspordi ja laadi üles oma võti“ ainult siis, kui olete täiesti kindel, et suudate seda võtit igavesti turvaliselt hoida. Selle kaotamine tähendab, et te ei saa rakendust enam värskendada.</string>
+    <string name="howto_playstore_signing_body">Kui Play konsool küsib „Rakenduse allkirjastamise eelistused“, valige esimene variant: &lt;b&gt;Laske Google\'il hallata ja kaitsta oma rakenduse allkirjastamisvõtit (soovitatav)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;See võimaldab &lt;b&gt;Play rakenduse allkirjastamist&lt;/b&gt;. Google hoiab päris allkirjastamisvõtit; teie laadite üles ainult oma üleslaadimisvõtmega allkirjastatud APK-d/AAB-d.&lt;br/&gt;&lt;br/&gt;Kui kaotate hiljem võtmehoidla (näiteks HTML2APK desinstallimise tõttu), saate Play konsoolis taotleda &lt;b&gt;üleslaadimisvõtme lähtestamist&lt;/b&gt; ja kasutajad saavad endiselt värskendusi.&lt;br/&gt;&lt;br/&gt;Kui peate oma allkirjastamisvõtme ise üles laadima, avage selles rakenduses võtmehoidla ja puudutage &lt;b&gt;Ekspordi Play poe jaoks (PEPK)&lt;/b&gt;. Valige sama meetod, mida Play konsool näitab (kuueteistkümnendsüsteemis avalik võti või RSA avalik võti PEM), et luua &lt;b&gt;output.zip&lt;/b&gt; ja see üles laadida.&lt;br/&gt;&lt;br/&gt;Valige „Ekspordi ja laadi üles oma võti“ ainult siis, kui olete täiesti kindel, et suudate seda võtit igavesti turvaliselt hoida. Selle kaotamine tähendab, et te ei saa rakendust enam värskendada.</string>
     <string name="howto_playstore_signing_summary">Mõistke üleslaadimisvõtmeid, Play rakenduse allkirjastamist ja PEPK-i.</string>
     <string name="howto_playstore_signing_title">Play Store\'i allkirjastamisvõtme valik</string>
     <string name="howto_preview_body">Eelvaade käivitab teie lehe samamoodi nagu valmis rakendus, sealhulgas Android API kõned. HTML-redaktor värvib teie koodi, sulgeb teie eest sildid ning võimaldab otsimist ja asendamist; muudatused säilivad, kui lülitute eelvaate ja redaktori vahel.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Hoia koopia selles seadmes</string>
     <string name="keystore_persisted">Salvestatud asukohta Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projekt: %1$s</string>
-    <string name="keystore_recovery_body">Kui desinstallisite HTMLtoAPK, võisid automaatselt loodud rakenduse allkirjastamise võtmed kaduma minna. Uus järk allkirjastatakse teise võtmega ja Play pood võib värskenduse tagasi lükata.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. lahendus – Lähtesta üleslaadimisvõti (soovitatav):&lt;/b&gt;&lt;br/&gt;1. Eksportige oma uue võtmehoidla &lt;b&gt;PEM-sertifikaat&lt;/b&gt; allolevast loendist.&lt;br/&gt;2. Minge Play konsoolis jaotisse &lt;b&gt;Rakenduse allkirjastamine &gt; Taotle üleslaadimisvõtme lähtestamist&lt;/b&gt;.&lt;br/&gt;3. Täitke vorm ja laadige üles PEM-fail.&lt;br/&gt;4. Pärast kinnitamist avaldage oma uus APK/AAB, mis on allkirjastatud uue võtmega.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;2. lahendus – Asenda rakenduse allkirjastamise võti:&lt;/b&gt;&lt;br/&gt;Kui Play konsool lubab teil üles laadida uue rakenduse allkirjastamise võtme, kasutage võtmehoidlas valikut &lt;b&gt;Ekspordi Play poe jaoks (PEPK)&lt;/b&gt;. Valige sama meetod, mida näidatakse Play konsoolis (hex-võti või RSA PEM), genereerige output.zip ja laadige see üles.&lt;br/&gt;&lt;br/&gt;Kasutajad saavad värskendusi edasi, sest rakenduse allkirjastamise võti jääb Google\'i juurde, kui lähtestate ainult üleslaadimisvõtme.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Kui Play rakenduse allkirjastamine on keelatud&lt;/b&gt; ja kaotasite allkirjastamise võtme, peate rakenduse uue paketi nimega uuesti avaldama.</string>
+    <string name="keystore_recovery_body">Kui desinstallisite HTML2APK, võisid automaatselt loodud rakenduse allkirjastamise võtmed kaduma minna. Uus järk allkirjastatakse teise võtmega ja Play pood võib värskenduse tagasi lükata.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. lahendus – Lähtesta üleslaadimisvõti (soovitatav):&lt;/b&gt;&lt;br/&gt;1. Eksportige oma uue võtmehoidla &lt;b&gt;PEM-sertifikaat&lt;/b&gt; allolevast loendist.&lt;br/&gt;2. Minge Play konsoolis jaotisse &lt;b&gt;Rakenduse allkirjastamine &gt; Taotle üleslaadimisvõtme lähtestamist&lt;/b&gt;.&lt;br/&gt;3. Täitke vorm ja laadige üles PEM-fail.&lt;br/&gt;4. Pärast kinnitamist avaldage oma uus APK/AAB, mis on allkirjastatud uue võtmega.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;2. lahendus – Asenda rakenduse allkirjastamise võti:&lt;/b&gt;&lt;br/&gt;Kui Play konsool lubab teil üles laadida uue rakenduse allkirjastamise võtme, kasutage võtmehoidlas valikut &lt;b&gt;Ekspordi Play poe jaoks (PEPK)&lt;/b&gt;. Valige sama meetod, mida näidatakse Play konsoolis (hex-võti või RSA PEM), genereerige output.zip ja laadige see üles.&lt;br/&gt;&lt;br/&gt;Kasutajad saavad värskendusi edasi, sest rakenduse allkirjastamise võti jääb Google\'i juurde, kui lähtestate ainult üleslaadimisvõtme.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Kui Play rakenduse allkirjastamine on keelatud&lt;/b&gt; ja kaotasite allkirjastamise võtme, peate rakenduse uue paketi nimega uuesti avaldama.</string>
     <string name="keystore_recovery_close">Sain aru</string>
     <string name="keystore_recovery_open_console">Ava Play konsool</string>
     <string name="keystore_recovery_title">Kasotasite oma allkirjastamise võtme?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF-vaatur</string>
     <string name="licenses_count">%1$d teeki</string>
     <string name="licenses_empty">Ükski teek ei vasta teie otsingule.</string>
-    <string name="licenses_intro">HTML to APK on ehitatud allpool toodud avatud lähtekoodiga tarkvarale. Märgisega „Generated apps“ tähistatud teegid pakitakse samuti sellega loodud rakendustesse (reklaamiteegid ainult siis, kui reklaamid on sisse lülitatud).</string>
+    <string name="licenses_intro">HTML2APK on ehitatud allpool toodud avatud lähtekoodiga tarkvarale. Märgisega „Generated apps“ tähistatud teegid pakitakse samuti sellega loodud rakendustesse (reklaamiteegid ainult siis, kui reklaamid on sisse lülitatud).</string>
     <string name="licenses_load_failed">Litsentside loendit ei õnnestunud laadida.</string>
     <string name="licenses_open_license">Ava litsents</string>
     <string name="licenses_open_website">Veebisait</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Rippmenüü lülitamine</string>
     <string name="m3c_snackbar_dismiss">Loobu</string>
     <string name="mail_report_android">Androidi versioon: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK versioon: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK versioon: v%1$s (%2$d)</string>
     <string name="mail_report_date">Kuupäev: %1$s</string>
     <string name="mail_report_default_project">Projekt</string>
     <string name="mail_report_device">Seade: %1$s %2$s</string>
     <string name="mail_report_end">=== ARUANDE LÕPP ===</string>
     <string name="mail_report_format">Väljundvorming: %1$s</string>
-    <string name="mail_report_intro">HTML to APK rakenduses tekkis järgu viga.</string>
+    <string name="mail_report_intro">HTML2APK rakenduses tekkis järgu viga.</string>
     <string name="mail_report_intro2">Palun vaadake see veaaruanne üle.</string>
     <string name="mail_report_package_name">Paketi nimi: %1$s</string>
     <string name="mail_report_project_name">Projekti nimi: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Seaded</string>
     <string name="nav_templates">Mallid</string>
     <string name="not_selected">Pole valitud</string>
-    <string name="offer_dialog_message">Jaga videot, mis tutvustab HTML to APK-ga loodud rakendust. Kui see saavutab 10 000 vaatamist, on Pro meie poolt.</string>
+    <string name="offer_dialog_message">Jaga videot, mis tutvustab HTML2APK-ga loodud rakendust. Kui see saavutab 10 000 vaatamist, on Pro meie poolt.</string>
     <string name="offer_dialog_no">Mitte praegu</string>
     <string name="offer_dialog_title">Saa Pro tasuta</string>
     <string name="offer_dialog_yes">Kuidas ma selle saan?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Müüakse eraldi, Pro-tellimust pole vaja. Uued kontod saavad oma esimese rakenduse tasuta.</string>
     <string name="premium_credits_link_title">Tehisintellekti krediidipaketid</string>
     <string name="premium_crown_subtitle">Eemaldage kõik piirangud ja looge täie võimsusega.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Tere! Olen Emre, 19-aastane, ja arendan HTML to APK rakendust täiesti üksi suure kirega. Minu eesmärk on võimaldada teil muuta oma veebiprojektid sujuvalt tõelisteks Androidi rakendusteks, ilma keeruliste seadistusteta.\n\nPro versioonile üle minnes toetate otseselt noort indie-arendajat ja panustate selle projekti edasisse arengusse. Tänan sind väga sinu lahkuse eest! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Tere! Olen Emre, 19-aastane, ja arendan HTML2APK rakendust täiesti üksi suure kirega. Minu eesmärk on võimaldada teil muuta oma veebiprojektid sujuvalt tõelisteks Androidi rakendusteks, ilma keeruliste seadistusteta.\n\nPro versioonile üle minnes toetate otseselt noort indie-arendajat ja panustate selle projekti edasisse arengusse. Tänan sind väga sinu lahkuse eest! ❤️</string>
     <string name="premium_dev_note_title">Märkus arendajalt 👋</string>
     <string name="premium_error_payment">Makse pole saadaval. Palun proovige hiljem uuesti.</string>
     <string name="premium_extra_ads_detail">Null pealetükkivat reklaami nii rakenduse tööruumis kui ka kõigis eksporditud rakendustes. Nautige puhast ja segajateta keskkonda.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Lugege piiramatult PDF-dokumente</string>
     <string name="premium_feature_unlimited_pdf_detail">Tasuta plaan võimaldab hoida kuni 5 PDF-dokumendi projekti. Pro-versioon eemaldab piirangu, nii et teie lugemiskogu saab jätkuvalt kasvada.</string>
     <string name="premium_feature_watermark_desc">Eemalda loodud rakendustelt vesimärk</string>
-    <string name="premium_feature_watermark_detail">Eemaldage kõigilt eksporditud järkudelt \'Made with HTML to APK\' avakuva indikaatorid ja vesimärgid, et saada täielikult valge sildiga bränditud rakendused.</string>
+    <string name="premium_feature_watermark_detail">Eemaldage kõigilt eksporditud järkudelt \'Made with HTML2APK\' avakuva indikaatorid ja vesimärgid, et saada täielikult valge sildiga bränditud rakendused.</string>
     <string name="premium_feature_webview_desc">Täpsemad WebView seaded</string>
     <string name="premium_feature_webview_detail">Saavutage täielik kontroll riistvarakiirenduse, JS-konsooli logide, kohandatud User-Agent stringide, failide üleslaadimise lubade ja vahemällu salvestamise strateegiate üle.</string>
     <string name="premium_less_features_button">Näita vähem</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Saada tagasisidet</string>
     <string name="settings_feedback_chooser">Saada tagasisidet</string>
     <string name="settings_feedback_no_app">E-posti rakendust ei leitud</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Tagasiside</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Saa Pro tasuta</string>
     <string name="settings_free_premium_summary">Jaga videot, saavuta 10 000 vaatamist, saa Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Sees</string>
     <string name="support_button_action">Toeta</string>
     <string name="support_cats_interactive_hint">Puuduta kassi, et teda paitada! 🐾</string>
-    <string name="support_developer_desc">Tere! Tänan sind väga Pro versiooni ostmise eest. Sõltumatu sooloarendajana hoian ja täiendan HTML to APK rakendust pidevalt. Kui sulle rakendus meeldib ja soovid tulevasi uuendusi toetada, võid soovi korral osta mulle kohvi või eine. Iga panus tähendab mulle maailma! ❤️</string>
+    <string name="support_developer_desc">Tere! Tänan sind väga Pro versiooni ostmise eest. Sõltumatu sooloarendajana hoian ja täiendan HTML2APK rakendust pidevalt. Kui sulle rakendus meeldib ja soovid tulevasi uuendusi toetada, võid soovi korral osta mulle kohvi või eine. Iga panus tähendab mulle maailma! ❤️</string>
     <string name="support_developer_subtitle">Kui soovid mind toetada ☕</string>
     <string name="support_developer_title">Toeta arendajat</string>
     <string name="support_success_button">Pole tänu väärt ❤️</string>
-    <string name="support_success_message">Sinu toetus on kätte saadud! HTML to APK loojana andsid sa mulle tohutult jõudu, moraali ja motivatsiooni.\n\nMeie kassid tähistavad sinu auks! 🐾</string>
+    <string name="support_success_message">Sinu toetus on kätte saadud! HTML2APK loojana andsid sa mulle tohutult jõudu, moraali ja motivatsiooni.\n\nMeie kassid tähistavad sinu auks! 🐾</string>
     <string name="support_success_title">Sa oled suurepärane! ❤️</string>
     <string name="support_tier_coffee_desc">Soe tass kohvi hilisõhtuseks programmeerimiseks ☕</string>
     <string name="support_tier_coffee_title">Osta kohv</string>
     <string name="support_tier_meal_desc">Maitsev õhtusöök, et püsida energilisena ja keskendununa 🍕</string>
     <string name="support_tier_meal_title">Osta eine</string>
-    <string name="support_tier_sponsor_desc">Otsene panus HTML to APK tulevikku 🚀</string>
+    <string name="support_tier_sponsor_desc">Otsene panus HTML2APK tulevikku 🚀</string>
     <string name="support_tier_sponsor_title">Supertoetaja</string>
     <string name="switch_role">Lüliti</string>
     <string name="tab">Vaheleht</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">Täisekraanipaigutus</string>
     <string name="template_gallery_desc">Salvesta base64-pilt fotogaleriisse.</string>
     <string name="template_gallery_title">Salvesta galeriisse</string>
-    <string name="template_guide_body">HTML to APK süstib teie WebView-sse globaalse JavaScripti objekti nimega AndroidAPI. Saate neid meetodeid kutsuda otse oma HTML/JS koodist:</string>
+    <string name="template_guide_body">HTML2APK süstib teie WebView-sse globaalse JavaScripti objekti nimega AndroidAPI. Saate neid meetodeid kutsuda otse oma HTML/JS koodist:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Tere!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Pealkiri,Sisu)\nAndroidAPI.getDeviceInfo() // tagastab JSON-i\nAndroidAPI.getBatteryLevel() // tagastab täisarvu 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // tagastab täisarvu 0-255</string>
     <string name="template_guide_note">Nõuanne: Kasutage neid API-sid onclick-käsitlejate sees või mis tahes JavaScripti funktsioonis. Objekt on automaatselt saadaval, kui teie rakendus on koostatud HTML-ist APK-ks.</string>
     <string name="template_guide_title">API juhend</string>

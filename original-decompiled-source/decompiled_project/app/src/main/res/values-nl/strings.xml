@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Nadenken…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animaties uitgeschakeld omdat het apparaat moeite had. Schakel ze in via Instellingen.</string>
-    <string name="app_name">HTML naar APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Verbinden met Google Play, probeer het over een paar seconden opnieuw.</string>
     <string name="billing_restore_error">Fout tijdens query: %1$s</string>
     <string name="billing_restore_not_found">Geen actieve aankoop gevonden voor dit Google-account.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">E-mail verzenden</string>
     <string name="build_failed_dialog_title">Build mislukt</string>
     <string name="build_failed_email_chooser">Foutrapport verzenden via…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Build-foutrapport - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Build-foutrapport - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB-build voltooid: %1$s (%2$d bytes)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Deel wat je hebt gebouwd met de wereld en krijg Pro in ruil daarvoor. Het kost slechts 3 eenvoudige stappen:</string>
     <string name="free_premium_note">Tip: voeg een screenshot van het aantal weergaven toe aan je e-mail om de verificatie te versnellen.</string>
     <string name="free_premium_send_email">E-mail versturen</string>
-    <string name="free_premium_step1_desc">Neem een video op waarin je een app of game laat zien die je hebt gemaakt met HTML to APK en deel deze op YouTube, TikTok of Instagram.</string>
+    <string name="free_premium_step1_desc">Neem een video op waarin je een app of game laat zien die je hebt gemaakt met HTML2APK en deel deze op YouTube, TikTok of Instagram.</string>
     <string name="free_premium_step1_title">Neem een video op en deel deze</string>
     <string name="free_premium_step2_desc">Zodra je video 10.000 weergaven bereikt op een van deze platforms, is je beloning klaar.</string>
     <string name="free_premium_step2_title">Bereik 10.000 weergaven</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Gebruik mappen en projectacties om alles netjes te houden.</string>
     <string name="howto_organize_title">Houd projecten geordend</string>
     <string name="howto_output_body">APK is voor installatie op je telefoon of om direct te delen. AAB is de indeling die Google Play vereist (Pro). Met Pro kun je het project ook exporteren als een Android Studio-project (ZIP) vanuit het projectmenu. Eerdere builds staan onder Build-uitvoer in hetzelfde menu, en vanuit het hoofdmenu kun je projecten exporteren of importeren als ZIP-back-ups.</string>
-    <string name="howto_overview">Met HTML to APK Builder kun je je website of HTML-bestanden omzetten in een echte Android-app. Programmeren is niet nodig!</string>
+    <string name="howto_overview">Met HTML2APK kun je je website of HTML-bestanden omzetten in een echte Android-app. Programmeren is niet nodig!</string>
     <string name="howto_pdf_body">Maak een project aan en kies vervolgens Openen / bekijken PDF om de lezer te openen. Zoom in, schakel tussen lichte en donkere leesmodus, voeg bladwijzers toe en ga verder vanaf je laatste pagina. Gebruik Bewerken als je pagina\'s wilt herschikken of het document wilt annoteren. Je kunt een document later omzetten in een app.</string>
     <string name="howto_playstore_signing_action">Lees meer</string>
-    <string name="howto_playstore_signing_body">Wanneer de Play Console vraagt naar “Voorkeuren voor app-ondertekening”, kies dan de eerste optie: &lt;bu&gt;Google de ondertekeningssleutel van je app laten beheren en beveiligen (aanbevolen)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Hiermee schakel je &lt;bu&gt;Play App Signing&lt;/b&gt; in. Google bewaart de echte ondertekeningssleutel; jij uploadt alleen APK\'s/AAB\'s die zijn ondertekend met je uploadsleutel.&lt;br/&gt;&lt;br/&gt;Als je later de keystore verliest (bijvoorbeeld door HTMLtoAPK te verwijderen), kun je een &lt;bu&gt;uploadsleutel-reset&lt;/b&gt; aanvragen in de Play Console en zullen gebruikers nog steeds updates ontvangen.&lt;br/&gt;&lt;br/&gt;Als je je eigen ondertekeningssleutel moet uploaden, open dan de keystore in deze app en tik op &lt;bu&gt;Exporteren voor Play Store (PEPK)&lt;/b&gt;. Kies dezelfde methode als de Play Console toont (hex openbare sleutel of RSA openbare sleutel PEM) om &lt;bu&gt;output.zip&lt;/b&gt; te genereren en upload deze.&lt;br/&gt;&lt;br/&gt;Kies alleen “Je eigen sleutel exporteren en uploaden” als je er absoluut zeker van bent dat je die sleutel voor altijd veilig kunt bewaren. Als je deze verliest, kun je de app niet meer updaten.</string>
+    <string name="howto_playstore_signing_body">Wanneer de Play Console vraagt naar “Voorkeuren voor app-ondertekening”, kies dan de eerste optie: &lt;bu&gt;Google de ondertekeningssleutel van je app laten beheren en beveiligen (aanbevolen)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Hiermee schakel je &lt;bu&gt;Play App Signing&lt;/b&gt; in. Google bewaart de echte ondertekeningssleutel; jij uploadt alleen APK\'s/AAB\'s die zijn ondertekend met je uploadsleutel.&lt;br/&gt;&lt;br/&gt;Als je later de keystore verliest (bijvoorbeeld door HTML2APK te verwijderen), kun je een &lt;bu&gt;uploadsleutel-reset&lt;/b&gt; aanvragen in de Play Console en zullen gebruikers nog steeds updates ontvangen.&lt;br/&gt;&lt;br/&gt;Als je je eigen ondertekeningssleutel moet uploaden, open dan de keystore in deze app en tik op &lt;bu&gt;Exporteren voor Play Store (PEPK)&lt;/b&gt;. Kies dezelfde methode als de Play Console toont (hex openbare sleutel of RSA openbare sleutel PEM) om &lt;bu&gt;output.zip&lt;/b&gt; te genereren en upload deze.&lt;br/&gt;&lt;br/&gt;Kies alleen “Je eigen sleutel exporteren en uploaden” als je er absoluut zeker van bent dat je die sleutel voor altijd veilig kunt bewaren. Als je deze verliest, kun je de app niet meer updaten.</string>
     <string name="howto_playstore_signing_summary">Begrijp upload-sleutels, Play App Signing en PEPK.</string>
     <string name="howto_playstore_signing_title">Selectie van ondertekeningssleutel voor Play Store</string>
     <string name="howto_preview_body">Het voorbeeld toont je pagina zoals de voltooide app dat zal doen, inclusief Android API-aanroepen. De HTML-editor kleurt je code, sluit tags voor je af en heeft een zoek- en vervangfunctie; wijzigingen blijven behouden terwijl je schakelt tussen het voorbeeld en de editor.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Bewaar een kopie op dit apparaat</string>
     <string name="keystore_persisted">Opgeslagen in Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Project: %1$s</string>
-    <string name="keystore_recovery_body">Als je HTMLtoAPK hebt verwijderd, zijn de automatisch gegenereerde app-ondertekeningssleutels mogelijk verloren gegaan. Een nieuwe build wordt ondertekend met een andere sleutel en de Play Store kan de update weigeren.&lt;br/&gt;&lt;br/&gt;&lt;bu&gt;oplossing 1 - Uploadsleutel opnieuw instellen (aanbevolen):&lt;/b&gt;&lt;br/&gt;1. Exporteer het &lt;bu&gt;PEM-certificaat&lt;/b&gt; van je nieuwe keystore uit de onderstaande lijst.&lt;br/&gt;2. Ga in de Play Console naar &lt;bu&gt;App-ondertekening &gt; Uploadsleutel opnieuw instellen aanvragen&lt;/b&gt;.&lt;br/&gt;3. Vul het formulier in en upload het PEM-bestand.&lt;br/&gt;4. Zodra dit is goedgekeurd, publiceer je je nieuwe APK/AAB ondertekend met de nieuwe sleutel.&lt;br/&gt;&lt;br/&gt;&lt;bu&gt;oplossing 2 - App-ondertekeningssleutel vervangen:&lt;/b&gt;&lt;br/&gt;Als de Play Console je toestaat een nieuwe app-ondertekeningssleutel te uploaden, gebruik dan &lt;bu&gt;Exporteren voor Play Store (PEPK)&lt;/b&gt; in de keystore. Kies dezelfde methode als getoond in de Play Console (hex-sleutel of RSA PEM), genereer output.zip en upload deze.&lt;br/&gt;&lt;br/&gt;Gebruikers blijven updates ontvangen omdat de app-ondertekeningssleutel bij Google blijft wanneer je alleen de uploadsleutel opnieuw instelt.&lt;br/&gt;&lt;br/&gt;&lt;bu&gt;Als Play App Signing is uitgeschakeld&lt;/b&gt; en je de ondertekeningssleutel bent kwijtgeraakt, moet je de app opnieuw publiceren met een nieuwe pakketnaam.</string>
+    <string name="keystore_recovery_body">Als je HTML2APK hebt verwijderd, zijn de automatisch gegenereerde app-ondertekeningssleutels mogelijk verloren gegaan. Een nieuwe build wordt ondertekend met een andere sleutel en de Play Store kan de update weigeren.&lt;br/&gt;&lt;br/&gt;&lt;bu&gt;oplossing 1 - Uploadsleutel opnieuw instellen (aanbevolen):&lt;/b&gt;&lt;br/&gt;1. Exporteer het &lt;bu&gt;PEM-certificaat&lt;/b&gt; van je nieuwe keystore uit de onderstaande lijst.&lt;br/&gt;2. Ga in de Play Console naar &lt;bu&gt;App-ondertekening &gt; Uploadsleutel opnieuw instellen aanvragen&lt;/b&gt;.&lt;br/&gt;3. Vul het formulier in en upload het PEM-bestand.&lt;br/&gt;4. Zodra dit is goedgekeurd, publiceer je je nieuwe APK/AAB ondertekend met de nieuwe sleutel.&lt;br/&gt;&lt;br/&gt;&lt;bu&gt;oplossing 2 - App-ondertekeningssleutel vervangen:&lt;/b&gt;&lt;br/&gt;Als de Play Console je toestaat een nieuwe app-ondertekeningssleutel te uploaden, gebruik dan &lt;bu&gt;Exporteren voor Play Store (PEPK)&lt;/b&gt; in de keystore. Kies dezelfde methode als getoond in de Play Console (hex-sleutel of RSA PEM), genereer output.zip en upload deze.&lt;br/&gt;&lt;br/&gt;Gebruikers blijven updates ontvangen omdat de app-ondertekeningssleutel bij Google blijft wanneer je alleen de uploadsleutel opnieuw instelt.&lt;br/&gt;&lt;br/&gt;&lt;bu&gt;Als Play App Signing is uitgeschakeld&lt;/b&gt; en je de ondertekeningssleutel bent kwijtgeraakt, moet je de app opnieuw publiceren met een nieuwe pakketnaam.</string>
     <string name="keystore_recovery_close">Begrepen</string>
     <string name="keystore_recovery_open_console">Play Console openen</string>
     <string name="keystore_recovery_title">Je ondertekeningssleutel kwijt?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF-viewer</string>
     <string name="licenses_count">%1$d bibliotheken</string>
     <string name="licenses_empty">Geen bibliotheek komt overeen met uw zoekopdracht.</string>
-    <string name="licenses_intro">HTML to APK is gebouwd op onderstaande open-sourcesoftware. Bibliotheken gemarkeerd als \"Gegenereerde apps\" worden ook verpakt in de apps die het bouwt (advertentiebibliotheken alleen wanneer advertenties zijn ingeschakeld).</string>
+    <string name="licenses_intro">HTML2APK is gebouwd op onderstaande open-sourcesoftware. Bibliotheken gemarkeerd als \"Gegenereerde apps\" worden ook verpakt in de apps die het bouwt (advertentiebibliotheken alleen wanneer advertenties zijn ingeschakeld).</string>
     <string name="licenses_load_failed">De licentielijst kon niet worden geladen.</string>
     <string name="licenses_open_license">Open licentie</string>
     <string name="licenses_open_website">Website</string>
@@ -1083,7 +1083,7 @@
     <string name="mail_report_device">Apparaat: %1$s %2$s</string>
     <string name="mail_report_end">=== EINDE VAN RAPPORT ===</string>
     <string name="mail_report_format">Uitvoerformaat: %1$s</string>
-    <string name="mail_report_intro">Een build is mislukt in de HTML to APK app.</string>
+    <string name="mail_report_intro">Een build is mislukt in de HTML2APK app.</string>
     <string name="mail_report_intro2">Bekijk dit foutenrapport alstublieft.</string>
     <string name="mail_report_package_name">Pakketnaam: %1$s</string>
     <string name="mail_report_project_name">Projectnaam: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Instellingen</string>
     <string name="nav_templates">Sjablonen</string>
     <string name="not_selected">Niet geselecteerd</string>
-    <string name="offer_dialog_message">Deel een video waarin je een app laat zien die je hebt gebouwd met HTML to APK. Wanneer deze 10.000 weergaven bereikt, krijg je Pro van ons.</string>
+    <string name="offer_dialog_message">Deel een video waarin je een app laat zien die je hebt gebouwd met HTML2APK. Wanneer deze 10.000 weergaven bereikt, krijg je Pro van ons.</string>
     <string name="offer_dialog_no">Niet nu</string>
     <string name="offer_dialog_title">Krijg Pro gratis</string>
     <string name="offer_dialog_yes">Hoe verdien ik het?</string>
@@ -1280,7 +1280,7 @@
     <string name="premium_credits_link_title">AI-creditpakketten</string>
     <string name="premium_crown_subtitle">Verwijder alle limieten en creëer met volledige kracht.</string>
     <string name="premium_crown_title">HTML naar APK Pro</string>
-    <string name="premium_dev_note_desc">Hoi! Ik ben Emre, 19 jaar oud, en ik ontwikkel HTML to APK volledig in mijn eentje met veel passie. Mijn doel is om jou in staat te stellen je webprojecten naadloos om te zetten in echte Android-apps, zonder ingewikkelde installatie.\n\nDoor te upgraden naar Pro steun je direct een jonge indie-ontwikkelaar en stimuleer je de toekomstige ontwikkeling van dit project. Heel erg bedankt voor je vriendelijke steun! ❤️</string>
+    <string name="premium_dev_note_desc">Hoi! Ik ben Emre, 19 jaar oud, en ik ontwikkel HTML2APK volledig in mijn eentje met veel passie. Mijn doel is om jou in staat te stellen je webprojecten naadloos om te zetten in echte Android-apps, zonder ingewikkelde installatie.\n\nDoor te upgraden naar Pro steun je direct een jonge indie-ontwikkelaar en stimuleer je de toekomstige ontwikkeling van dit project. Heel erg bedankt voor je vriendelijke steun! ❤️</string>
     <string name="premium_dev_note_title">Een bericht van de ontwikkelaar 👋</string>
     <string name="premium_error_payment">Betaling niet beschikbaar. Probeer het later opnieuw.</string>
     <string name="premium_extra_ads_detail">Geen opdringerige advertenties in zowel de applicatiewerkruimte als alle geëxporteerde apps. Geniet van een schone, afleidingsvrije omgeving.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Onbeperkt PDF-documenten lezen</string>
     <string name="premium_feature_unlimited_pdf_detail">Het gratis abonnement ondersteunt maximaal 5 PDF-documentprojecten. Pro verwijdert deze limiet, zodat je leesbibliotheek kan blijven groeien.</string>
     <string name="premium_feature_watermark_desc">Verwijder watermerk uit gegenereerde apps</string>
-    <string name="premium_feature_watermark_detail">Verwijder \'Made with HTML to APK\'-opstartindicatoren en watermerken van alle geëxporteerde builds voor volledig white-label, gebrandmerkte applicaties.</string>
+    <string name="premium_feature_watermark_detail">Verwijder \'Made with HTML2APK\'-opstartindicatoren en watermerken van alle geëxporteerde builds voor volledig white-label, gebrandmerkte applicaties.</string>
     <string name="premium_feature_webview_desc">Geavanceerde WebView-instellingen</string>
     <string name="premium_feature_webview_detail">Krijg volledige controle over hardwareversnelling, JS-consolelogs, aangepaste User-Agent-strings, machtigingen voor bestandsuploads en cachingstrategieën.</string>
     <string name="premium_less_features_button">Minder weergeven</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Feedback verzenden</string>
     <string name="settings_feedback_chooser">Feedback verzenden</string>
     <string name="settings_feedback_no_app">Geen e-mailapp gevonden</string>
-    <string name="settings_feedback_subject">HTML naar APK Builder - Feedback</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Krijg Pro gratis</string>
     <string name="settings_free_premium_summary">Deel een video, bereik 10.000 weergaven, krijg Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Aan</string>
     <string name="support_button_action">Steunen</string>
     <string name="support_cats_interactive_hint">Tik op een kat om ze te aaien! 🐾</string>
-    <string name="support_developer_desc">Hallo! Heel erg bedankt voor het aanschaffen van Pro. Als onafhankelijke solo-ontwikkelaar onderhoud en verbeter ik HTML to APK continu. Als je de app geweldig vindt en toekomstige updates wilt steunen, kun je optioneel een koffie of maaltijd voor me kopen. Elke bijdrage betekent de wereld voor mij! ❤️</string>
+    <string name="support_developer_desc">Hallo! Heel erg bedankt voor het aanschaffen van Pro. Als onafhankelijke solo-ontwikkelaar onderhoud en verbeter ik HTML2APK continu. Als je de app geweldig vindt en toekomstige updates wilt steunen, kun je optioneel een koffie of maaltijd voor me kopen. Elke bijdrage betekent de wereld voor mij! ❤️</string>
     <string name="support_developer_subtitle">Als je me wilt steunen ☕</string>
     <string name="support_developer_title">Steun de ontwikkelaar</string>
     <string name="support_success_button">Graag gedaan ❤️</string>
-    <string name="support_success_message">Je steun is ontvangen! Als onafhankelijke solo-ontwikkelaar die HTML to APK maakt, gaf je me enorme kracht, moraal en motivatie.\n\nOnze katten vieren feest voor jou! 🐾</string>
+    <string name="support_success_message">Je steun is ontvangen! Als onafhankelijke solo-ontwikkelaar die HTML2APK maakt, gaf je me enorme kracht, moraal en motivatie.\n\nOnze katten vieren feest voor jou! 🐾</string>
     <string name="support_success_title">Je bent geweldig! ❤️</string>
     <string name="support_tier_coffee_desc">Een warme kop koffie voor het programmeren \'s avonds laat ☕</string>
     <string name="support_tier_coffee_title">Koop een koffie</string>
     <string name="support_tier_meal_desc">Een lekker diner om gevoed en gefocust te blijven 🍕</string>
     <string name="support_tier_meal_title">Koop een maaltijd</string>
-    <string name="support_tier_sponsor_desc">Directe bijdrage aan de toekomst van HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Directe bijdrage aan de toekomst van HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super Sponsor</string>
     <string name="switch_role">Overschakelen</string>
     <string name="tab">Tabblad</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">Lay-out op volledig scherm</string>
     <string name="template_gallery_desc">Sla een base64-afbeelding op in de fotogalerij.</string>
     <string name="template_gallery_title">Opslaan in galerij</string>
-    <string name="template_guide_body">HTML to APK injecteert een globaal JavaScript-object genaamd AndroidAPI in uw WebView. U kunt deze methoden direct aanroepen vanuit uw HTML/JS-code:</string>
+    <string name="template_guide_body">HTML2APK injecteert een globaal JavaScript-object genaamd AndroidAPI in uw WebView. U kunt deze methoden direct aanroepen vanuit uw HTML/JS-code:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hallo!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Titel,Inhoud)\nAndroidAPI.getDeviceInfo() // retourneert JSON\nAndroidAPI.getBatteryLevel() // retourneert int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // retourneert int 0-255</string>
     <string name="template_guide_note">Tip: Gebruik deze API\'s in onclick-handlers of elke JavaScript-functie. Het object is automatisch beschikbaar wanneer je app is gebouwd met HTML naar APK.</string>
     <string name="template_guide_title">API-gids</string>

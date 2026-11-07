@@ -101,7 +101,7 @@
     <string name="ai_thinking_done">%1$d sn düşündü</string>
     <string name="ai_thinking_live">Düşünüyor…</string>
     <string name="animations_auto_off_toast">Cihaz zorlandığı için animasyonlar kapatıldı. Ayarlar\'dan açabilirsin.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Google Play bağlantısı kuruluyor, lütfen birkaç saniye sonra tekrar deneyin.</string>
     <string name="billing_restore_error">Sorgulama sırasında hata: %1$s</string>
     <string name="billing_restore_not_found">Bu Google hesabına ait aktif bir satın alım bulunamadı.</string>
@@ -117,7 +117,7 @@
     <string name="build_failed_dialog_send_email">Mail Gönder</string>
     <string name="build_failed_dialog_title">Derleme Başarısız Oldu</string>
     <string name="build_failed_email_chooser">Hata raporunu e-posta ile gönder…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Hatalı Build Bildirimi - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Hatalı Build Bildirimi - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB derlemesi tamamlandı: %1$s (%2$d bayt)</string>
@@ -842,7 +842,7 @@
     <string name="free_premium_intro">Ürettiğin şeyi dünyayla paylaş, karşılığında Pro\'yu kap. Yapman gereken sadece 3 basit adım var:</string>
     <string name="free_premium_note">İpucu: Doğrulamayı hızlandırmak için e-postana izlenme sayısının ekran görüntüsünü de ekle.</string>
     <string name="free_premium_send_email">E-posta Gönder</string>
-    <string name="free_premium_step1_desc">HTML to APK ile yaptığın bir uygulamayı veya oyunu tanıtan bir video çek ve YouTube, TikTok ya da Instagram\'da paylaş.</string>
+    <string name="free_premium_step1_desc">HTML2APK ile yaptığın bir uygulamayı veya oyunu tanıtan bir video çek ve YouTube, TikTok ya da Instagram\'da paylaş.</string>
     <string name="free_premium_step1_title">Videonu çek ve paylaş</string>
     <string name="free_premium_step2_desc">Videon bu platformların herhangi birinde organik şekilde 10.000 izlenmeye ulaştığında ödülün hazır demektir.</string>
     <string name="free_premium_step2_title">10.000 izlenmeye ulaş</string>
@@ -873,7 +873,7 @@
     <string name="guide_hero_test">Test et</string>
     <string name="guide_hero_title">Yayınlama yolun</string>
     <string name="guide_step10_body">Önce mevcut yedeklerinizi kontrol edin. Play App Signing etkinse, kaybolan yükleme anahtarı için yeni bir keystore oluşturup PEM sertifikasıyla Play Console üzerinden sıfırlama isteyebilirsiniz. Bu işlem Google tarafından tutulan uygulama imzalama anahtarını değiştirmez. Ayrıntılı adımlar Keystore Yöneticisi içindeki kurtarma bölümündedir.</string>
-    <string name="guide_step11_body">HTML to APK uygulamasını yeniden yüklemek eski anahtarınızı otomatik olarak geri getirmez. Önceden kalıcı bir kopya sakladıysanız Keystore Yöneticisi içindeki Cihazdaki yedekleri bul seçeneğini kullanın. Dışa aktardığınız .p12 dosyasını da parolası ve alias bilgisiyle içe aktarabilirsiniz. Sonra projede doğru keystore seçili olduğundan emin olun.</string>
+    <string name="guide_step11_body">HTML2APK uygulamasını yeniden yüklemek eski anahtarınızı otomatik olarak geri getirmez. Önceden kalıcı bir kopya sakladıysanız Keystore Yöneticisi içindeki Cihazdaki yedekleri bul seçeneğini kullanın. Dışa aktardığınız .p12 dosyasını da parolası ve alias bilgisiyle içe aktarabilirsiniz. Sonra projede doğru keystore seçili olduğundan emin olun.</string>
     <string name="guide_step1_body">Google Play Console hesabınızı açın; hesap türünüze uygun kimlik ve cihaz doğrulamalarını tamamlayın. Yeni hesaplarda tek seferlik 25 ABD doları kayıt ücreti alınır. Yayınlamadan önce hesabınıza özel gereksinimleri Play Console üzerinden kontrol edin.</string>
     <string name="guide_step2_body">Projenizin adını, benzersiz paket adını ve ikonunu belirleyin. Google Play tarafından istenen hedef SDK düzeyini kullanın. Yayınlama çıktısı olarak AAB seçin; uygulamamızda bu seçenek Pro gerektirir. APK, doğrudan kurulum ve paylaşım içindir; yeni Google Play uygulamaları AAB ile yayınlanır.</string>
     <string name="guide_step3_body">Yayınlamada kullanacağınız keystore dosyasını, parolalarını ve anahtar takma adını (alias) güvenli bir yerde saklayın. Pro ile .p12 olarak dışa aktarabilirsiniz. Cihazdaki kopyaya ek olarak bilgisayarınızda veya güvenli bulut depolamanızda bir yedek tutun. PEM sertifikası tek başına imzalama için yeterli değildir.</string>
@@ -1034,7 +1034,7 @@
     <string name="launcher_name_pdf_viewer">PDF Okuyucu</string>
     <string name="licenses_count">%1$d kütüphane</string>
     <string name="licenses_empty">Aramanla eşleşen kütüphane yok.</string>
-    <string name="licenses_intro">HTML to APK aşağıdaki açık kaynak yazılımlar üzerine kurulu. “Üretilen uygulamalar” işaretli kütüphaneler, uygulamanın ürettiği uygulamaların içine de girer (reklam kütüphaneleri yalnız reklam açıksa).</string>
+    <string name="licenses_intro">HTML2APK aşağıdaki açık kaynak yazılımlar üzerine kurulu. “Üretilen uygulamalar” işaretli kütüphaneler, uygulamanın ürettiği uygulamaların içine de girer (reklam kütüphaneleri yalnız reklam açıksa).</string>
     <string name="licenses_load_failed">Lisans listesi yüklenemedi.</string>
     <string name="licenses_open_license">Lisansı aç</string>
     <string name="licenses_open_website">Web sitesi</string>
@@ -1061,13 +1061,13 @@
     <string name="m3c_dropdown_menu_toggle">Açılır menüyü açın/kapatın</string>
     <string name="m3c_snackbar_dismiss">Kapat</string>
     <string name="mail_report_android">Android Sürümü: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK Sürümü: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK Sürümü: v%1$s (%2$d)</string>
     <string name="mail_report_date">Tarih: %1$s</string>
     <string name="mail_report_default_project">Proje</string>
     <string name="mail_report_device">Cihaz: %1$s %2$s</string>
     <string name="mail_report_end">=== RAPOR SONU ===</string>
     <string name="mail_report_format">Çıktı Formatı: %1$s</string>
-    <string name="mail_report_intro">HTML to APK uygulamasında derleme işlemi sırasında bir hata oluştu.</string>
+    <string name="mail_report_intro">HTML2APK uygulamasında derleme işlemi sırasında bir hata oluştu.</string>
     <string name="mail_report_intro2">Lütfen bu hata raporunu inceleyiniz.</string>
     <string name="mail_report_package_name">Paket Adı: %1$s</string>
     <string name="mail_report_project_name">Proje Adı: %1$s</string>
@@ -1087,7 +1087,7 @@
     <string name="nav_settings">Ayarlar</string>
     <string name="nav_templates">Şablonlar</string>
     <string name="not_selected">Seçili değil</string>
-    <string name="offer_dialog_message">HTML to APK ile yaptığın bir uygulamayı tanıtan bir video paylaş. Video 10.000 izlenmeye ulaştığında Pro\'yu sana hediye ediyoruz.</string>
+    <string name="offer_dialog_message">HTML2APK ile yaptığın bir uygulamayı tanıtan bir video paylaş. Video 10.000 izlenmeye ulaştığında Pro\'yu sana hediye ediyoruz.</string>
     <string name="offer_dialog_no">Şimdi Değil</string>
     <string name="offer_dialog_title">Pro\'yu Ücretsiz Kazan</string>
     <string name="offer_dialog_yes">Nasıl Kazanırım?</string>
@@ -1245,11 +1245,11 @@
     <string name="premium_credits_link_detail">Ayrıca satılır, Pro gerekmez.</string>
     <string name="premium_credits_link_title">AI kredi paketleri</string>
     <string name="premium_crown_subtitle">Tüm sınırlamaları kaldır, tam güçle üret.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Merhaba! Ben Emre, 19 yaşındayım ve HTML to APK uygulamasını tek başıma, büyük bir tutkuyla geliştiriyorum. Amacım, hayalinizdeki web projelerini hiçbir karmaşık kurulum gerektirmeden en hızlı ve sorunsuz şekilde gerçek bir Android uygulamasına dönüştürmenizi sağlamak.\n\nEğer Pro sürüme geçerek bir satın alım yaparsanız, genç ve bağımsız bir geliştiriciye doğrudan can suyu vermiş ve bu projenin gelecekteki geliştirmelerini desteklemiş olursunuz. İlginiz ve desteğiniz için şimdiden çok teşekkür ederim! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Merhaba! Ben Emre, 19 yaşındayım ve HTML2APK uygulamasını tek başıma, büyük bir tutkuyla geliştiriyorum. Amacım, hayalinizdeki web projelerini hiçbir karmaşık kurulum gerektirmeden en hızlı ve sorunsuz şekilde gerçek bir Android uygulamasına dönüştürmenizi sağlamak.\n\nEğer Pro sürüme geçerek bir satın alım yaparsanız, genç ve bağımsız bir geliştiriciye doğrudan can suyu vermiş ve bu projenin gelecekteki geliştirmelerini desteklemiş olursunuz. İlginiz ve desteğiniz için şimdiden çok teşekkür ederim! ❤️</string>
     <string name="premium_dev_note_title">Geliştiriciden Bir Not 👋</string>
     <string name="premium_error_payment">Ödeme kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="premium_extra_ads_detail">Gerek HTML to APK geliştirici arayüzünde gerekse derlediğiniz tüm uygulamalarınızda hiçbir zorunlu reklam bulunmaz. Tertemiz ve akıcı bir üretim ortamına sahip olun.</string>
+    <string name="premium_extra_ads_detail">Gerek HTML2APK geliştirici arayüzünde gerekse derlediğiniz tüm uygulamalarınızda hiçbir zorunlu reklam bulunmaz. Tertemiz ve akıcı bir üretim ortamına sahip olun.</string>
     <string name="premium_extra_ads_title">Tamamen Reklamsız Deneyim</string>
     <string name="premium_extra_gestures_detail">Kullanıcıların web sayfasını yukarıdan aşağı çekerek yenilemesini (pull-to-refresh) ve Android fiziksel geri butonuyla tarayıcı geçmişinde doğal şekilde gezinebilmesini sağlayın.</string>
     <string name="premium_extra_gestures_title">Doğal Çek-Yenile &amp; Akıllı Geri Butonu</string>
@@ -1274,7 +1274,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Sınırsız PDF okuma</string>
     <string name="premium_feature_unlimited_pdf_detail">Ücretsiz planda en fazla 5 PDF belgesi projesi tutulur. Pro bu sınırı kaldırır; okuma kütüphaneni istediğin kadar büyütebilirsin.</string>
     <string name="premium_feature_watermark_desc">Oluşturulan uygulamalardan filigranı kaldır</string>
-    <string name="premium_feature_watermark_detail">Oluşturulan tüm APK ve AAB çıktılarından \'Made with HTML to APK\' ibarelerini ve açılış filigranlarını kaldırın. %100 kendi markanızı temsil eden tamamen profesyonel çıktılar elde edin.</string>
+    <string name="premium_feature_watermark_detail">Oluşturulan tüm APK ve AAB çıktılarından \'Made with HTML2APK\' ibarelerini ve açılış filigranlarını kaldırın. %100 kendi markanızı temsil eden tamamen profesyonel çıktılar elde edin.</string>
     <string name="premium_feature_webview_desc">Gelişmiş WebView ayarları</string>
     <string name="premium_feature_webview_detail">Donanım hızlandırma, JavaScript konsol desteği, özel User-Agent, dosya yükleme izinleri, önbellek stratejisi ve çerez kontrolleri ile uygulamanızı profesyonel seviyede optimize edin.</string>
     <string name="premium_less_features_button">Daha Az Göster</string>
@@ -1396,7 +1396,7 @@
     <string name="settings_feedback">Geri Bildirim Gönder</string>
     <string name="settings_feedback_chooser">Geri bildirim gönder</string>
     <string name="settings_feedback_no_app">E-posta uygulaması bulunamadı</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Geri Bildirim</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Pro\'yu Ücretsiz Kazan</string>
     <string name="settings_free_premium_summary">Video paylaş, 10B izlen, Pro senin olsun</string>
@@ -1474,17 +1474,17 @@
     <string name="state_on">Açık</string>
     <string name="support_button_action">Destek Ol</string>
     <string name="support_cats_interactive_hint">Kedilerin üzerine dokunarak onları sevebilirsiniz! 🐾</string>
-    <string name="support_developer_desc">Merhaba! Pro sürümünü tercih ettiğiniz için çok teşekkür ederim. HTML to APK\'yı bağımsız bir geliştirici olarak sürekli geliştiriyor ve güncelliyorum. Eğer uygulamadan memnunsanız ve projeyi geliştirmeye devam etmem için bana destek olmak isterseniz, tamamen gönüllü olarak bir kahve veya yemek ısmarlayabilirsiniz. Her desteğiniz benim için paha biçilemez bir motivasyon! ❤️</string>
+    <string name="support_developer_desc">Merhaba! Pro sürümünü tercih ettiğiniz için çok teşekkür ederim. HTML2APK\'yı bağımsız bir geliştirici olarak sürekli geliştiriyor ve güncelliyorum. Eğer uygulamadan memnunsanız ve projeyi geliştirmeye devam etmem için bana destek olmak isterseniz, tamamen gönüllü olarak bir kahve veya yemek ısmarlayabilirsiniz. Her desteğiniz benim için paha biçilemez bir motivasyon! ❤️</string>
     <string name="support_developer_subtitle">Beni Desteklemek İstersen ☕</string>
     <string name="support_developer_title">Geliştiriciye Destek Ol</string>
     <string name="support_success_button">Rica Ederim ❤️</string>
-    <string name="support_success_message">Desteğiniz başarıyla ulaştı! HTML to APK\'yı tek başıma geliştiren bağımsız bir geliştirici olarak, bana inanılmaz bir güç, moral ve motivasyon verdiniz.\n\nKedilerimiz de sizin için kutlama yapıyor! 🐾</string>
+    <string name="support_success_message">Desteğiniz başarıyla ulaştı! HTML2APK\'yı tek başıma geliştiren bağımsız bir geliştirici olarak, bana inanılmaz bir güç, moral ve motivasyon verdiniz.\n\nKedilerimiz de sizin için kutlama yapıyor! 🐾</string>
     <string name="support_success_title">Harikasınız! ❤️</string>
     <string name="support_tier_coffee_desc">Gece kodlamaları için sıcak bir filtre kahve ☕</string>
     <string name="support_tier_coffee_title">Bir Kahve Ismarla</string>
     <string name="support_tier_meal_desc">Projeye odaklanmak için güzel bir akşam yemeği 🍕</string>
     <string name="support_tier_meal_title">Bir Yemek Ismarla</string>
-    <string name="support_tier_sponsor_desc">HTML to APK\'nın geleceğine doğrudan katkı 🚀</string>
+    <string name="support_tier_sponsor_desc">HTML2APK\'nın geleceğine doğrudan katkı 🚀</string>
     <string name="support_tier_sponsor_title">Süper Sponsor</string>
     <string name="switch_role">Anahtar</string>
     <string name="tab">Sekme</string>

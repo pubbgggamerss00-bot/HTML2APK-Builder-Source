@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Domā…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animācijas tika izslēgtas, jo ierīce darbojās lēni. Ieslēdziet tās iestatījumos.</string>
-    <string name="app_name">HTML uz APK veidotājs</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Notiek savienojuma izveide ar Google Play, lūdzu, mēģiniet vēlreiz pēc dažām sekundēm.</string>
     <string name="billing_restore_error">Kļūda vaicājuma laikā: %1$s</string>
     <string name="billing_restore_not_found">Šim Google kontam nav atrasts aktīvs pirkums.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Sūtīt e-pastu</string>
     <string name="build_failed_dialog_title">Būvēšana neizdevās</string>
     <string name="build_failed_email_chooser">Sūtīt kļūdas ziņojumu, izmantojot…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Būvēšanas kļūdas ziņojums - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Būvēšanas kļūdas ziņojums - %1$s</string>
     <string name="build_format_aab">Lietotnes pakotne (App Bundle)</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB būvējums pabeigts: %1$s (%2$d baiti)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Parādi pasaulei, ko esi izveidojis, un saņem Pro pretī. Tas prasa tikai 3 vienkāršas darbības:</string>
     <string name="free_premium_note">Padoms: iekļauj e-pastā ekrānuzņēmumu ar skatījumu skaitu, lai paātrinātu pārbaudi.</string>
     <string name="free_premium_send_email">Sūtīt e-pastu</string>
-    <string name="free_premium_step1_desc">Ieraksti video, kurā parādīta lietotne vai spēle, ko izveidoji ar HTML to APK, un kopīgo to YouTube, TikTok vai Instagram.</string>
+    <string name="free_premium_step1_desc">Ieraksti video, kurā parādīta lietotne vai spēle, ko izveidoji ar HTML2APK, un kopīgo to YouTube, TikTok vai Instagram.</string>
     <string name="free_premium_step1_title">Ieraksti un kopīgo video</string>
     <string name="free_premium_step2_desc">Kad tavs video sasniegs 10 000 skatījumu kādā no šīm platformām, tava balva būs gatava.</string>
     <string name="free_premium_step2_title">Sasniedz 10 000 skatījumu</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Izmantojiet mapes un projekta darbības, lai viss būtu kārtībā.</string>
     <string name="howto_organize_title">Uzturiet projektus kārtībā</string>
     <string name="howto_output_body">APK ir paredzēts instalēšanai tālrunī vai tiešai kopīgošanai. AAB ir Google Play nepieciešamais formāts (Pro). Izmantojot Pro, varat arī eksportēt projektu kā Android Studio projektu (ZIP) no projektu izvēlnes. Agrākās būvējamās versijas atrodas tajā pašā izvēlnē sadaļā \"Būvējumu rezultāti\" (Build Outputs), savukārt galvenajā izvēlnē var eksportēt vai importēt projektus kā ZIP dublējumus.</string>
-    <string name="howto_overview">Ar HTML to APK Builder varat pārvērst savu vietni vai HTML failus īstā Android lietotnē. Programmēšana nav nepieciešama!</string>
+    <string name="howto_overview">Ar HTML2APK varat pārvērst savu vietni vai HTML failus īstā Android lietotnē. Programmēšana nav nepieciešama!</string>
     <string name="howto_pdf_body">Izveidojiet projektu, pēc tam atveriet / skatiet PDF, lai atvērtu lasītāju. Tuviniet, pārslēdzieties starp gaišo un tumšo lasīšanas režīmu, pievienojiet grāmatzīmes un turpiniet no pēdējās lapas. Izmantojiet rediģēšanu, kad vēlaties mainīt lapu secību vai pievienot dokumentam anotācijas. Vēlāk varat konvertēt dokumentu lietotnē.</string>
     <string name="howto_playstore_signing_action">Lasīt vairāk</string>
-    <string name="howto_playstore_signing_body">Kad Play Console jautā “Lietotnes parakstīšanas preferences”, izvēlieties pirmo opciju: &lt;b&gt;Ļaut Google pārvaldīt un aizsargāt jūsu lietotnes parakstīšanas atslēgu (ieteicams)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Tas iespējo &lt;b&gt;Play lietotņu parakstīšanu&lt;/b&gt;. Google saglabā īsto parakstīšanas atslēgu; jūs augšupielādējat tikai APK/AAB failus, kas parakstīti ar jūsu augšupielādes atslēgu.&lt;br/&gt;&lt;br/&gt;Ja vēlāk pazaudējat atslēgu krātuvi (piemēram, atinstalējot HTMLtoAPK), varat pieprasīt &lt;b&gt;augšupielādes atslēgas atiestatīšanu&lt;/b&gt; Play Console, un lietotāji joprojām saņems atjauninājumus.&lt;br/&gt;&lt;br/&gt;Ja jums ir jāaugšupielādē sava parakstīšanas atslēga, atveriet atslēgu krātuvi šajā lietotnē un pieskarieties &lt;b&gt;Eksportēt Play veikalam (PEPK)&lt;/b&gt;. Izvēlieties to pašu metodi, ko rāda Play Console (hex publiskā atslēga vai RSA publiskā atslēga PEM), lai ģenerētu &lt;b&gt;output.zip&lt;/b&gt; un augšupielādētu to.&lt;br/&gt;&lt;br/&gt;Izvēlieties “Eksportēt un augšupielādēt savu atslēgu” tikai tad, ja esat pilnīgi pārliecināts, ka varat droši glabāt šo atslēgu mūžīgi. Tās pazaudēšana nozīmē, ka vairs nevarēsiet atjaunināt lietotni.</string>
+    <string name="howto_playstore_signing_body">Kad Play Console jautā “Lietotnes parakstīšanas preferences”, izvēlieties pirmo opciju: &lt;b&gt;Ļaut Google pārvaldīt un aizsargāt jūsu lietotnes parakstīšanas atslēgu (ieteicams)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Tas iespējo &lt;b&gt;Play lietotņu parakstīšanu&lt;/b&gt;. Google saglabā īsto parakstīšanas atslēgu; jūs augšupielādējat tikai APK/AAB failus, kas parakstīti ar jūsu augšupielādes atslēgu.&lt;br/&gt;&lt;br/&gt;Ja vēlāk pazaudējat atslēgu krātuvi (piemēram, atinstalējot HTML2APK), varat pieprasīt &lt;b&gt;augšupielādes atslēgas atiestatīšanu&lt;/b&gt; Play Console, un lietotāji joprojām saņems atjauninājumus.&lt;br/&gt;&lt;br/&gt;Ja jums ir jāaugšupielādē sava parakstīšanas atslēga, atveriet atslēgu krātuvi šajā lietotnē un pieskarieties &lt;b&gt;Eksportēt Play veikalam (PEPK)&lt;/b&gt;. Izvēlieties to pašu metodi, ko rāda Play Console (hex publiskā atslēga vai RSA publiskā atslēga PEM), lai ģenerētu &lt;b&gt;output.zip&lt;/b&gt; un augšupielādētu to.&lt;br/&gt;&lt;br/&gt;Izvēlieties “Eksportēt un augšupielādēt savu atslēgu” tikai tad, ja esat pilnīgi pārliecināts, ka varat droši glabāt šo atslēgu mūžīgi. Tās pazaudēšana nozīmē, ka vairs nevarēsiet atjaunināt lietotni.</string>
     <string name="howto_playstore_signing_summary">Izprotiet augšupielādes atslēgas, Play lietotņu parakstīšanu un PEPK.</string>
     <string name="howto_playstore_signing_title">Play veikala parakstīšanas atslēgas izvēle</string>
     <string name="howto_preview_body">Priekšskatījums palaiž jūsu lapu tāpat kā gatavā lietotne, tostarp AndroidAPI izsaukumus. HTML redaktors iekrāso jūsu kodu, aizver tagus jūsu vietā un piedāvā meklēšanas un aizstāšanas funkciju; izmaiņas tiek saglabātas, kamēr pārslēdzaties uz priekšskatījumu un atpakaļ.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Saglabāt kopiju šajā ierīcē</string>
     <string name="keystore_persisted">Saglabāts mapē Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projekts: %1$s</string>
-    <string name="keystore_recovery_body">Ja atinstalējāt HTMLtoAPK, automātiski ģenerētās lietotnes parakstīšanas atslēgas var būt zaudētas. Jauna versija tiks parakstīta ar citu atslēgu, un Play veikals var noraidīt atjauninājumu.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. risinājums — Augšupielādes atslēgas atiestatīšana (ieteicams):&lt;/b&gt;&lt;br/&gt;1. Eksportējiet sava jaunā atslēgu krātuves &lt;b&gt;PEM sertifikātu&lt;/b&gt; no tālāk norādītā saraksta.&lt;br/&gt;2. Play Console dodieties uz &lt;b&gt;Lietotnes parakstīšana &gt; Pieprasīt augšupielādes atslēgas atiestatīšanu&lt;/b&gt;.&lt;br/&gt;3. Aizpildiet veidlapu un augšupielādējiet PEM failu.&lt;br/&gt;4. Kad tas būs apstiprināts, publicējiet savu jauno APK/AAB, kas parakstīts ar jauno atslēgu.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;2. risinājums — Lietotnes parakstīšanas atslēgas nomaiņa:&lt;/b&gt;&lt;br/&gt;Ja Play Console ļauj augšupielādēt jaunu lietotnes parakstīšanas atslēgu, atslēgu krātuvē izmantojiet &lt;b&gt;Eksportēt Play veikalam (PEPK)&lt;/b&gt;. Izvēlieties to pašu metodi, kas parādīta Play Console (hex atslēga vai RSA PEM), ģenerējiet output.zip un augšupielādējiet to.&lt;br/&gt;&lt;br/&gt;Lietotāji turpinās saņemt atjauninājumus, jo lietotnes parakstīšanas atslēga paliek Google rīcībā, kad atiestatāt tikai augšupielādes atslēgu.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ja Play lietotņu parakstīšana ir atspējota&lt;/b&gt; un esat pazaudējis parakstīšanas atslēgu, jums ir jāpublicē lietotne vēlreiz ar jaunu pakotnes nosaukumu.</string>
+    <string name="keystore_recovery_body">Ja atinstalējāt HTML2APK, automātiski ģenerētās lietotnes parakstīšanas atslēgas var būt zaudētas. Jauna versija tiks parakstīta ar citu atslēgu, un Play veikals var noraidīt atjauninājumu.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;1. risinājums — Augšupielādes atslēgas atiestatīšana (ieteicams):&lt;/b&gt;&lt;br/&gt;1. Eksportējiet sava jaunā atslēgu krātuves &lt;b&gt;PEM sertifikātu&lt;/b&gt; no tālāk norādītā saraksta.&lt;br/&gt;2. Play Console dodieties uz &lt;b&gt;Lietotnes parakstīšana &gt; Pieprasīt augšupielādes atslēgas atiestatīšanu&lt;/b&gt;.&lt;br/&gt;3. Aizpildiet veidlapu un augšupielādējiet PEM failu.&lt;br/&gt;4. Kad tas būs apstiprināts, publicējiet savu jauno APK/AAB, kas parakstīts ar jauno atslēgu.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;2. risinājums — Lietotnes parakstīšanas atslēgas nomaiņa:&lt;/b&gt;&lt;br/&gt;Ja Play Console ļauj augšupielādēt jaunu lietotnes parakstīšanas atslēgu, atslēgu krātuvē izmantojiet &lt;b&gt;Eksportēt Play veikalam (PEPK)&lt;/b&gt;. Izvēlieties to pašu metodi, kas parādīta Play Console (hex atslēga vai RSA PEM), ģenerējiet output.zip un augšupielādējiet to.&lt;br/&gt;&lt;br/&gt;Lietotāji turpinās saņemt atjauninājumus, jo lietotnes parakstīšanas atslēga paliek Google rīcībā, kad atiestatāt tikai augšupielādes atslēgu.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ja Play lietotņu parakstīšana ir atspējota&lt;/b&gt; un esat pazaudējis parakstīšanas atslēgu, jums ir jāpublicē lietotne vēlreiz ar jaunu pakotnes nosaukumu.</string>
     <string name="keystore_recovery_close">Skaidrs</string>
     <string name="keystore_recovery_open_console">Atvērt Play Console</string>
     <string name="keystore_recovery_title">Pazaudējāt parakstīšanas atslēgu?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF skatītājs</string>
     <string name="licenses_count">%1$d bibliotēkas</string>
     <string name="licenses_empty">Neviena bibliotēka neatbilst jūsu meklēšanai.</string>
-    <string name="licenses_intro">HTML to APK ir veidots uz zemāk esošās atvērtā koda programmatūras. Bibliotēkas, kas atzīmētas kā “Ģenerētās lietotnes”, tiek iekļautas arī lietotnēs, kuras tas veido (reklāmu bibliotēkas tikai tad, ja reklāmas ir ieslēgtas).</string>
+    <string name="licenses_intro">HTML2APK ir veidots uz zemāk esošās atvērtā koda programmatūras. Bibliotēkas, kas atzīmētas kā “Ģenerētās lietotnes”, tiek iekļautas arī lietotnēs, kuras tas veido (reklāmu bibliotēkas tikai tad, ja reklāmas ir ieslēgtas).</string>
     <string name="licenses_load_failed">Licenču sarakstu nevarēja ielādēt.</string>
     <string name="licenses_open_license">Atvērt licenci</string>
     <string name="licenses_open_website">Vietne</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Pārslēgt nolaižamo izvēlni</string>
     <string name="m3c_snackbar_dismiss">Nerādīt</string>
     <string name="mail_report_android">Android versija: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK versija: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK versija: v%1$s (%2$d)</string>
     <string name="mail_report_date">Datums: %1$s</string>
     <string name="mail_report_default_project">Projekts</string>
     <string name="mail_report_device">Ierīce: %1$s %2$s</string>
     <string name="mail_report_end">=== ZIŅOJUMA BEIGAS ===</string>
     <string name="mail_report_format">Izvades formāts: %1$s</string>
-    <string name="mail_report_intro">Būvēšana neizdevās HTML to APK lietotnē.</string>
+    <string name="mail_report_intro">Būvēšana neizdevās HTML2APK lietotnē.</string>
     <string name="mail_report_intro2">Lūdzu, pārskatiet šo kļūdu ziņojumu.</string>
     <string name="mail_report_package_name">Pakotnes nosaukums: %1$s</string>
     <string name="mail_report_project_name">Projekta nosaukums: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Iestatījumi</string>
     <string name="nav_templates">Veidnes</string>
     <string name="not_selected">Nav atlasīts</string>
-    <string name="offer_dialog_message">Kopīgo video, kurā parādīta lietotne, ko izveidoji ar HTML to APK. Kad tas sasniegs 10 000 skatījumu, Pro būs par brīvu.</string>
+    <string name="offer_dialog_message">Kopīgo video, kurā parādīta lietotne, ko izveidoji ar HTML2APK. Kad tas sasniegs 10 000 skatījumu, Pro būs par brīvu.</string>
     <string name="offer_dialog_no">Ne tagad</string>
     <string name="offer_dialog_title">Iegūsti Pro bez maksas</string>
     <string name="offer_dialog_yes">Kā es to varu nopelnīt?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Pārdod atsevišķi, Pro nav nepieciešams. Jaunie konti savu pirmo lietotni saņem bez maksas.</string>
     <string name="premium_credits_link_title">AI kredītu pakas</string>
     <string name="premium_crown_subtitle">Noņemiet visus ierobežojumus un veidojiet ar pilnu jaudu.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Sveiki! Es esmu Emre, 19 gadus vecs, un es pilnībā patstāvīgi un ar lielu aizrautību izstrādāju HTML to APK. Mans mērķis ir dot jums iespēju nemanāmi pārvērst savus tīmekļa projektus īstās Android lietotnēs bez sarežģītas iestatīšanas. Jauninot uz Pro versiju, jūs tieši atbalstāt jaunu neatkarīgu izstrādātāju un veicināt šī projekta turpmāko attīstību. Liels paldies par jūsu laipno atbalstu! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Sveiki! Es esmu Emre, 19 gadus vecs, un es pilnībā patstāvīgi un ar lielu aizrautību izstrādāju HTML2APK. Mans mērķis ir dot jums iespēju nemanāmi pārvērst savus tīmekļa projektus īstās Android lietotnēs bez sarežģītas iestatīšanas. Jauninot uz Pro versiju, jūs tieši atbalstāt jaunu neatkarīgu izstrādātāju un veicināt šī projekta turpmāko attīstību. Liels paldies par jūsu laipno atbalstu! ❤️</string>
     <string name="premium_dev_note_title">Piezīme no izstrādātāja 👋</string>
     <string name="premium_error_payment">Maksājums nav pieejams. Lūdzu, mēģiniet vēlreiz vēlāk.</string>
     <string name="premium_extra_ads_detail">Nulle uzmācīgu reklāmu gan lietojumprogrammas darbvietā, gan visās eksportētajās lietotnēs. Izbaudiet tīru vidi bez traucēkļiem.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Lasīt neierobežotu skaitu PDF dokumentu</string>
     <string name="premium_feature_unlimited_pdf_detail">Bezmaksas plānā var saglabāt līdz 5 PDF dokumentu projektiem. Pro versija noņem ierobežojumu, lai jūsu lasīšanas bibliotēka varētu turpināt augt.</string>
     <string name="premium_feature_watermark_desc">Noņemt ūdenszīmi no ģenerētajām lietotnēm</string>
-    <string name="premium_feature_watermark_detail">Noņemiet \'Made with HTML to APK\' sākuma ekrāna indikatorus un ūdenszīmes no visām eksportētajām versijām, lai iegūtu pilnībā baltas etiķetes zīmola lietotnes.</string>
+    <string name="premium_feature_watermark_detail">Noņemiet \'Made with HTML2APK\' sākuma ekrāna indikatorus un ūdenszīmes no visām eksportētajām versijām, lai iegūtu pilnībā baltas etiķetes zīmola lietotnes.</string>
     <string name="premium_feature_webview_desc">Papildu WebView iestatījumi</string>
     <string name="premium_feature_webview_detail">Iegūstiet pilnīgu kontroli pār aparatūras paātrinājumu, JS konsoles žurnāliem, pielāgotām User-Agent virknēm, failu augšupielādes atļaujām un kešatmiņas stratēģijām.</string>
     <string name="premium_less_features_button">Rādīt mazāk</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Sūtīt atsauksmes</string>
     <string name="settings_feedback_chooser">Sūtīt atsauksmes</string>
     <string name="settings_feedback_no_app">Nav atrasta e-pasta lietotne</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Atsauksmes</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Iegūsti Pro bez maksas</string>
     <string name="settings_free_premium_summary">Kopīgo video, sasniedz 10 000 skatījumu, iegūsti Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Ieslēgts</string>
     <string name="support_button_action">Atbalstīt</string>
     <string name="support_cats_interactive_hint">Pieskarieties jebkuram kaķim, lai to paglaudītu! 🐾</string>
-    <string name="support_developer_desc">Sveiki! Liels paldies par Pro versijas iegādi. Kā neatkarīgs izstrādātājs es nepārtraukti uzturu un uzlaboju HTML to APK. Ja jums patīk lietotne un vēlaties atbalstīt turpmākos atjauninājumus, varat pēc izvēles uzsaukt man kafiju vai maltīti. Katrs ieguldījums man nozīmē ļoti daudz! ❤️</string>
+    <string name="support_developer_desc">Sveiki! Liels paldies par Pro versijas iegādi. Kā neatkarīgs izstrādātājs es nepārtraukti uzturu un uzlaboju HTML2APK. Ja jums patīk lietotne un vēlaties atbalstīt turpmākos atjauninājumus, varat pēc izvēles uzsaukt man kafiju vai maltīti. Katrs ieguldījums man nozīmē ļoti daudz! ❤️</string>
     <string name="support_developer_subtitle">Ja vēlaties mani atbalstīt ☕</string>
     <string name="support_developer_title">Atbalstīt izstrādātāju</string>
     <string name="support_success_button">Laipni lūdzam ❤️</string>
-    <string name="support_success_message">Jūsu atbalsts ir saņemts! Kā neatkarīgam solo izstrādātājam, kas veido HTML to APK, jūs man sniedzāt milzīgu spēku, morāli un motivāciju.\n\nMūsu kaķi svin par godu jums! 🐾</string>
+    <string name="support_success_message">Jūsu atbalsts ir saņemts! Kā neatkarīgam solo izstrādātājam, kas veido HTML2APK, jūs man sniedzāt milzīgu spēku, morāli un motivāciju.\n\nMūsu kaķi svin par godu jums! 🐾</string>
     <string name="support_success_title">Tu esi lielisks! ❤️</string>
     <string name="support_tier_coffee_desc">Silta kafijas tase vēlai programmēšanai ☕</string>
     <string name="support_tier_coffee_title">Uzsaukt kafiju</string>
     <string name="support_tier_meal_desc">Jaukas vakariņas, lai saglabātu enerģiju un fokusu 🍕</string>
     <string name="support_tier_meal_title">Nopirkt maltīti</string>
-    <string name="support_tier_sponsor_desc">Tiešs ieguldījums HTML to APK nākotnē 🚀</string>
+    <string name="support_tier_sponsor_desc">Tiešs ieguldījums HTML2APK nākotnē 🚀</string>
     <string name="support_tier_sponsor_title">Super sponsors</string>
     <string name="switch_role">Slēdzis</string>
     <string name="tab">Cilne</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Pilnekrāna izkārtojums</string>
     <string name="template_gallery_desc">Saglabājiet base64 attēlu fotoattēlu galerijā.</string>
     <string name="template_gallery_title">Saglabāt galerijā</string>
-    <string name="template_guide_body">HTML to APK ievieto globālu JavaScript objektu ar nosaukumu AndroidAPI jūsu WebView. Jūs varat izsaukt šīs metodes tieši no sava HTML/JS koda:</string>
+    <string name="template_guide_body">HTML2APK ievieto globālu JavaScript objektu ar nosaukumu AndroidAPI jūsu WebView. Jūs varat izsaukt šīs metodes tieši no sava HTML/JS koda:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // atgriež JSON\nAndroidAPI.getBatteryLevel() // atgriež int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // atgriež int 0-255</string>
-    <string name="template_guide_note">Padoms: Izmantojiet šīs API onclick apstrādātājos vai jebkurā JavaScript funkcijā. Objekts ir automātiski pieejams, kad jūsu lietotne tiek izveidota ar HTML to APK.</string>
+    <string name="template_guide_note">Padoms: Izmantojiet šīs API onclick apstrādātājos vai jebkurā JavaScript funkcijā. Objekts ir automātiski pieejams, kad jūsu lietotne tiek izveidota ar HTML2APK.</string>
     <string name="template_guide_title">API rokasgrāmata</string>
     <string name="template_gyroscope_desc">Nolasīt ierīces rotācijas ātrumu pa X, Y un Z asīm.</string>
     <string name="template_gyroscope_title">Žiroskops</string>

@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Réflexion…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animations désactivées car l\'appareil était en difficulté. Activez-les dans les paramètres.</string>
-    <string name="app_name">Générateur HTML vers APK</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Connexion à Google Play, veuillez réessayer dans quelques secondes.</string>
     <string name="billing_restore_error">Erreur lors de la requête : %1$s</string>
     <string name="billing_restore_not_found">Aucun achat actif trouvé pour ce compte Google.</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Partagez vos créations avec le monde entier et obtenez la version Pro en retour. Il suffit de 3 étapes simples :</string>
     <string name="free_premium_note">Astuce : incluez une capture d\'écran du nombre de vues dans votre e-mail pour accélérer la vérification.</string>
     <string name="free_premium_send_email">Envoyer un e-mail</string>
-    <string name="free_premium_step1_desc">Enregistrez une vidéo présentant une application ou un jeu que vous avez créé avec HTML to APK et partagez-la sur YouTube, TikTok ou Instagram.</string>
+    <string name="free_premium_step1_desc">Enregistrez une vidéo présentant une application ou un jeu que vous avez créé avec HTML2APK et partagez-la sur YouTube, TikTok ou Instagram.</string>
     <string name="free_premium_step1_title">Enregistrez et partagez une vidéo</string>
     <string name="free_premium_step2_desc">Une fois que votre vidéo atteint 10 000 vues sur l\'une de ces plateformes, votre récompense est prête.</string>
     <string name="free_premium_step2_title">Atteignez 10 000 vues</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Utilisez des dossiers et des actions de projet pour garder tout en ordre.</string>
     <string name="howto_organize_title">Gardez vos projets en ordre</string>
     <string name="howto_output_body">L\'APK sert à l\'installation sur votre téléphone ou au partage direct. L\'AAB est le format requis par Google Play (Pro). Avec la version Pro, vous pouvez également exporter le projet en tant que projet Android Studio (ZIP) depuis le menu du projet. Les versions précédentes se trouvent sous Sorties de build dans le même menu, et le menu principal permet d\'exporter ou d\'importer des projets sous forme de sauvegardes ZIP.</string>
-    <string name="howto_overview">Avec HTML to APK Builder, vous pouvez transformer votre site web ou vos fichiers HTML en une véritable application Android. Aucune programmation requise !</string>
+    <string name="howto_overview">Avec HTML2APK, vous pouvez transformer votre site web ou vos fichiers HTML en une véritable application Android. Aucune programmation requise !</string>
     <string name="howto_pdf_body">Créer un projet puis Ouvrir / voir le PDF ouvre le lecteur. Zoomez, basculez entre les modes de lecture clair et sombre, ajoutez des signets et reprenez la lecture à partir de votre dernière page. Utilisez Modifier lorsque vous souhaitez réorganiser les pages ou annoter le document. Vous pourrez convertir un document en application plus tard.</string>
     <string name="howto_playstore_signing_action">En savoir plus</string>
-    <string name="howto_playstore_signing_body">Lorsque la Play Console demande « Préférences de signature d\'application », choisissez la première option : &lt;b&gt;Laisser Google gérer et protéger votre clé de signature d\'application (recommandé)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Cela active la &lt;b&gt;signature d\'application Play&lt;/b&gt;. Google conserve la véritable clé de signature ; vous ne téléchargez que des APK/AAB signés avec votre clé de téléchargement.&lt;br/&gt;&lt;br/&gt;Si vous perdez ultérieurement le keystore (par exemple en désinstallant HTMLtoAPK), vous pouvez demander une &lt;b&gt;réinitialisation de la clé de téléchargement&lt;/b&gt; dans la Play Console et les utilisateurs recevront toujours les mises à jour.&lt;br/&gt;&lt;br/&gt;Si vous devez télécharger votre propre clé de signature, ouvrez le keystore dans cette application et appuyez sur &lt;b&gt;Exporter pour le Play Store (PEPK)&lt;/b&gt;. Choisissez la même méthode que celle indiquée par la Play Console (clé publique hexadécimale ou clé publique RSA PEM) pour générer &lt;b&gt;output.zip&lt;/b&gt; et téléchargez-le.&lt;br/&gt;&lt;br/&gt;Ne choisissez « Exporter et télécharger votre propre clé » que si vous êtes absolument certain de pouvoir conserver cette clé en sécurité pour toujours. La perdre signifie que vous ne pourrez plus jamais mettre à jour l\'application.</string>
+    <string name="howto_playstore_signing_body">Lorsque la Play Console demande « Préférences de signature d\'application », choisissez la première option : &lt;b&gt;Laisser Google gérer et protéger votre clé de signature d\'application (recommandé)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Cela active la &lt;b&gt;signature d\'application Play&lt;/b&gt;. Google conserve la véritable clé de signature ; vous ne téléchargez que des APK/AAB signés avec votre clé de téléchargement.&lt;br/&gt;&lt;br/&gt;Si vous perdez ultérieurement le keystore (par exemple en désinstallant HTML2APK), vous pouvez demander une &lt;b&gt;réinitialisation de la clé de téléchargement&lt;/b&gt; dans la Play Console et les utilisateurs recevront toujours les mises à jour.&lt;br/&gt;&lt;br/&gt;Si vous devez télécharger votre propre clé de signature, ouvrez le keystore dans cette application et appuyez sur &lt;b&gt;Exporter pour le Play Store (PEPK)&lt;/b&gt;. Choisissez la même méthode que celle indiquée par la Play Console (clé publique hexadécimale ou clé publique RSA PEM) pour générer &lt;b&gt;output.zip&lt;/b&gt; et téléchargez-le.&lt;br/&gt;&lt;br/&gt;Ne choisissez « Exporter et télécharger votre propre clé » que si vous êtes absolument certain de pouvoir conserver cette clé en sécurité pour toujours. La perdre signifie que vous ne pourrez plus jamais mettre à jour l\'application.</string>
     <string name="howto_playstore_signing_summary">Comprendre les clés de téléchargement, la signature d\'application Play et PEPK.</string>
     <string name="howto_playstore_signing_title">Sélection de la clé de signature Play Store</string>
     <string name="howto_preview_body">La prévisualisation exécute votre page comme le ferait l\'application finale, y compris les appels à l\'API Android. L\'éditeur HTML colore votre code, ferme les balises pour vous et propose une fonction de recherche et remplacement ; les modifications sont conservées lorsque vous basculez vers la prévisualisation et revenez en arrière.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Garder une copie sur cet appareil</string>
     <string name="keystore_persisted">Enregistré dans Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projet : %1$s</string>
-    <string name="keystore_recovery_body">Si vous avez désinstallé HTMLtoAPK, les clés de signature d\'application générées automatiquement peuvent avoir été perdues. Une nouvelle version sera signée avec une clé différente et le Play Store pourrait rejeter la mise à jour.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solution 1 - Réinitialiser la clé de téléchargement (recommandé) :&lt;/b&gt;&lt;br/&gt;1. Exportez le &lt;b&gt;certificat PEM&lt;/b&gt; de votre nouveau keystore à partir de la liste ci-dessous.&lt;br/&gt;2. Dans la Play Console, accédez à &lt;b&gt;Signature d\'application &gt; Demander la réinitialisation de la clé de téléchargement&lt;/b&gt;.&lt;br/&gt;3. Remplissez le formulaire et téléchargez le fichier PEM.&lt;br/&gt;4. Une fois approuvé, publiez votre nouvel APK/AAB signé avec la nouvelle clé.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solution 2 - Remplacer la clé de signature d\'application :&lt;/b&gt;&lt;br/&gt;Si la Play Console vous permet de télécharger une nouvelle clé de signature d\'application, utilisez &lt;b&gt;Exporter pour Play Store (PEPK)&lt;/b&gt; sur le keystore. Choisissez la même méthode que celle indiquée dans la Play Console (clé hexadécimale ou RSA PEM), générez output.zip et téléchargez-le.&lt;br/&gt;&lt;br/&gt;Les utilisateurs continueront de recevoir des mises à jour car la clé de signature d\'application reste chez Google lorsque vous réinitialisez uniquement la clé de téléchargement.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Si la signature d\'application Play est désactivée&lt;/b&gt; et que vous avez perdu la clé de signature, vous devez publier à nouveau l\'application avec un nouveau nom de package.</string>
+    <string name="keystore_recovery_body">Si vous avez désinstallé HTML2APK, les clés de signature d\'application générées automatiquement peuvent avoir été perdues. Une nouvelle version sera signée avec une clé différente et le Play Store pourrait rejeter la mise à jour.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solution 1 - Réinitialiser la clé de téléchargement (recommandé) :&lt;/b&gt;&lt;br/&gt;1. Exportez le &lt;b&gt;certificat PEM&lt;/b&gt; de votre nouveau keystore à partir de la liste ci-dessous.&lt;br/&gt;2. Dans la Play Console, accédez à &lt;b&gt;Signature d\'application &gt; Demander la réinitialisation de la clé de téléchargement&lt;/b&gt;.&lt;br/&gt;3. Remplissez le formulaire et téléchargez le fichier PEM.&lt;br/&gt;4. Une fois approuvé, publiez votre nouvel APK/AAB signé avec la nouvelle clé.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solution 2 - Remplacer la clé de signature d\'application :&lt;/b&gt;&lt;br/&gt;Si la Play Console vous permet de télécharger une nouvelle clé de signature d\'application, utilisez &lt;b&gt;Exporter pour Play Store (PEPK)&lt;/b&gt; sur le keystore. Choisissez la même méthode que celle indiquée dans la Play Console (clé hexadécimale ou RSA PEM), générez output.zip et téléchargez-le.&lt;br/&gt;&lt;br/&gt;Les utilisateurs continueront de recevoir des mises à jour car la clé de signature d\'application reste chez Google lorsque vous réinitialisez uniquement la clé de téléchargement.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Si la signature d\'application Play est désactivée&lt;/b&gt; et que vous avez perdu la clé de signature, vous devez publier à nouveau l\'application avec un nouveau nom de package.</string>
     <string name="keystore_recovery_close">Compris</string>
     <string name="keystore_recovery_open_console">Ouvrir la Play Console</string>
     <string name="keystore_recovery_title">Vous avez perdu votre clé de signature ?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Lecteur PDF</string>
     <string name="licenses_count">%1$d bibliothèques</string>
     <string name="licenses_empty">Aucune bibliothèque ne correspond à votre recherche.</string>
-    <string name="licenses_intro">HTML to APK est basé sur les logiciels open source ci-dessous. Les bibliothèques marquées « Applications générées » sont également intégrées dans les applications qu\'il crée (bibliothèques publicitaires uniquement lorsque les publicités sont activées).</string>
+    <string name="licenses_intro">HTML2APK est basé sur les logiciels open source ci-dessous. Les bibliothèques marquées « Applications générées » sont également intégrées dans les applications qu\'il crée (bibliothèques publicitaires uniquement lorsque les publicités sont activées).</string>
     <string name="licenses_load_failed">La liste des licences n\'a pas pu être chargée.</string>
     <string name="licenses_open_license">Ouvrir la licence</string>
     <string name="licenses_open_website">Site web</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Activer/désactiver le menu déroulant</string>
     <string name="m3c_snackbar_dismiss">Fermer</string>
     <string name="mail_report_android">Version Android : %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Version de HTML to APK : v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Version de HTML2APK : v%1$s (%2$d)</string>
     <string name="mail_report_date">Date : %1$s</string>
     <string name="mail_report_default_project">Projet</string>
     <string name="mail_report_device">Appareil : %1$s %2$s</string>
     <string name="mail_report_end">=== FIN DU RAPPORT ===</string>
     <string name="mail_report_format">Format de sortie : %1$s</string>
-    <string name="mail_report_intro">Une compilation a échoué dans l\'application HTML to APK.</string>
+    <string name="mail_report_intro">Une compilation a échoué dans l\'application HTML2APK.</string>
     <string name="mail_report_intro2">Veuillez examiner ce rapport d\'erreur.</string>
     <string name="mail_report_package_name">Nom du paquet : %1$s</string>
     <string name="mail_report_project_name">Nom du projet : %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Paramètres</string>
     <string name="nav_templates">Modèles</string>
     <string name="not_selected">Non sélectionné</string>
-    <string name="offer_dialog_message">Partagez une vidéo présentant une application que vous avez créée avec HTML to APK. Lorsqu\'elle atteint 10 000 vues, la version Pro est offerte.</string>
+    <string name="offer_dialog_message">Partagez une vidéo présentant une application que vous avez créée avec HTML2APK. Lorsqu\'elle atteint 10 000 vues, la version Pro est offerte.</string>
     <string name="offer_dialog_no">Pas maintenant</string>
     <string name="offer_dialog_title">Obtenez la version Pro gratuitement</string>
     <string name="offer_dialog_yes">Comment l\'obtenir ?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Vendu séparément, aucun abonnement Pro requis. Les nouveaux comptes bénéficient de leur première application gratuitement.</string>
     <string name="premium_credits_link_title">Packs de cr&amp;#233;dits IA</string>
     <string name="premium_crown_subtitle">Supprimez toutes les limites et créez avec une puissance totale.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Salut ! Je suis Emre, j\'ai 19 ans, et je développe HTML to APK entièrement seul avec beaucoup de passion. Mon objectif est de vous permettre de transformer vos projets web en véritables applications Android de manière transparente, sans configuration complexe.\n\nEn passant à la version Pro, vous soutenez directement un jeune développeur indépendant et alimentez le développement futur de ce projet. Merci beaucoup pour votre précieux soutien ! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Salut ! Je suis Emre, j\'ai 19 ans, et je développe HTML2APK entièrement seul avec beaucoup de passion. Mon objectif est de vous permettre de transformer vos projets web en véritables applications Android de manière transparente, sans configuration complexe.\n\nEn passant à la version Pro, vous soutenez directement un jeune développeur indépendant et alimentez le développement futur de ce projet. Merci beaucoup pour votre précieux soutien ! ❤️</string>
     <string name="premium_dev_note_title">Un mot du développeur 👋</string>
     <string name="premium_error_payment">Paiement indisponible. Veuillez réessayer plus tard.</string>
     <string name="premium_extra_ads_detail">Zéro publicité intrusive dans l\'espace de travail de l\'application et dans toutes les applications exportées. Profitez d\'un environnement propre et sans distraction.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Lire un nombre illimité de documents PDF</string>
     <string name="premium_feature_unlimited_pdf_detail">Le forfait gratuit permet de conserver jusqu\'à 5 projets de documents PDF. La version Pro supprime cette limite, afin que votre bibliothèque de lecture puisse continuer à s\'agrandir.</string>
     <string name="premium_feature_watermark_desc">Supprimer le filigrane des applications générées</string>
-    <string name="premium_feature_watermark_detail">Supprimez les indicateurs de démarrage et les filigranes \'Made with HTML to APK\' de toutes les versions exportées pour des applications entièrement en marque blanche.</string>
+    <string name="premium_feature_watermark_detail">Supprimez les indicateurs de démarrage et les filigranes \'Made with HTML2APK\' de toutes les versions exportées pour des applications entièrement en marque blanche.</string>
     <string name="premium_feature_webview_desc">Paramètres WebView avancés</string>
     <string name="premium_feature_webview_detail">Obtenez un contrôle total sur l\'accélération matérielle, les journaux de la console JS, les chaînes User-Agent personnalisées, les autorisations de téléchargement de fichiers et les stratégies de mise en cache.</string>
     <string name="premium_less_features_button">Afficher moins</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Envoyer des commentaires</string>
     <string name="settings_feedback_chooser">Envoyer un commentaire</string>
     <string name="settings_feedback_no_app">Aucune application de messagerie trouvée</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Commentaires</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Obtenez la version Pro gratuitement</string>
     <string name="settings_free_premium_summary">Partagez une vidéo, atteignez 10 000 vues, obtenez la version Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Activé</string>
     <string name="support_button_action">Soutenir</string>
     <string name="support_cats_interactive_hint">Appuyez sur n\'importe quel chat pour le caresser ! 🐾</string>
-    <string name="support_developer_desc">Bonjour ! Merci beaucoup d\'avoir acheté la version Pro. En tant que développeur indépendant, je maintiens et améliore continuellement HTML to APK. Si vous aimez l\'application et souhaitez soutenir les futures mises à jour, vous pouvez m\'offrir un café ou un repas. Chaque contribution compte énormément pour moi ! ❤️</string>
+    <string name="support_developer_desc">Bonjour ! Merci beaucoup d\'avoir acheté la version Pro. En tant que développeur indépendant, je maintiens et améliore continuellement HTML2APK. Si vous aimez l\'application et souhaitez soutenir les futures mises à jour, vous pouvez m\'offrir un café ou un repas. Chaque contribution compte énormément pour moi ! ❤️</string>
     <string name="support_developer_subtitle">Si vous souhaitez me soutenir ☕</string>
     <string name="support_developer_title">Soutenir le développeur</string>
     <string name="support_success_button">Je vous en prie ❤️</string>
-    <string name="support_success_message">Votre soutien a bien été reçu ! En tant que développeur indépendant créant HTML to APK, vous m\'avez donné une force, un moral et une motivation immenses.\n\nNos chats célèbrent pour vous ! 🐾</string>
+    <string name="support_success_message">Votre soutien a bien été reçu ! En tant que développeur indépendant créant HTML2APK, vous m\'avez donné une force, un moral et une motivation immenses.\n\nNos chats célèbrent pour vous ! 🐾</string>
     <string name="support_success_title">Vous êtes génial ! ❤️</string>
     <string name="support_tier_coffee_desc">Une tasse de café chaud pour coder tard le soir ☕</string>
     <string name="support_tier_coffee_title">Offrir un café</string>
     <string name="support_tier_meal_desc">Un bon dîner pour rester énergisé et concentré 🍕</string>
     <string name="support_tier_meal_title">Offrir un repas</string>
-    <string name="support_tier_sponsor_desc">Contribution directe à l\'avenir de HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Contribution directe à l\'avenir de HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super Sponsor</string>
     <string name="switch_role">Changer</string>
     <string name="tab">Onglet</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Mise en page plein écran</string>
     <string name="template_gallery_desc">Enregistrer une image base64 dans la galerie photo.</string>
     <string name="template_gallery_title">Enregistrer dans la galerie</string>
-    <string name="template_guide_body">HTML to APK injecte un objet JavaScript global appelé AndroidAPI dans votre WebView. Vous pouvez appeler ces méthodes directement depuis votre code HTML/JS :</string>
+    <string name="template_guide_body">HTML2APK injecte un objet JavaScript global appelé AndroidAPI dans votre WebView. Vous pouvez appeler ces méthodes directement depuis votre code HTML/JS :</string>
     <string name="template_guide_code">AndroidAPI.showToast(Bonjour !)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Titre,Corps)\nAndroidAPI.getDeviceInfo() // renvoie JSON\nAndroidAPI.getBatteryLevel() // renvoie int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // renvoie int 0-255</string>
-    <string name="template_guide_note">Astuce : Utilisez ces API dans des gestionnaires onclick ou toute fonction JavaScript. L\'objet est automatiquement disponible lorsque votre application est créée avec HTML to APK.</string>
+    <string name="template_guide_note">Astuce : Utilisez ces API dans des gestionnaires onclick ou toute fonction JavaScript. L\'objet est automatiquement disponible lorsque votre application est créée avec HTML2APK.</string>
     <string name="template_guide_title">Guide de l\'API</string>
     <string name="template_gyroscope_desc">Lire la vitesse de rotation de l\'appareil sur les axes X, Y et Z.</string>
     <string name="template_gyroscope_title">Gyroscope</string>

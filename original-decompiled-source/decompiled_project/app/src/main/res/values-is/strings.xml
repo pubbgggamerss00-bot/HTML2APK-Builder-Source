@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Hugsa…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Hreyfimyndir slökktar vegna þess að tækið átti í erfiðleikum. Kveiktu á þeim í Stillingum.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Tengist Google Play, vinsamlegast reyndu aftur eftir nokkrar sekúndur.</string>
     <string name="billing_restore_error">Villa við fyrirspurn: %1$s</string>
     <string name="billing_restore_not_found">Engin virk kaup fundust fyrir þennan Google-reikning.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Senda tölvupóst</string>
     <string name="build_failed_dialog_title">Bygging mistókst</string>
     <string name="build_failed_email_chooser">Senda villuskýrslu í gegnum…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Villa við smíði - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Villa við smíði - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB-smíði lokið: %1$s (%2$d bæti)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Deildu því sem þú bjóst til með heiminum og fáðu Pro í staðinn. Þetta tekur aðeins 3 einföld skref:</string>
     <string name="free_premium_note">Ábending: láttu skjáskot af áhorfsfjöldanum fylgja með í tölvupóstinum til að flýta fyrir staðfestingu.</string>
     <string name="free_premium_send_email">Senda tölvupóst</string>
-    <string name="free_premium_step1_desc">Taktu upp myndband sem sýnir app eða leik sem þú bjóst til með HTML to APK og deildu því á YouTube, TikTok eða Instagram.</string>
+    <string name="free_premium_step1_desc">Taktu upp myndband sem sýnir app eða leik sem þú bjóst til með HTML2APK og deildu því á YouTube, TikTok eða Instagram.</string>
     <string name="free_premium_step1_title">Taktu upp og deildu myndbandi</string>
     <string name="free_premium_step2_desc">Þegar myndbandið þitt nær 10.000 áhorfum á einhverjum af þessum kerfum er verðlaunin þín tilbúin.</string>
     <string name="free_premium_step2_title">Náðu 10.000 áhorfum</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Notaðu möppur og verkefnaaðgerðir til að halda öllu skipulögðu.</string>
     <string name="howto_organize_title">Hafðu verkefnin í röð og reglu</string>
     <string name="howto_output_body">APK er til að setja upp í símanum eða deila beint. AAB er sniðið sem Google Play þarf (Pro). Með Pro geturðu líka flutt verkefnið út sem Android Studio verkefni (ZIP) úr verkefnavalmyndinni. Eldri útgáfur eru undir Build Outputs í sömu valmynd og aðalvalmyndin getur flutt út eða inn verkefni sem ZIP-afrit.</string>
-    <string name="howto_overview">Með HTML to APK Builder geturðu breytt vefsíðunni þinni eða HTML-skrám í alvöru Android app. Engin forritun krafist!</string>
+    <string name="howto_overview">Með HTML2APK geturðu breytt vefsíðunni þinni eða HTML-skrám í alvöru Android app. Engin forritun krafist!</string>
     <string name="howto_pdf_body">Búðu til verkefni og opnaðu/skoðaðu PDF til að opna lesarann. Aðdráttur, skiptu á milli ljósrar og dökkar lestrarstillingar, bættu við bókamerkjum og haltu áfram frá síðustu síðu. Notaðu Breyta þegar þú vilt endurraða síðum eða bæta athugasemdum við skjalið. Þú getur breytt skjali í forrit síðar.</string>
     <string name="howto_playstore_signing_action">Lesa meira</string>
-    <string name="howto_playstore_signing_body">Þegar Play Console spyr um „App signing preferences“, veldu fyrsta valkostinn: &lt;b&gt;Let Google manage and protect your app signing key (recommended)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Þetta virkjar &lt;b&gt;Play App Signing&lt;/b&gt;. Google geymir raunverulega undirritunarlykilinn; þú hleður aðeins upp APK/AAB skrám sem eru undirritaðar með upphleðslulyklinum þínum.&lt;br/&gt;&lt;br/&gt;Ef þú týnir lyklageymslunni síðar (til dæmis með því að fjarlægja HTMLtoAPK), geturðu beðið um &lt;b&gt;upload key reset&lt;/b&gt; í Play Console og notendur munu samt fá uppfærslur.&lt;br/&gt;&lt;br/&gt;Ef þú verður að hlaða upp þínum eigin undirritunarlykli, opnaðu lyklageymsluna í þessu appi og pikkaðu á &lt;b&gt;Export for Play Store (PEPK)&lt;/b&gt;. Veldu sömu aðferð og Play Console sýnir (hex public key eða RSA public key PEM) til að búa til &lt;b&gt;output.zip&lt;/b&gt; og hlaða því upp.&lt;br/&gt;&lt;br/&gt;Veldu aðeins „Export and upload your own key“ ef þú ert alveg viss um að þú getir haldið þeim lykli öruggum að eilífu. Að týna honum þýðir að þú getur ekki uppfært appið aftur.</string>
+    <string name="howto_playstore_signing_body">Þegar Play Console spyr um „App signing preferences“, veldu fyrsta valkostinn: &lt;b&gt;Let Google manage and protect your app signing key (recommended)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Þetta virkjar &lt;b&gt;Play App Signing&lt;/b&gt;. Google geymir raunverulega undirritunarlykilinn; þú hleður aðeins upp APK/AAB skrám sem eru undirritaðar með upphleðslulyklinum þínum.&lt;br/&gt;&lt;br/&gt;Ef þú týnir lyklageymslunni síðar (til dæmis með því að fjarlægja HTML2APK), geturðu beðið um &lt;b&gt;upload key reset&lt;/b&gt; í Play Console og notendur munu samt fá uppfærslur.&lt;br/&gt;&lt;br/&gt;Ef þú verður að hlaða upp þínum eigin undirritunarlykli, opnaðu lyklageymsluna í þessu appi og pikkaðu á &lt;b&gt;Export for Play Store (PEPK)&lt;/b&gt;. Veldu sömu aðferð og Play Console sýnir (hex public key eða RSA public key PEM) til að búa til &lt;b&gt;output.zip&lt;/b&gt; og hlaða því upp.&lt;br/&gt;&lt;br/&gt;Veldu aðeins „Export and upload your own key“ ef þú ert alveg viss um að þú getir haldið þeim lykli öruggum að eilífu. Að týna honum þýðir að þú getur ekki uppfært appið aftur.</string>
     <string name="howto_playstore_signing_summary">Skildu upphleðslulykla, Play App Signing og PEPK.</string>
     <string name="howto_playstore_signing_title">Val á undirritunarlykli fyrir Play Store</string>
     <string name="howto_preview_body">Forskoðun keyrir síðuna þína eins og fullbúið app, þar með talið AndroidAPI köll. HTML-ritillinn litar kóðann þinn, lokar tögum fyrir þig og er með leit og skipti; breytingar haldast á meðan þú skiptir yfir í forskoðun og til baka.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Geyma afrit á þessu tæki</string>
     <string name="keystore_persisted">Vistað í Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Verkefni: %1$s</string>
-    <string name="keystore_recovery_body">Ef þú fjarlægðir HTMLtoAPK gætu sjálfvirkt mynduðu undirritunarlyklar forritsins hafa glatast. Ný bygging verður undirrituð með öðrum lykli og Play Store gæti hafnað uppfærslunni.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Lausn 1 - Endurstilla upphleðslulykil (mælt með):&lt;/b&gt;&lt;br/&gt;1. Flyttu út &lt;b&gt;PEM-vottorðið&lt;/b&gt; af nýja lyklageymslunni þinni af listanum hér að neðan.&lt;br/&gt;2. Í Play Console, farðu í &lt;b&gt;Undirritun forrits &gt; Biðja um endurstillingu á upphleðslulykli&lt;/b&gt;.&lt;br/&gt;3. Fylltu út eyðublaðið og hlaðið upp PEM-skránni.&lt;br/&gt;4. Þegar það hefur verið samþykkt, birtu nýja APK/AAB-skrána þína undirritaða með nýja lyklinum.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Lausn 2 - Skipta um undirritunarlykil forrits:&lt;/b&gt;&lt;br/&gt;Ef Play Console leyfir þér að hlaða upp nýjum undirritunarlykli fyrir forrit, notaðu &lt;b&gt;Flytja út fyrir Play Store (PEPK)&lt;/b&gt; á lyklageymslunni. Veldu sömu aðferð og sýnd er í Play Console (hex-lykill eða RSA PEM), búðu til output.zip og hlaðið því upp.&lt;br/&gt;&lt;br/&gt;Notendur munu halda áfram að fá uppfærslur vegna þess að undirritunarlykill forritsins helst hjá Google þegar þú endurstillir aðeins upphleðslulykilinn.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ef Play App Signing er óvirkt&lt;/b&gt; og þú týndir undirritunarlyklinum, verður þú að birta forritið aftur með nýju pakkaheiti.</string>
+    <string name="keystore_recovery_body">Ef þú fjarlægðir HTML2APK gætu sjálfvirkt mynduðu undirritunarlyklar forritsins hafa glatast. Ný bygging verður undirrituð með öðrum lykli og Play Store gæti hafnað uppfærslunni.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Lausn 1 - Endurstilla upphleðslulykil (mælt með):&lt;/b&gt;&lt;br/&gt;1. Flyttu út &lt;b&gt;PEM-vottorðið&lt;/b&gt; af nýja lyklageymslunni þinni af listanum hér að neðan.&lt;br/&gt;2. Í Play Console, farðu í &lt;b&gt;Undirritun forrits &gt; Biðja um endurstillingu á upphleðslulykli&lt;/b&gt;.&lt;br/&gt;3. Fylltu út eyðublaðið og hlaðið upp PEM-skránni.&lt;br/&gt;4. Þegar það hefur verið samþykkt, birtu nýja APK/AAB-skrána þína undirritaða með nýja lyklinum.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Lausn 2 - Skipta um undirritunarlykil forrits:&lt;/b&gt;&lt;br/&gt;Ef Play Console leyfir þér að hlaða upp nýjum undirritunarlykli fyrir forrit, notaðu &lt;b&gt;Flytja út fyrir Play Store (PEPK)&lt;/b&gt; á lyklageymslunni. Veldu sömu aðferð og sýnd er í Play Console (hex-lykill eða RSA PEM), búðu til output.zip og hlaðið því upp.&lt;br/&gt;&lt;br/&gt;Notendur munu halda áfram að fá uppfærslur vegna þess að undirritunarlykill forritsins helst hjá Google þegar þú endurstillir aðeins upphleðslulykilinn.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Ef Play App Signing er óvirkt&lt;/b&gt; og þú týndir undirritunarlyklinum, verður þú að birta forritið aftur með nýju pakkaheiti.</string>
     <string name="keystore_recovery_close">Ég skil</string>
     <string name="keystore_recovery_open_console">Opna Play Console</string>
     <string name="keystore_recovery_title">Týndirðu undirritunarlyklinum þínum?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF-skoðari</string>
     <string name="licenses_count">%1$d söfn</string>
     <string name="licenses_empty">Ekkert safn passar við leitina þína.</string>
-    <string name="licenses_intro">HTML to APK er byggt á opnum hugbúnaði hér að neðan. Bókasöfn merkt „Generated apps“ eru einnig pökkð í þau forrit sem hann byggir (auglýsingabókasöfn aðeins þegar kveikt er á auglýsingum).</string>
+    <string name="licenses_intro">HTML2APK er byggt á opnum hugbúnaði hér að neðan. Bókasöfn merkt „Generated apps“ eru einnig pökkð í þau forrit sem hann byggir (auglýsingabókasöfn aðeins þegar kveikt er á auglýsingum).</string>
     <string name="licenses_load_failed">Ekki tókst að hlaða leyfislistanum.</string>
     <string name="licenses_open_license">Opna leyfi</string>
     <string name="licenses_open_website">Vefsíða</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Velja eða afvelja fellivalmynd</string>
     <string name="m3c_snackbar_dismiss">Hunsa</string>
     <string name="mail_report_android">Android útgáfa: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK útgáfa: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK útgáfa: v%1$s (%2$d)</string>
     <string name="mail_report_date">Dagsetning: %1$s</string>
     <string name="mail_report_default_project">Verkefni</string>
     <string name="mail_report_device">Tæki: %1$s %2$s</string>
     <string name="mail_report_end">=== LOK SKÝRSLU ===</string>
     <string name="mail_report_format">Úttakssnið: %1$s</string>
-    <string name="mail_report_intro">Bygging mistókst í HTML to APK appinu.</string>
+    <string name="mail_report_intro">Bygging mistókst í HTML2APK appinu.</string>
     <string name="mail_report_intro2">Vinsamlegast yfirfarið þessa villuskýrslu.</string>
     <string name="mail_report_package_name">Heiti pakka: %1$s</string>
     <string name="mail_report_project_name">Heiti verkefnis: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Stillingar</string>
     <string name="nav_templates">Sniðmát</string>
     <string name="not_selected">Ekki valið</string>
-    <string name="offer_dialog_message">Deildu myndbandi sem sýnir app sem þú bjóst til með HTML to APK. Þegar það nær 10.000 áhorfum, þá bjóðum við upp á Pro.</string>
+    <string name="offer_dialog_message">Deildu myndbandi sem sýnir app sem þú bjóst til með HTML2APK. Þegar það nær 10.000 áhorfum, þá bjóðum við upp á Pro.</string>
     <string name="offer_dialog_no">Ekki núna</string>
     <string name="offer_dialog_title">Fáðu Pro ókeypis</string>
     <string name="offer_dialog_yes">Hvernig vinn ég mér inn fyrir því?</string>
@@ -1280,7 +1280,7 @@
     <string name="premium_credits_link_title">Gervigreindarinnstæðupakkar</string>
     <string name="premium_crown_subtitle">Fjarlægðu allar takmarkanir og búðu til með fullum krafti.</string>
     <string name="premium_crown_title">HTML í APK Pro</string>
-    <string name="premium_dev_note_desc">Hæ! Ég er Emre, 19 ára, og ég þróa HTML to APK algjörlega á eigin spýtur af mikilli ástríðu. Markmið mitt er að gera þér kleift að breyta vefverkefnum þínum í raunveruleg Android forrit á óaðfinnanlegan hátt, án flókinna uppsetninga.\n\nMeð því að uppfæra í Pro styður þú beint ungan sjálfstæðan forritara og knýr áfram framtíðarþróun þessa verkefnis. Þakka þér kærlega fyrir stuðninginn! ❤️</string>
+    <string name="premium_dev_note_desc">Hæ! Ég er Emre, 19 ára, og ég þróa HTML2APK algjörlega á eigin spýtur af mikilli ástríðu. Markmið mitt er að gera þér kleift að breyta vefverkefnum þínum í raunveruleg Android forrit á óaðfinnanlegan hátt, án flókinna uppsetninga.\n\nMeð því að uppfæra í Pro styður þú beint ungan sjálfstæðan forritara og knýr áfram framtíðarþróun þessa verkefnis. Þakka þér kærlega fyrir stuðninginn! ❤️</string>
     <string name="premium_dev_note_title">Skilaboð frá forritaranum 👋</string>
     <string name="premium_error_payment">Greiðsla ekki tiltæk. Vinsamlegast reyndu aftur síðar.</string>
     <string name="premium_extra_ads_detail">Engar truflandi auglýsingar í vinnusvæði forritsins eða í neinum útfluttum forritum. Njóttu hreins og truflanalauss umhverfis.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Lesa ótakmörkuð PDF-skjöl</string>
     <string name="premium_feature_unlimited_pdf_detail">Ókeypis áskriftin geymir allt að 5 PDF skjalaverkefni. Pro fjarlægir takmörkunina svo lestrasafnið þitt geti haldið áfram að stækka.</string>
     <string name="premium_feature_watermark_desc">Fjarlægja vatnsmerki úr forritum sem búin eru til</string>
-    <string name="premium_feature_watermark_detail">Fjarlægðu \'Made with HTML to APK\' ræsivísa og vatnsmerki úr öllum útfluttum útgáfum fyrir algjörlega hvítt-merkt, vörumerkt forrit.</string>
+    <string name="premium_feature_watermark_detail">Fjarlægðu \'Made with HTML2APK\' ræsivísa og vatnsmerki úr öllum útfluttum útgáfum fyrir algjörlega hvítt-merkt, vörumerkt forrit.</string>
     <string name="premium_feature_webview_desc">Ítarlegar WebView-stillingar</string>
     <string name="premium_feature_webview_detail">Fáðu fulla stjórn á vélbúnaðarhröðun, JS-stjórnborðsskrám, sérsniðnum User-Agent strengjum, leyfum fyrir skráaupphleðslu og skyndiminni-stefnum.</string>
     <string name="premium_less_features_button">Sýna minna</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Senda ábendingu</string>
     <string name="settings_feedback_chooser">Senda ábendingu</string>
     <string name="settings_feedback_no_app">Ekkert tölvupóstforrit fannst</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Ábending</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Fáðu Pro ókeypis</string>
     <string name="settings_free_premium_summary">Deildu myndbandi, náðu 10 þúsund áhorfum, fáðu Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Kveikt</string>
     <string name="support_button_action">Styðja</string>
     <string name="support_cats_interactive_hint">Bankaðu á kött til að strjúka honum! 🐾</string>
-    <string name="support_developer_desc">Halló! Kærar þakkir fyrir að kaupa Pro. Sem sjálfstæður forritari viðheld ég og bæti HTML to APK stöðugt. Ef þér líkar við appið og vilt styðja við framtíðaruppfærslur, geturðu valfrjálst boðið mér upp á kaffibolla eða máltíð. Hvert framlag skiptir mig gríðarlegu máli! ❤️</string>
+    <string name="support_developer_desc">Halló! Kærar þakkir fyrir að kaupa Pro. Sem sjálfstæður forritari viðheld ég og bæti HTML2APK stöðugt. Ef þér líkar við appið og vilt styðja við framtíðaruppfærslur, geturðu valfrjálst boðið mér upp á kaffibolla eða máltíð. Hvert framlag skiptir mig gríðarlegu máli! ❤️</string>
     <string name="support_developer_subtitle">Ef þú vilt styðja mig ☕</string>
     <string name="support_developer_title">Styðja forritarann</string>
     <string name="support_success_button">Ekkert mál ❤️</string>
-    <string name="support_success_message">Stuðningur þinn hefur borist! Sem sjálfstæður forritari sem býr til HTML to APK, gafstu mér gríðarlegan kraft, kjark og hvatningu.\n\nKettirnir okkar fagna fyrir þína hönd! 🐾</string>
+    <string name="support_success_message">Stuðningur þinn hefur borist! Sem sjálfstæður forritari sem býr til HTML2APK, gafstu mér gríðarlegan kraft, kjark og hvatningu.\n\nKettirnir okkar fagna fyrir þína hönd! 🐾</string>
     <string name="support_success_title">Þú ert frábær! ❤️</string>
     <string name="support_tier_coffee_desc">Heitur kaffibolli fyrir næturvinnu við forritun ☕</string>
     <string name="support_tier_coffee_title">Bjóða í kaffi</string>
     <string name="support_tier_meal_desc">Góður kvöldverður til að halda orkunni og einbeitingunni 🍕</string>
     <string name="support_tier_meal_title">Bjóða í mat</string>
-    <string name="support_tier_sponsor_desc">Beint framlag til framtíðar HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Beint framlag til framtíðar HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Ofurstyrktaraðili</string>
     <string name="switch_role">Skipta</string>
     <string name="tab">Flipi</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Útlit á öllum skjánum</string>
     <string name="template_gallery_desc">Vista base64 mynd í myndasafnið.</string>
     <string name="template_gallery_title">Vista í myndasafn</string>
-    <string name="template_guide_body">HTML to APK setur alþjóðlegan JavaScript hlut sem heitir AndroidAPI inn í WebView-ið þitt. Þú getur kallað á þessar aðferðir beint úr HTML/JS kóðanum þínum:</string>
+    <string name="template_guide_body">HTML2APK setur alþjóðlegan JavaScript hlut sem heitir AndroidAPI inn í WebView-ið þitt. Þú getur kallað á þessar aðferðir beint úr HTML/JS kóðanum þínum:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Halló!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Titill,Innihald)\nAndroidAPI.getDeviceInfo() // skilar JSON\nAndroidAPI.getBatteryLevel() // skilar heiltölu 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // skilar heiltölu 0-255</string>
-    <string name="template_guide_note">Ábending: Notaðu þessi API innan onclick-meðhöndlara eða hvaða JavaScript-falli sem er. Hluturinn er sjálfkrafa tiltækur þegar appið þitt er búið til með HTML to APK.</string>
+    <string name="template_guide_note">Ábending: Notaðu þessi API innan onclick-meðhöndlara eða hvaða JavaScript-falli sem er. Hluturinn er sjálfkrafa tiltækur þegar appið þitt er búið til með HTML2APK.</string>
     <string name="template_guide_title">API leiðarvísir</string>
     <string name="template_gyroscope_desc">Lesa snúningshraða tækisins á X, Y og Z ásum.</string>
     <string name="template_gyroscope_title">Hraðskynjari</string>

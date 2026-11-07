@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Думаю…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Анімації вимкнено, оскільки пристрій працював повільно. Увімкніть їх у налаштуваннях.</string>
-    <string name="app_name">Конструктор HTML в APK</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Підключення до Google Play, будь ласка, спробуйте ще раз через кілька секунд.</string>
     <string name="billing_restore_error">Помилка під час запиту: %1$s</string>
     <string name="billing_restore_not_found">Для цього облікового запису Google не знайдено активних покупок.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Надіслати електронний лист</string>
     <string name="build_failed_dialog_title">Збірка не вдалася</string>
     <string name="build_failed_email_chooser">Надіслати звіт про помилку через…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Звіт про помилку збірки - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Звіт про помилку збірки - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">Збірку AAB завершено: %1$s (%2$d байтів)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Поділіться зі світом тим, що ви створили, і отримайте Pro у відповідь. Це лише 3 прості кроки:</string>
     <string name="free_premium_note">Порада: додайте скріншот кількості переглядів у свій електронний лист, щоб пришвидшити перевірку.</string>
     <string name="free_premium_send_email">Надіслати електронний лист</string>
-    <string name="free_premium_step1_desc">Запишіть відео, що демонструє додаток або гру, створену за допомогою HTML to APK, і поділіться ним у YouTube, TikTok або Instagram.</string>
+    <string name="free_premium_step1_desc">Запишіть відео, що демонструє додаток або гру, створену за допомогою HTML2APK, і поділіться ним у YouTube, TikTok або Instagram.</string>
     <string name="free_premium_step1_title">Запишіть та поділіться відео</string>
     <string name="free_premium_step2_desc">Як тільки ваше відео набере 10 000 переглядів на будь-якій із цих платформ, ваша винагорода буде готова.</string>
     <string name="free_premium_step2_title">Наберіть 10 000 переглядів</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Використовуйте папки та дії проекту, щоб підтримувати порядок.</string>
     <string name="howto_organize_title">Тримайте проєкти в порядку</string>
     <string name="howto_output_body">APK призначений для встановлення на телефон або прямого поширення. AAB — це формат, необхідний для Google Play (Pro). З версією Pro ви також можете експортувати проєкт як проєкт Android Studio (ZIP) з меню проєкту. Попередні збірки знаходяться в розділі «Результати збірки» (Build Outputs) у тому ж меню, а головне меню дозволяє експортувати або імпортувати проєкти як ZIP-резервні копії.</string>
-    <string name="howto_overview">За допомогою HTML to APK Builder ви можете перетворити свій веб-сайт або HTML-файли на справжній додаток для Android. Програмування не потрібне!</string>
+    <string name="howto_overview">За допомогою HTML2APK ви можете перетворити свій веб-сайт або HTML-файли на справжній додаток для Android. Програмування не потрібне!</string>
     <string name="howto_pdf_body">Створіть проект, потім «Відкрити/переглянути PDF», щоб відкрити програму для читання. Масштабуйте, перемикайтеся між світлим і темним режимами читання, додавайте закладки та продовжуйте з останньої сторінки. Використовуйте «Редагувати», якщо хочете змінити порядок сторінок або додати анотації до документа. Пізніше ви зможете перетворити документ на додаток.</string>
     <string name="howto_playstore_signing_action">Читати далі</string>
-    <string name="howto_playstore_signing_body">Коли Play Console запитає «Налаштування підпису додатка», виберіть перший варіант: &lt;b&gt;Дозволити Google керувати та захищати ваш ключ підпису додатка (рекомендовано)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Це вмикає &lt;b&gt;Play App Signing&lt;/b&gt;. Google зберігає справжній ключ підпису; ви завантажуєте лише APK/AAB, підписані вашим ключем завантаження.&lt;br/&gt;&lt;br/&gt;Якщо ви згодом втратите сховище ключів (наприклад, видаливши HTMLtoAPK), ви можете надіслати запит на &lt;b&gt;скидання ключа завантаження&lt;/b&gt; в Play Console, і користувачі все одно отримуватимуть оновлення.&lt;br/&gt;&lt;br/&gt;Якщо ви повинні завантажити власний ключ підпису, відкрийте сховище ключів у цьому додатку та натисніть &lt;b&gt;Експортувати для Play Store (PEPK)&lt;/b&gt;. Виберіть той самий метод, який показує Play Console (шістнадцятковий відкритий ключ або відкритий ключ RSA PEM), щоб створити &lt;b&gt;output.zip&lt;/b&gt; і завантажити його.&lt;br/&gt;&lt;br/&gt;Вибирайте «Експортувати та завантажити власний ключ» лише в тому випадку, якщо ви абсолютно впевнені, що зможете назавжди зберегти цей ключ у безпеці. Його втрата означає, що ви більше не зможете оновити додаток.</string>
+    <string name="howto_playstore_signing_body">Коли Play Console запитає «Налаштування підпису додатка», виберіть перший варіант: &lt;b&gt;Дозволити Google керувати та захищати ваш ключ підпису додатка (рекомендовано)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Це вмикає &lt;b&gt;Play App Signing&lt;/b&gt;. Google зберігає справжній ключ підпису; ви завантажуєте лише APK/AAB, підписані вашим ключем завантаження.&lt;br/&gt;&lt;br/&gt;Якщо ви згодом втратите сховище ключів (наприклад, видаливши HTML2APK), ви можете надіслати запит на &lt;b&gt;скидання ключа завантаження&lt;/b&gt; в Play Console, і користувачі все одно отримуватимуть оновлення.&lt;br/&gt;&lt;br/&gt;Якщо ви повинні завантажити власний ключ підпису, відкрийте сховище ключів у цьому додатку та натисніть &lt;b&gt;Експортувати для Play Store (PEPK)&lt;/b&gt;. Виберіть той самий метод, який показує Play Console (шістнадцятковий відкритий ключ або відкритий ключ RSA PEM), щоб створити &lt;b&gt;output.zip&lt;/b&gt; і завантажити його.&lt;br/&gt;&lt;br/&gt;Вибирайте «Експортувати та завантажити власний ключ» лише в тому випадку, якщо ви абсолютно впевнені, що зможете назавжди зберегти цей ключ у безпеці. Його втрата означає, що ви більше не зможете оновити додаток.</string>
     <string name="howto_playstore_signing_summary">Дізнайтеся про ключі завантаження, Play App Signing та PEPK.</string>
     <string name="howto_playstore_signing_title">Вибір ключа підпису Play Store</string>
     <string name="howto_preview_body">Попередній перегляд запускає вашу сторінку так само, як це буде в готовому додатку, включаючи виклики Android API. HTML-редактор підсвічує код, автоматично закриває теги, а також має функцію пошуку та заміни; зміни зберігаються під час перемикання на попередній перегляд і назад.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Зберігати копію на цьому пристрої</string>
     <string name="keystore_persisted">Збережено в Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Проєкт: %1$s</string>
-    <string name="keystore_recovery_body">Якщо ви видалили HTMLtoAPK, автоматично згенеровані ключі підпису додатка могли бути втрачені. Нова збірка буде підписана іншим ключем, і Play Store може відхилити оновлення.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Рішення 1 - Скинути ключ завантаження (рекомендовано):&lt;/b&gt;&lt;br/&gt;1. Експортуйте &lt;b&gt;PEM-сертифікат&lt;/b&gt; вашого нового сховища ключів зі списку нижче.&lt;br/&gt;2. У Play Console перейдіть до &lt;b&gt;Підпис додатка &gt; Запит на скидання ключа завантаження&lt;/b&gt;.&lt;br/&gt;3. Заповніть форму та завантажте PEM-файл.&lt;br/&gt;4. Після схвалення опублікуйте свій новий APK/AAB, підписаний новим ключем.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Рішення 2 - Замінити ключ підпису додатка:&lt;/b&gt;&lt;br/&gt;Якщо Play Console дозволяє завантажити новий ключ підпису додатка, скористайтеся &lt;b&gt;Експортувати для Play Store (PEPK)&lt;/b&gt; у сховищі ключів. Виберіть той самий метод, що відображається в Play Console (шістнадцятковий ключ або RSA PEM), створіть output.zip і завантажте його.&lt;br/&gt;&lt;br/&gt;Користувачі продовжуватимуть отримувати оновлення, оскільки ключ підпису додатка залишається в Google, коли ви скидаєте лише ключ завантаження.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Якщо Play App Signing вимкнено&lt;/b&gt; і ви втратили ключ підпису, ви повинні опублікувати додаток знову з новою назвою пакета.</string>
+    <string name="keystore_recovery_body">Якщо ви видалили HTML2APK, автоматично згенеровані ключі підпису додатка могли бути втрачені. Нова збірка буде підписана іншим ключем, і Play Store може відхилити оновлення.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Рішення 1 - Скинути ключ завантаження (рекомендовано):&lt;/b&gt;&lt;br/&gt;1. Експортуйте &lt;b&gt;PEM-сертифікат&lt;/b&gt; вашого нового сховища ключів зі списку нижче.&lt;br/&gt;2. У Play Console перейдіть до &lt;b&gt;Підпис додатка &gt; Запит на скидання ключа завантаження&lt;/b&gt;.&lt;br/&gt;3. Заповніть форму та завантажте PEM-файл.&lt;br/&gt;4. Після схвалення опублікуйте свій новий APK/AAB, підписаний новим ключем.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Рішення 2 - Замінити ключ підпису додатка:&lt;/b&gt;&lt;br/&gt;Якщо Play Console дозволяє завантажити новий ключ підпису додатка, скористайтеся &lt;b&gt;Експортувати для Play Store (PEPK)&lt;/b&gt; у сховищі ключів. Виберіть той самий метод, що відображається в Play Console (шістнадцятковий ключ або RSA PEM), створіть output.zip і завантажте його.&lt;br/&gt;&lt;br/&gt;Користувачі продовжуватимуть отримувати оновлення, оскільки ключ підпису додатка залишається в Google, коли ви скидаєте лише ключ завантаження.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Якщо Play App Signing вимкнено&lt;/b&gt; і ви втратили ключ підпису, ви повинні опублікувати додаток знову з новою назвою пакета.</string>
     <string name="keystore_recovery_close">Зрозуміло</string>
     <string name="keystore_recovery_open_console">Відкрити консоль Play</string>
     <string name="keystore_recovery_title">Втратили ключ підпису?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Засіб перегляду PDF</string>
     <string name="licenses_count">%1$d бібліотек</string>
     <string name="licenses_empty">Жодна бібліотека не відповідає вашому пошуку.</string>
-    <string name="licenses_intro">HTML to APK побудовано на основі наведеного нижче програмного забезпечення з відкритим кодом. Бібліотеки, позначені як «Generated apps», також упаковуються в додатки, які він створює (рекламні бібліотеки — лише коли ввімкнено рекламу).</string>
+    <string name="licenses_intro">HTML2APK побудовано на основі наведеного нижче програмного забезпечення з відкритим кодом. Бібліотеки, позначені як «Generated apps», також упаковуються в додатки, які він створює (рекламні бібліотеки — лише коли ввімкнено рекламу).</string>
     <string name="licenses_load_failed">Не вдалося завантажити список ліцензій.</string>
     <string name="licenses_open_license">Відкрита ліцензія</string>
     <string name="licenses_open_website">Вебсайт</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Згорнути або розгорнути спадне меню</string>
     <string name="m3c_snackbar_dismiss">Закрити</string>
     <string name="mail_report_android">Версія Android: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Версія HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Версія HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">Дата: %1$s</string>
     <string name="mail_report_default_project">Проєкт</string>
     <string name="mail_report_device">Пристрій: %1$s %2$s</string>
     <string name="mail_report_end">=== КІНЕЦЬ ЗВІТУ ===</string>
     <string name="mail_report_format">Формат виводу: %1$s</string>
-    <string name="mail_report_intro">Збірка всередині програми HTML to APK завершилася невдачею.</string>
+    <string name="mail_report_intro">Збірка всередині програми HTML2APK завершилася невдачею.</string>
     <string name="mail_report_intro2">Будь ласка, перегляньте цей звіт про помилку.</string>
     <string name="mail_report_package_name">Назва пакета: %1$s</string>
     <string name="mail_report_project_name">Назва проекту: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Налаштування</string>
     <string name="nav_templates">Шаблони</string>
     <string name="not_selected">Не вибрано</string>
-    <string name="offer_dialog_message">Поділіться відео, що демонструє додаток, який ви створили за допомогою HTML to APK. Коли воно набере 10 000 переглядів, Pro буде за наш рахунок.</string>
+    <string name="offer_dialog_message">Поділіться відео, що демонструє додаток, який ви створили за допомогою HTML2APK. Коли воно набере 10 000 переглядів, Pro буде за наш рахунок.</string>
     <string name="offer_dialog_no">Не зараз</string>
     <string name="offer_dialog_title">Отримайте Pro безкоштовно</string>
     <string name="offer_dialog_yes">Як це заробити?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Продається окремо, підписка Pro не потрібна. Нові акаунти отримують свій перший додаток безкоштовно.</string>
     <string name="premium_credits_link_title">Пакети кредитів ШІ</string>
     <string name="premium_crown_subtitle">Зніміть усі обмеження та створюйте на повну потужність.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Привіт! Я Емре, мені 19 років, і я розробляю HTML to APK повністю самостійно з великою пристрастю. Моя мета — надати вам можливість легко перетворювати ваші веб-проекти на справжні Android-додатки без складних налаштувань.\n\nОновившись до Pro, ви безпосередньо підтримуєте молодого інді-розробника та сприяєте майбутньому розвитку цього проекту. Щиро дякую за вашу підтримку! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Привіт! Я Емре, мені 19 років, і я розробляю HTML2APK повністю самостійно з великою пристрастю. Моя мета — надати вам можливість легко перетворювати ваші веб-проекти на справжні Android-додатки без складних налаштувань.\n\nОновившись до Pro, ви безпосередньо підтримуєте молодого інді-розробника та сприяєте майбутньому розвитку цього проекту. Щиро дякую за вашу підтримку! ❤️</string>
     <string name="premium_dev_note_title">Примітка від розробника 👋</string>
     <string name="premium_error_payment">Оплата недоступна. Будь ласка, спробуйте пізніше.</string>
     <string name="premium_extra_ads_detail">Жодної нав\'язливої реклами як у робочому просторі додатка, так і в усіх експортованих додатках. Насолоджуйтесь чистим середовищем без відволікань.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Читайте необмежену кількість PDF-документів</string>
     <string name="premium_feature_unlimited_pdf_detail">Безкоштовний план дозволяє зберігати до 5 проектів PDF-документів. Pro знімає це обмеження, тому ваша бібліотека для читання може продовжувати зростати.</string>
     <string name="premium_feature_watermark_desc">Видалити водяний знак зі створених додатків</string>
-    <string name="premium_feature_watermark_detail">Видаляйте індикатори заставки \'Made with HTML to APK\' та водяні знаки з усіх експортованих збірок для створення повністю брендованих додатків без сторонніх позначок.</string>
+    <string name="premium_feature_watermark_detail">Видаляйте індикатори заставки \'Made with HTML2APK\' та водяні знаки з усіх експортованих збірок для створення повністю брендованих додатків без сторонніх позначок.</string>
     <string name="premium_feature_webview_desc">Розширені налаштування WebView</string>
     <string name="premium_feature_webview_detail">Отримайте повний контроль над апаратним прискоренням, логами консолі JS, користувацькими рядками User-Agent, дозволами на завантаження файлів та стратегіями кешування.</string>
     <string name="premium_less_features_button">Показати менше</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Надіслати відгук</string>
     <string name="settings_feedback_chooser">Надіслати відгук</string>
     <string name="settings_feedback_no_app">Не знайдено жодного поштового додатка</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Відгук</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Отримайте Pro безкоштовно</string>
     <string name="settings_free_premium_summary">Поділіться відео, наберіть 10 тис. переглядів, отримайте Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Увімкнено</string>
     <string name="support_button_action">Підтримати</string>
     <string name="support_cats_interactive_hint">Натисніть на будь-якого кота, щоб погладити його! 🐾</string>
-    <string name="support_developer_desc">Привіт! Дуже дякую за придбання Pro. Як незалежний розробник, я постійно підтримую та вдосконалюю HTML to APK. Якщо вам подобається додаток і ви хочете підтримати майбутні оновлення, ви можете за бажанням пригостити мене кавою або обідом. Кожен внесок дуже багато важить для мене! ❤️</string>
+    <string name="support_developer_desc">Привіт! Дуже дякую за придбання Pro. Як незалежний розробник, я постійно підтримую та вдосконалюю HTML2APK. Якщо вам подобається додаток і ви хочете підтримати майбутні оновлення, ви можете за бажанням пригостити мене кавою або обідом. Кожен внесок дуже багато важить для мене! ❤️</string>
     <string name="support_developer_subtitle">Якщо ви хочете підтримати мене ☕</string>
     <string name="support_developer_title">Підтримати розробника</string>
     <string name="support_success_button">Будь ласка ❤️</string>
-    <string name="support_success_message">Вашу підтримку отримано! Як незалежний розробник, що створює HTML to APK, ви дали мені величезну силу, моральний дух і мотивацію.\n\nНаші коти святкують разом з вами! 🐾</string>
+    <string name="support_success_message">Вашу підтримку отримано! Як незалежний розробник, що створює HTML2APK, ви дали мені величезну силу, моральний дух і мотивацію.\n\nНаші коти святкують разом з вами! 🐾</string>
     <string name="support_success_title">Ви неймовірні! ❤️</string>
     <string name="support_tier_coffee_desc">Горнятко гарячої кави для нічного програмування ☕</string>
     <string name="support_tier_coffee_title">Купити каву</string>
     <string name="support_tier_meal_desc">Смачна вечеря, щоб залишатися енергійним і зосередженим 🍕</string>
     <string name="support_tier_meal_title">Купити обід</string>
-    <string name="support_tier_sponsor_desc">Прямий внесок у майбутнє HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Прямий внесок у майбутнє HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Суперспонсор</string>
     <string name="switch_role">Перемикач</string>
     <string name="tab">Вкладка</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Повноекранний макет</string>
     <string name="template_gallery_desc">Зберегти зображення base64 у галерею фотографій.</string>
     <string name="template_gallery_title">Зберегти в галерею</string>
-    <string name="template_guide_body">HTML to APK впроваджує глобальний об\'єкт JavaScript під назвою AndroidAPI у ваш WebView. Ви можете викликати ці методи безпосередньо зі свого коду HTML/JS:</string>
+    <string name="template_guide_body">HTML2APK впроваджує глобальний об\'єкт JavaScript під назвою AndroidAPI у ваш WebView. Ви можете викликати ці методи безпосередньо зі свого коду HTML/JS:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // повертає JSON\nAndroidAPI.getBatteryLevel() // повертає int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // повертає int 0-255</string>
-    <string name="template_guide_note">Порада: Використовуйте ці API всередині обробників onclick або будь-якої функції JavaScript. Об\'єкт автоматично стає доступним, коли ваш додаток створюється за допомогою HTML to APK.</string>
+    <string name="template_guide_note">Порада: Використовуйте ці API всередині обробників onclick або будь-якої функції JavaScript. Об\'єкт автоматично стає доступним, коли ваш додаток створюється за допомогою HTML2APK.</string>
     <string name="template_guide_title">Посібник з API</string>
     <string name="template_gyroscope_desc">Зчитування швидкості обертання пристрою за осями X, Y та Z.</string>
     <string name="template_gyroscope_title">Гіроскоп</string>

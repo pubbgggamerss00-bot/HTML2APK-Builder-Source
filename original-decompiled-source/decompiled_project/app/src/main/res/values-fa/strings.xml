@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">در حال تفکر...</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">انیمیشن‌ها به دلیل کندی دستگاه غیرفعال شدند. می‌توانید آن‌ها را در تنظیمات فعال کنید.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">در حال اتصال به گوگل پلی، لطفاً چند ثانیه دیگر دوباره تلاش کنید.</string>
     <string name="billing_restore_error">خطا در حین پرس‌وجو: %1$s</string>
     <string name="billing_restore_not_found">هیچ خرید فعالی برای این حساب گوگل یافت نشد.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">ارسال ایمیل</string>
     <string name="build_failed_dialog_title">ساخت ناموفق بود</string>
     <string name="build_failed_email_chooser">ارسال گزارش خطا از طریق...</string>
-    <string name="build_failed_email_subject">[HTML to APK] گزارش شکست ساخت - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] گزارش شکست ساخت - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">ساخت AAB تکمیل شد: %1$s (%2$d بایت)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">آنچه ساخته‌اید را با جهان به اشتراک بگذارید و در عوض نسخه حرفه‌ای دریافت کنید. این کار تنها ۳ مرحله ساده دارد:</string>
     <string name="free_premium_note">نکته: برای تسریع در تایید، اسکرین‌شاتی از تعداد بازدیدها را در ایمیل خود قرار دهید.</string>
     <string name="free_premium_send_email">ارسال ایمیل</string>
-    <string name="free_premium_step1_desc">یک ویدیو از برنامه‌ یا بازی‌ای که با HTML to APK ساخته‌اید ضبط کنید و آن را در یوتیوب، تیک‌تاک یا اینستاگرام به اشتراک بگذارید.</string>
+    <string name="free_premium_step1_desc">یک ویدیو از برنامه‌ یا بازی‌ای که با HTML2APK ساخته‌اید ضبط کنید و آن را در یوتیوب، تیک‌تاک یا اینستاگرام به اشتراک بگذارید.</string>
     <string name="free_premium_step1_title">ضبط و اشتراک‌گذاری ویدیو</string>
     <string name="free_premium_step2_desc">هنگامی که ویدیوی شما در هر یک از این پلتفرم‌ها به ۱۰,۰۰۰ بازدید برسد، پاداش شما آماده است.</string>
     <string name="free_premium_step2_title">رسیدن به ۱۰,۰۰۰ بازدید</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">از پوشه‌ها و اقدامات پروژه برای مرتب نگه داشتن همه چیز استفاده کنید.</string>
     <string name="howto_organize_title">پروژه‌ها را مرتب نگه دارید</string>
     <string name="howto_output_body">فایل APK برای نصب روی گوشی یا اشتراک‌گذاری مستقیم است. AAB فرمتی است که گوگل پلی به آن نیاز دارد (نسخه حرفه‌ای). با نسخه حرفه‌ای می‌توانید پروژه را به عنوان یک پروژه اندروید استودیو (ZIP) از منوی پروژه خروجی بگیرید. ساخت‌های قبلی در بخش خروجی‌های ساخت (Build Outputs) در همان منو قرار دارند و منوی اصلی می‌تواند پروژه‌ها را به عنوان پشتیبان ZIP صادر یا وارد کند.</string>
-    <string name="howto_overview">با HTML to APK Builder، می‌توانید وب‌سایت یا فایل‌های HTML خود را به یک برنامه اندرویدی واقعی تبدیل کنید. بدون نیاز به کدنویسی!</string>
+    <string name="howto_overview">با HTML2APK، می‌توانید وب‌سایت یا فایل‌های HTML خود را به یک برنامه اندرویدی واقعی تبدیل کنید. بدون نیاز به کدنویسی!</string>
     <string name="howto_pdf_body">ایجاد پروژه و سپس باز کردن / مشاهده PDF، کتاب‌خوان را باز می‌کند. بزرگ‌نمایی کنید، بین حالت مطالعه روشن و تاریک جابجا شوید، نشانک اضافه کنید و از آخرین صفحه‌ای که خوانده‌اید ادامه دهید. زمانی که می‌خواهید صفحات را مرتب کنید یا روی سند یادداشت بنویسید، از ویرایش استفاده کنید. می‌توانید بعداً یک سند را به برنامه تبدیل کنید.</string>
     <string name="howto_playstore_signing_action">بیشتر بخوانید</string>
-    <string name="howto_playstore_signing_body">هنگامی که کنسول پلی از شما «تنظیمات امضای برنامه» را می‌پرسد، گزینه اول را انتخاب کنید: &lt;b&gt;اجازه دهید گوگل کلید امضای برنامه شما را مدیریت و محافظت کند (توصیه می‌شود)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;این کار &lt;b&gt;امضای برنامه پلی (Play App Signing)&lt;/b&gt; را فعال می‌کند. گوگل کلید امضای اصلی را نگه می‌دارد؛ شما فقط فایل‌های APK/AAB امضا شده با کلید آپلود خود را بارگذاری می‌کنید.&lt;br/&gt;&lt;br/&gt;اگر بعداً فایل کلید (keystore) را گم کردید (مثلاً با حذف نصب HTMLtoAPK)، می‌توانید در کنسول پلی درخواست &lt;b&gt;بازنشانی کلید آپلود&lt;/b&gt; بدهید و کاربران همچنان به‌روزرسانی‌ها را دریافت خواهند کرد.&lt;br/&gt;&lt;br/&gt;اگر مجبور هستید کلید امضای خود را بارگذاری کنید، فایل کلید را در این برنامه باز کرده و روی &lt;b&gt;صادرات برای پلی استور (PEPK)&lt;/b&gt; ضربه بزنید. همان روشی که کنسول پلی نشان می‌دهد (کلید عمومی هگز یا کلید عمومی RSA با فرمت PEM) را انتخاب کنید تا &lt;b&gt;output.zip&lt;/b&gt; تولید شود و آن را بارگذاری کنید.&lt;br/&gt;&lt;br/&gt;فقط در صورتی گزینه «صادرات و بارگذاری کلید خود» را انتخاب کنید که کاملاً مطمئن هستید می‌توانید آن کلید را برای همیشه ایمن نگه دارید. گم کردن آن به این معنی است که دیگر نمی‌توانید برنامه را به‌روزرسانی کنید.</string>
+    <string name="howto_playstore_signing_body">هنگامی که کنسول پلی از شما «تنظیمات امضای برنامه» را می‌پرسد، گزینه اول را انتخاب کنید: &lt;b&gt;اجازه دهید گوگل کلید امضای برنامه شما را مدیریت و محافظت کند (توصیه می‌شود)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;این کار &lt;b&gt;امضای برنامه پلی (Play App Signing)&lt;/b&gt; را فعال می‌کند. گوگل کلید امضای اصلی را نگه می‌دارد؛ شما فقط فایل‌های APK/AAB امضا شده با کلید آپلود خود را بارگذاری می‌کنید.&lt;br/&gt;&lt;br/&gt;اگر بعداً فایل کلید (keystore) را گم کردید (مثلاً با حذف نصب HTML2APK)، می‌توانید در کنسول پلی درخواست &lt;b&gt;بازنشانی کلید آپلود&lt;/b&gt; بدهید و کاربران همچنان به‌روزرسانی‌ها را دریافت خواهند کرد.&lt;br/&gt;&lt;br/&gt;اگر مجبور هستید کلید امضای خود را بارگذاری کنید، فایل کلید را در این برنامه باز کرده و روی &lt;b&gt;صادرات برای پلی استور (PEPK)&lt;/b&gt; ضربه بزنید. همان روشی که کنسول پلی نشان می‌دهد (کلید عمومی هگز یا کلید عمومی RSA با فرمت PEM) را انتخاب کنید تا &lt;b&gt;output.zip&lt;/b&gt; تولید شود و آن را بارگذاری کنید.&lt;br/&gt;&lt;br/&gt;فقط در صورتی گزینه «صادرات و بارگذاری کلید خود» را انتخاب کنید که کاملاً مطمئن هستید می‌توانید آن کلید را برای همیشه ایمن نگه دارید. گم کردن آن به این معنی است که دیگر نمی‌توانید برنامه را به‌روزرسانی کنید.</string>
     <string name="howto_playstore_signing_summary">درک کلیدهای بارگذاری، امضای برنامه Play و PEPK.</string>
     <string name="howto_playstore_signing_title">انتخاب کلید امضای فروشگاه Play</string>
     <string name="howto_preview_body">پیش‌نمایش، صفحه شما را همان‌طور که در برنامه نهایی اجرا می‌شود، از جمله فراخوانی‌های AndroidAPI، نمایش می‌دهد. ویرایشگر HTML کد شما را رنگ‌آمیزی می‌کند، تگ‌ها را برایتان می‌بندد و قابلیت جستجو و جایگزینی دارد؛ تغییرات هنگام جابجایی بین پیش‌نمایش و ویرایشگر حفظ می‌شوند.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">یک نسخه در این دستگاه نگه دار</string>
     <string name="keystore_persisted">در Downloads/HTMLtoAPK/Keystores ذخیره شد</string>
     <string name="keystore_project_linked">پروژه: %1$s</string>
-    <string name="keystore_recovery_body">اگر برنامه HTMLtoAPK را حذف کرده‌اید، ممکن است کلیدهای امضای برنامه که به‌طور خودکار تولید شده‌اند، از دست رفته باشند. بیلد جدید با کلید متفاوتی امضا می‌شود و ممکن است فروشگاه Play به‌روزرسانی را رد کند.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;راه حل ۱ - بازنشانی کلید آپلود (توصیه شده):&lt;/b&gt;&lt;br/&gt;۱. گواهی &lt;b&gt;PEM&lt;/b&gt; کلید استور جدید خود را از لیست زیر صادر کنید.&lt;br/&gt;۲. در کنسول Play، به بخش &lt;b&gt;App signing &gt; Request upload key reset&lt;/b&gt; بروید.&lt;br/&gt;۳. فرم را پر کرده و فایل PEM را آپلود کنید.&lt;br/&gt;۴. پس از تایید، APK/AAB جدید خود را که با کلید جدید امضا شده است، منتشر کنید.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;راه حل ۲ - جایگزینی کلید امضای برنامه:&lt;/b&gt;&lt;br/&gt;اگر کنسول Play به شما اجازه می‌دهد کلید امضای برنامه جدیدی آپلود کنید، از گزینه &lt;b&gt;Export for Play Store (PEPK)&lt;/b&gt; در کلید استور استفاده کنید. همان روش نمایش داده شده در کنسول Play (کلید هگز یا RSA PEM) را انتخاب کنید، فایل output.zip را تولید کرده و آن را آپلود کنید.&lt;br/&gt;&lt;br/&gt;کاربران همچنان به‌روزرسانی‌ها را دریافت خواهند کرد زیرا وقتی فقط کلید آپلود را بازنشانی می‌کنید، کلید امضای برنامه نزد گوگل باقی می‌ماند.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;اگر Play App Signing غیرفعال است&lt;/b&gt; و کلید امضا را گم کرده‌اید، باید برنامه را دوباره با نام پکیج جدید منتشر کنید.</string>
+    <string name="keystore_recovery_body">اگر برنامه HTML2APK را حذف کرده‌اید، ممکن است کلیدهای امضای برنامه که به‌طور خودکار تولید شده‌اند، از دست رفته باشند. بیلد جدید با کلید متفاوتی امضا می‌شود و ممکن است فروشگاه Play به‌روزرسانی را رد کند.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;راه حل ۱ - بازنشانی کلید آپلود (توصیه شده):&lt;/b&gt;&lt;br/&gt;۱. گواهی &lt;b&gt;PEM&lt;/b&gt; کلید استور جدید خود را از لیست زیر صادر کنید.&lt;br/&gt;۲. در کنسول Play، به بخش &lt;b&gt;App signing &gt; Request upload key reset&lt;/b&gt; بروید.&lt;br/&gt;۳. فرم را پر کرده و فایل PEM را آپلود کنید.&lt;br/&gt;۴. پس از تایید، APK/AAB جدید خود را که با کلید جدید امضا شده است، منتشر کنید.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;راه حل ۲ - جایگزینی کلید امضای برنامه:&lt;/b&gt;&lt;br/&gt;اگر کنسول Play به شما اجازه می‌دهد کلید امضای برنامه جدیدی آپلود کنید، از گزینه &lt;b&gt;Export for Play Store (PEPK)&lt;/b&gt; در کلید استور استفاده کنید. همان روش نمایش داده شده در کنسول Play (کلید هگز یا RSA PEM) را انتخاب کنید، فایل output.zip را تولید کرده و آن را آپلود کنید.&lt;br/&gt;&lt;br/&gt;کاربران همچنان به‌روزرسانی‌ها را دریافت خواهند کرد زیرا وقتی فقط کلید آپلود را بازنشانی می‌کنید، کلید امضای برنامه نزد گوگل باقی می‌ماند.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;اگر Play App Signing غیرفعال است&lt;/b&gt; و کلید امضا را گم کرده‌اید، باید برنامه را دوباره با نام پکیج جدید منتشر کنید.</string>
     <string name="keystore_recovery_close">متوجه شدم</string>
     <string name="keystore_recovery_open_console">باز کردن کنسول پلی</string>
     <string name="keystore_recovery_title">کلید امضای خود را گم کرده‌اید؟</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">نمایشگر PDF</string>
     <string name="licenses_count">%1$d کتابخانه</string>
     <string name="licenses_empty">هیچ کتابخانه‌ای با جستجوی شما مطابقت ندارد.</string>
-    <string name="licenses_intro">HTML to APK بر اساس نرم‌افزار متن‌باز زیر ساخته شده است. کتابخانه‌های علامت‌گذاری شده با «برنامه‌های تولید شده» نیز در برنامه‌هایی که می‌سازد بسته‌بندی می‌شوند (کتابخانه‌های تبلیغاتی فقط زمانی که تبلیغات فعال باشند).</string>
+    <string name="licenses_intro">HTML2APK بر اساس نرم‌افزار متن‌باز زیر ساخته شده است. کتابخانه‌های علامت‌گذاری شده با «برنامه‌های تولید شده» نیز در برنامه‌هایی که می‌سازد بسته‌بندی می‌شوند (کتابخانه‌های تبلیغاتی فقط زمانی که تبلیغات فعال باشند).</string>
     <string name="licenses_load_failed">لیست مجوزها بارگذاری نشد.</string>
     <string name="licenses_open_license">باز کردن مجوز</string>
     <string name="licenses_open_website">وب‌سایت</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">جمع کردن/ ازهم باز کردن منوِ کرکره‌ای</string>
     <string name="m3c_snackbar_dismiss">بستن</string>
     <string name="mail_report_android">نسخه اندروید: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">نسخه HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">نسخه HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">تاریخ: %1$s</string>
     <string name="mail_report_default_project">پروژه</string>
     <string name="mail_report_device">دستگاه: %1$s %2$s</string>
     <string name="mail_report_end">=== پایان گزارش ===</string>
     <string name="mail_report_format">فرمت خروجی: %1$s</string>
-    <string name="mail_report_intro">یک ساخت (Build) در برنامه HTML to APK با شکست مواجه شد.</string>
+    <string name="mail_report_intro">یک ساخت (Build) در برنامه HTML2APK با شکست مواجه شد.</string>
     <string name="mail_report_intro2">لطفاً این گزارش خطا را بررسی کنید.</string>
     <string name="mail_report_package_name">نام بسته: %1$s</string>
     <string name="mail_report_project_name">نام پروژه: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">تنظیمات</string>
     <string name="nav_templates">قالب‌ها</string>
     <string name="not_selected">انتخاب‌نشده</string>
-    <string name="offer_dialog_message">ویدیویی از برنامه‌ای که با HTML to APK ساخته‌اید به اشتراک بگذارید. وقتی به ۱۰,۰۰۰ بازدید برسد، نسخه حرفه‌ای هدیه ما به شماست.</string>
+    <string name="offer_dialog_message">ویدیویی از برنامه‌ای که با HTML2APK ساخته‌اید به اشتراک بگذارید. وقتی به ۱۰,۰۰۰ بازدید برسد، نسخه حرفه‌ای هدیه ما به شماست.</string>
     <string name="offer_dialog_no">فعلاً نه</string>
     <string name="offer_dialog_title">دریافت نسخه حرفه‌ای به صورت رایگان</string>
     <string name="offer_dialog_yes">چگونه آن را به دست آورم؟</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">به صورت جداگانه فروخته می شود، نیازی به نسخه پرو نیست. حساب های کاربری جدید اولین برنامه خود را رایگان دریافت می کنند.</string>
     <string name="premium_credits_link_title">بسته‌های اعتبار هوش مصنوعی</string>
     <string name="premium_crown_subtitle">همه محدودیت‌ها را بردارید و با قدرت کامل بسازید.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">سلام! من امره هستم، ۱۹ ساله، و برنامه HTML to APK را کاملاً به تنهایی و با اشتیاق فراوان توسعه می‌دهم. هدف من این است که به شما قدرت دهم تا پروژه‌های وب خود را بدون هیچ تنظیمات پیچیده‌ای، به راحتی به برنامه‌های واقعی اندروید تبدیل کنید. با ارتقا به نسخه حرفه‌ای (Pro)، مستقیماً از یک توسعه‌دهنده مستقل جوان حمایت می‌کنید و به توسعه آینده این پروژه کمک می‌کنید. از حمایت مهربانانه شما بسیار سپاسگزارم! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">سلام! من امره هستم، ۱۹ ساله، و برنامه HTML2APK را کاملاً به تنهایی و با اشتیاق فراوان توسعه می‌دهم. هدف من این است که به شما قدرت دهم تا پروژه‌های وب خود را بدون هیچ تنظیمات پیچیده‌ای، به راحتی به برنامه‌های واقعی اندروید تبدیل کنید. با ارتقا به نسخه حرفه‌ای (Pro)، مستقیماً از یک توسعه‌دهنده مستقل جوان حمایت می‌کنید و به توسعه آینده این پروژه کمک می‌کنید. از حمایت مهربانانه شما بسیار سپاسگزارم! ❤️</string>
     <string name="premium_dev_note_title">یادداشتی از توسعه‌دهنده 👋</string>
     <string name="premium_error_payment">پرداخت در دسترس نیست. لطفاً بعداً دوباره تلاش کنید.</string>
     <string name="premium_extra_ads_detail">بدون هیچ تبلیغ مزاحمی در محیط برنامه و تمام برنامه‌های خروجی گرفته شده. از محیطی تمیز و بدون حواس‌پرتی لذت ببرید.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">خواندن نامحدود اسناد PDF</string>
     <string name="premium_feature_unlimited_pdf_detail">طرح رایگان تا ۵ پروژه سند PDF را نگه می‌دارد. نسخه حرفه‌ای این محدودیت را حذف می‌کند، بنابراین کتابخانه مطالعه شما می‌تواند به رشد خود ادامه دهد.</string>
     <string name="premium_feature_watermark_desc">حذف واترمارک از برنامه‌های تولیدشده</string>
-    <string name="premium_feature_watermark_detail">نشانگرها و واترمارک‌های \'ساخته شده با HTML to APK\' را از تمام خروجی‌ها حذف کنید تا برنامه‌هایی کاملاً با برند شخصی خود داشته باشید.</string>
+    <string name="premium_feature_watermark_detail">نشانگرها و واترمارک‌های \'ساخته شده با HTML2APK\' را از تمام خروجی‌ها حذف کنید تا برنامه‌هایی کاملاً با برند شخصی خود داشته باشید.</string>
     <string name="premium_feature_webview_desc">تنظیمات پیشرفته WebView</string>
     <string name="premium_feature_webview_detail">کنترل کامل بر شتاب‌دهنده سخت‌افزاری، لاگ‌های کنسول JS، رشته‌های User-Agent سفارشی، مجوزهای آپلود فایل و استراتژی‌های کش داشته باشید.</string>
     <string name="premium_less_features_button">نمایش کمتر</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">ارسال بازخورد</string>
     <string name="settings_feedback_chooser">ارسال بازخورد</string>
     <string name="settings_feedback_no_app">هیچ برنامه ایمیلی یافت نشد</string>
-    <string name="settings_feedback_subject">سازنده HTML به APK - بازخورد</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">دریافت نسخه حرفه‌ای به صورت رایگان</string>
     <string name="settings_free_premium_summary">یک ویدیو به اشتراک بگذارید، به ۱۰ هزار بازدید برسید و نسخه حرفه‌ای دریافت کنید</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">روشن</string>
     <string name="support_button_action">حمایت</string>
     <string name="support_cats_interactive_hint">برای نوازش گربه‌ها روی آن‌ها ضربه بزنید! 🐾</string>
-    <string name="support_developer_desc">سلام! از خرید نسخه حرفه‌ای بسیار سپاسگزارم. به عنوان یک توسعه‌دهنده مستقل، من به طور مداوم HTML to APK را نگهداری و بهبود می‌بخشم. اگر برنامه را دوست دارید و مایل به حمایت از به‌روزرسانی‌های آینده هستید، می‌توانید به صورت اختیاری برای من یک قهوه یا یک وعده غذایی بخرید. هر کمک برای من بسیار ارزشمند است! ❤️</string>
+    <string name="support_developer_desc">سلام! از خرید نسخه حرفه‌ای بسیار سپاسگزارم. به عنوان یک توسعه‌دهنده مستقل، من به طور مداوم HTML2APK را نگهداری و بهبود می‌بخشم. اگر برنامه را دوست دارید و مایل به حمایت از به‌روزرسانی‌های آینده هستید، می‌توانید به صورت اختیاری برای من یک قهوه یا یک وعده غذایی بخرید. هر کمک برای من بسیار ارزشمند است! ❤️</string>
     <string name="support_developer_subtitle">اگر مایل به حمایت از من هستید ☕</string>
     <string name="support_developer_title">حمایت از توسعه‌دهنده</string>
     <string name="support_success_button">خواهش می‌کنم ❤️</string>
-    <string name="support_success_message">حمایت شما دریافت شد! به عنوان یک توسعه‌دهنده مستقل که HTML to APK را می‌سازد، شما به من قدرت، روحیه و انگیزه فوق‌العاده‌ای دادید.\n\nگربه‌های ما برای شما جشن گرفته‌اند! 🐾</string>
+    <string name="support_success_message">حمایت شما دریافت شد! به عنوان یک توسعه‌دهنده مستقل که HTML2APK را می‌سازد، شما به من قدرت، روحیه و انگیزه فوق‌العاده‌ای دادید.\n\nگربه‌های ما برای شما جشن گرفته‌اند! 🐾</string>
     <string name="support_success_title">شما فوق‌العاده‌اید! ❤️</string>
     <string name="support_tier_coffee_desc">یک فنجان قهوه گرم برای کدنویسی‌های شبانه ☕</string>
     <string name="support_tier_coffee_title">خرید یک قهوه</string>
     <string name="support_tier_meal_desc">یک وعده غذایی عالی برای حفظ انرژی و تمرکز 🍕</string>
     <string name="support_tier_meal_title">خرید یک وعده غذایی</string>
-    <string name="support_tier_sponsor_desc">کمک مستقیم به آینده HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">کمک مستقیم به آینده HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">حامی ویژه</string>
     <string name="switch_role">کلید</string>
     <string name="tab">برگه</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">طرح تمام‌صفحه</string>
     <string name="template_gallery_desc">ذخیره یک تصویر base64 در گالری عکس.</string>
     <string name="template_gallery_title">ذخیره در گالری</string>
-    <string name="template_guide_body">HTML to APK یک شیء جاوا اسکریپت سراسری به نام AndroidAPI را به WebView شما تزریق می‌کند. شما می‌توانید این متدها را مستقیماً از کد HTML/JS خود فراخوانی کنید:</string>
+    <string name="template_guide_body">HTML2APK یک شیء جاوا اسکریپت سراسری به نام AndroidAPI را به WebView شما تزریق می‌کند. شما می‌توانید این متدها را مستقیماً از کد HTML/JS خود فراخوانی کنید:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // returns JSON\nAndroidAPI.getBatteryLevel() // returns int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // returns int 0-255</string>
     <string name="template_guide_note">نکته: از این APIها در داخل کنترل‌کننده‌های onclick یا هر تابع جاوا اسکریپت استفاده کنید. هنگامی که برنامه شما با HTML به APK ساخته می‌شود، این شیء به طور خودکار در دسترس است.</string>
     <string name="template_guide_title">راهنمای API</string>

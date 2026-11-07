@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">חושב...</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">האנימציות כובו מכיוון שהמכשיר התקשה בביצוען. ניתן להפעיל אותן מחדש בהגדרות.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">מתחבר ל-Google Play, אנא נסה שוב בעוד מספר שניות.</string>
     <string name="billing_restore_error">שגיאה במהלך השאילתה: %1$s</string>
     <string name="billing_restore_not_found">לא נמצאה רכישה פעילה עבור חשבון Google זה.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">שלח אימייל</string>
     <string name="build_failed_dialog_title">הבנייה נכשלה</string>
     <string name="build_failed_email_chooser">שלח דוח שגיאות באמצעות...</string>
-    <string name="build_failed_email_subject">[HTML to APK] דוח כשל בבנייה - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] דוח כשל בבנייה - %1$s</string>
     <string name="build_format_aab">חבילת אפליקציה (App Bundle)</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">בניית ה-AAB הושלמה: %1$s (%2$d בתים)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">שתף את מה שבנית עם העולם וקבל Pro בתמורה. זה לוקח רק 3 שלבים פשוטים:</string>
     <string name="free_premium_note">טיפ: צרף צילום מסך של מספר הצפיות למייל שלך כדי לזרז את האימות.</string>
     <string name="free_premium_send_email">שלח מייל</string>
-    <string name="free_premium_step1_desc">הקלט סרטון המציג אפליקציה או משחק שיצרת עם HTML to APK ושתף אותו ב-YouTube, TikTok או Instagram.</string>
+    <string name="free_premium_step1_desc">הקלט סרטון המציג אפליקציה או משחק שיצרת עם HTML2APK ושתף אותו ב-YouTube, TikTok או Instagram.</string>
     <string name="free_premium_step1_title">הקלט ושתף סרטון</string>
     <string name="free_premium_step2_desc">ברגע שהסרטון שלך יגיע ל-10,000 צפיות באחת מהפלטפורמות האלה, הפרס שלך יהיה מוכן.</string>
     <string name="free_premium_step2_title">הגע ל-10,000 צפיות</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">השתמש בתיקיות ובפעולות פרויקט כדי לשמור על הכל מסודר.</string>
     <string name="howto_organize_title">שמור על סדר בפרויקטים</string>
     <string name="howto_output_body">APK מיועד להתקנה בטלפון שלך או לשיתוף ישיר. AAB הוא הפורמט ש-Google Play דורש (Pro). עם Pro תוכל גם לייצא את הפרויקט כפרויקט Android Studio (ZIP) מתפריט הפרויקט. בנייה קודמת נמצאת תחת פלטי בנייה באותו תפריט, והתפריט הראשי יכול לייצא או לייבא פרויקטים כגיבויי ZIP.</string>
-    <string name="howto_overview">עם HTML to APK Builder, תוכל להפוך את אתר האינטרנט או קבצי ה-HTML שלך לאפליקציית אנדרואיד אמיתית. אין צורך בתכנות!</string>
+    <string name="howto_overview">עם HTML2APK, תוכל להפוך את אתר האינטרנט או קבצי ה-HTML שלך לאפליקציית אנדרואיד אמיתית. אין צורך בתכנות!</string>
     <string name="howto_pdf_body">צור פרויקט ולאחר מכן פתח / צפה ב-PDF כדי לפתוח את הקורא. בצע זום, החלף בין קריאה במצב בהיר לכהה, הוסף סימניות והמשך מהעמוד האחרון שלך. השתמש בעריכה כאשר ברצונך לשנות את סדר הדפים או להוסיף הערות למסמך. תוכל להמיר מסמך לאפליקציה מאוחר יותר.</string>
     <string name="howto_playstore_signing_action">קרא עוד</string>
-    <string name="howto_playstore_signing_body">כאשר Play Console שואל \"העדפות חתימת אפליקציה\", בחר באפשרות הראשונה: &lt;b&gt;תן לגוגל לנהל ולהגן על מפתח חתימת האפליקציה שלך (מומלץ)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;זה מפעיל את &lt;b&gt;חתימת אפליקציה של Play&lt;/b&gt;. גוגל שומרת את מפתח החתימה האמיתי; אתה מעלה רק APKs/AABs חתומים עם מפתח ההעלאה שלך.&lt;br/&gt;&lt;br/&gt;אם תאבד את ה-keystore מאוחר יותר (למשל על ידי הסרת HTMLtoAPK), תוכל לבקש &lt;b&gt;איפוס מפתח העלאה&lt;/b&gt; ב-Play Console והמשתמשים עדיין יקבלו עדכונים.&lt;br/&gt;&lt;br/&gt;אם עליך להעלות מפתח חתימה משלך, פתח את ה-keystore באפליקציה זו והקש על &lt;b&gt;ייצוא עבור Play Store (PEPK)&lt;/b&gt;. בחר באותה שיטה ש-Play Console מציג (מפתח ציבורי hex או מפתח ציבורי RSA PEM) כדי ליצור &lt;b&gt;output.zip&lt;/b&gt; ולהעלות אותו.&lt;br/&gt;&lt;br/&gt;בחר \"ייצא והעלה מפתח משלך\" רק אם אתה בטוח לחלוטין שתוכל לשמור על המפתח הזה בטוח לנצח. איבודו אומר שלא תוכל לעדכן את האפליקציה שוב.</string>
+    <string name="howto_playstore_signing_body">כאשר Play Console שואל \"העדפות חתימת אפליקציה\", בחר באפשרות הראשונה: &lt;b&gt;תן לגוגל לנהל ולהגן על מפתח חתימת האפליקציה שלך (מומלץ)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;זה מפעיל את &lt;b&gt;חתימת אפליקציה של Play&lt;/b&gt;. גוגל שומרת את מפתח החתימה האמיתי; אתה מעלה רק APKs/AABs חתומים עם מפתח ההעלאה שלך.&lt;br/&gt;&lt;br/&gt;אם תאבד את ה-keystore מאוחר יותר (למשל על ידי הסרת HTML2APK), תוכל לבקש &lt;b&gt;איפוס מפתח העלאה&lt;/b&gt; ב-Play Console והמשתמשים עדיין יקבלו עדכונים.&lt;br/&gt;&lt;br/&gt;אם עליך להעלות מפתח חתימה משלך, פתח את ה-keystore באפליקציה זו והקש על &lt;b&gt;ייצוא עבור Play Store (PEPK)&lt;/b&gt;. בחר באותה שיטה ש-Play Console מציג (מפתח ציבורי hex או מפתח ציבורי RSA PEM) כדי ליצור &lt;b&gt;output.zip&lt;/b&gt; ולהעלות אותו.&lt;br/&gt;&lt;br/&gt;בחר \"ייצא והעלה מפתח משלך\" רק אם אתה בטוח לחלוטין שתוכל לשמור על המפתח הזה בטוח לנצח. איבודו אומר שלא תוכל לעדכן את האפליקציה שוב.</string>
     <string name="howto_playstore_signing_summary">הבן את מפתחות ההעלאה, חתימת אפליקציות של Play ו-PEPK.</string>
     <string name="howto_playstore_signing_title">בחירת מפתח חתימה של חנות Play</string>
     <string name="howto_preview_body">תצוגה מקדימה מריצה את הדף שלך כפי שהאפליקציה המוגמרת תעשה, כולל קריאות ל-AndroidAPI. עורך ה-HTML צובע את הקוד שלך, סוגר תגיות עבורך וכולל חיפוש והחלפה; השינויים נשמרים בזמן שאתה עובר לתצוגה המקדימה ובחזרה.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">שמור עותק במכשיר זה</string>
     <string name="keystore_persisted">נשמר ב-Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">פרויקט: %1$s</string>
-    <string name="keystore_recovery_body">אם הסרת את HTMLtoAPK, מפתחות חתימת האפליקציה שנוצרו אוטומטית עלולים ללכת לאיבוד. גרסה חדשה תיחתם עם מפתח שונה ו-Play Store עלולה לדחות את העדכון.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;פתרון 1 - איפוס מפתח העלאה (מומלץ):&lt;/b&gt;&lt;br/&gt;1. ייצא את ה-&lt;b&gt;אישור PEM&lt;/b&gt; של ה-keystore החדש שלך מהרשימה למטה.&lt;br/&gt;2. ב-Play Console, עבור אל &lt;b&gt;חתימת אפליקציה &gt; בקש איפוס מפתח העלאה&lt;/b&gt;.&lt;br/&gt;3. מלא את הטופס והעלה את קובץ ה-PEM.&lt;br/&gt;4. לאחר האישור, פרסם את ה-APK/AAB החדש שלך חתום עם המפתח החדש.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;פתרון 2 - החלפת מפתח חתימת אפליקציה:&lt;/b&gt;&lt;br/&gt;אם Play Console מאפשר לך להעלות מפתח חתימת אפליקציה חדש, השתמש ב-&lt;b&gt;ייצוא עבור Play Store (PEPK)&lt;/b&gt; ב-keystore. בחר באותה שיטה המוצגת ב-Play Console (מפתח hex או RSA PEM), צור output.zip והעלה אותו.&lt;br/&gt;&lt;br/&gt;משתמשים ימשיכו לקבל עדכונים מכיוון שמפתח חתימת האפליקציה נשאר אצל גוגל כאשר אתה מאפס רק את מפתח ההעלאה.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;אם חתימת אפליקציה של Play מושבתת&lt;/b&gt; ואיבדת את מפתח החתימה, עליך לפרסם את האפליקציה שוב עם שם חבילה חדש.</string>
+    <string name="keystore_recovery_body">אם הסרת את HTML2APK, מפתחות חתימת האפליקציה שנוצרו אוטומטית עלולים ללכת לאיבוד. גרסה חדשה תיחתם עם מפתח שונה ו-Play Store עלולה לדחות את העדכון.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;פתרון 1 - איפוס מפתח העלאה (מומלץ):&lt;/b&gt;&lt;br/&gt;1. ייצא את ה-&lt;b&gt;אישור PEM&lt;/b&gt; של ה-keystore החדש שלך מהרשימה למטה.&lt;br/&gt;2. ב-Play Console, עבור אל &lt;b&gt;חתימת אפליקציה &gt; בקש איפוס מפתח העלאה&lt;/b&gt;.&lt;br/&gt;3. מלא את הטופס והעלה את קובץ ה-PEM.&lt;br/&gt;4. לאחר האישור, פרסם את ה-APK/AAB החדש שלך חתום עם המפתח החדש.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;פתרון 2 - החלפת מפתח חתימת אפליקציה:&lt;/b&gt;&lt;br/&gt;אם Play Console מאפשר לך להעלות מפתח חתימת אפליקציה חדש, השתמש ב-&lt;b&gt;ייצוא עבור Play Store (PEPK)&lt;/b&gt; ב-keystore. בחר באותה שיטה המוצגת ב-Play Console (מפתח hex או RSA PEM), צור output.zip והעלה אותו.&lt;br/&gt;&lt;br/&gt;משתמשים ימשיכו לקבל עדכונים מכיוון שמפתח חתימת האפליקציה נשאר אצל גוגל כאשר אתה מאפס רק את מפתח ההעלאה.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;אם חתימת אפליקציה של Play מושבתת&lt;/b&gt; ואיבדת את מפתח החתימה, עליך לפרסם את האפליקציה שוב עם שם חבילה חדש.</string>
     <string name="keystore_recovery_close">הבנתי</string>
     <string name="keystore_recovery_open_console">פתח את Play Console</string>
     <string name="keystore_recovery_title">איבדת את מפתח החתימה שלך?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">מציג PDF</string>
     <string name="licenses_count">%1$d ספריות</string>
     <string name="licenses_empty">לא נמצאה ספרייה התואמת לחיפוש שלך.</string>
-    <string name="licenses_intro">HTML to APK בנויה על תוכנת הקוד הפתוח שלהלן. ספריות המסומנות כ-\"אפליקציות שנוצרו\" נארזות גם בתוך האפליקציות שהיא בונה (ספריות פרסומות רק כאשר פרסומות מופעלות).</string>
+    <string name="licenses_intro">HTML2APK בנויה על תוכנת הקוד הפתוח שלהלן. ספריות המסומנות כ-\"אפליקציות שנוצרו\" נארזות גם בתוך האפליקציות שהיא בונה (ספריות פרסומות רק כאשר פרסומות מופעלות).</string>
     <string name="licenses_load_failed">לא ניתן היה לטעון את רשימת הרישיונות.</string>
     <string name="licenses_open_license">פתח רישיון</string>
     <string name="licenses_open_website">אתר אינטרנט</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">החלפת המצב של התפריט הנפתח</string>
     <string name="m3c_snackbar_dismiss">סגירה</string>
     <string name="mail_report_android">גרסת אנדרואיד: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">גרסת HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">גרסת HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">תאריך: %1$s</string>
     <string name="mail_report_default_project">פרויקט</string>
     <string name="mail_report_device">מכשיר: %1$s %2$s</string>
     <string name="mail_report_end">=== סוף הדוח ===</string>
     <string name="mail_report_format">פורמט פלט: %1$s</string>
-    <string name="mail_report_intro">בנייה נכשלה בתוך אפליקציית HTML to APK.</string>
+    <string name="mail_report_intro">בנייה נכשלה בתוך אפליקציית HTML2APK.</string>
     <string name="mail_report_intro2">אנא עיין בדוח שגיאה זה.</string>
     <string name="mail_report_package_name">שם חבילה: %1$s</string>
     <string name="mail_report_project_name">שם הפרויקט: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">הגדרות</string>
     <string name="nav_templates">תבניות</string>
     <string name="not_selected">לא נבחר</string>
-    <string name="offer_dialog_message">שתף סרטון המציג אפליקציה שבנית עם HTML to APK. כשהוא יגיע ל-10,000 צפיות, ה-Pro עלינו.</string>
+    <string name="offer_dialog_message">שתף סרטון המציג אפליקציה שבנית עם HTML2APK. כשהוא יגיע ל-10,000 צפיות, ה-Pro עלינו.</string>
     <string name="offer_dialog_no">לא עכשיו</string>
     <string name="offer_dialog_title">קבל Pro בחינם</string>
     <string name="offer_dialog_yes">איך אני מרוויח את זה?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">נמכר בנפרד, אין צורך ב-Pro. חשבונות חדשים מקבלים את האפליקציה הראשונה בחינם.</string>
     <string name="premium_credits_link_title">חבילות קרדיטים לבינה מלאכותית</string>
     <string name="premium_crown_subtitle">הסר את כל המגבלות וצור בעוצמה מלאה.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">היי! אני אמרה, בן 19, ואני מפתח את HTML to APK לגמרי בעצמי עם המון תשוקה. המטרה שלי היא לאפשר לך להפוך את פרויקטי האינטרנט שלך לאפליקציות אנדרואיד אמיתיות בצורה חלקה, ללא הגדרות מורכבות.\n\nעל ידי שדרוג ל-Pro, אתה תומך ישירות במפתח עצמאי צעיר ומניע את הפיתוח העתידי של הפרויקט הזה. תודה רבה על תמיכתך האדיבה! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">היי! אני אמרה, בן 19, ואני מפתח את HTML2APK לגמרי בעצמי עם המון תשוקה. המטרה שלי היא לאפשר לך להפוך את פרויקטי האינטרנט שלך לאפליקציות אנדרואיד אמיתיות בצורה חלקה, ללא הגדרות מורכבות.\n\nעל ידי שדרוג ל-Pro, אתה תומך ישירות במפתח עצמאי צעיר ומניע את הפיתוח העתידי של הפרויקט הזה. תודה רבה על תמיכתך האדיבה! ❤️</string>
     <string name="premium_dev_note_title">הערה מהמפתח 👋</string>
     <string name="premium_error_payment">התשלום אינו זמין. אנא נסה שוב מאוחר יותר.</string>
     <string name="premium_extra_ads_detail">אפס פרסומות פולשניות גם בסביבת העבודה של האפליקציה וגם בכל האפליקציות המיוצאות. תהנה מסביבה נקייה וללא הסחות דעת.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">קרא מסמכי PDF ללא הגבלה</string>
     <string name="premium_feature_unlimited_pdf_detail">התוכנית החינמית מאפשרת עד 5 פרויקטים של מסמכי PDF. גרסת ה-Pro מסירה את המגבלה, כך שספריית הקריאה שלך יכולה להמשיך לגדול.</string>
     <string name="premium_feature_watermark_desc">הסר סימן מים מאפליקציות שנוצרו</string>
-    <string name="premium_feature_watermark_detail">הסר את סימני המים והכיתוב \'Made with HTML to APK\' מכל הבנייה המיוצאת עבור אפליקציות ממותגות ב-White-label מלא.</string>
+    <string name="premium_feature_watermark_detail">הסר את סימני המים והכיתוב \'Made with HTML2APK\' מכל הבנייה המיוצאת עבור אפליקציות ממותגות ב-White-label מלא.</string>
     <string name="premium_feature_webview_desc">הגדרות WebView מתקדמות</string>
     <string name="premium_feature_webview_detail">קבל שליטה מלאה על האצת חומרה, יומני קונסולת JS, מחרוזות User-Agent מותאמות אישית, הרשאות העלאת קבצים ואסטרטגיות מטמון.</string>
     <string name="premium_less_features_button">הצג פחות</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">שלח משוב</string>
     <string name="settings_feedback_chooser">שלח משוב</string>
     <string name="settings_feedback_no_app">לא נמצאה אפליקציית דוא\"ל</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - משוב</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">קבל Pro בחינם</string>
     <string name="settings_free_premium_summary">שתף סרטון, הגע ל-10,000 צפיות, קבל Pro</string>
@@ -1509,7 +1509,7 @@
     <string name="state_on">מצב פעיל</string>
     <string name="support_button_action">תמיכה</string>
     <string name="support_cats_interactive_hint">לחץ על כל חתול כדי ללטף אותו! 🐾</string>
-    <string name="support_developer_desc">שלום! תודה רבה על רכישת ה-Pro. כמפתח עצמאי, אני מתחזק ומשפר ללא הרף את HTML to APK. אם אתה אוהב את האפליקציה ומעוניין לתמוך בעדכונים עתידיים, אתה יכול לבחור לקנות לי קפה או ארוחה. כל תרומה משמעותית עבורי! ❤️</string>
+    <string name="support_developer_desc">שלום! תודה רבה על רכישת ה-Pro. כמפתח עצמאי, אני מתחזק ומשפר ללא הרף את HTML2APK. אם אתה אוהב את האפליקציה ומעוניין לתמוך בעדכונים עתידיים, אתה יכול לבחור לקנות לי קפה או ארוחה. כל תרומה משמעותית עבורי! ❤️</string>
     <string name="support_developer_subtitle">אם תרצה לתמוך בי ☕</string>
     <string name="support_developer_title">תמיכה במפתח</string>
     <string name="support_success_button">בבקשה ❤️</string>
@@ -1519,7 +1519,7 @@
     <string name="support_tier_coffee_title">קנה קפה</string>
     <string name="support_tier_meal_desc">ארוחת ערב נחמדה כדי להישאר מלא אנרגיה וממוקד 🍕</string>
     <string name="support_tier_meal_title">קנה ארוחה</string>
-    <string name="support_tier_sponsor_desc">תרומה ישירה לעתיד של HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">תרומה ישירה לעתיד של HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">נותן חסות על</string>
     <string name="switch_role">מתג</string>
     <string name="tab">כרטיסייה</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">פריסת מסך מלא</string>
     <string name="template_gallery_desc">שמור תמונת base64 בגלריית התמונות.</string>
     <string name="template_gallery_title">שמור בגלריה</string>
-    <string name="template_guide_body">HTML to APK מחדיר אובייקט JavaScript גלובלי בשם AndroidAPI לתוך ה-WebView שלך. ניתן לקרוא לשיטות אלו ישירות מקוד ה-HTML/JS שלך:</string>
+    <string name="template_guide_body">HTML2APK מחדיר אובייקט JavaScript גלובלי בשם AndroidAPI לתוך ה-WebView שלך. ניתן לקרוא לשיטות אלו ישירות מקוד ה-HTML/JS שלך:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // מחזיר JSON\nAndroidAPI.getBatteryLevel() // מחזיר int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // מחזיר int 0-255</string>
     <string name="template_guide_note">טיפ: השתמש ב-APIs אלו בתוך מטפלי onclick או כל פונקציית JavaScript. האובייקט זמין אוטומטית כאשר האפליקציה שלך נבנית עם HTML ל-APK.</string>
     <string name="template_guide_title">מדריך API</string>

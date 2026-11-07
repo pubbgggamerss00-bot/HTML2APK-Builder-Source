@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">思考中…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">デバイスの負荷が高いため、アニメーションをオフにしました。設定からオンにできます。</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Google Playに接続中です。数秒後にもう一度お試しください。</string>
     <string name="billing_restore_error">クエリ中にエラーが発生しました: %1$s</string>
     <string name="billing_restore_not_found">このGoogleアカウントに関連付けられた有効な購入履歴は見つかりませんでした。</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">メールを送信</string>
     <string name="build_failed_dialog_title">ビルド失敗</string>
     <string name="build_failed_email_chooser">エラーレポートの送信先…</string>
-    <string name="build_failed_email_subject">[HTML to APK] ビルド失敗レポート - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] ビルド失敗レポート - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB ビルド完了: %1$s (%2$d バイト)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">あなたが作ったものを世界にシェアして、Proを手に入れましょう。3つの簡単なステップで完了します：</string>
     <string name="free_premium_note">ヒント：確認を早めるため、メールに再生回数のスクリーンショットを添付してください。</string>
     <string name="free_premium_send_email">メールを送信</string>
-    <string name="free_premium_step1_desc">HTML to APKで作成したアプリやゲームを紹介する動画を録画し、YouTube、TikTok、またはInstagramでシェアしてください。</string>
+    <string name="free_premium_step1_desc">HTML2APKで作成したアプリやゲームを紹介する動画を録画し、YouTube、TikTok、またはInstagramでシェアしてください。</string>
     <string name="free_premium_step1_title">動画を録画してシェア</string>
     <string name="free_premium_step2_desc">動画がいずれかのプラットフォームで1万回再生に達したら、報酬を受け取れます。</string>
     <string name="free_premium_step2_title">1万回再生を達成</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">フォルダとプロジェクトアクションを使用して、すべてを整理しましょう。</string>
     <string name="howto_organize_title">プロジェクトを整理する</string>
     <string name="howto_output_body">APKはスマートフォンへのインストールや直接共有用です。AABはGoogle Playに必要な形式です（Pro版）。Pro版では、プロジェクトメニューからプロジェクトをAndroid Studioプロジェクト（ZIP）としてエクスポートすることもできます。以前のビルドは同じメニューの「ビルド出力」にあり、メインメニューからプロジェクトをZIPバックアップとしてエクスポートまたはインポートできます。</string>
-    <string name="howto_overview">HTML to APK Builderを使えば、ウェブサイトやHTMLファイルを本物のAndroidアプリに変換できます。コーディングは不要です！</string>
+    <string name="howto_overview">HTML2APKを使えば、ウェブサイトやHTMLファイルを本物のAndroidアプリに変換できます。コーディングは不要です！</string>
     <string name="howto_pdf_body">「プロジェクトを作成」してから「PDFを開く/表示」を選択すると、リーダーが開きます。ズーム、ライトモードとダークモードの切り替え、ブックマークの追加、前回の続きからの閲覧が可能です。ページの並べ替えやドキュメントへの注釈付けを行いたい場合は「編集」を使用してください。ドキュメントは後からアプリに変換することも可能です。</string>
     <string name="howto_playstore_signing_action">詳細を読む</string>
-    <string name="howto_playstore_signing_body">Play Console で「アプリ署名の設定」を求められたら、最初のオプションである&lt;b&gt;Google がアプリ署名鍵を管理・保護する（推奨）&lt;/b&gt;を選択してください。&lt;br/&gt;&lt;br/&gt;これにより&lt;b&gt;Play App Signing&lt;/b&gt;が有効になります。Google が実際の署名鍵を保持するため、ユーザーはアップロード鍵で署名された APK/AAB をアップロードするだけで済みます。&lt;br/&gt;&lt;br/&gt;後でキーストアを紛失した場合（HTMLtoAPK をアンインストールした場合など）でも、Play Console で&lt;b&gt;アップロード鍵のリセット&lt;/b&gt;をリクエストすれば、ユーザーは引き続きアップデートを受け取ることができます。&lt;br/&gt;&lt;br/&gt;独自の署名鍵をアップロードする必要がある場合は、このアプリでキーストアを開き、&lt;b&gt;Play ストア用にエクスポート (PEPK)&lt;/b&gt; をタップしてください。Play Console に表示される方法（16 進公開鍵または RSA 公開鍵 PEM）と同じ方法を選択して &lt;b&gt;output.zip&lt;/b&gt; を生成し、アップロードします。&lt;br/&gt;&lt;br/&gt;「独自の鍵をエクスポートしてアップロードする」を選択するのは、その鍵を永久に安全に保管できると確信している場合のみにしてください。紛失すると、アプリを二度と更新できなくなります。</string>
+    <string name="howto_playstore_signing_body">Play Console で「アプリ署名の設定」を求められたら、最初のオプションである&lt;b&gt;Google がアプリ署名鍵を管理・保護する（推奨）&lt;/b&gt;を選択してください。&lt;br/&gt;&lt;br/&gt;これにより&lt;b&gt;Play App Signing&lt;/b&gt;が有効になります。Google が実際の署名鍵を保持するため、ユーザーはアップロード鍵で署名された APK/AAB をアップロードするだけで済みます。&lt;br/&gt;&lt;br/&gt;後でキーストアを紛失した場合（HTML2APK をアンインストールした場合など）でも、Play Console で&lt;b&gt;アップロード鍵のリセット&lt;/b&gt;をリクエストすれば、ユーザーは引き続きアップデートを受け取ることができます。&lt;br/&gt;&lt;br/&gt;独自の署名鍵をアップロードする必要がある場合は、このアプリでキーストアを開き、&lt;b&gt;Play ストア用にエクスポート (PEPK)&lt;/b&gt; をタップしてください。Play Console に表示される方法（16 進公開鍵または RSA 公開鍵 PEM）と同じ方法を選択して &lt;b&gt;output.zip&lt;/b&gt; を生成し、アップロードします。&lt;br/&gt;&lt;br/&gt;「独自の鍵をエクスポートしてアップロードする」を選択するのは、その鍵を永久に安全に保管できると確信している場合のみにしてください。紛失すると、アプリを二度と更新できなくなります。</string>
     <string name="howto_playstore_signing_summary">アップロードキー、Play App Signing、PEPKについて理解しましょう。</string>
     <string name="howto_playstore_signing_title">Playストア署名鍵の選択</string>
     <string name="howto_preview_body">プレビューでは、AndroidAPIの呼び出しを含め、完成したアプリと同じ方法でページが実行されます。HTMLエディタはコードを色分けし、タグを自動的に閉じ、検索と置換機能を提供します。プレビューとエディタを切り替えても変更内容は保持されます。</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">このデバイスにコピーを保持する</string>
     <string name="keystore_persisted">Downloads/HTMLtoAPK/Keystores に保存されました</string>
     <string name="keystore_project_linked">プロジェクト: %1$s</string>
-    <string name="keystore_recovery_body">HTMLtoAPKをアンインストールした場合、自動生成されたアプリ署名鍵が失われている可能性があります。新しいビルドは別の鍵で署名されるため、Playストアが更新を拒否する場合があります。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;解決策1 - アップロード鍵のリセット（推奨）:&lt;/b&gt;&lt;br/&gt;1. 以下のリストから新しいキーストアの&lt;b&gt;PEM証明書&lt;/b&gt;をエクスポートします。&lt;br/&gt;2. Play Consoleで、&lt;b&gt;アプリの署名 &gt; アップロード鍵のリセットをリクエスト&lt;/b&gt;に移動します。&lt;br/&gt;3. フォームに記入し、PEMファイルをアップロードします。&lt;br/&gt;4. 承認されたら、新しい鍵で署名された新しいAPK/AABを公開します。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;解決策2 - アプリ署名鍵の置き換え:&lt;/b&gt;&lt;br/&gt;Play Consoleで新しいアプリ署名鍵のアップロードが許可されている場合は、キーストアで&lt;b&gt;Playストア用にエクスポート (PEPK)&lt;/b&gt;を使用してください。Play Consoleに表示されているのと同じ方法（16進数鍵またはRSA PEM）を選択し、output.zipを生成してアップロードします。&lt;br/&gt;&lt;br/&gt;アップロード鍵のみをリセットする場合、アプリ署名鍵はGoogleに残るため、ユーザーは引き続き更新を受け取ることができます。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Playアプリ署名が無効で&lt;/b&gt;署名鍵を紛失した場合は、新しいパッケージ名でアプリを再公開する必要があります。</string>
+    <string name="keystore_recovery_body">HTML2APKをアンインストールした場合、自動生成されたアプリ署名鍵が失われている可能性があります。新しいビルドは別の鍵で署名されるため、Playストアが更新を拒否する場合があります。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;解決策1 - アップロード鍵のリセット（推奨）:&lt;/b&gt;&lt;br/&gt;1. 以下のリストから新しいキーストアの&lt;b&gt;PEM証明書&lt;/b&gt;をエクスポートします。&lt;br/&gt;2. Play Consoleで、&lt;b&gt;アプリの署名 &gt; アップロード鍵のリセットをリクエスト&lt;/b&gt;に移動します。&lt;br/&gt;3. フォームに記入し、PEMファイルをアップロードします。&lt;br/&gt;4. 承認されたら、新しい鍵で署名された新しいAPK/AABを公開します。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;解決策2 - アプリ署名鍵の置き換え:&lt;/b&gt;&lt;br/&gt;Play Consoleで新しいアプリ署名鍵のアップロードが許可されている場合は、キーストアで&lt;b&gt;Playストア用にエクスポート (PEPK)&lt;/b&gt;を使用してください。Play Consoleに表示されているのと同じ方法（16進数鍵またはRSA PEM）を選択し、output.zipを生成してアップロードします。&lt;br/&gt;&lt;br/&gt;アップロード鍵のみをリセットする場合、アプリ署名鍵はGoogleに残るため、ユーザーは引き続き更新を受け取ることができます。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Playアプリ署名が無効で&lt;/b&gt;署名鍵を紛失した場合は、新しいパッケージ名でアプリを再公開する必要があります。</string>
     <string name="keystore_recovery_close">了解</string>
     <string name="keystore_recovery_open_console">Play Consoleを開く</string>
     <string name="keystore_recovery_title">署名鍵を紛失しましたか？</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDFビューア</string>
     <string name="licenses_count">%1$d 個のライブラリ</string>
     <string name="licenses_empty">検索条件に一致するライブラリはありません。</string>
-    <string name="licenses_intro">HTML to APKは、以下のオープンソースソフトウェアに基づいています。「生成されたアプリ」とマークされたライブラリは、ビルドされるアプリにもパッケージ化されます（広告ライブラリは広告がオンの場合のみ）。</string>
+    <string name="licenses_intro">HTML2APKは、以下のオープンソースソフトウェアに基づいています。「生成されたアプリ」とマークされたライブラリは、ビルドされるアプリにもパッケージ化されます（広告ライブラリは広告がオンの場合のみ）。</string>
     <string name="licenses_load_failed">ライセンスリストを読み込めませんでした。</string>
     <string name="licenses_open_license">オープンライセンス</string>
     <string name="licenses_open_website">ウェブサイト</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">プルダウン メニューを切り替えます</string>
     <string name="m3c_snackbar_dismiss">閉じる</string>
     <string name="mail_report_android">Android バージョン: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK バージョン: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK バージョン: v%1$s (%2$d)</string>
     <string name="mail_report_date">日付: %1$s</string>
     <string name="mail_report_default_project">プロジェクト</string>
     <string name="mail_report_device">デバイス: %1$s %2$s</string>
     <string name="mail_report_end">=== レポート終了 ===</string>
     <string name="mail_report_format">出力形式: %1$s</string>
-    <string name="mail_report_intro">HTML to APKアプリ内でビルドに失敗しました。</string>
+    <string name="mail_report_intro">HTML2APKアプリ内でビルドに失敗しました。</string>
     <string name="mail_report_intro2">このエラーレポートを確認してください。</string>
     <string name="mail_report_package_name">パッケージ名: %1$s</string>
     <string name="mail_report_project_name">プロジェクト名: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">設定</string>
     <string name="nav_templates">テンプレート</string>
     <string name="not_selected">未選択</string>
-    <string name="offer_dialog_message">HTML to APKで作成したアプリを紹介する動画をシェアしてください。再生回数が1万回に達すると、Proを無料でプレゼントします。</string>
+    <string name="offer_dialog_message">HTML2APKで作成したアプリを紹介する動画をシェアしてください。再生回数が1万回に達すると、Proを無料でプレゼントします。</string>
     <string name="offer_dialog_no">今はしない</string>
     <string name="offer_dialog_title">Proを無料で入手</string>
     <string name="offer_dialog_yes">獲得方法は？</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">別売り、Proは不要です。新規アカウントは最初のアプリを無料で作成できます。</string>
     <string name="premium_credits_link_title">AIクレジットパック</string>
     <string name="premium_crown_subtitle">制限をすべて解除して、フルパワーで作成しましょう。</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">こんにちは！19歳のEmreです。私は情熱を持ってHTML to APKを完全に一人で開発しています。私の目標は、複雑な設定なしで、あなたのWebプロジェクトをシームレスにAndroidアプリに変えられるようにすることです。\n\nPro版にアップグレードすることで、若いインディー開発者を直接支援し、このプロジェクトの将来の開発を促進することになります。温かいご支援に心から感謝いたします！❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">こんにちは！19歳のEmreです。私は情熱を持ってHTML2APKを完全に一人で開発しています。私の目標は、複雑な設定なしで、あなたのWebプロジェクトをシームレスにAndroidアプリに変えられるようにすることです。\n\nPro版にアップグレードすることで、若いインディー開発者を直接支援し、このプロジェクトの将来の開発を促進することになります。温かいご支援に心から感謝いたします！❤️</string>
     <string name="premium_dev_note_title">開発者からのメッセージ 👋</string>
     <string name="premium_error_payment">支払いが利用できません。後でもう一度お試しください。</string>
     <string name="premium_extra_ads_detail">アプリケーションワークスペースおよびエクスポートされたすべてのアプリにおいて、煩わしい広告は一切表示されません。クリーンで集中できる環境をお楽しみください。</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">PDFドキュメントを無制限に読み込む</string>
     <string name="premium_feature_unlimited_pdf_detail">無料プランでは最大5つのPDFドキュメントプロジェクトを保持できます。Pro版ではこの制限が解除されるため、ライブラリを無制限に増やせます。</string>
     <string name="premium_feature_watermark_desc">生成されたアプリからウォーターマークを削除</string>
-    <string name="premium_feature_watermark_detail">エクスポートされたすべてのビルドから「Made with HTML to APK」のスプラッシュインジケーターと透かしを削除し、完全にホワイトラベル化されたブランドアプリを作成します。</string>
+    <string name="premium_feature_watermark_detail">エクスポートされたすべてのビルドから「Made with HTML2APK」のスプラッシュインジケーターと透かしを削除し、完全にホワイトラベル化されたブランドアプリを作成します。</string>
     <string name="premium_feature_webview_desc">高度なWebView設定</string>
     <string name="premium_feature_webview_detail">ハードウェアアクセラレーション、JSコンソールログ、カスタムユーザーエージェント文字列、ファイルアップロード権限、キャッシュ戦略を完全に制御できます。</string>
     <string name="premium_less_features_button">表示を減らす</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">フィードバックを送信</string>
     <string name="settings_feedback_chooser">フィードバックを送信</string>
     <string name="settings_feedback_no_app">メールアプリが見つかりません</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - フィードバック</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Proを無料で入手</string>
     <string name="settings_free_premium_summary">動画をシェアして1万回再生を達成し、Proを入手しよう</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">ON</string>
     <string name="support_button_action">支援する</string>
     <string name="support_cats_interactive_hint">猫をタップして撫でてあげてください！🐾</string>
-    <string name="support_developer_desc">こんにちは！Pro版をご購入いただき、誠にありがとうございます。私は独立したソロ開発者として、HTML to APKのメンテナンスと改善を継続的に行っています。もしこのアプリを気に入っていただき、今後のアップデートを支援したいと思っていただけるなら、コーヒーや食事をご馳走していただけると幸いです。すべての貢献が私にとってかけがえのないものです！❤️</string>
+    <string name="support_developer_desc">こんにちは！Pro版をご購入いただき、誠にありがとうございます。私は独立したソロ開発者として、HTML2APKのメンテナンスと改善を継続的に行っています。もしこのアプリを気に入っていただき、今後のアップデートを支援したいと思っていただけるなら、コーヒーや食事をご馳走していただけると幸いです。すべての貢献が私にとってかけがえのないものです！❤️</string>
     <string name="support_developer_subtitle">開発者を支援する ☕</string>
     <string name="support_developer_title">開発者を支援する</string>
     <string name="support_success_button">どういたしまして ❤️</string>
-    <string name="support_success_message">ご支援ありがとうございます！HTML to APKを開発する独立したソロ開発者として、あなたからのご支援は私に大きな力とやる気、そしてモチベーションを与えてくれました。\n\n猫たちもあなたのために喜んでいます！🐾</string>
+    <string name="support_success_message">ご支援ありがとうございます！HTML2APKを開発する独立したソロ開発者として、あなたからのご支援は私に大きな力とやる気、そしてモチベーションを与えてくれました。\n\n猫たちもあなたのために喜んでいます！🐾</string>
     <string name="support_success_title">あなたは素晴らしい！ ❤️</string>
     <string name="support_tier_coffee_desc">深夜のコーディングのための温かいコーヒー ☕</string>
     <string name="support_tier_coffee_title">コーヒーを一杯おごる</string>
     <string name="support_tier_meal_desc">エネルギーを補給して集中するための素敵な夕食 🍕</string>
     <string name="support_tier_meal_title">食事を奢る</string>
-    <string name="support_tier_sponsor_desc">HTML to APKの未来への直接的な貢献 🚀</string>
+    <string name="support_tier_sponsor_desc">HTML2APKの未来への直接的な貢献 🚀</string>
     <string name="support_tier_sponsor_title">スーパースポンサー</string>
     <string name="switch_role">切り替える</string>
     <string name="tab">タブ</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">フルスクリーンレイアウト</string>
     <string name="template_gallery_desc">base64画像をフォトギャラリーに保存します。</string>
     <string name="template_gallery_title">ギャラリーに保存</string>
-    <string name="template_guide_body">HTML to APKは、AndroidAPIと呼ばれるグローバルJavaScriptオブジェクトをWebViewに注入します。これらのメソッドは、HTML/JSコードから直接呼び出すことができます：</string>
+    <string name="template_guide_body">HTML2APKは、AndroidAPIと呼ばれるグローバルJavaScriptオブジェクトをWebViewに注入します。これらのメソッドは、HTML/JSコードから直接呼び出すことができます：</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // JSONを返します\nAndroidAPI.getBatteryLevel() // 0-100の整数を返します\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // 0-255の整数を返します</string>
     <string name="template_guide_note">ヒント: これらのAPIは、onclickハンドラーや任意のJavaScript関数内で使用してください。HTMLからAPKを作成すると、このオブジェクトは自動的に利用可能になります。</string>
     <string name="template_guide_title">APIガイド</string>

@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Berpikir…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animasi dimatikan karena perangkat mengalami kesulitan. Nyalakan di Pengaturan.</string>
-    <string name="app_name">Pembuat APK dari HTML</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Menghubungkan ke Google Play, silakan coba lagi dalam beberapa detik.</string>
     <string name="billing_restore_error">Kesalahan saat kueri: %1$s</string>
     <string name="billing_restore_not_found">Tidak ada pembelian aktif yang ditemukan untuk akun Google ini.</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Bagikan karya Anda kepada dunia dan dapatkan Pro sebagai imbalannya. Hanya butuh 3 langkah mudah:</string>
     <string name="free_premium_note">Tips: sertakan tangkapan layar jumlah tayangan di email Anda untuk mempercepat verifikasi.</string>
     <string name="free_premium_send_email">Kirim Email</string>
-    <string name="free_premium_step1_desc">Rekam video yang menampilkan aplikasi atau game yang Anda buat dengan HTML to APK dan bagikan di YouTube, TikTok, atau Instagram.</string>
+    <string name="free_premium_step1_desc">Rekam video yang menampilkan aplikasi atau game yang Anda buat dengan HTML2APK dan bagikan di YouTube, TikTok, atau Instagram.</string>
     <string name="free_premium_step1_title">Rekam dan bagikan video</string>
     <string name="free_premium_step2_desc">Setelah video Anda mencapai 10.000 tayangan di salah satu platform tersebut, hadiah Anda siap.</string>
     <string name="free_premium_step2_title">Capai 10.000 tayangan</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Gunakan folder dan tindakan proyek agar semuanya tetap rapi.</string>
     <string name="howto_organize_title">Jaga proyek tetap teratur</string>
     <string name="howto_output_body">APK digunakan untuk menginstal di ponsel Anda atau untuk dibagikan secara langsung. AAB adalah format yang dibutuhkan Google Play (Pro). Dengan Pro, Anda juga dapat mengekspor proyek sebagai proyek Android Studio (ZIP) dari menu proyek. Build sebelumnya ada di bawah Output Build di menu yang sama, dan menu utama dapat mengekspor atau mengimpor proyek sebagai cadangan ZIP.</string>
-    <string name="howto_overview">Dengan HTML to APK Builder, Anda dapat mengubah situs web atau file HTML Anda menjadi aplikasi Android sungguhan. Tidak perlu coding!</string>
+    <string name="howto_overview">Dengan HTML2APK, Anda dapat mengubah situs web atau file HTML Anda menjadi aplikasi Android sungguhan. Tidak perlu coding!</string>
     <string name="howto_pdf_body">Buat Proyek lalu Buka / lihat PDF untuk membuka pembaca. Perbesar, beralih antara mode baca terang dan gelap, tambahkan penanda, dan lanjutkan dari halaman terakhir Anda. Gunakan Edit saat Anda ingin menyusun ulang halaman atau memberi anotasi pada dokumen. Anda dapat mengubah dokumen menjadi aplikasi nanti.</string>
     <string name="howto_playstore_signing_action">Baca selengkapnya</string>
-    <string name="howto_playstore_signing_body">Saat Play Console menanyakan “Preferensi penandatanganan aplikasi”, pilih opsi pertama: &lt;b&gt;Biarkan Google mengelola dan melindungi kunci penandatanganan aplikasi Anda (disarankan)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Ini mengaktifkan &lt;b&gt;Play App Signing&lt;/b&gt;. Google menyimpan kunci penandatanganan yang asli; Anda hanya mengunggah APK/AAB yang ditandatangani dengan kunci unggahan Anda.&lt;br/&gt;&lt;br/&gt;Jika Anda kehilangan keystore di kemudian hari (misalnya dengan menghapus instalan HTMLtoAPK), Anda dapat meminta &lt;b&gt;reset kunci unggahan&lt;/b&gt; di Play Console dan pengguna akan tetap menerima pembaruan.&lt;br/&gt;&lt;br/&gt;Jika Anda harus mengunggah kunci penandatanganan Anda sendiri, buka keystore di aplikasi ini dan ketuk &lt;b&gt;Ekspor untuk Play Store (PEPK)&lt;/b&gt;. Pilih metode yang sama yang ditampilkan Play Console (kunci publik hex atau kunci publik RSA PEM) untuk membuat &lt;b&gt;output.zip&lt;/b&gt; dan unggah.&lt;br/&gt;&lt;br/&gt;Hanya pilih “Ekspor dan unggah kunci Anda sendiri” jika Anda benar-benar yakin dapat menjaga kunci tersebut tetap aman selamanya. Kehilangannya berarti Anda tidak dapat memperbarui aplikasi lagi.</string>
+    <string name="howto_playstore_signing_body">Saat Play Console menanyakan “Preferensi penandatanganan aplikasi”, pilih opsi pertama: &lt;b&gt;Biarkan Google mengelola dan melindungi kunci penandatanganan aplikasi Anda (disarankan)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Ini mengaktifkan &lt;b&gt;Play App Signing&lt;/b&gt;. Google menyimpan kunci penandatanganan yang asli; Anda hanya mengunggah APK/AAB yang ditandatangani dengan kunci unggahan Anda.&lt;br/&gt;&lt;br/&gt;Jika Anda kehilangan keystore di kemudian hari (misalnya dengan menghapus instalan HTML2APK), Anda dapat meminta &lt;b&gt;reset kunci unggahan&lt;/b&gt; di Play Console dan pengguna akan tetap menerima pembaruan.&lt;br/&gt;&lt;br/&gt;Jika Anda harus mengunggah kunci penandatanganan Anda sendiri, buka keystore di aplikasi ini dan ketuk &lt;b&gt;Ekspor untuk Play Store (PEPK)&lt;/b&gt;. Pilih metode yang sama yang ditampilkan Play Console (kunci publik hex atau kunci publik RSA PEM) untuk membuat &lt;b&gt;output.zip&lt;/b&gt; dan unggah.&lt;br/&gt;&lt;br/&gt;Hanya pilih “Ekspor dan unggah kunci Anda sendiri” jika Anda benar-benar yakin dapat menjaga kunci tersebut tetap aman selamanya. Kehilangannya berarti Anda tidak dapat memperbarui aplikasi lagi.</string>
     <string name="howto_playstore_signing_summary">Pahami kunci upload, Play App Signing, dan PEPK.</string>
     <string name="howto_playstore_signing_title">Pemilihan kunci penandatanganan Play Store</string>
     <string name="howto_preview_body">Pratinjau menjalankan halaman Anda seperti aplikasi yang sudah jadi, termasuk panggilan AndroidAPI. Editor HTML mewarnai kode Anda, menutup tag untuk Anda, serta memiliki fitur cari dan ganti; perubahan tetap tersimpan saat Anda beralih ke pratinjau dan kembali.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Simpan salinan di perangkat ini</string>
     <string name="keystore_persisted">Disimpan ke Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Proyek: %1$s</string>
-    <string name="keystore_recovery_body">Jika Anda telah menghapus instalan HTMLtoAPK, kunci penandatanganan aplikasi yang dibuat otomatis mungkin telah hilang. Build baru akan ditandatangani dengan kunci yang berbeda dan Play Store mungkin menolak pembaruan tersebut.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solusi 1 - Atur ulang kunci upload (disarankan):&lt;/b&gt;&lt;br/&gt;1. Ekspor &lt;b&gt;sertifikat PEM&lt;/b&gt; dari keystore baru Anda dari daftar di bawah.&lt;br/&gt;2. Di Play Console, buka &lt;b&gt;Penandatanganan aplikasi &gt; Minta pengaturan ulang kunci upload&lt;/b&gt;.&lt;br/&gt;3. Isi formulir dan upload file PEM.&lt;br/&gt;4. Setelah disetujui, publikasikan APK/AAB baru Anda yang ditandatangani dengan kunci baru.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solusi 2 - Ganti kunci penandatanganan aplikasi:&lt;/b&gt;&lt;br/&gt;Jika Play Console mengizinkan Anda mengupload kunci penandatanganan aplikasi baru, gunakan &lt;b&gt;Ekspor untuk Play Store (PEPK)&lt;/b&gt; pada keystore. Pilih metode yang sama seperti yang ditampilkan di Play Console (kunci hex atau RSA PEM), buat output.zip, dan upload.&lt;br/&gt;&lt;br/&gt;Pengguna akan terus menerima pembaruan karena kunci penandatanganan aplikasi tetap ada di Google saat Anda hanya mengatur ulang kunci upload.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Jika Penandatanganan Aplikasi Play dinonaktifkan&lt;/b&gt; dan Anda kehilangan kunci penandatanganan, Anda harus memublikasikan aplikasi lagi dengan nama paket baru.</string>
+    <string name="keystore_recovery_body">Jika Anda telah menghapus instalan HTML2APK, kunci penandatanganan aplikasi yang dibuat otomatis mungkin telah hilang. Build baru akan ditandatangani dengan kunci yang berbeda dan Play Store mungkin menolak pembaruan tersebut.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solusi 1 - Atur ulang kunci upload (disarankan):&lt;/b&gt;&lt;br/&gt;1. Ekspor &lt;b&gt;sertifikat PEM&lt;/b&gt; dari keystore baru Anda dari daftar di bawah.&lt;br/&gt;2. Di Play Console, buka &lt;b&gt;Penandatanganan aplikasi &gt; Minta pengaturan ulang kunci upload&lt;/b&gt;.&lt;br/&gt;3. Isi formulir dan upload file PEM.&lt;br/&gt;4. Setelah disetujui, publikasikan APK/AAB baru Anda yang ditandatangani dengan kunci baru.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solusi 2 - Ganti kunci penandatanganan aplikasi:&lt;/b&gt;&lt;br/&gt;Jika Play Console mengizinkan Anda mengupload kunci penandatanganan aplikasi baru, gunakan &lt;b&gt;Ekspor untuk Play Store (PEPK)&lt;/b&gt; pada keystore. Pilih metode yang sama seperti yang ditampilkan di Play Console (kunci hex atau RSA PEM), buat output.zip, dan upload.&lt;br/&gt;&lt;br/&gt;Pengguna akan terus menerima pembaruan karena kunci penandatanganan aplikasi tetap ada di Google saat Anda hanya mengatur ulang kunci upload.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Jika Penandatanganan Aplikasi Play dinonaktifkan&lt;/b&gt; dan Anda kehilangan kunci penandatanganan, Anda harus memublikasikan aplikasi lagi dengan nama paket baru.</string>
     <string name="keystore_recovery_close">Mengerti</string>
     <string name="keystore_recovery_open_console">Buka Play Console</string>
     <string name="keystore_recovery_title">Kehilangan kunci penandatanganan Anda?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Penampil PDF</string>
     <string name="licenses_count">%1$d pustaka</string>
     <string name="licenses_empty">Tidak ada pustaka yang cocok dengan pencarian Anda.</string>
-    <string name="licenses_intro">HTML to APK dibangun di atas perangkat lunak sumber terbuka di bawah ini. Pustaka yang ditandai “Aplikasi yang dihasilkan” juga dikemas ke dalam aplikasi yang dibuatnya (pustaka iklan hanya jika iklan aktif).</string>
+    <string name="licenses_intro">HTML2APK dibangun di atas perangkat lunak sumber terbuka di bawah ini. Pustaka yang ditandai “Aplikasi yang dihasilkan” juga dikemas ke dalam aplikasi yang dibuatnya (pustaka iklan hanya jika iklan aktif).</string>
     <string name="licenses_load_failed">Daftar lisensi tidak dapat dimuat.</string>
     <string name="licenses_open_license">Buka lisensi</string>
     <string name="licenses_open_website">Situs web</string>
@@ -1083,7 +1083,7 @@
     <string name="mail_report_device">Perangkat: %1$s %2$s</string>
     <string name="mail_report_end">=== AKHIR LAPORAN ===</string>
     <string name="mail_report_format">Format output: %1$s</string>
-    <string name="mail_report_intro">Ada build yang gagal di dalam aplikasi HTML to APK.</string>
+    <string name="mail_report_intro">Ada build yang gagal di dalam aplikasi HTML2APK.</string>
     <string name="mail_report_intro2">Harap tinjau laporan kesalahan ini.</string>
     <string name="mail_report_package_name">Nama paket: %1$s</string>
     <string name="mail_report_project_name">Nama proyek: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Pengaturan</string>
     <string name="nav_templates">Templat</string>
     <string name="not_selected">Tidak dipilih</string>
-    <string name="offer_dialog_message">Bagikan video yang menampilkan aplikasi yang Anda buat dengan HTML to APK. Saat mencapai 10.000 tayangan, Pro gratis untuk Anda.</string>
+    <string name="offer_dialog_message">Bagikan video yang menampilkan aplikasi yang Anda buat dengan HTML2APK. Saat mencapai 10.000 tayangan, Pro gratis untuk Anda.</string>
     <string name="offer_dialog_no">Nanti Saja</string>
     <string name="offer_dialog_title">Dapatkan Pro Gratis</string>
     <string name="offer_dialog_yes">Bagaimana Cara Mendapatkannya?</string>
@@ -1280,7 +1280,7 @@
     <string name="premium_credits_link_title">Paket kredit AI</string>
     <string name="premium_crown_subtitle">Hapus semua batasan dan berkreasilah dengan kekuatan penuh.</string>
     <string name="premium_crown_title">HTML ke APK Pro</string>
-    <string name="premium_dev_note_desc">Hai! Saya Emre, 19 tahun, dan saya mengembangkan HTML to APK sepenuhnya sendiri dengan penuh semangat. Tujuan saya adalah memberdayakan Anda untuk mengubah proyek web Anda menjadi aplikasi Android nyata dengan mulus, tanpa pengaturan yang rumit.\n\nDengan meningkatkan ke Pro, Anda secara langsung mendukung pengembang indie muda dan mendorong pengembangan proyek ini di masa depan. Terima kasih banyak atas dukungan Anda yang baik! ❤️</string>
+    <string name="premium_dev_note_desc">Hai! Saya Emre, 19 tahun, dan saya mengembangkan HTML2APK sepenuhnya sendiri dengan penuh semangat. Tujuan saya adalah memberdayakan Anda untuk mengubah proyek web Anda menjadi aplikasi Android nyata dengan mulus, tanpa pengaturan yang rumit.\n\nDengan meningkatkan ke Pro, Anda secara langsung mendukung pengembang indie muda dan mendorong pengembangan proyek ini di masa depan. Terima kasih banyak atas dukungan Anda yang baik! ❤️</string>
     <string name="premium_dev_note_title">Catatan dari Pengembang 👋</string>
     <string name="premium_error_payment">Pembayaran tidak tersedia. Silakan coba lagi nanti.</string>
     <string name="premium_extra_ads_detail">Nol iklan yang mengganggu baik di ruang kerja aplikasi maupun semua aplikasi yang diekspor. Nikmati lingkungan yang bersih dan bebas gangguan.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Baca dokumen PDF tanpa batas</string>
     <string name="premium_feature_unlimited_pdf_detail">Paket gratis menyimpan hingga 5 proyek dokumen PDF. Pro menghapus batas tersebut, sehingga perpustakaan bacaan Anda dapat terus bertambah.</string>
     <string name="premium_feature_watermark_desc">Hapus tanda air dari aplikasi yang dibuat</string>
-    <string name="premium_feature_watermark_detail">Hapus indikator splash \'Made with HTML to APK\' dan tanda air dari semua build yang diekspor untuk aplikasi berlabel putih dan bermerek sepenuhnya.</string>
+    <string name="premium_feature_watermark_detail">Hapus indikator splash \'Made with HTML2APK\' dan tanda air dari semua build yang diekspor untuk aplikasi berlabel putih dan bermerek sepenuhnya.</string>
     <string name="premium_feature_webview_desc">Pengaturan WebView tingkat lanjut</string>
     <string name="premium_feature_webview_detail">Dapatkan kendali penuh atas akselerasi perangkat keras, log konsol JS, string User-Agent kustom, izin unggah file, dan strategi caching.</string>
     <string name="premium_less_features_button">Tampilkan Lebih Sedikit</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Kirim Masukan</string>
     <string name="settings_feedback_chooser">Kirim masukan</string>
     <string name="settings_feedback_no_app">Tidak ada aplikasi email yang ditemukan</string>
-    <string name="settings_feedback_subject">Pembuat HTML ke APK - Masukan</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Dapatkan Pro Gratis</string>
     <string name="settings_free_premium_summary">Bagikan video, capai 10rb tayangan, dapatkan Pro</string>
@@ -1509,7 +1509,7 @@
     <string name="state_on">Aktif</string>
     <string name="support_button_action">Dukung</string>
     <string name="support_cats_interactive_hint">Ketuk kucing mana pun untuk mengelusnya! 🐾</string>
-    <string name="support_developer_desc">Halo! Terima kasih banyak telah membeli Pro. Sebagai pengembang solo independen, saya terus memelihara dan meningkatkan HTML to APK. Jika Anda menyukai aplikasi ini dan ingin mendukung pembaruan di masa mendatang, Anda dapat membelikan saya kopi atau makanan. Setiap kontribusi sangat berarti bagi saya! ❤️</string>
+    <string name="support_developer_desc">Halo! Terima kasih banyak telah membeli Pro. Sebagai pengembang solo independen, saya terus memelihara dan meningkatkan HTML2APK. Jika Anda menyukai aplikasi ini dan ingin mendukung pembaruan di masa mendatang, Anda dapat membelikan saya kopi atau makanan. Setiap kontribusi sangat berarti bagi saya! ❤️</string>
     <string name="support_developer_subtitle">Jika Anda Ingin Mendukung Saya ☕</string>
     <string name="support_developer_title">Dukung Pengembang</string>
     <string name="support_success_button">Sama-sama ❤️</string>
@@ -1519,7 +1519,7 @@
     <string name="support_tier_coffee_title">Beli Kopi</string>
     <string name="support_tier_meal_desc">Makan malam yang enak agar tetap berenergi dan fokus 🍕</string>
     <string name="support_tier_meal_title">Beli Makanan</string>
-    <string name="support_tier_sponsor_desc">Kontribusi langsung untuk masa depan HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Kontribusi langsung untuk masa depan HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Sponsor Super</string>
     <string name="switch_role">Alihkan</string>
     <string name="tab">Tab</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">Tata Letak Layar Penuh</string>
     <string name="template_gallery_desc">Simpan gambar base64 ke galeri foto.</string>
     <string name="template_gallery_title">Simpan ke Galeri</string>
-    <string name="template_guide_body">HTML to APK menyuntikkan objek JavaScript global bernama AndroidAPI ke dalam WebView Anda. Anda dapat memanggil metode ini langsung dari kode HTML/JS Anda:</string>
+    <string name="template_guide_body">HTML2APK menyuntikkan objek JavaScript global bernama AndroidAPI ke dalam WebView Anda. Anda dapat memanggil metode ini langsung dari kode HTML/JS Anda:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Halo!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Judul,Isi)\nAndroidAPI.getDeviceInfo() // mengembalikan JSON\nAndroidAPI.getBatteryLevel() // mengembalikan int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // mengembalikan int 0-255</string>
     <string name="template_guide_note">Tips: Gunakan API ini di dalam penangan onclick atau fungsi JavaScript apa pun. Objek ini tersedia secara otomatis saat aplikasi Anda dibuat dengan HTML ke APK.</string>
     <string name="template_guide_title">Panduan API</string>

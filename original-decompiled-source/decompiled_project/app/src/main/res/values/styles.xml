@@ -3077,7 +3077,9 @@
     </style>
     <style name="Theme.AppCompat.Light" parent="@style/Base.Theme.AppCompat.Light">
     </style>
-    <style name="Theme.HTMLToAPK" parent="@style/Theme.Material3.Dark.NoActionBar">
+    <style name="Theme.HTMLToAPK" parent="@style/Theme.Material3.Dark">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
         <item name="android:colorAccent">#00D9FF</item>
         <item name="colorPrimary">#00D9FF</item>
         <item name="colorSecondary">#A6FF00</item>
@@ -3086,7 +3088,7 @@
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:windowLightStatusBar">false</item>
-        <item name="android:windowLayoutInDisplayCutoutMode">1</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
     </style>
     <style name="Theme.Hidden" parent="@android:style/Theme.DeviceDefault">
         <item name="android:windowBackground">@android:color/transparent</item>

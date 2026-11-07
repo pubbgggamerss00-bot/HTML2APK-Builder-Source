@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">思考中…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">由于设备性能压力，动画效果已自动关闭。您可以在设置中手动开启。</string>
-    <string name="app_name">HTML 转 APK 生成器</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">正在连接 Google Play，请在几秒钟后重试。</string>
     <string name="billing_restore_error">查询时出错：%1$s</string>
     <string name="billing_restore_not_found">未找到此 Google 账户的有效购买记录。</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">发送电子邮件</string>
     <string name="build_failed_dialog_title">构建失败</string>
     <string name="build_failed_email_chooser">通过以下方式发送错误报告…</string>
-    <string name="build_failed_email_subject">[HTML to APK] 构建失败报告 - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] 构建失败报告 - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB 构建完成：%1$s（%2$d 字节）</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">向世界展示您的作品，并获得 Pro 版本作为回报。只需简单的 3 个步骤：</string>
     <string name="free_premium_note">提示：在邮件中附上播放量截图，以加快核实速度。</string>
     <string name="free_premium_send_email">发送邮件</string>
-    <string name="free_premium_step1_desc">录制一段视频，展示您使用 HTML to APK 制作的应用或游戏，并将其分享到 YouTube、TikTok 或 Instagram。</string>
+    <string name="free_premium_step1_desc">录制一段视频，展示您使用 HTML2APK 制作的应用或游戏，并将其分享到 YouTube、TikTok 或 Instagram。</string>
     <string name="free_premium_step1_title">录制并分享视频</string>
     <string name="free_premium_step2_desc">一旦您的视频在上述任何平台上的播放量达到 10,000 次，您的奖励就准备好了。</string>
     <string name="free_premium_step2_title">达到 10,000 次播放</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">使用文件夹和项目操作来保持一切井井有条。</string>
     <string name="howto_organize_title">保持项目井然有序</string>
     <string name="howto_output_body">APK 用于安装在您的手机上或直接共享。AAB 是 Google Play 所需的格式（专业版）。使用专业版，您还可以从项目菜单中将项目导出为 Android Studio 项目 (ZIP)。之前的构建版本位于同一菜单的“构建输出”下，主菜单可以将项目导出或导入为 ZIP 备份。</string>
-    <string name="howto_overview">使用 HTML to APK Builder，您可以将您的网站或 HTML 文件转换为真正的 Android 应用。无需编程！</string>
+    <string name="howto_overview">使用 HTML2APK，您可以将您的网站或 HTML 文件转换为真正的 Android 应用。无需编程！</string>
     <string name="howto_pdf_body">创建项目，然后打开/查看 PDF 即可启动阅读器。您可以缩放、切换明暗阅读模式、添加书签并从上次阅读的页面继续。当您需要重新排序页面或对文档进行批注时，请使用“编辑”功能。您可以稍后再将文档转换为应用。</string>
     <string name="howto_playstore_signing_action">阅读更多</string>
-    <string name="howto_playstore_signing_body">当 Play 管理中心询问“应用签名偏好设置”时，请选择第一个选项：&lt;b&gt;让 Google 管理并保护您的应用签名密钥（推荐）&lt;/b&gt;。&lt;br/&gt;&lt;br/&gt;这将启用 &lt;b&gt;Play 应用签名&lt;/b&gt;。Google 会保留真实的签名密钥；您只需上传使用您的上传密钥签名的 APK/AAB 文件。&lt;br/&gt;&lt;br/&gt;如果您以后丢失了密钥库（例如通过卸载 HTMLtoAPK），您可以在 Play 管理中心请求&lt;b&gt;重置上传密钥&lt;/b&gt;，用户仍将收到更新。&lt;br/&gt;&lt;br/&gt;如果您必须上传自己的签名密钥，请在此应用中打开密钥库并点击&lt;b&gt;导出以供 Play 商店使用 (PEPK)&lt;/b&gt;。选择 Play 管理中心显示的相同方法（十六进制公钥或 RSA 公钥 PEM）来生成 &lt;code&gt;output.zip&lt;/code&gt; 并上传。&lt;br/&gt;&lt;br/&gt;仅当您绝对确定可以永久安全地保存该密钥时，才选择“导出并上传您自己的密钥”。丢失它意味着您将无法再次更新该应用。</string>
+    <string name="howto_playstore_signing_body">当 Play 管理中心询问“应用签名偏好设置”时，请选择第一个选项：&lt;b&gt;让 Google 管理并保护您的应用签名密钥（推荐）&lt;/b&gt;。&lt;br/&gt;&lt;br/&gt;这将启用 &lt;b&gt;Play 应用签名&lt;/b&gt;。Google 会保留真实的签名密钥；您只需上传使用您的上传密钥签名的 APK/AAB 文件。&lt;br/&gt;&lt;br/&gt;如果您以后丢失了密钥库（例如通过卸载 HTML2APK），您可以在 Play 管理中心请求&lt;b&gt;重置上传密钥&lt;/b&gt;，用户仍将收到更新。&lt;br/&gt;&lt;br/&gt;如果您必须上传自己的签名密钥，请在此应用中打开密钥库并点击&lt;b&gt;导出以供 Play 商店使用 (PEPK)&lt;/b&gt;。选择 Play 管理中心显示的相同方法（十六进制公钥或 RSA 公钥 PEM）来生成 &lt;code&gt;output.zip&lt;/code&gt; 并上传。&lt;br/&gt;&lt;br/&gt;仅当您绝对确定可以永久安全地保存该密钥时，才选择“导出并上传您自己的密钥”。丢失它意味着您将无法再次更新该应用。</string>
     <string name="howto_playstore_signing_summary">了解上传密钥、Play 应用签名和 PEPK。</string>
     <string name="howto_playstore_signing_title">Play 商店签名密钥选择</string>
     <string name="howto_preview_body">预览功能将以最终应用的方式运行您的页面，包括 Android API 调用。HTML 编辑器会对您的代码进行着色、自动闭合标签并提供查找和替换功能；在切换到预览和返回时，更改会被保留。</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">在此设备上保留副本</string>
     <string name="keystore_persisted">已保存至 Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">项目：%1$s</string>
-    <string name="keystore_recovery_body">如果您卸载了 HTMLtoAPK，自动生成的应用签名密钥可能已丢失。新构建的应用将使用不同的密钥签名，Google Play 商店可能会拒绝更新。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;解决方案 1 - 重置上传密钥（推荐）：&lt;/b&gt;&lt;br/&gt;1. 从下方的列表中导出新密钥库的 &lt;b&gt;PEM 证书&lt;/b&gt;。&lt;br/&gt;2. 在 Play 管理中心，转到 &lt;b&gt;应用签名 &gt; 请求重置上传密钥&lt;/b&gt;。&lt;br/&gt;3. 填写表格并上传 PEM 文件。&lt;br/&gt;4. 审核通过后，发布使用新密钥签名的新 APK/AAB。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;解决方案 2 - 替换应用签名密钥：&lt;/b&gt;&lt;br/&gt;如果 Play 管理中心允许您上传新的应用签名密钥，请在密钥库上使用 &lt;b&gt;导出以用于 Play 商店 (PEPK)&lt;/b&gt;。选择与 Play 管理中心显示相同的方法（十六进制密钥或 RSA PEM），生成 output.zip 并上传。&lt;br/&gt;&lt;br/&gt;当您仅重置上传密钥时，应用签名密钥仍由 Google 保管，因此用户将继续收到更新。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;如果禁用了 Play 应用签名&lt;/b&gt;且您丢失了签名密钥，则必须使用新的包名重新发布应用。</string>
+    <string name="keystore_recovery_body">如果您卸载了 HTML2APK，自动生成的应用签名密钥可能已丢失。新构建的应用将使用不同的密钥签名，Google Play 商店可能会拒绝更新。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;解决方案 1 - 重置上传密钥（推荐）：&lt;/b&gt;&lt;br/&gt;1. 从下方的列表中导出新密钥库的 &lt;b&gt;PEM 证书&lt;/b&gt;。&lt;br/&gt;2. 在 Play 管理中心，转到 &lt;b&gt;应用签名 &gt; 请求重置上传密钥&lt;/b&gt;。&lt;br/&gt;3. 填写表格并上传 PEM 文件。&lt;br/&gt;4. 审核通过后，发布使用新密钥签名的新 APK/AAB。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;解决方案 2 - 替换应用签名密钥：&lt;/b&gt;&lt;br/&gt;如果 Play 管理中心允许您上传新的应用签名密钥，请在密钥库上使用 &lt;b&gt;导出以用于 Play 商店 (PEPK)&lt;/b&gt;。选择与 Play 管理中心显示相同的方法（十六进制密钥或 RSA PEM），生成 output.zip 并上传。&lt;br/&gt;&lt;br/&gt;当您仅重置上传密钥时，应用签名密钥仍由 Google 保管，因此用户将继续收到更新。&lt;br/&gt;&lt;br/&gt;&lt;b&gt;如果禁用了 Play 应用签名&lt;/b&gt;且您丢失了签名密钥，则必须使用新的包名重新发布应用。</string>
     <string name="keystore_recovery_close">知道了</string>
     <string name="keystore_recovery_open_console">打开 Play 管理中心</string>
     <string name="keystore_recovery_title">丢失了签名密钥？</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF 阅读器</string>
     <string name="licenses_count">%1$d 个库</string>
     <string name="licenses_empty">没有符合您搜索条件的库。</string>
-    <string name="licenses_intro">HTML to APK 基于以下开源软件构建。标记为“生成的应用”的库也会打包到其构建的应用中（仅在启用广告时包含广告库）。</string>
+    <string name="licenses_intro">HTML2APK 基于以下开源软件构建。标记为“生成的应用”的库也会打包到其构建的应用中（仅在启用广告时包含广告库）。</string>
     <string name="licenses_load_failed">无法加载许可列表。</string>
     <string name="licenses_open_license">开放许可</string>
     <string name="licenses_open_website">网站</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">展开/收起下拉菜单</string>
     <string name="m3c_snackbar_dismiss">关闭</string>
     <string name="mail_report_android">Android 版本：%1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK 版本：v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK 版本：v%1$s (%2$d)</string>
     <string name="mail_report_date">日期：%1$s</string>
     <string name="mail_report_default_project">项目</string>
     <string name="mail_report_device">设备：%1$s %2$s</string>
     <string name="mail_report_end">=== 报告结束 ===</string>
     <string name="mail_report_format">输出格式：%1$s</string>
-    <string name="mail_report_intro">HTML to APK 应用内构建失败。</string>
+    <string name="mail_report_intro">HTML2APK 应用内构建失败。</string>
     <string name="mail_report_intro2">请查看此错误报告。</string>
     <string name="mail_report_package_name">包名：%1$s</string>
     <string name="mail_report_project_name">项目名称：%1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">设置</string>
     <string name="nav_templates">模板</string>
     <string name="not_selected">未选择</string>
-    <string name="offer_dialog_message">分享一段展示您使用 HTML to APK 构建的应用的视频。当播放量达到 10,000 次时，我们将免费为您提供 Pro 版本。</string>
+    <string name="offer_dialog_message">分享一段展示您使用 HTML2APK 构建的应用的视频。当播放量达到 10,000 次时，我们将免费为您提供 Pro 版本。</string>
     <string name="offer_dialog_no">暂不</string>
     <string name="offer_dialog_title">免费获取 Pro</string>
     <string name="offer_dialog_yes">如何赚取？</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">单独出售，无需 Pro。新账户可免费制作第一个应用。</string>
     <string name="premium_credits_link_title">AI积分包</string>
     <string name="premium_crown_subtitle">解除所有限制，充分发挥创作能力。</string>
-    <string name="premium_crown_title">HTML to APK 专业版</string>
-    <string name="premium_dev_note_desc">嗨！我是 Emre，今年 19 岁，我怀着极大的热情独自开发了 HTML to APK。我的目标是让你能够轻松地将网页项目转换为真正的 Android 应用，无需任何复杂的设置。\n\n通过升级到专业版，你直接支持了一位年轻的独立开发者，并为该项目的未来发展提供了动力。非常感谢你的善意支持！❤️</string>
+    <string name="premium_crown_title">HTML2APK 专业版</string>
+    <string name="premium_dev_note_desc">嗨！我是 Emre，今年 19 岁，我怀着极大的热情独自开发了 HTML2APK。我的目标是让你能够轻松地将网页项目转换为真正的 Android 应用，无需任何复杂的设置。\n\n通过升级到专业版，你直接支持了一位年轻的独立开发者，并为该项目的未来发展提供了动力。非常感谢你的善意支持！❤️</string>
     <string name="premium_dev_note_title">来自开发者的一封信 👋</string>
     <string name="premium_error_payment">支付不可用。请稍后再试。</string>
     <string name="premium_extra_ads_detail">应用工作区和所有导出的应用中均无干扰性广告。享受纯净、无干扰的环境。</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">阅读无限数量的 PDF 文档</string>
     <string name="premium_feature_unlimited_pdf_detail">免费版最多可保留 5 个 PDF 文档项目。专业版移除了此限制，让您的阅读库可以不断扩充。</string>
     <string name="premium_feature_watermark_desc">从生成的应用中移除水印</string>
-    <string name="premium_feature_watermark_detail">从所有导出的构建中移除“Made with HTML to APK”启动画面标识和水印，实现完全白标的品牌化应用。</string>
+    <string name="premium_feature_watermark_detail">从所有导出的构建中移除“Made with HTML2APK”启动画面标识和水印，实现完全白标的品牌化应用。</string>
     <string name="premium_feature_webview_desc">高级 WebView 设置</string>
     <string name="premium_feature_webview_detail">完全掌控硬件加速、JS 控制台日志、自定义 User-Agent 字符串、文件上传权限和缓存策略。</string>
     <string name="premium_less_features_button">收起</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">发送反馈</string>
     <string name="settings_feedback_chooser">发送反馈</string>
     <string name="settings_feedback_no_app">未找到电子邮件应用</string>
-    <string name="settings_feedback_subject">HTML 转 APK 构建器 - 反馈</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">免费获取 Pro</string>
     <string name="settings_free_premium_summary">分享视频，达到 1 万次播放，即可获得 Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">已开启</string>
     <string name="support_button_action">支持</string>
     <string name="support_cats_interactive_hint">点击任意一只猫咪来抚摸它们！🐾</string>
-    <string name="support_developer_desc">你好！非常感谢你购买专业版。作为一名独立开发者，我一直在维护和改进 HTML to APK。如果你喜欢这个应用并希望支持未来的更新，你可以选择请我喝杯咖啡或吃顿饭。每一份贡献对我来说都意义重大！❤️</string>
+    <string name="support_developer_desc">你好！非常感谢你购买专业版。作为一名独立开发者，我一直在维护和改进 HTML2APK。如果你喜欢这个应用并希望支持未来的更新，你可以选择请我喝杯咖啡或吃顿饭。每一份贡献对我来说都意义重大！❤️</string>
     <string name="support_developer_subtitle">如果您想支持我 ☕</string>
     <string name="support_developer_title">支持开发者</string>
     <string name="support_success_button">不客气 ❤️</string>
-    <string name="support_success_message">已收到你的支持！作为 HTML to APK 的独立开发者，你给予了我巨大的力量、士气和动力。\n\n我们的猫咪正在为你庆祝！🐾</string>
+    <string name="support_success_message">已收到你的支持！作为 HTML2APK 的独立开发者，你给予了我巨大的力量、士气和动力。\n\n我们的猫咪正在为你庆祝！🐾</string>
     <string name="support_success_title">你太棒了！❤️</string>
     <string name="support_tier_coffee_desc">一杯温暖的咖啡，助力深夜编程 ☕</string>
     <string name="support_tier_coffee_title">请我喝杯咖啡</string>
     <string name="support_tier_meal_desc">一顿美餐，让我保持活力和专注 🍕</string>
     <string name="support_tier_meal_title">请我吃顿饭</string>
-    <string name="support_tier_sponsor_desc">直接为 HTML to APK 的未来做出贡献 🚀</string>
+    <string name="support_tier_sponsor_desc">直接为 HTML2APK 的未来做出贡献 🚀</string>
     <string name="support_tier_sponsor_title">超级赞助商</string>
     <string name="switch_role">开关</string>
     <string name="tab">标签页</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">全屏布局</string>
     <string name="template_gallery_desc">将 base64 图像保存到照片库。</string>
     <string name="template_gallery_title">保存到图库</string>
-    <string name="template_guide_body">HTML to APK 会在您的 WebView 中注入一个名为 AndroidAPI 的全局 JavaScript 对象。您可以直接从 HTML/JS 代码中调用这些方法：</string>
+    <string name="template_guide_body">HTML2APK 会在您的 WebView 中注入一个名为 AndroidAPI 的全局 JavaScript 对象。您可以直接从 HTML/JS 代码中调用这些方法：</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // 返回 JSON\nAndroidAPI.getBatteryLevel() // 返回 0-100 的整数\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // 返回 0-255 的整数</string>
-    <string name="template_guide_note">提示：在 onclick 处理程序或任何 JavaScript 函数中使用这些 API。当您的应用使用 HTML to APK 构建时，该对象会自动可用。</string>
+    <string name="template_guide_note">提示：在 onclick 处理程序或任何 JavaScript 函数中使用这些 API。当您的应用使用 HTML2APK 构建时，该对象会自动可用。</string>
     <string name="template_guide_title">API 指南</string>
     <string name="template_gyroscope_desc">读取 X、Y 和 Z 轴上的设备旋转速率。</string>
     <string name="template_gyroscope_title">陀螺仪</string>

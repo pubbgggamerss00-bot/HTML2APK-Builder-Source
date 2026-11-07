@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Pensant…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Les animacions s\'han desactivat perquè el dispositiu tenia problemes. Activa-les a la configuració.</string>
-    <string name="app_name">Creador d\'HTML a APK</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Connectant amb Google Play, torneu-ho a provar en uns segons.</string>
     <string name="billing_restore_error">Error durant la consulta: %1$s</string>
     <string name="billing_restore_not_found">No s\'ha trobat cap compra activa per a aquest compte de Google.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Enviar correu electrònic</string>
     <string name="build_failed_dialog_title">La compilació ha fallat</string>
     <string name="build_failed_email_chooser">Enviar informe d\'error mitjançant...</string>
-    <string name="build_failed_email_subject">[HTML to APK] Informe de fallada de compilació - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Informe de fallada de compilació - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">Compilació de l\'AAB completada: %1$s (%2$d bytes)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Comparteix el que has creat amb el món i obtén Pro a canvi. Només calen 3 passos senzills:</string>
     <string name="free_premium_note">Consell: inclou una captura de pantalla del recompte de visualitzacions al teu correu electrònic per accelerar la verificació.</string>
     <string name="free_premium_send_email">Envia un correu electrònic</string>
-    <string name="free_premium_step1_desc">Grava un vídeo mostrant una aplicació o un joc que hagis creat amb HTML to APK i comparteix-lo a YouTube, TikTok o Instagram.</string>
+    <string name="free_premium_step1_desc">Grava un vídeo mostrant una aplicació o un joc que hagis creat amb HTML2APK i comparteix-lo a YouTube, TikTok o Instagram.</string>
     <string name="free_premium_step1_title">Grava i comparteix un vídeo</string>
     <string name="free_premium_step2_desc">Un cop el teu vídeo arribi a les 10.000 visualitzacions en qualsevol d\'aquestes plataformes, la teva recompensa estarà a punt.</string>
     <string name="free_premium_step2_title">Arriba a les 10.000 visualitzacions</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Utilitza carpetes i accions de projecte per mantenir-ho tot endreçat.</string>
     <string name="howto_organize_title">Mantén els projectes en ordre</string>
     <string name="howto_output_body">L\'APK serveix per instal·lar-lo al telèfon o compartir-lo directament. L\'AAB és el format que necessita Google Play (Pro). Amb la versió Pro, també pots exportar el projecte com a projecte d\'Android Studio (ZIP) des del menú del projecte. Les compilacions anteriors es troben a \"Build Outputs\" al mateix menú, i el menú principal permet exportar o importar projectes com a còpies de seguretat ZIP.</string>
-    <string name="howto_overview">Amb HTML to APK Builder, pots convertir el teu lloc web o fitxers HTML en una aplicació Android real. No cal programar!</string>
+    <string name="howto_overview">Amb HTML2APK, pots convertir el teu lloc web o fitxers HTML en una aplicació Android real. No cal programar!</string>
     <string name="howto_pdf_body">Creeu un projecte i després Obrir / visualitzar PDF obre el lector. Feu zoom, canvieu entre lectura clara i fosca, afegiu marcadors i continueu des de l\'última pàgina. Utilitzeu Edita quan vulgueu reordenar pàgines o anotar el document. Podeu convertir un document en una aplicació més tard.</string>
     <string name="howto_playstore_signing_action">Llegir més</string>
-    <string name="howto_playstore_signing_body">Quan la Play Console demani “Preferències de signatura de l\'aplicació”, tria la primera opció: &lt;b&gt;Deixa que Google gestioni i protegeixi la teva clau de signatura de l\'aplicació (recomanat)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Això activa la &lt;b&gt;Signatura d\'aplicacions de Play&lt;/b&gt;. Google conserva la clau de signatura real; tu només puges APKs/AABs signats amb la teva clau de pujada.&lt;br/&gt;&lt;br/&gt;Si més endavant perds el magatzem de claus (per exemple, desinstal·lant HTMLtoAPK), pots sol·licitar un &lt;b&gt;restabliment de la clau de pujada&lt;/b&gt; a la Play Console i els usuaris continuaran rebent actualitzacions.&lt;br/&gt;&lt;br/&gt;Si has de pujar la teva pròpia clau de signatura, obre el magatzem de claus en aquesta aplicació i toca &lt;b&gt;Exporta per a Play Store (PEPK)&lt;/b&gt;. Tria el mateix mètode que mostra la Play Console (clau pública hexadecimal o clau pública RSA PEM) per generar &lt;b&gt;output.zip&lt;/b&gt; i puja\'l.&lt;br/&gt;&lt;br/&gt;Tria “Exporta i puja la teva pròpia clau” només si estàs absolutament segur que pots mantenir aquesta clau segura per sempre. Perdre-la significa que no podràs tornar a actualitzar l\'aplicació.</string>
+    <string name="howto_playstore_signing_body">Quan la Play Console demani “Preferències de signatura de l\'aplicació”, tria la primera opció: &lt;b&gt;Deixa que Google gestioni i protegeixi la teva clau de signatura de l\'aplicació (recomanat)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Això activa la &lt;b&gt;Signatura d\'aplicacions de Play&lt;/b&gt;. Google conserva la clau de signatura real; tu només puges APKs/AABs signats amb la teva clau de pujada.&lt;br/&gt;&lt;br/&gt;Si més endavant perds el magatzem de claus (per exemple, desinstal·lant HTML2APK), pots sol·licitar un &lt;b&gt;restabliment de la clau de pujada&lt;/b&gt; a la Play Console i els usuaris continuaran rebent actualitzacions.&lt;br/&gt;&lt;br/&gt;Si has de pujar la teva pròpia clau de signatura, obre el magatzem de claus en aquesta aplicació i toca &lt;b&gt;Exporta per a Play Store (PEPK)&lt;/b&gt;. Tria el mateix mètode que mostra la Play Console (clau pública hexadecimal o clau pública RSA PEM) per generar &lt;b&gt;output.zip&lt;/b&gt; i puja\'l.&lt;br/&gt;&lt;br/&gt;Tria “Exporta i puja la teva pròpia clau” només si estàs absolutament segur que pots mantenir aquesta clau segura per sempre. Perdre-la significa que no podràs tornar a actualitzar l\'aplicació.</string>
     <string name="howto_playstore_signing_summary">Entén les claus de càrrega, Play App Signing i PEPK.</string>
     <string name="howto_playstore_signing_title">Selecció de la clau de signatura de Play Store</string>
     <string name="howto_preview_body">La previsualització executa la vostra pàgina tal com ho farà l\'aplicació finalitzada, incloses les crides a l\'API d\'Android. L\'editor HTML acolorix el vostre codi, tanca les etiquetes per vosaltres i té l\'opció de cercar i substituir; els canvis es mantenen mentre canvieu a la previsualització i torneu enrere.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Mantén una còpia en aquest dispositiu</string>
     <string name="keystore_persisted">Desat a Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projecte: %1$s</string>
-    <string name="keystore_recovery_body">Si has desinstal·lat HTMLtoAPK, és possible que les claus de signatura de l\'aplicació generades automàticament s\'hagin perdut. Una nova compilació es signarà amb una clau diferent i la Play Store podria rebutjar l\'actualització.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solució 1 - Restableix la clau de pujada (recomanat):&lt;/b&gt;&lt;br/&gt;1. Exporta el &lt;b&gt;certificat PEM&lt;/b&gt; del teu nou magatzem de claus de la llista següent.&lt;br/&gt;2. A la Play Console, ves a &lt;b&gt;Signatura d\'aplicacions &gt; Sol·licita el restabliment de la clau de pujada&lt;/b&gt;.&lt;br/&gt;3. Omple el formulari i puja el fitxer PEM.&lt;br/&gt;4. Un cop aprovat, publica el teu nou APK/AAB signat amb la nova clau.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solució 2 - Substitueix la clau de signatura de l\'aplicació:&lt;/b&gt;&lt;br/&gt;Si la Play Console et permet pujar una nova clau de signatura d\'aplicació, utilitza &lt;b&gt;Exporta per a Play Store (PEPK)&lt;/b&gt; al magatzem de claus. Tria el mateix mètode que es mostra a la Play Console (clau hexadecimal o RSA PEM), genera output.zip i puja\'l.&lt;br/&gt;&lt;br/&gt;Els usuaris continuaran rebent actualitzacions perquè la clau de signatura de l\'aplicació es queda amb Google quan només restableixes la clau de pujada.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Si la Signatura d\'aplicacions de Play està desactivada&lt;/b&gt; i has perdut la clau de signatura, has de publicar l\'aplicació de nou amb un nom de paquet nou.</string>
+    <string name="keystore_recovery_body">Si has desinstal·lat HTML2APK, és possible que les claus de signatura de l\'aplicació generades automàticament s\'hagin perdut. Una nova compilació es signarà amb una clau diferent i la Play Store podria rebutjar l\'actualització.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solució 1 - Restableix la clau de pujada (recomanat):&lt;/b&gt;&lt;br/&gt;1. Exporta el &lt;b&gt;certificat PEM&lt;/b&gt; del teu nou magatzem de claus de la llista següent.&lt;br/&gt;2. A la Play Console, ves a &lt;b&gt;Signatura d\'aplicacions &gt; Sol·licita el restabliment de la clau de pujada&lt;/b&gt;.&lt;br/&gt;3. Omple el formulari i puja el fitxer PEM.&lt;br/&gt;4. Un cop aprovat, publica el teu nou APK/AAB signat amb la nova clau.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Solució 2 - Substitueix la clau de signatura de l\'aplicació:&lt;/b&gt;&lt;br/&gt;Si la Play Console et permet pujar una nova clau de signatura d\'aplicació, utilitza &lt;b&gt;Exporta per a Play Store (PEPK)&lt;/b&gt; al magatzem de claus. Tria el mateix mètode que es mostra a la Play Console (clau hexadecimal o RSA PEM), genera output.zip i puja\'l.&lt;br/&gt;&lt;br/&gt;Els usuaris continuaran rebent actualitzacions perquè la clau de signatura de l\'aplicació es queda amb Google quan només restableixes la clau de pujada.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Si la Signatura d\'aplicacions de Play està desactivada&lt;/b&gt; i has perdut la clau de signatura, has de publicar l\'aplicació de nou amb un nom de paquet nou.</string>
     <string name="keystore_recovery_close">Entesos</string>
     <string name="keystore_recovery_open_console">Obre Play Console</string>
     <string name="keystore_recovery_title">Has perdut la teva clau de signatura?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Visor de PDF</string>
     <string name="licenses_count">%1$d biblioteques</string>
     <string name="licenses_empty">Cap biblioteca no coincideix amb la teva cerca.</string>
-    <string name="licenses_intro">HTML to APK s\'ha creat amb el programari de codi obert que es detalla a continuació. Les biblioteques marcades com a \"Aplicacions generades\" també s\'empaqueten a les aplicacions que crea (biblioteques d\'anuncis només quan els anuncis estan activats).</string>
+    <string name="licenses_intro">HTML2APK s\'ha creat amb el programari de codi obert que es detalla a continuació. Les biblioteques marcades com a \"Aplicacions generades\" també s\'empaqueten a les aplicacions que crea (biblioteques d\'anuncis només quan els anuncis estan activats).</string>
     <string name="licenses_load_failed">No s\'ha pogut carregar la llista de llicències.</string>
     <string name="licenses_open_license">Obre la llicència</string>
     <string name="licenses_open_website">Lloc web</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Commuta el menú desplegable</string>
     <string name="m3c_snackbar_dismiss">Ignora</string>
     <string name="mail_report_android">Versió d\'Android: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Versió d\'HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Versió d\'HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">Data: %1$s</string>
     <string name="mail_report_default_project">Projecte</string>
     <string name="mail_report_device">Dispositiu: %1$s %2$s</string>
     <string name="mail_report_end">=== FI DE L\'INFORME ===</string>
     <string name="mail_report_format">Format de sortida: %1$s</string>
-    <string name="mail_report_intro">Una compilació ha fallat dins de l\'aplicació HTML to APK.</string>
+    <string name="mail_report_intro">Una compilació ha fallat dins de l\'aplicació HTML2APK.</string>
     <string name="mail_report_intro2">Si us plau, reviseu aquest informe d\'error.</string>
     <string name="mail_report_package_name">Nom del paquet: %1$s</string>
     <string name="mail_report_project_name">Nom del projecte: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Configuració</string>
     <string name="nav_templates">Plantilles</string>
     <string name="not_selected">No seleccionat</string>
-    <string name="offer_dialog_message">Comparteix un vídeo mostrant una aplicació que hagis creat amb HTML to APK. Quan arribi a les 10.000 visualitzacions, Pro va a càrrec nostre.</string>
+    <string name="offer_dialog_message">Comparteix un vídeo mostrant una aplicació que hagis creat amb HTML2APK. Quan arribi a les 10.000 visualitzacions, Pro va a càrrec nostre.</string>
     <string name="offer_dialog_no">Ara no</string>
     <string name="offer_dialog_title">Obtén Pro de franc</string>
     <string name="offer_dialog_yes">Com puc guanyar-ho?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Vist per separat, no cal ser Pro. Els comptes nous tenen la seva primera aplicació gratis.</string>
     <string name="premium_credits_link_title">Paquets de crèdits d\'IA</string>
     <string name="premium_crown_subtitle">Elimina tots els límits i crea amb tota la potència.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Hola! Soc l\'Emre, tinc 19 anys i desenvolupo HTML to APK completament sol amb molta passió. El meu objectiu és permetre\'t convertir els teus projectes web en aplicacions Android reals sense problemes, sense cap configuració complexa.\n\nEn actualitzar a Pro, dones suport directament a un jove desenvolupador independent i impulses el futur desenvolupament d\'aquest projecte. Moltes gràcies pel teu amable suport! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Hola! Soc l\'Emre, tinc 19 anys i desenvolupo HTML2APK completament sol amb molta passió. El meu objectiu és permetre\'t convertir els teus projectes web en aplicacions Android reals sense problemes, sense cap configuració complexa.\n\nEn actualitzar a Pro, dones suport directament a un jove desenvolupador independent i impulses el futur desenvolupament d\'aquest projecte. Moltes gràcies pel teu amable suport! ❤️</string>
     <string name="premium_dev_note_title">Una nota del desenvolupador 👋</string>
     <string name="premium_error_payment">Pagament no disponible. Si us plau, torna-ho a provar més tard.</string>
     <string name="premium_extra_ads_detail">Zero anuncis intrusius tant a l\'espai de treball de l\'aplicació com a totes les aplicacions exportades. Gaudiu d\'un entorn net i sense distraccions.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Llegeix documents PDF il·limitats</string>
     <string name="premium_feature_unlimited_pdf_detail">El pla gratuït manté fins a 5 projectes de documents PDF. Pro elimina el límit, de manera que la vostra biblioteca de lectura pot continuar creixent.</string>
     <string name="premium_feature_watermark_desc">Elimina la marca d\'aigua de les aplicacions generades</string>
-    <string name="premium_feature_watermark_detail">Elimineu els indicadors i marques d\'aigua \'Made with HTML to APK\' de totes les compilacions exportades per obtenir aplicacions totalment personalitzades i sense marca.</string>
+    <string name="premium_feature_watermark_detail">Elimineu els indicadors i marques d\'aigua \'Made with HTML2APK\' de totes les compilacions exportades per obtenir aplicacions totalment personalitzades i sense marca.</string>
     <string name="premium_feature_webview_desc">Configuració avançada de WebView</string>
     <string name="premium_feature_webview_detail">Obteniu un control total sobre l\'acceleració de maquinari, els registres de la consola JS, les cadenes d\'agent d\'usuari personalitzades, els permisos de càrrega de fitxers i les estratègies de memòria cau.</string>
     <string name="premium_less_features_button">Mostra menys</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Envieu comentaris</string>
     <string name="settings_feedback_chooser">Envieu comentaris</string>
     <string name="settings_feedback_no_app">No s\'ha trobat cap aplicació de correu electrònic</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Comentaris</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Obtén Pro de franc</string>
     <string name="settings_free_premium_summary">Comparteix un vídeo, arriba a les 10.000 visualitzacions, obtén Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Activat</string>
     <string name="support_button_action">Donar suport</string>
     <string name="support_cats_interactive_hint">Toca qualsevol gat per acariciar-lo! 🐾</string>
-    <string name="support_developer_desc">Hola! Moltes gràcies per comprar la versió Pro. Com a desenvolupador independent, mantinc i milloro contínuament HTML to APK. Si t\'agrada l\'aplicació i vols donar suport a futures actualitzacions, pots convidar-me a un cafè o un àpat. Cada contribució significa molt per a mi! ❤️</string>
+    <string name="support_developer_desc">Hola! Moltes gràcies per comprar la versió Pro. Com a desenvolupador independent, mantinc i milloro contínuament HTML2APK. Si t\'agrada l\'aplicació i vols donar suport a futures actualitzacions, pots convidar-me a un cafè o un àpat. Cada contribució significa molt per a mi! ❤️</string>
     <string name="support_developer_subtitle">Si vols donar-me suport ☕</string>
     <string name="support_developer_title">Dona suport al desenvolupador</string>
     <string name="support_success_button">De res ❤️</string>
-    <string name="support_success_message">S\'ha rebut el teu suport! Com a desenvolupador independent que crea HTML to APK, m\'has donat una força, moral i motivació immenses.\n\nEls nostres gats ho estan celebrant per tu! 🐾</string>
+    <string name="support_success_message">S\'ha rebut el teu suport! Com a desenvolupador independent que crea HTML2APK, m\'has donat una força, moral i motivació immenses.\n\nEls nostres gats ho estan celebrant per tu! 🐾</string>
     <string name="support_success_title">Ets increïble! ❤️</string>
     <string name="support_tier_coffee_desc">Una tassa de cafè calenta per programar fins tard ☕</string>
     <string name="support_tier_coffee_title">Convida a un cafè</string>
     <string name="support_tier_meal_desc">Un bon sopar per mantenir-me amb energia i concentrat 🍕</string>
     <string name="support_tier_meal_title">Convida a un àpat</string>
-    <string name="support_tier_sponsor_desc">Contribució directa al futur d\'HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Contribució directa al futur d\'HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super Patrocinador</string>
     <string name="switch_role">Interruptor</string>
     <string name="tab">Pestanya</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">Disseny a pantalla completa</string>
     <string name="template_gallery_desc">Deseu una imatge en base64 a la galeria de fotos.</string>
     <string name="template_gallery_title">Desa a la galeria</string>
-    <string name="template_guide_body">HTML to APK injecta un objecte JavaScript global anomenat AndroidAPI al vostre WebView. Podeu cridar aquests mètodes directament des del vostre codi HTML/JS:</string>
+    <string name="template_guide_body">HTML2APK injecta un objecte JavaScript global anomenat AndroidAPI al vostre WebView. Podeu cridar aquests mètodes directament des del vostre codi HTML/JS:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hola!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Títol,Cos)\nAndroidAPI.getDeviceInfo() // retorna JSON\nAndroidAPI.getBatteryLevel() // retorna int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // retorna int 0-255</string>
     <string name="template_guide_note">Consell: Utilitzeu aquestes API dins dels gestors onclick o qualsevol funció JavaScript. L\'objecte està disponible automàticament quan la vostra aplicació es crea amb HTML a APK.</string>
     <string name="template_guide_title">Guia de l\'API</string>

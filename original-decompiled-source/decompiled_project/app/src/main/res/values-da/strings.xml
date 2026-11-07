@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Tænker…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animationer er deaktiveret, fordi enheden havde problemer med at køre dem. Du kan aktivere dem igen i Indstillinger.</string>
-    <string name="app_name">HTML til APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Forbinder til Google Play, prøv venligst igen om et par sekunder.</string>
     <string name="billing_restore_error">Fejl under forespørgsel: %1$s</string>
     <string name="billing_restore_not_found">Intet aktivt køb fundet for denne Google-konto.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Send e-mail</string>
     <string name="build_failed_dialog_title">Build mislykkedes</string>
     <string name="build_failed_email_chooser">Send fejlrapport via…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Build-fejlrapport - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Build-fejlrapport - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB-build fuldført: %1$s (%2$d bytes)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Del hvad du har bygget med verden og få Pro til gengæld. Det kræver kun 3 enkle trin:</string>
     <string name="free_premium_note">Tip: Vedhæft et skærmbillede af visningstallet i din e-mail for at fremskynde verificeringen.</string>
     <string name="free_premium_send_email">Send e-mail</string>
-    <string name="free_premium_step1_desc">Optag en video, der viser en app eller et spil, du har lavet med HTML to APK, og del den på YouTube, TikTok eller Instagram.</string>
+    <string name="free_premium_step1_desc">Optag en video, der viser en app eller et spil, du har lavet med HTML2APK, og del den på YouTube, TikTok eller Instagram.</string>
     <string name="free_premium_step1_title">Optag og del en video</string>
     <string name="free_premium_step2_desc">Når din video når 10.000 visninger på en af disse platforme, er din belønning klar.</string>
     <string name="free_premium_step2_title">Nå 10.000 visninger</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Brug mapper og projekthandlinger til at holde alt ryddeligt.</string>
     <string name="howto_organize_title">Hold styr på projekter</string>
     <string name="howto_output_body">APK er til installation på din telefon eller direkte deling. AAB er det format, Google Play kræver (Pro). Med Pro kan du også eksportere projektet som et Android Studio-projekt (ZIP) fra projektmenuen. Tidligere builds findes under Build Outputs i samme menu, og hovedmenuen kan eksportere eller importere projekter som ZIP-sikkerhedskopier.</string>
-    <string name="howto_overview">Med HTML to APK Builder kan du gøre din hjemmeside eller HTML-filer til en rigtig Android-app. Ingen kodning påkrævet!</string>
+    <string name="howto_overview">Med HTML2APK kan du gøre din hjemmeside eller HTML-filer til en rigtig Android-app. Ingen kodning påkrævet!</string>
     <string name="howto_pdf_body">Opret projekt og derefter Åbn / se PDF åbner læseren. Zoom, skift mellem lys og mørk læsning, tilføj bogmærker og fortsæt fra din sidste side. Brug Rediger, når du vil omarrangere sider eller annotere dokumentet. Du kan konvertere et dokument til en app senere.</string>
     <string name="howto_playstore_signing_action">Læs mere</string>
-    <string name="howto_playstore_signing_body">Når Play Console spørger om “App-signeringspræferencer”, skal du vælge den første mulighed: &lt;b&gt;Lad Google administrere og beskytte din app-signeringsnøgle (anbefales)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Dette aktiverer &lt;b&gt;Play App-signering&lt;/b&gt;. Google beholder den rigtige signeringsnøgle; du uploader kun APK\'er/AAB\'er signeret med din upload-nøgle.&lt;br/&gt;&lt;br/&gt;Hvis du senere mister nøglelageret (f.eks. ved at afinstallere HTMLtoAPK), kan du anmode om en &lt;b&gt;nulstilling af upload-nøgle&lt;/b&gt; i Play Console, og brugerne vil stadig modtage opdateringer.&lt;br/&gt;&lt;br/&gt;Hvis du skal uploade din egen signeringsnøgle, skal du åbne nøglelageret i denne app og trykke på &lt;b&gt;Eksporter til Play Butik (PEPK)&lt;/b&gt;. Vælg den samme metode, som Play Console viser (hex-offentlig nøgle eller RSA-offentlig nøgle PEM) for at generere &lt;b&gt;output.zip&lt;/b&gt; og upload den.&lt;br/&gt;&lt;br/&gt;Vælg kun “Eksporter og upload din egen nøgle”, hvis du er helt sikker på, at du kan holde den nøgle sikker for evigt. Hvis du mister den, betyder det, at du ikke kan opdatere appen igen.</string>
+    <string name="howto_playstore_signing_body">Når Play Console spørger om “App-signeringspræferencer”, skal du vælge den første mulighed: &lt;b&gt;Lad Google administrere og beskytte din app-signeringsnøgle (anbefales)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Dette aktiverer &lt;b&gt;Play App-signering&lt;/b&gt;. Google beholder den rigtige signeringsnøgle; du uploader kun APK\'er/AAB\'er signeret med din upload-nøgle.&lt;br/&gt;&lt;br/&gt;Hvis du senere mister nøglelageret (f.eks. ved at afinstallere HTML2APK), kan du anmode om en &lt;b&gt;nulstilling af upload-nøgle&lt;/b&gt; i Play Console, og brugerne vil stadig modtage opdateringer.&lt;br/&gt;&lt;br/&gt;Hvis du skal uploade din egen signeringsnøgle, skal du åbne nøglelageret i denne app og trykke på &lt;b&gt;Eksporter til Play Butik (PEPK)&lt;/b&gt;. Vælg den samme metode, som Play Console viser (hex-offentlig nøgle eller RSA-offentlig nøgle PEM) for at generere &lt;b&gt;output.zip&lt;/b&gt; og upload den.&lt;br/&gt;&lt;br/&gt;Vælg kun “Eksporter og upload din egen nøgle”, hvis du er helt sikker på, at du kan holde den nøgle sikker for evigt. Hvis du mister den, betyder det, at du ikke kan opdatere appen igen.</string>
     <string name="howto_playstore_signing_summary">Forstå upload-nøgler, Play App Signing og PEPK.</string>
     <string name="howto_playstore_signing_title">Valg af signeringsnøgle til Play Butik</string>
     <string name="howto_preview_body">Forhåndsvisning kører din side, som den færdige app vil gøre, inklusive AndroidAPI-kald. HTML-editoren farver din kode, lukker tags for dig og har søg og erstat; ændringer bevares, mens du skifter til forhåndsvisning og tilbage.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Behold en kopi på denne enhed</string>
     <string name="keystore_persisted">Gemt i Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projekt: %1$s</string>
-    <string name="keystore_recovery_body">Hvis du har afinstalleret HTMLtoAPK, kan de automatisk genererede app-signeringsnøgler være gået tabt. En ny build vil blive signeret med en anden nøgle, og Play Butik kan afvise opdateringen.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Løsning 1 - Nulstil upload-nøgle (anbefales):&lt;/b&gt;&lt;br/&gt;1. Eksporter &lt;b&gt;PEM-certifikatet&lt;/b&gt; for dit nye nøglelager fra listen nedenfor.&lt;br/&gt;2. Gå til &lt;b&gt;App-signering &gt; Anmod om nulstilling af upload-nøgle&lt;/b&gt; i Play Console.&lt;br/&gt;3. Udfyld formularen og upload PEM-filen.&lt;br/&gt;4. Når den er godkendt, skal du publicere din nye APK/AAB signeret med den nye nøgle.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Løsning 2 - Erstat app-signeringsnøgle:&lt;/b&gt;&lt;br/&gt;Hvis Play Console tillader dig at uploade en ny app-signeringsnøgle, skal du bruge &lt;b&gt;Eksporter til Play Butik (PEPK)&lt;/b&gt; på nøglelageret. Vælg den samme metode, som vises i Play Console (hex-nøgle eller RSA PEM), generer output.zip, og upload den.&lt;br/&gt;&lt;br/&gt;Brugere vil fortsat modtage opdateringer, fordi app-signeringsnøglen forbliver hos Google, når du kun nulstiller upload-nøglen.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Hvis Play App-signering er deaktiveret&lt;/b&gt;, og du har mistet signeringsnøglen, skal du publicere appen igen med et nyt pakkenavn.</string>
+    <string name="keystore_recovery_body">Hvis du har afinstalleret HTML2APK, kan de automatisk genererede app-signeringsnøgler være gået tabt. En ny build vil blive signeret med en anden nøgle, og Play Butik kan afvise opdateringen.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Løsning 1 - Nulstil upload-nøgle (anbefales):&lt;/b&gt;&lt;br/&gt;1. Eksporter &lt;b&gt;PEM-certifikatet&lt;/b&gt; for dit nye nøglelager fra listen nedenfor.&lt;br/&gt;2. Gå til &lt;b&gt;App-signering &gt; Anmod om nulstilling af upload-nøgle&lt;/b&gt; i Play Console.&lt;br/&gt;3. Udfyld formularen og upload PEM-filen.&lt;br/&gt;4. Når den er godkendt, skal du publicere din nye APK/AAB signeret med den nye nøgle.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Løsning 2 - Erstat app-signeringsnøgle:&lt;/b&gt;&lt;br/&gt;Hvis Play Console tillader dig at uploade en ny app-signeringsnøgle, skal du bruge &lt;b&gt;Eksporter til Play Butik (PEPK)&lt;/b&gt; på nøglelageret. Vælg den samme metode, som vises i Play Console (hex-nøgle eller RSA PEM), generer output.zip, og upload den.&lt;br/&gt;&lt;br/&gt;Brugere vil fortsat modtage opdateringer, fordi app-signeringsnøglen forbliver hos Google, når du kun nulstiller upload-nøglen.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Hvis Play App-signering er deaktiveret&lt;/b&gt;, og du har mistet signeringsnøglen, skal du publicere appen igen med et nyt pakkenavn.</string>
     <string name="keystore_recovery_close">Forstået</string>
     <string name="keystore_recovery_open_console">Åbn Play Console</string>
     <string name="keystore_recovery_title">Mistet din signeringsnøgle?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF-fremviser</string>
     <string name="licenses_count">%1$d biblioteker</string>
     <string name="licenses_empty">Ingen biblioteker matcher din søgning.</string>
-    <string name="licenses_intro">HTML to APK er bygget på open source-softwaren nedenfor. Biblioteker markeret med \"Generated apps\" bliver også pakket ind i de apps, den bygger (annoncebiblioteker kun når annoncer er slået til).</string>
+    <string name="licenses_intro">HTML2APK er bygget på open source-softwaren nedenfor. Biblioteker markeret med \"Generated apps\" bliver også pakket ind i de apps, den bygger (annoncebiblioteker kun når annoncer er slået til).</string>
     <string name="licenses_load_failed">Licenslisten kunne ikke indlæses.</string>
     <string name="licenses_open_license">Åben licens</string>
     <string name="licenses_open_website">Websted</string>
@@ -1083,7 +1083,7 @@
     <string name="mail_report_device">Enhed: %1$s %2$s</string>
     <string name="mail_report_end">=== SLUT PÅ RAPPORT ===</string>
     <string name="mail_report_format">Outputformat: %1$s</string>
-    <string name="mail_report_intro">En build fejlede i HTML to APK-appen.</string>
+    <string name="mail_report_intro">En build fejlede i HTML2APK-appen.</string>
     <string name="mail_report_intro2">Gennemse venligst denne fejlrapport.</string>
     <string name="mail_report_package_name">Pakkenavn: %1$s</string>
     <string name="mail_report_project_name">Projektnavn: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Indstillinger</string>
     <string name="nav_templates">Skabeloner</string>
     <string name="not_selected">Ikke valgt</string>
-    <string name="offer_dialog_message">Del en video, der viser en app, du har bygget med HTML to APK. Når den når 10.000 visninger, giver vi Pro.</string>
+    <string name="offer_dialog_message">Del en video, der viser en app, du har bygget med HTML2APK. Når den når 10.000 visninger, giver vi Pro.</string>
     <string name="offer_dialog_no">Ikke nu</string>
     <string name="offer_dialog_title">Få Pro gratis</string>
     <string name="offer_dialog_yes">Hvordan tjener jeg det?</string>
@@ -1280,7 +1280,7 @@
     <string name="premium_credits_link_title">AI-kreditpakker</string>
     <string name="premium_crown_subtitle">Fjern alle begrænsninger og skab med fuld kraft.</string>
     <string name="premium_crown_title">HTML til APK Pro</string>
-    <string name="premium_dev_note_desc">Hej! Jeg er Emre, 19 år gammel, og jeg udvikler HTML to APK helt alene med stor passion. Mit mål er at gøre det muligt for dig at omdanne dine webprojekter til rigtige Android-apps problemfrit, uden kompleks opsætning.\n\nVed at opgradere til Pro støtter du direkte en ung indie-udvikler og fremmer den fremtidige udvikling af dette projekt. Mange tak for din venlige støtte! ❤️</string>
+    <string name="premium_dev_note_desc">Hej! Jeg er Emre, 19 år gammel, og jeg udvikler HTML2APK helt alene med stor passion. Mit mål er at gøre det muligt for dig at omdanne dine webprojekter til rigtige Android-apps problemfrit, uden kompleks opsætning.\n\nVed at opgradere til Pro støtter du direkte en ung indie-udvikler og fremmer den fremtidige udvikling af dette projekt. Mange tak for din venlige støtte! ❤️</string>
     <string name="premium_dev_note_title">En note fra udvikleren 👋</string>
     <string name="premium_error_payment">Betaling ikke tilgængelig. Prøv venligst igen senere.</string>
     <string name="premium_extra_ads_detail">Ingen påtrængende reklamer i hverken applikationsarbejdsområdet eller alle eksporterede apps. Nyd et rent, distraktionsfrit miljø.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Læs ubegrænsede PDF-dokumenter</string>
     <string name="premium_feature_unlimited_pdf_detail">Gratisplanen gemmer op til 5 PDF-dokumentprojekter. Pro fjerner begrænsningen, så dit læsebibliotek kan fortsætte med at vokse.</string>
     <string name="premium_feature_watermark_desc">Fjern vandmærke fra genererede apps</string>
-    <string name="premium_feature_watermark_detail">Fjern \'Made with HTML to APK\'-opstartsindikatorer og vandmærker fra alle eksporterede builds for fuldstændig white-label, brandede applikationer.</string>
+    <string name="premium_feature_watermark_detail">Fjern \'Made with HTML2APK\'-opstartsindikatorer og vandmærker fra alle eksporterede builds for fuldstændig white-label, brandede applikationer.</string>
     <string name="premium_feature_webview_desc">Avancerede WebView-indstillinger</string>
     <string name="premium_feature_webview_detail">Få fuld kontrol over hardwareacceleration, JS-konsollogs, brugerdefinerede User-Agent-strenge, filupload-tilladelser og cache-strategier.</string>
     <string name="premium_less_features_button">Vis mindre</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Send feedback</string>
     <string name="settings_feedback_chooser">Send feedback</string>
     <string name="settings_feedback_no_app">Ingen e-mail-app fundet</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Feedback</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Få Pro gratis</string>
     <string name="settings_free_premium_summary">Del en video, nå 10.000 visninger, få Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Til</string>
     <string name="support_button_action">Støt</string>
     <string name="support_cats_interactive_hint">Tryk på en kat for at kæle med den! 🐾</string>
-    <string name="support_developer_desc">Hej! Mange tak fordi du købte Pro. Som uafhængig soloudvikler vedligeholder og forbedrer jeg løbende HTML to APK. Hvis du elsker appen og ønsker at støtte fremtidige opdateringer, kan du valgfrit give mig en kop kaffe eller et måltid. Hvert bidrag betyder alverden for mig! ❤️</string>
+    <string name="support_developer_desc">Hej! Mange tak fordi du købte Pro. Som uafhængig soloudvikler vedligeholder og forbedrer jeg løbende HTML2APK. Hvis du elsker appen og ønsker at støtte fremtidige opdateringer, kan du valgfrit give mig en kop kaffe eller et måltid. Hvert bidrag betyder alverden for mig! ❤️</string>
     <string name="support_developer_subtitle">Hvis du har lyst til at støtte mig ☕</string>
     <string name="support_developer_title">Støt udvikleren</string>
     <string name="support_success_button">Selv tak ❤️</string>
-    <string name="support_success_message">Din støtte er modtaget! Som en uafhængig soloudvikler, der skaber HTML to APK, har du givet mig enorm styrke, moral og motivation.\n\nVores katte fejrer dig! 🐾</string>
+    <string name="support_success_message">Din støtte er modtaget! Som en uafhængig soloudvikler, der skaber HTML2APK, har du givet mig enorm styrke, moral og motivation.\n\nVores katte fejrer dig! 🐾</string>
     <string name="support_success_title">Du er fantastisk! ❤️</string>
     <string name="support_tier_coffee_desc">En varm kop kaffe til kodning sent om aftenen ☕</string>
     <string name="support_tier_coffee_title">Køb en kop kaffe</string>
     <string name="support_tier_meal_desc">En dejlig middag til at holde energien og fokus 🍕</string>
     <string name="support_tier_meal_title">Køb et måltid</string>
-    <string name="support_tier_sponsor_desc">Direkte bidrag til fremtiden for HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Direkte bidrag til fremtiden for HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super Sponsor</string>
     <string name="switch_role">Kontakt</string>
     <string name="tab">Fane</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">Fuldskærmslayout</string>
     <string name="template_gallery_desc">Gem et base64-billede i fotogalleriet.</string>
     <string name="template_gallery_title">Gem i galleri</string>
-    <string name="template_guide_body">HTML to APK indsætter et globalt JavaScript-objekt kaldet AndroidAPI i din WebView. Du kan kalde disse metoder direkte fra din HTML/JS-kode:</string>
+    <string name="template_guide_body">HTML2APK indsætter et globalt JavaScript-objekt kaldet AndroidAPI i din WebView. Du kan kalde disse metoder direkte fra din HTML/JS-kode:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hej!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Titel,Brødtekst)\nAndroidAPI.getDeviceInfo() // returnerer JSON\nAndroidAPI.getBatteryLevel() // returnerer int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // returnerer int 0-255</string>
     <string name="template_guide_note">Tip: Brug disse API\'er i onclick-handlere eller enhver JavaScript-funktion. Objektet er automatisk tilgængeligt, når din app bygges med HTML til APK.</string>
     <string name="template_guide_title">API-guide</string>

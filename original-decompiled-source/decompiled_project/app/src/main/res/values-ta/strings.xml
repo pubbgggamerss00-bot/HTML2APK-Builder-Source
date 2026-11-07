@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">யோசிக்கிறது…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">சாதனம் மெதுவாகச் செயல்பட்டதால் அனிமேஷன்கள் அணைக்கப்பட்டன. அமைப்புகளில் அவற்றை ஆன் செய்யவும்.</string>
-    <string name="app_name">HTML to APK பில்டர்</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Google Play உடன் இணைக்கிறது, சில வினாடிகளில் மீண்டும் முயற்சிக்கவும்.</string>
     <string name="billing_restore_error">வினவலின் போது பிழை: %1$s</string>
     <string name="billing_restore_not_found">இந்த Google கணக்கிற்குச் செயலில் உள்ள கொள்முதல் எதுவும் கண்டறியப்படவில்லை.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">மின்னஞ்சலை அனுப்பு</string>
     <string name="build_failed_dialog_title">பில்ட் தோல்வியடைந்தது</string>
     <string name="build_failed_email_chooser">பிழை அறிக்கையை அனுப்பவும்…</string>
-    <string name="build_failed_email_subject">[HTML to APK] பில்ட் தோல்வி அறிக்கை - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] பில்ட் தோல்வி அறிக்கை - %1$s</string>
     <string name="build_format_aab">ஆப் பண்டில்</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">AAB உருவாக்கம் முடிந்தது: %1$s (%2$d பைட்டுகள்)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">நீங்கள் உருவாக்கியதை உலகத்துடன் பகிர்ந்து அதற்குப் பதிலாக Pro-வைப் பெறுங்கள். இதற்கு 3 எளிய படிகள் மட்டுமே தேவை:</string>
     <string name="free_premium_note">குறிப்பு: சரிபார்ப்பை விரைவுபடுத்த, உங்கள் மின்னஞ்சலில் பார்வைகளின் எண்ணிக்கையைக் காட்டும் ஸ்கிரீன்ஷாட்டைச் சேர்க்கவும்.</string>
     <string name="free_premium_send_email">மின்னஞ்சல் அனுப்பு</string>
-    <string name="free_premium_step1_desc">HTML to APK மூலம் நீங்கள் உருவாக்கிய ஆப் அல்லது கேமை விளக்கும் வீடியோவைப் பதிவு செய்து, அதை YouTube, TikTok அல்லது Instagram-இல் பகிரவும்.</string>
+    <string name="free_premium_step1_desc">HTML2APK மூலம் நீங்கள் உருவாக்கிய ஆப் அல்லது கேமை விளக்கும் வீடியோவைப் பதிவு செய்து, அதை YouTube, TikTok அல்லது Instagram-இல் பகிரவும்.</string>
     <string name="free_premium_step1_title">வீடியோவைப் பதிவு செய்து பகிரவும்</string>
     <string name="free_premium_step2_desc">உங்கள் வீடியோ இந்தத் தளங்களில் ஏதேனும் ஒன்றில் 10,000 பார்வைகளைப் பெற்றவுடன், உங்கள் வெகுமதி தயாராகிவிடும்.</string>
     <string name="free_premium_step2_title">10,000 பார்வைகளை அடையுங்கள்</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">எல்லாவற்றையும் நேர்த்தியாக வைத்திருக்க கோப்புறைகள் மற்றும் திட்டச் செயல்களைப் பயன்படுத்தவும்.</string>
     <string name="howto_organize_title">திட்டங்களை வரிசையாக வைத்திருங்கள்</string>
     <string name="howto_output_body">APK என்பது உங்கள் மொபைலில் நிறுவுவதற்கு அல்லது நேரடியாகப் பகிர்வதற்கு ஆகும். AAB என்பது Google Play-க்குத் தேவையான வடிவமாகும் (Pro). Pro மூலம், திட்ட மெனுவிலிருந்து திட்டத்தை Android Studio திட்டமாக (ZIP) ஏற்றுமதி செய்யலாம். முந்தைய பில்ட்கள் அதே மெனுவில் உள்ள Build Outputs-இல் உள்ளன, மேலும் மெனு மூலம் திட்டங்களை ZIP காப்புப்பிரதிகளாக ஏற்றுமதி செய்யலாம் அல்லது இறக்குமதி செய்யலாம்.</string>
-    <string name="howto_overview">HTML to APK Builder மூலம், உங்கள் இணையதளம் அல்லது HTML கோப்புகளை உண்மையான ஆண்ட்ராய்டு ஆப்ஸாக மாற்றலாம். கோடிங் தேவையில்லை!</string>
+    <string name="howto_overview">HTML2APK மூலம், உங்கள் இணையதளம் அல்லது HTML கோப்புகளை உண்மையான ஆண்ட்ராய்டு ஆப்ஸாக மாற்றலாம். கோடிங் தேவையில்லை!</string>
     <string name="howto_pdf_body">புராஜெக்ட்டை உருவாக்கி, பிறகு PDF-ஐத் திறக்கவும் / பார்க்கவும், இது ரீடரைத் திறக்கும். பெரிதாக்கவும், ஒளி மற்றும் இருண்ட வாசிப்பு முறைகளுக்கு இடையில் மாறவும், புக்மார்க்குகளைச் சேர்க்கவும் மற்றும் உங்கள் கடைசிப் பக்கத்திலிருந்து தொடரவும். பக்கங்களை மறுவரிசைப்படுத்த அல்லது ஆவணத்தில் குறிப்புகளைச் சேர்க்க விரும்பும்போது \'திருத்து\' என்பதைப் பயன்படுத்தவும். நீங்கள் ஒரு ஆவணத்தை பின்னர் ஒரு பயன்பாடாக மாற்றலாம்.</string>
     <string name="howto_playstore_signing_action">மேலும் வாசிக்க</string>
-    <string name="howto_playstore_signing_body">Play Console “ஆப் கையொப்பமிடும் விருப்பங்கள்” (App signing preferences) பற்றிக் கேட்கும்போது, முதல் விருப்பத்தைத் தேர்ந்தெடுக்கவும்: &lt;b&gt;Google உங்கள் ஆப் கையொப்பமிடும் விசையை நிர்வகிக்கவும் பாதுகாக்கவும் அனுமதிக்கவும் (பரிந்துரைக்கப்படுகிறது)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;இது &lt;b&gt;Play ஆப் கையொப்பமிடுதலை&lt;/b&gt; (Play App Signing) செயல்படுத்துகிறது. Google உண்மையான கையொப்பமிடும் விசையை வைத்திருக்கும்; நீங்கள் உங்கள் பதிவேற்ற விசையுடன் கையொப்பமிடப்பட்ட APKகள்/AABகளை மட்டுமே பதிவேற்றுகிறீர்கள்.&lt;br/&gt;&lt;br/&gt;நீங்கள் பின்னர் கீஸ்டோரை (உதாரணமாக HTMLtoAPK ஐ நிறுவல் நீக்குவதன் மூலம்) இழந்தால், Play Console இல் &lt;b&gt;பதிவேற்ற விசை மீட்டமைப்பை&lt;/b&gt; (upload key reset) கோரலாம், பயனர்கள் தொடர்ந்து புதுப்பிப்புகளைப் பெறுவார்கள்.&lt;br/&gt;&lt;br/&gt;நீங்கள் உங்கள் சொந்த கையொப்பமிடும் விசையைப் பதிவேற்ற வேண்டும் என்றால், இந்த ஆப்பில் கீஸ்டோரைத் திறந்து &lt;b&gt;Play Store க்காக ஏற்றுமதி செய் (PEPK)&lt;/b&gt; என்பதைத் தட்டவும். &lt;b&gt;output.zip&lt;/b&gt; ஐ உருவாக்கி அதை பதிவேற்ற, Play Console காட்டும் அதே முறையை (hex பொது விசை அல்லது RSA பொது விசை PEM) தேர்ந்தெடுக்கவும்.&lt;br/&gt;&lt;br/&gt;அந்த விசையை எப்போதும் பாதுகாப்பாக வைத்திருக்க முடியும் என்று நீங்கள் உறுதியாக இருந்தால் மட்டுமே “உங்கள் சொந்த விசையை ஏற்றுமதி செய்து பதிவேற்றவும்” என்பதைத் தேர்ந்தெடுக்கவும். அதை இழந்தால், உங்களால் மீண்டும் ஆப்பை புதுப்பிக்க முடியாது.</string>
+    <string name="howto_playstore_signing_body">Play Console “ஆப் கையொப்பமிடும் விருப்பங்கள்” (App signing preferences) பற்றிக் கேட்கும்போது, முதல் விருப்பத்தைத் தேர்ந்தெடுக்கவும்: &lt;b&gt;Google உங்கள் ஆப் கையொப்பமிடும் விசையை நிர்வகிக்கவும் பாதுகாக்கவும் அனுமதிக்கவும் (பரிந்துரைக்கப்படுகிறது)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;இது &lt;b&gt;Play ஆப் கையொப்பமிடுதலை&lt;/b&gt; (Play App Signing) செயல்படுத்துகிறது. Google உண்மையான கையொப்பமிடும் விசையை வைத்திருக்கும்; நீங்கள் உங்கள் பதிவேற்ற விசையுடன் கையொப்பமிடப்பட்ட APKகள்/AABகளை மட்டுமே பதிவேற்றுகிறீர்கள்.&lt;br/&gt;&lt;br/&gt;நீங்கள் பின்னர் கீஸ்டோரை (உதாரணமாக HTML2APK ஐ நிறுவல் நீக்குவதன் மூலம்) இழந்தால், Play Console இல் &lt;b&gt;பதிவேற்ற விசை மீட்டமைப்பை&lt;/b&gt; (upload key reset) கோரலாம், பயனர்கள் தொடர்ந்து புதுப்பிப்புகளைப் பெறுவார்கள்.&lt;br/&gt;&lt;br/&gt;நீங்கள் உங்கள் சொந்த கையொப்பமிடும் விசையைப் பதிவேற்ற வேண்டும் என்றால், இந்த ஆப்பில் கீஸ்டோரைத் திறந்து &lt;b&gt;Play Store க்காக ஏற்றுமதி செய் (PEPK)&lt;/b&gt; என்பதைத் தட்டவும். &lt;b&gt;output.zip&lt;/b&gt; ஐ உருவாக்கி அதை பதிவேற்ற, Play Console காட்டும் அதே முறையை (hex பொது விசை அல்லது RSA பொது விசை PEM) தேர்ந்தெடுக்கவும்.&lt;br/&gt;&lt;br/&gt;அந்த விசையை எப்போதும் பாதுகாப்பாக வைத்திருக்க முடியும் என்று நீங்கள் உறுதியாக இருந்தால் மட்டுமே “உங்கள் சொந்த விசையை ஏற்றுமதி செய்து பதிவேற்றவும்” என்பதைத் தேர்ந்தெடுக்கவும். அதை இழந்தால், உங்களால் மீண்டும் ஆப்பை புதுப்பிக்க முடியாது.</string>
     <string name="howto_playstore_signing_summary">பதிவேற்ற விசைகள், Play ஆப் கையொப்பமிடுதல் மற்றும் PEPK ஆகியவற்றைப் புரிந்துகொள்ளுங்கள்.</string>
     <string name="howto_playstore_signing_title">Play Store கையொப்பமிடும் விசை தேர்வு</string>
     <string name="howto_preview_body">முன்னோட்டம் (Preview) உங்கள் பக்கத்தை முடிக்கப்பட்ட ஆப் செயல்படுவது போலவே இயக்கும், இதில் Android API அழைப்புகளும் அடங்கும். HTML எடிட்டர் உங்கள் குறியீட்டிற்கு வண்ணம் பூசும், உங்களுக்காக டேக்குகளை மூடும் மற்றும் தேடி மாற்றும் வசதியைக் கொண்டுள்ளது; நீங்கள் முன்னோட்டத்திற்கு மாறி மீண்டும் வரும்போது மாற்றங்கள் அப்படியே இருக்கும்.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">இந்தச் சாதனத்தில் ஒரு நகலை வைத்திருக்கவும்</string>
     <string name="keystore_persisted">Downloads/HTMLtoAPK/Keystores இல் சேமிக்கப்பட்டது</string>
     <string name="keystore_project_linked">திட்டம்: %1$s</string>
-    <string name="keystore_recovery_body">நீங்கள் HTMLtoAPK-ஐ நிறுவல் நீக்கம் செய்திருந்தால், தானாக உருவாக்கப்பட்ட ஆப் கையொப்பமிடும் சாவிகள் தொலைந்திருக்கலாம். புதிய பில்ட் வேறு சாவியுடன் கையொப்பமிடப்படும், மேலும் Play Store புதுப்பிப்பை நிராகரிக்கலாம்.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;தீர்வு 1 - பதிவேற்றச் சாவியை மீட்டமைக்கவும் (பரிந்துரைக்கப்படுகிறது):&lt;/b&gt;&lt;br/&gt;1. கீழே உள்ள பட்டியலில் இருந்து உங்கள் புதிய கீஸ்டோரின் &lt;b&gt;PEM சான்றிதழை&lt;/b&gt; ஏற்றுமதி செய்யவும்.&lt;br/&gt;2. Play Console-இல், &lt;b&gt;ஆப் கையொப்பமிடுதல் &gt; பதிவேற்றச் சாவியை மீட்டமைக்கக் கோரு&lt;/b&gt; என்பதற்குச் செல்லவும்.&lt;br/&gt;3. படிவத்தைப் பூர்த்தி செய்து PEM கோப்பைப் பதிவேற்றவும்.&lt;br/&gt;4. அங்கீகரிக்கப்பட்டதும், புதிய சாவியுடன் கையொப்பமிடப்பட்ட உங்கள் புதிய APK/AAB-ஐ வெளியிடவும்.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;தீர்வு 2 - ஆப் கையொப்பமிடும் சாவியை மாற்றவும்:&lt;/b&gt;&lt;br/&gt;Play Console புதிய ஆப் கையொப்பமிடும் சாவியைப் பதிவேற்ற அனுமதித்தால், கீஸ்டோரில் &lt;b&gt;Play Store-க்காக ஏற்றுமதி செய் (PEPK)&lt;/b&gt; என்பதைப் பயன்படுத்தவும். Play Console-இல் காட்டப்பட்டுள்ள அதே முறையைத் தேர்ந்தெடுத்து (hex key அல்லது RSA PEM), output.zip-ஐ உருவாக்கி, அதைப் பதிவேற்றவும்.&lt;br/&gt;&lt;br/&gt;நீங்கள் பதிவேற்றச் சாவியை மட்டும் மீட்டமைக்கும்போது ஆப் கையொப்பமிடும் சாவி Google-இடம் இருப்பதால் பயனர்கள் தொடர்ந்து புதுப்பிப்புகளைப் பெறுவார்கள்.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Play ஆப் கையொப்பமிடுதல் முடக்கப்பட்டிருந்தால்&lt;/b&gt; மற்றும் நீங்கள் கையொப்பமிடும் சாவியை இழந்திருந்தால், புதிய பேக்கேஜ் பெயருடன் ஆப்பை மீண்டும் வெளியிட வேண்டும்.</string>
+    <string name="keystore_recovery_body">நீங்கள் HTML2APK-ஐ நிறுவல் நீக்கம் செய்திருந்தால், தானாக உருவாக்கப்பட்ட ஆப் கையொப்பமிடும் சாவிகள் தொலைந்திருக்கலாம். புதிய பில்ட் வேறு சாவியுடன் கையொப்பமிடப்படும், மேலும் Play Store புதுப்பிப்பை நிராகரிக்கலாம்.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;தீர்வு 1 - பதிவேற்றச் சாவியை மீட்டமைக்கவும் (பரிந்துரைக்கப்படுகிறது):&lt;/b&gt;&lt;br/&gt;1. கீழே உள்ள பட்டியலில் இருந்து உங்கள் புதிய கீஸ்டோரின் &lt;b&gt;PEM சான்றிதழை&lt;/b&gt; ஏற்றுமதி செய்யவும்.&lt;br/&gt;2. Play Console-இல், &lt;b&gt;ஆப் கையொப்பமிடுதல் &gt; பதிவேற்றச் சாவியை மீட்டமைக்கக் கோரு&lt;/b&gt; என்பதற்குச் செல்லவும்.&lt;br/&gt;3. படிவத்தைப் பூர்த்தி செய்து PEM கோப்பைப் பதிவேற்றவும்.&lt;br/&gt;4. அங்கீகரிக்கப்பட்டதும், புதிய சாவியுடன் கையொப்பமிடப்பட்ட உங்கள் புதிய APK/AAB-ஐ வெளியிடவும்.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;தீர்வு 2 - ஆப் கையொப்பமிடும் சாவியை மாற்றவும்:&lt;/b&gt;&lt;br/&gt;Play Console புதிய ஆப் கையொப்பமிடும் சாவியைப் பதிவேற்ற அனுமதித்தால், கீஸ்டோரில் &lt;b&gt;Play Store-க்காக ஏற்றுமதி செய் (PEPK)&lt;/b&gt; என்பதைப் பயன்படுத்தவும். Play Console-இல் காட்டப்பட்டுள்ள அதே முறையைத் தேர்ந்தெடுத்து (hex key அல்லது RSA PEM), output.zip-ஐ உருவாக்கி, அதைப் பதிவேற்றவும்.&lt;br/&gt;&lt;br/&gt;நீங்கள் பதிவேற்றச் சாவியை மட்டும் மீட்டமைக்கும்போது ஆப் கையொப்பமிடும் சாவி Google-இடம் இருப்பதால் பயனர்கள் தொடர்ந்து புதுப்பிப்புகளைப் பெறுவார்கள்.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Play ஆப் கையொப்பமிடுதல் முடக்கப்பட்டிருந்தால்&lt;/b&gt; மற்றும் நீங்கள் கையொப்பமிடும் சாவியை இழந்திருந்தால், புதிய பேக்கேஜ் பெயருடன் ஆப்பை மீண்டும் வெளியிட வேண்டும்.</string>
     <string name="keystore_recovery_close">புரிந்தது</string>
     <string name="keystore_recovery_open_console">Play Console ஐத் திறக்கவும்</string>
     <string name="keystore_recovery_title">உங்கள் கையொப்பமிடும் விசையை இழந்துவிட்டீர்களா?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">PDF வியூவர்</string>
     <string name="licenses_count">%1$d நூலகங்கள்</string>
     <string name="licenses_empty">உங்கள் தேடலுக்கு எந்த லைப்ரரியும் பொருந்தவில்லை.</string>
-    <string name="licenses_intro">HTML to APK கீழே உள்ள திறந்த மூல மென்பொருளில் கட்டமைக்கப்பட்டுள்ளது. “Generated apps” எனக் குறிக்கப்பட்ட லைப்ரரிகள், அது உருவாக்கும் ஆப்ஸ்களிலும் தொகுக்கப்பட்டுள்ளன (விளம்பரங்கள் ஆன் செய்யப்பட்டிருக்கும்போது மட்டுமே விளம்பர லைப்ரரிகள்).</string>
+    <string name="licenses_intro">HTML2APK கீழே உள்ள திறந்த மூல மென்பொருளில் கட்டமைக்கப்பட்டுள்ளது. “Generated apps” எனக் குறிக்கப்பட்ட லைப்ரரிகள், அது உருவாக்கும் ஆப்ஸ்களிலும் தொகுக்கப்பட்டுள்ளன (விளம்பரங்கள் ஆன் செய்யப்பட்டிருக்கும்போது மட்டுமே விளம்பர லைப்ரரிகள்).</string>
     <string name="licenses_load_failed">உரிமப் பட்டியலை ஏற்ற முடியவில்லை.</string>
     <string name="licenses_open_license">திறந்த உரிமம்</string>
     <string name="licenses_open_website">இணையதளம்</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">கீழ்த்தோன்றல் மெனுவை நிலைமாற்றும்</string>
     <string name="m3c_snackbar_dismiss">நிராகரிக்கும்</string>
     <string name="mail_report_android">Android பதிப்பு: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">HTML to APK பதிப்பு: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">HTML2APK பதிப்பு: v%1$s (%2$d)</string>
     <string name="mail_report_date">தேதி: %1$s</string>
     <string name="mail_report_default_project">திட்டம்</string>
     <string name="mail_report_device">சாதனம்: %1$s %2$s</string>
     <string name="mail_report_end">=== அறிக்கையின் முடிவு ===</string>
     <string name="mail_report_format">வெளியீட்டு வடிவம்: %1$s</string>
-    <string name="mail_report_intro">HTML to APK செயலியில் உருவாக்க முயற்சி தோல்வியடைந்தது.</string>
+    <string name="mail_report_intro">HTML2APK செயலியில் உருவாக்க முயற்சி தோல்வியடைந்தது.</string>
     <string name="mail_report_intro2">தயவுசெய்து இந்த பிழை அறிக்கையை மதிப்பாய்வு செய்யவும்.</string>
     <string name="mail_report_package_name">தொகுப்பு பெயர்: %1$s</string>
     <string name="mail_report_project_name">திட்டத்தின் பெயர்: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">அமைப்புகள்</string>
     <string name="nav_templates">வார்ப்புருக்கள்</string>
     <string name="not_selected">தேர்ந்தெடுக்கப்படவில்லை</string>
-    <string name="offer_dialog_message">HTML to APK மூலம் நீங்கள் உருவாக்கிய ஆப்ஸைக் காட்டும் வீடியோவைப் பகிருங்கள். அது 10,000 பார்வைகளை எட்டும்போது, Pro எங்களுடையது.</string>
+    <string name="offer_dialog_message">HTML2APK மூலம் நீங்கள் உருவாக்கிய ஆப்ஸைக் காட்டும் வீடியோவைப் பகிருங்கள். அது 10,000 பார்வைகளை எட்டும்போது, Pro எங்களுடையது.</string>
     <string name="offer_dialog_no">இப்போது வேண்டாம்</string>
     <string name="offer_dialog_title">Pro-வை இலவசமாகப் பெறுங்கள்</string>
     <string name="offer_dialog_yes">நான் அதை எப்படிப் பெறுவது?</string>
@@ -1279,7 +1279,7 @@
     <string name="premium_credits_link_detail">தனியாக விற்கப்படுகிறது, Pro தேவையில்லை. புதிய கணக்குகளுக்கு முதல் செயலி இலவசம்.</string>
     <string name="premium_credits_link_title">AI கிரெடிட் தொகுப்புகள்</string>
     <string name="premium_crown_subtitle">அனைத்து வரம்புகளையும் நீக்கி முழு ஆற்றலுடன் உருவாக்குங்கள்.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
     <string name="premium_dev_note_desc">வணக்கம்! நான் எம்ரே, எனக்கு 19 வயது. நான் HTML-ஐ APK-ஆக மாற்றும் செயலியை மிகுந்த ஆர்வத்துடன் தனியாக உருவாக்குகிறேன். உங்கள் இணையத் திட்டங்களை எந்த சிக்கலான அமைப்பும் இல்லாமல், தடையின்றி உண்மையான ஆண்ட்ராய்டு செயலிகளாக மாற்ற உங்களுக்கு உதவுவதே எனது இலக்கு.\n\nபுரோ (Pro) பதிப்பிற்கு மேம்படுத்துவதன் மூலம், நீங்கள் ஒரு இளம் தனிப்பட்ட டெவலப்பரை நேரடியாக ஆதரிக்கிறீர்கள் மற்றும் இந்தத் திட்டத்தின் எதிர்கால வளர்ச்சிக்கு உதவுகிறீர்கள். உங்கள் அன்பான ஆதரவிற்கு மிக்க நன்றி! ❤️</string>
     <string name="premium_dev_note_title">டெவலப்பரிடமிருந்து ஒரு குறிப்பு 👋</string>
     <string name="premium_error_payment">பணம் செலுத்துதல் கிடைக்கவில்லை. தயவுசெய்து பிறகு மீண்டும் முயற்சிக்கவும்.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">வரம்பற்ற PDF ஆவணங்களைப் படிக்கவும்</string>
     <string name="premium_feature_unlimited_pdf_detail">இலவசத் திட்டம் 5 PDF ஆவணப் புராஜெக்ட்கள் வரை வைத்திருக்கும். புரோ பதிப்பு இந்த வரம்பை நீக்குகிறது, எனவே உங்கள் வாசிப்பு நூலகம் தொடர்ந்து வளர முடியும்.</string>
     <string name="premium_feature_watermark_desc">உருவாக்கப்பட்ட செயலிகளிலிருந்து வாட்டர்மார்க்கை நீக்கவும்</string>
-    <string name="premium_feature_watermark_detail">முழுமையாக ஒயிட்-லேபிள், பிராண்டட் பயன்பாடுகளுக்காக அனைத்து ஏற்றுமதி செய்யப்பட்ட பில்ட்களிலிருந்தும் \'Made with HTML to APK\' ஸ்பிளாஷ் குறிகாட்டிகள் மற்றும் வாட்டர்மார்க்குகளை நீக்கவும்.</string>
+    <string name="premium_feature_watermark_detail">முழுமையாக ஒயிட்-லேபிள், பிராண்டட் பயன்பாடுகளுக்காக அனைத்து ஏற்றுமதி செய்யப்பட்ட பில்ட்களிலிருந்தும் \'Made with HTML2APK\' ஸ்பிளாஷ் குறிகாட்டிகள் மற்றும் வாட்டர்மார்க்குகளை நீக்கவும்.</string>
     <string name="premium_feature_webview_desc">மேம்பட்ட WebView அமைப்புகள்</string>
     <string name="premium_feature_webview_detail">ஹார்டுவேர் முடுக்கம், JS கன்சோல் பதிவுகள், தனிப்பயன் பயனர்-ஏஜென்ட் சரங்கள், கோப்பு பதிவேற்ற அனுமதிகள் மற்றும் கேச்சிங் உத்திகள் ஆகியவற்றின் மீது முழுமையான கட்டுப்பாட்டைப் பெறுங்கள்.</string>
     <string name="premium_less_features_button">குறைவாகக் காட்டு</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">கருத்துக்களை அனுப்பவும்</string>
     <string name="settings_feedback_chooser">கருத்தை அனுப்பவும்</string>
     <string name="settings_feedback_no_app">மின்னஞ்சல் செயலி எதுவும் கண்டறியப்படவில்லை</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - கருத்து</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Pro-வை இலவசமாகப் பெறுங்கள்</string>
     <string name="settings_free_premium_summary">வீடியோவைப் பகிருங்கள், 10 ஆயிரம் பார்வைகளைப் பெறுங்கள், Pro-வைப் பெறுங்கள்</string>
@@ -1509,7 +1509,7 @@
     <string name="state_on">ஆன்</string>
     <string name="support_button_action">ஆதரவு</string>
     <string name="support_cats_interactive_hint">பூனைகளைத் தடவ ஏதேனும் ஒரு பூனையைத் தட்டவும்! 🐾</string>
-    <string name="support_developer_desc">வணக்கம்! புரோ (Pro) பதிப்பை வாங்கியதற்கு மிக்க நன்றி. ஒரு தனிப்பட்ட டெவலப்பராக, நான் HTML to APK செயலியைத் தொடர்ந்து பராமரித்து மேம்படுத்தி வருகிறேன். உங்களுக்கு இந்தச் செயலி பிடித்து, எதிர்கால மேம்பாடுகளுக்கு ஆதரவளிக்க விரும்பினால், நீங்கள் எனக்கு ஒரு காபி அல்லது உணவு வாங்கலாம். உங்கள் ஒவ்வொரு பங்களிப்பும் எனக்கு மிகவும் முக்கியமானது! ❤️</string>
+    <string name="support_developer_desc">வணக்கம்! புரோ (Pro) பதிப்பை வாங்கியதற்கு மிக்க நன்றி. ஒரு தனிப்பட்ட டெவலப்பராக, நான் HTML2APK செயலியைத் தொடர்ந்து பராமரித்து மேம்படுத்தி வருகிறேன். உங்களுக்கு இந்தச் செயலி பிடித்து, எதிர்கால மேம்பாடுகளுக்கு ஆதரவளிக்க விரும்பினால், நீங்கள் எனக்கு ஒரு காபி அல்லது உணவு வாங்கலாம். உங்கள் ஒவ்வொரு பங்களிப்பும் எனக்கு மிகவும் முக்கியமானது! ❤️</string>
     <string name="support_developer_subtitle">நீங்கள் எனக்கு ஆதரவளிக்க விரும்பினால் ☕</string>
     <string name="support_developer_title">டெவலப்பரை ஆதரியுங்கள்</string>
     <string name="support_success_button">வரவேற்கிறோம் ❤️</string>
@@ -1519,7 +1519,7 @@
     <string name="support_tier_coffee_title">ஒரு காபி வாங்குங்கள்</string>
     <string name="support_tier_meal_desc">ஆற்றலுடனும் கவனத்துடனும் இருக்க ஒரு நல்ல இரவு உணவு 🍕</string>
     <string name="support_tier_meal_title">ஒரு வேளை உணவு வாங்குங்கள்</string>
-    <string name="support_tier_sponsor_desc">HTML to APK-ன் எதிர்காலத்திற்கான நேரடி பங்களிப்பு 🚀</string>
+    <string name="support_tier_sponsor_desc">HTML2APK-ன் எதிர்காலத்திற்கான நேரடி பங்களிப்பு 🚀</string>
     <string name="support_tier_sponsor_title">சூப்பர் ஸ்பான்சர்</string>
     <string name="switch_role">மாற்றுதல்</string>
     <string name="tab">பிரிவு</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">முழுத்திரை தளவமைப்பு</string>
     <string name="template_gallery_desc">base64 படத்தை புகைப்பட கேலரியில் சேமிக்கவும்.</string>
     <string name="template_gallery_title">கேலரியில் சேமிக்கவும்</string>
-    <string name="template_guide_body">HTML to APK உங்கள் WebView-இல் AndroidAPI எனப்படும் உலகளாவிய JavaScript பொருளைச் சேர்க்கிறது. இந்த முறைகளை உங்கள் HTML/JS குறியீட்டிலிருந்து நேரடியாக அழைக்கலாம்:</string>
+    <string name="template_guide_body">HTML2APK உங்கள் WebView-இல் AndroidAPI எனப்படும் உலகளாவிய JavaScript பொருளைச் சேர்க்கிறது. இந்த முறைகளை உங்கள் HTML/JS குறியீட்டிலிருந்து நேரடியாக அழைக்கலாம்:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Hello!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Title,Body)\nAndroidAPI.getDeviceInfo() // JSON-ஐத் தரும்\nAndroidAPI.getBatteryLevel() // 0-100 வரையிலான எண்ணைத் தரும்\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // 0-255 வரையிலான எண்ணைத் தரும்</string>
-    <string name="template_guide_note">குறிப்பு: இந்த API-களை onclick ஹேண்ட்லர்கள் அல்லது ஏதேனும் JavaScript செயல்பாட்டிற்குள் பயன்படுத்தவும். உங்கள் ஆப் HTML to APK மூலம் உருவாக்கப்படும்போது இந்த ஆப்ஜெக்ட் தானாகவே கிடைக்கும்.</string>
+    <string name="template_guide_note">குறிப்பு: இந்த API-களை onclick ஹேண்ட்லர்கள் அல்லது ஏதேனும் JavaScript செயல்பாட்டிற்குள் பயன்படுத்தவும். உங்கள் ஆப் HTML2APK மூலம் உருவாக்கப்படும்போது இந்த ஆப்ஜெக்ட் தானாகவே கிடைக்கும்.</string>
     <string name="template_guide_title">API வழிகாட்டி</string>
     <string name="template_gyroscope_desc">X, Y மற்றும் Z அச்சுகளில் சாதனத்தின் சுழற்சி விகிதத்தை வாசிக்கவும்.</string>
     <string name="template_gyroscope_title">கைரோஸ்கோப்</string>

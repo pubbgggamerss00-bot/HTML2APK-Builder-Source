@@ -1,0 +1,99 @@
+== 1. Strings rebranding ==
+  res/values/strings.xml: app_name -> HTML2APK
+  res/values-ar/strings.xml: app_name -> HTML2APK
+  res/values-bg/strings.xml: app_name -> HTML2APK
+  res/values-bn/strings.xml: app_name -> HTML2APK
+  res/values-ca/strings.xml: app_name -> HTML2APK
+  res/values-cs/strings.xml: app_name -> HTML2APK
+  res/values-da/strings.xml: app_name -> HTML2APK
+  res/values-de/strings.xml: app_name -> HTML2APK
+  res/values-el/strings.xml: app_name -> HTML2APK
+  res/values-es/strings.xml: app_name -> HTML2APK
+  res/values-et/strings.xml: app_name -> HTML2APK
+  res/values-fa/strings.xml: app_name -> HTML2APK
+  res/values-fi/strings.xml: app_name -> HTML2APK
+  res/values-fr/strings.xml: app_name -> HTML2APK
+  res/values-gu/strings.xml: app_name -> HTML2APK
+  res/values-hi/strings.xml: app_name -> HTML2APK
+  res/values-hr/strings.xml: app_name -> HTML2APK
+  res/values-hu/strings.xml: app_name -> HTML2APK
+  res/values-in/strings.xml: app_name -> HTML2APK
+  res/values-is/strings.xml: app_name -> HTML2APK
+  res/values-it/strings.xml: app_name -> HTML2APK
+  res/values-iw/strings.xml: app_name -> HTML2APK
+  res/values-ja/strings.xml: app_name -> HTML2APK
+  res/values-kn/strings.xml: app_name -> HTML2APK
+  res/values-ko/strings.xml: app_name -> HTML2APK
+  res/values-lt/strings.xml: app_name -> HTML2APK
+  res/values-lv/strings.xml: app_name -> HTML2APK
+  res/values-ml/strings.xml: app_name -> HTML2APK
+  res/values-mr/strings.xml: app_name -> HTML2APK
+  res/values-nl/strings.xml: app_name -> HTML2APK
+  res/values-no/strings.xml: app_name -> HTML2APK
+  res/values-pa/strings.xml: app_name -> HTML2APK
+  res/values-pl/strings.xml: app_name -> HTML2APK
+  res/values-pt/strings.xml: app_name -> HTML2APK
+  res/values-ro/strings.xml: app_name -> HTML2APK
+  res/values-ru/strings.xml: app_name -> HTML2APK
+  res/values-sk/strings.xml: app_name -> HTML2APK
+  res/values-sl/strings.xml: app_name -> HTML2APK
+  res/values-sv/strings.xml: app_name -> HTML2APK
+  res/values-sw/strings.xml: app_name -> HTML2APK
+  res/values-ta/strings.xml: app_name -> HTML2APK
+  res/values-te/strings.xml: app_name -> HTML2APK
+  res/values-th/strings.xml: app_name -> HTML2APK
+  res/values-tr/strings.xml: app_name -> HTML2APK
+  res/values-uk/strings.xml: app_name -> HTML2APK
+  res/values-ur/strings.xml: app_name -> HTML2APK
+  res/values-vi/strings.xml: app_name -> HTML2APK
+  res/values-zh-rCN/strings.xml: app_name -> HTML2APK
+  res/values-zu/strings.xml: app_name -> HTML2APK
+strings: 845 line edits across 49 locale files
+remaining occurrences (expected: only protected path strings): 196
+  kept path string: strings.xml:194
+  kept path string: strings.xml:993
+  kept path string: strings.xml:1026
+  kept path string: strings.xml:1155
+  kept path string: strings.xml:194
+  kept path string: strings.xml:993
+  kept path string: strings.xml:1026
+  kept path string: strings.xml:1155
+  kept path string: strings.xml:194
+  kept path string: strings.xml:993
+  kept path string: strings.xml:1026
+  kept path string: strings.xml:1155
+== 2. Theme ==
+  Theme.HTMLToAPK -> fixed dark M3 + neon cyan/lime
+== 3. Colors ==
+  design_dark_default_color_background -> #080B12
+  design_dark_default_color_primary -> #00D9FF
+  design_dark_default_color_secondary -> #A6FF00
+  design_dark_default_color_secondary_variant -> #65E6A5
+  design_dark_default_color_surface -> #101522
+colors: 5 overrides ported
+== 4. Icons ==
+  copied res/mipmap-xxhdpi/ic_launcher.webp
+  copied res/mipmap-xxhdpi/ic_launcher_round.webp
+  copied res/mipmap-xxhdpi/ic_launcher_foreground.webp
+  copied res/mipmap-hdpi/ic_launcher.webp
+  copied res/mipmap-hdpi/ic_launcher_round.webp
+  copied res/mipmap-hdpi/ic_launcher_foreground.webp
+  copied res/mipmap-mdpi/ic_launcher.webp
+  copied res/mipmap-mdpi/ic_launcher_round.webp
+  copied res/mipmap-mdpi/ic_launcher_foreground.webp
+  copied res/mipmap-xhdpi/ic_launcher.webp
+  copied res/mipmap-xhdpi/ic_launcher_round.webp
+  copied res/mipmap-xhdpi/ic_launcher_foreground.webp
+  copied res/mipmap-xxxhdpi/ic_launcher.webp
+  copied res/mipmap-xxxhdpi/ic_launcher_round.webp
+  copied res/mipmap-xxxhdpi/ic_launcher_foreground.webp
+  copied res/mipmap-anydpi/ic_launcher_round.xml
+  copied res/mipmap-anydpi/ic_launcher.xml
+  copied res/drawable/ic_launcher_background.xml
+  copied assets/html2apk_launcher_foreground.png
+  copied assets/html2apk_launcher_icon.png
+icons: 20 files ported
+== 5. Smali email retargeting ==
+  smali/e9/q0.smali: 2 occurrences 'chat.mobai@gmail.com' -> 'warzonevangard@gmail.com'
+  smali/e9/k.smali: 2 occurrences 'gamecrafter1520@gmail.com' -> 'warzonevangard@gmail.com'
+  f9/u9.smali feedback email present: 0 occurrences (expected >=3)

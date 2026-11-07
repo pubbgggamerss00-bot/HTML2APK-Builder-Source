@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Cabanga…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Izithombe ezinyakazayo zicishiwe ngoba idivayisi ibinezinkinga. Zivule kuzilungiselelo.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Ixhuma ku-Google Play, sicela uzame futhi emizuzwaneni embalwa.</string>
     <string name="billing_restore_error">Iphutha ngesikhathi sokubuza: %1$s</string>
     <string name="billing_restore_not_found">Akukho okuthengiwe okusebenzayo okutholakele kule akhawunti ye-Google.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Thumela I-imeyili</string>
     <string name="build_failed_dialog_title">Ukwakha Kuhlulekile</string>
     <string name="build_failed_email_chooser">Thumela umbiko wephutha nge…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Umbiko Wokuhluleka Kokwakha - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Umbiko Wokuhluleka Kokwakha - %1$s</string>
     <string name="build_format_aab">I-App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">Ukwakhiwa kwe-AAB kuqediwe: %1$s (%2$d bytes)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Yabelana ngalokho okwakhile nomhlaba futhi uthole i-Pro njengembuyiselo. Kuthatha izinyathelo ezi-3 ezilula kuphela:</string>
     <string name="free_premium_note">Ithiphu: faka isithombe-skrini senani lokubukwa ku-imeyili yakho ukuze usheshise ukuqinisekiswa.</string>
     <string name="free_premium_send_email">Thumela i-imeyili</string>
-    <string name="free_premium_step1_desc">Rekhoda ividiyo ekhombisa uhlelo lokusebenza noma umdlalo owenzile nge-HTML to APK bese wabelana ngayo ku-YouTube, TikTok noma Instagram.</string>
+    <string name="free_premium_step1_desc">Rekhoda ividiyo ekhombisa uhlelo lokusebenza noma umdlalo owenzile nge-HTML2APK bese wabelana ngayo ku-YouTube, TikTok noma Instagram.</string>
     <string name="free_premium_step1_title">Rekhoda futhi wabelane ngevidiyo</string>
     <string name="free_premium_step2_desc">Uma ividiyo yakho isifinyelele ekubukweni okungu-10,000 kunoma yimaphi lawa mapulatifomu, umvuzo wakho usulungile.</string>
     <string name="free_premium_step2_title">Finyelela ekubukweni okungu-10,000</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Sebenzisa amafolda nezenzo zephrojekthi ukuze ugcine yonke into icocekile.</string>
     <string name="howto_organize_title">Gcina amaphrojekthi ehleliwe</string>
     <string name="howto_output_body">I-APK ingeyokufaka ocingweni lwakho noma ukwabelana ngayo ngokuqondile. I-AAB iyifomethi edingwa yi-Google Play (Pro). Nge-Pro ungaphinde uthumele iphrojekthi njengephrojekthi ye-Android Studio (ZIP) kusuka kumenyu yephrojekthi. Izakhiwo zangaphambilini zingaphansi kwe-Build Outputs kumenyu efanayo, futhi imenyu eyinhloko ingathumela noma ingenise amaphrojekthi njengezipele ze-ZIP.</string>
-    <string name="howto_overview">Nge-HTML to APK Builder, ungaguqula iwebhusayithi yakho noma amafayela e-HTML abe uhlelo lokusebenza lwangempela lwe-Android. Akukho ukubhala ikhodi okudingekayo!</string>
+    <string name="howto_overview">Nge-HTML2APK, ungaguqula iwebhusayithi yakho noma amafayela e-HTML abe uhlelo lokusebenza lwangempela lwe-Android. Akukho ukubhala ikhodi okudingekayo!</string>
     <string name="howto_pdf_body">Dala Iphrojekthi bese uvula / buka i-PDF ukuze uvule isifundi. Sondeza, shintsha phakathi kokufunda okukhanyayo nokumnyama, engeza amabhukumaka futhi uqhubeke ekhasini lakho lokugcina. Sebenzisa Hlela uma ufuna ukuhlela kabusha amakhasi noma ukubhala amanothi kudokhumenti. Ungaguqula idokhumenti ibe uhlelo lokusebenza kamuva.</string>
     <string name="howto_playstore_signing_action">Funda kabanzi</string>
-    <string name="howto_playstore_signing_body">Uma i-Play Console ibuza “Izintandokazi zokusayina uhlelo lokusebenza”, khetha inketho yokuqala: &lt;b&gt;Vumela i-Google iphathe futhi ivikele ukhiye wakho wokusayina wohlelo lokusebenza (kunconyiwe)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Lokhu kunika amandla i-&lt;b&gt;Play App Signing&lt;/b&gt;. I-Google igcina ukhiye wangempela wokusayina; ulayisha kuphela ama-APK/AAB asayinwe ngokhiye wakho wokulayisha.&lt;br/&gt;&lt;br/&gt;Uma kamuva ulahlekelwa yi-keystore (isibonelo ngokukhipha i-HTMLtoAPK), ungacela &lt;b&gt;ukusethwa kabusha kokhiye wokulayisha&lt;/b&gt; ku-Play Console futhi abasebenzisi bazobe besathola izibuyekezo.&lt;br/&gt;&lt;br/&gt;Uma kufanele ulayishe ukhiye wakho wokusayina, vula i-keystore kulolu hlelo lokusebenza bese uthepha &lt;b&gt;Khipha ku-Play Store (PEPK)&lt;/b&gt;. Khetha indlela efanayo eboniswa yi-Play Console (ukhiye womphakathi we-hex noma ukhiye womphakathi we-RSA PEM) ukuze ukhiqize &lt;b&gt;output.zip&lt;/b&gt; bese uyilayisha.&lt;br/&gt;&lt;br/&gt;Khetha kuphela “Khipha futhi ulayishe ukhiye wakho” uma uqinisekile ngokuphelele ukuthi ungawugcina lowo khiye uphephile phakade. Ukuwulahlekelwa kusho ukuthi awukwazi ukubuyekeza uhlelo lokusebenza futhi.</string>
+    <string name="howto_playstore_signing_body">Uma i-Play Console ibuza “Izintandokazi zokusayina uhlelo lokusebenza”, khetha inketho yokuqala: &lt;b&gt;Vumela i-Google iphathe futhi ivikele ukhiye wakho wokusayina wohlelo lokusebenza (kunconyiwe)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Lokhu kunika amandla i-&lt;b&gt;Play App Signing&lt;/b&gt;. I-Google igcina ukhiye wangempela wokusayina; ulayisha kuphela ama-APK/AAB asayinwe ngokhiye wakho wokulayisha.&lt;br/&gt;&lt;br/&gt;Uma kamuva ulahlekelwa yi-keystore (isibonelo ngokukhipha i-HTML2APK), ungacela &lt;b&gt;ukusethwa kabusha kokhiye wokulayisha&lt;/b&gt; ku-Play Console futhi abasebenzisi bazobe besathola izibuyekezo.&lt;br/&gt;&lt;br/&gt;Uma kufanele ulayishe ukhiye wakho wokusayina, vula i-keystore kulolu hlelo lokusebenza bese uthepha &lt;b&gt;Khipha ku-Play Store (PEPK)&lt;/b&gt;. Khetha indlela efanayo eboniswa yi-Play Console (ukhiye womphakathi we-hex noma ukhiye womphakathi we-RSA PEM) ukuze ukhiqize &lt;b&gt;output.zip&lt;/b&gt; bese uyilayisha.&lt;br/&gt;&lt;br/&gt;Khetha kuphela “Khipha futhi ulayishe ukhiye wakho” uma uqinisekile ngokuphelele ukuthi ungawugcina lowo khiye uphephile phakade. Ukuwulahlekelwa kusho ukuthi awukwazi ukubuyekeza uhlelo lokusebenza futhi.</string>
     <string name="howto_playstore_signing_summary">Qonda okhiye bokulayisha, i-Play App Signing kanye ne-PEPK.</string>
     <string name="howto_playstore_signing_title">Ukukhethwa kokhiye wokusayina we-Play Store</string>
     <string name="howto_preview_body">Ukubuka kuqala kusebenzisa ikhasi lakho ngendlela uhlelo lokusebenza oluqediwe luzosebenza ngayo, kuhlanganise nezingcingo ze-AndroidAPI. Isihleli se-HTML sifaka imibala kukhodi yakho, sivale amathegi kuwe futhi sinomsebenzi wokuthola nokushintsha; izinguquko zigcinwa ngenkathi ushintsha uye ekubukeni kuqala bese ubuyela emuva.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Gcina ikhophi kule divayisi</string>
     <string name="keystore_persisted">Ilondolozwe ku-Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Iphrojekthi: %1$s</string>
-    <string name="keystore_recovery_body">Uma ukhiphe i-HTMLtoAPK, okhiye bokusayina bohlelo lokusebenza abakhiqizwe ngokuzenzakalelayo kungenzeka balahleke. Ukwakha okusha kuzosayinwa ngokhiye ohlukile futhi i-Play Store ingase yenqabe isibuyekezo.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Isixazululo 1 - Setha kabusha ukhiye wokulayisha (kunconyiwe):&lt;/b&gt;&lt;br/&gt;1. Khipha &lt;b&gt;isitifiketi se-PEM&lt;/b&gt; se-keystore yakho entsha ohlwini olungezansi.&lt;br/&gt;2. Ku-Play Console, iya ku-&lt;b&gt;Ukusayina kohlelo lokusebenza &gt; Cela ukusethwa kabusha kokhiye wokulayisha&lt;/b&gt;.&lt;br/&gt;3. Gcwalisa ifomu bese ulayisha ifayela le-PEM.&lt;br/&gt;4. Uma seluvunyiwe, shicilela i-APK/AAB yakho entsha esayinwe ngokhiye omusha.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Isixazululo 2 - Faka esikhundleni sokhiye wokusayina wohlelo lokusebenza:&lt;/b&gt;&lt;br/&gt;Uma i-Play Console ikuvumela ukuthi ulayishe ukhiye omusha wokusayina wohlelo lokusebenza, sebenzisa &lt;b&gt;Khipha ku-Play Store (PEPK)&lt;/b&gt; ku-keystore. Khetha indlela efanayo eboniswe ku-Play Console (ukhiye we-hex noma i-RSA PEM), khiqiza i-output.zip, bese uyilayisha.&lt;br/&gt;&lt;br/&gt;Abasebenzisi bazoqhubeka nokuthola izibuyekezo ngoba ukhiye wokusayina wohlelo lokusebenza uhlala ne-Google uma usetha kabusha ukhiye wokulayisha kuphela.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Uma i-Play App Signing ikhutshaziwe&lt;/b&gt; futhi ulahlekelwe ukhiye wokusayina, kufanele ushicilele uhlelo lokusebenza futhi ngegama lephakheji elisha.</string>
+    <string name="keystore_recovery_body">Uma ukhiphe i-HTML2APK, okhiye bokusayina bohlelo lokusebenza abakhiqizwe ngokuzenzakalelayo kungenzeka balahleke. Ukwakha okusha kuzosayinwa ngokhiye ohlukile futhi i-Play Store ingase yenqabe isibuyekezo.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Isixazululo 1 - Setha kabusha ukhiye wokulayisha (kunconyiwe):&lt;/b&gt;&lt;br/&gt;1. Khipha &lt;b&gt;isitifiketi se-PEM&lt;/b&gt; se-keystore yakho entsha ohlwini olungezansi.&lt;br/&gt;2. Ku-Play Console, iya ku-&lt;b&gt;Ukusayina kohlelo lokusebenza &gt; Cela ukusethwa kabusha kokhiye wokulayisha&lt;/b&gt;.&lt;br/&gt;3. Gcwalisa ifomu bese ulayisha ifayela le-PEM.&lt;br/&gt;4. Uma seluvunyiwe, shicilela i-APK/AAB yakho entsha esayinwe ngokhiye omusha.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Isixazululo 2 - Faka esikhundleni sokhiye wokusayina wohlelo lokusebenza:&lt;/b&gt;&lt;br/&gt;Uma i-Play Console ikuvumela ukuthi ulayishe ukhiye omusha wokusayina wohlelo lokusebenza, sebenzisa &lt;b&gt;Khipha ku-Play Store (PEPK)&lt;/b&gt; ku-keystore. Khetha indlela efanayo eboniswe ku-Play Console (ukhiye we-hex noma i-RSA PEM), khiqiza i-output.zip, bese uyilayisha.&lt;br/&gt;&lt;br/&gt;Abasebenzisi bazoqhubeka nokuthola izibuyekezo ngoba ukhiye wokusayina wohlelo lokusebenza uhlala ne-Google uma usetha kabusha ukhiye wokulayisha kuphela.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Uma i-Play App Signing ikhutshaziwe&lt;/b&gt; futhi ulahlekelwe ukhiye wokusayina, kufanele ushicilele uhlelo lokusebenza futhi ngegama lephakheji elisha.</string>
     <string name="keystore_recovery_close">Ngiyitholile</string>
     <string name="keystore_recovery_open_console">Vula i-Play Console</string>
     <string name="keystore_recovery_title">Ulahlekelwe ukhiye wakho wokusayina?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Isibukeli se-PDF</string>
     <string name="licenses_count">Amalabhulali angu-%1$d</string>
     <string name="licenses_empty">Ayikho ilabhulali ehambisana nosesho lwakho.</string>
-    <string name="licenses_intro">I-HTML to APK yakhiwe phezu kwesoftware yomthombo ovulekile ngezansi. Amalayibrari aphawulwe ngokuthi “Generated apps” nawo afakwa ezinhlelweni zokusebenza ezikhiqizayo (amalayibrari ezikhangiso kuphela uma izikhangiso zivuliwe).</string>
+    <string name="licenses_intro">I-HTML2APK yakhiwe phezu kwesoftware yomthombo ovulekile ngezansi. Amalayibrari aphawulwe ngokuthi “Generated apps” nawo afakwa ezinhlelweni zokusebenza ezikhiqizayo (amalayibrari ezikhangiso kuphela uma izikhangiso zivuliwe).</string>
     <string name="licenses_load_failed">Uhlu lwamalayisense alukwazanga ukulayishwa.</string>
     <string name="licenses_open_license">Vula ilayisensi</string>
     <string name="licenses_open_website">Iwebhusayithi</string>
@@ -1083,7 +1083,7 @@
     <string name="mail_report_device">Idivayisi: %1$s %2$s</string>
     <string name="mail_report_end">=== ISIPHELO SOMBIKO ===</string>
     <string name="mail_report_format">Ifomethi yokuphumayo: %1$s</string>
-    <string name="mail_report_intro">Ukwakha kwehlulekile ngaphakathi kohlelo lokusebenza lwe-HTML to APK.</string>
+    <string name="mail_report_intro">Ukwakha kwehlulekile ngaphakathi kohlelo lokusebenza lwe-HTML2APK.</string>
     <string name="mail_report_intro2">Sicela ubuyekeze lo mbiko wephutha.</string>
     <string name="mail_report_package_name">Igama lephakethe: %1$s</string>
     <string name="mail_report_project_name">Igama lephrojekthi: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Izilungiselelo</string>
     <string name="nav_templates">Izifanekiso</string>
     <string name="not_selected">Ayikhethiwe</string>
-    <string name="offer_dialog_message">Yabelana ngevidiyo ekhombisa uhlelo lokusebenza olwakhile nge-HTML to APK. Uma ifinyelela ekubukweni okungu-10,000, i-Pro ikuwe.</string>
+    <string name="offer_dialog_message">Yabelana ngevidiyo ekhombisa uhlelo lokusebenza olwakhile nge-HTML2APK. Uma ifinyelela ekubukweni okungu-10,000, i-Pro ikuwe.</string>
     <string name="offer_dialog_no">Hhayi Manje</string>
     <string name="offer_dialog_title">Thola i-Pro Mahhala</string>
     <string name="offer_dialog_yes">Ngiwuthola Kanjani?</string>
@@ -1279,7 +1279,7 @@
     <string name="premium_credits_link_detail">Kuthengiswa ngokwehlukana, akukho Pro edingekayo. Ama-akhawunti amasha athola uhlelo lwawo lokuqala lwamahhala.</string>
     <string name="premium_credits_link_title">Amaphakethe wesikweletu se-AI</string>
     <string name="premium_crown_subtitle">Susa yonke imikhawulo futhi udale ngamandla aphelele.</string>
-    <string name="premium_crown_title">I-HTML to APK Pro</string>
+    <string name="premium_crown_title">I-HTML2APK Pro</string>
     <string name="premium_dev_note_desc">Sawubona! Ngingu-Emre, uneminyaka engu-19, futhi ngithuthukisa i-HTML ibe yi-APK ngokwami ngentshiseko enkulu. Umgomo wami uwukukunika amandla okuguqula amaphrojekthi wakho wewebhu abe izinhlelo zokusebenza zangempela ze-Android kalula, ngaphandle kokusetha okuyinkimbinkimbi. Ngokuthuthukela ku-Pro, usekela ngokuqondile unjiniyela osemusha ozimele futhi ukhuthaza ukuthuthukiswa kwesikhathi esizayo kwale phrojekthi. Siyabonga kakhulu ngokusekela kwakho okuhle! ❤️</string>
     <string name="premium_dev_note_title">Inothi elivela kunjiniyela 👋</string>
     <string name="premium_error_payment">Inkokhelo ayitholakali. Sicela uzame futhi kamuva.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Funda imibhalo ye-PDF engenamkhawulo</string>
     <string name="premium_feature_unlimited_pdf_detail">Uhlelo lwamahhala lugcina amaphrojekthi wamadokhumenti e-PDF afinyelela kwangu-5. I-Pro isusa umkhawulo, ukuze umtapo wakho wokufunda uqhubeke ukhula.</string>
     <string name="premium_feature_watermark_desc">Susa i-watermark ezinhlelweni ezikhiqiziwe</string>
-    <string name="premium_feature_watermark_detail">Susa izinkomba zokuqalisa ze-\'Made with HTML to APK\' nezimpawu zamanzi kuzo zonke izakhiwo ezithunyelwe ngaphandle ukuze uthole izinhlelo zokusebenza ezinelebula elimhlophe ngokuphelele.</string>
+    <string name="premium_feature_watermark_detail">Susa izinkomba zokuqalisa ze-\'Made with HTML2APK\' nezimpawu zamanzi kuzo zonke izakhiwo ezithunyelwe ngaphandle ukuze uthole izinhlelo zokusebenza ezinelebula elimhlophe ngokuphelele.</string>
     <string name="premium_feature_webview_desc">Izilungiselelo ezithuthukile ze-WebView</string>
     <string name="premium_feature_webview_detail">Thola ukulawula okuphelele phezu kokusheshisa kwehadiwe, izingodo ze-JS console, izintambo ze-User-Agent zangokwezifiso, izimvume zokulayisha ifayela, namasu okugcina.</string>
     <string name="premium_less_features_button">Bonisa Okuncane</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Thumela Impendulo</string>
     <string name="settings_feedback_chooser">Thumela impendulo</string>
     <string name="settings_feedback_no_app">Ayikho uhlelo lokusebenza lwe-imeyili olutholiwe</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Impendulo</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Thola i-Pro Mahhala</string>
     <string name="settings_free_premium_summary">Yabelana ngevidiyo, finyelela ekubukweni okungu-10K, thola i-Pro</string>
@@ -1509,7 +1509,7 @@
     <string name="state_on">Ivuliwe</string>
     <string name="support_button_action">Sekela</string>
     <string name="support_cats_interactive_hint">Thepha kunoma yiliphi ikati ukuze ulishaye! 🐾</string>
-    <string name="support_developer_desc">Sawubona! Ngiyabonga kakhulu ngokuthenga i-Pro. Njengonjiniyela ozimele, ngiyaqhubeka nokugcina nokuthuthukisa i-HTML to APK. Uma ulithanda uhlelo lokusebenza futhi ufisa ukusekela izibuyekezo zesikhathi esizayo, ungakhetha ukungithengela ikhofi noma isidlo. Yonke iminikelo isho lukhulu kimi! ❤️</string>
+    <string name="support_developer_desc">Sawubona! Ngiyabonga kakhulu ngokuthenga i-Pro. Njengonjiniyela ozimele, ngiyaqhubeka nokugcina nokuthuthukisa i-HTML2APK. Uma ulithanda uhlelo lokusebenza futhi ufisa ukusekela izibuyekezo zesikhathi esizayo, ungakhetha ukungithengela ikhofi noma isidlo. Yonke iminikelo isho lukhulu kimi! ❤️</string>
     <string name="support_developer_subtitle">Uma Ungathanda Ukungisekela ☕</string>
     <string name="support_developer_title">Sekela Unjiniyela</string>
     <string name="support_success_button">Wamukelekile ❤️</string>
@@ -1583,7 +1583,7 @@
     <string name="template_fullscreen_title">Isakhiwo Sesikrini Esigcwele</string>
     <string name="template_gallery_desc">Londoloza isithombe se-base64 kugalari yezithombe.</string>
     <string name="template_gallery_title">Londoloza kugalari</string>
-    <string name="template_guide_body">I-HTML to APK ifaka into ye-JavaScript yomhlaba wonke ebizwa ngokuthi i-AndroidAPI ku-WebView yakho. Ungashayela lezi zindlela ngokuqondile kusuka kukhodi yakho ye-HTML/JS:</string>
+    <string name="template_guide_body">I-HTML2APK ifaka into ye-JavaScript yomhlaba wonke ebizwa ngokuthi i-AndroidAPI ku-WebView yakho. Ungashayela lezi zindlela ngokuqondile kusuka kukhodi yakho ye-HTML/JS:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Sawubona!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Isihloko,Umzimba)\nAndroidAPI.getDeviceInfo() // ibuyisela i-JSON\nAndroidAPI.getBatteryLevel() // ibuyisela int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // ibuyisela int 0-255</string>
     <string name="template_guide_note">Ithiphu: Sebenzisa lezi zinhlelo ze-API ngaphakathi kwabaphathi be-onclick nanoma yimuphi umsebenzi we-JavaScript. Into iyatholakala ngokuzenzakalelayo uma uhlelo lwakho lokusebenza lwakhiwe nge-HTML kuya ku-APK.</string>
     <string name="template_guide_title">Umhlahlandlela we-API</string>

@@ -252,8 +252,8 @@ public final class q0 {
         sb.append(c(R.string.mail_report_end, new Object[0]));
         sb.append('\n');
         String string = sb.toString();
-        Intent intent = new Intent("android.intent.action.SENDTO", Uri.parse("mailto:chat.mobai@gmail.com?subject=" + Uri.encode(strC) + "&body=" + Uri.encode(string)));
-        intent.putExtra("android.intent.extra.EMAIL", new String[]{"chat.mobai@gmail.com"});
+        Intent intent = new Intent("android.intent.action.SENDTO", Uri.parse("mailto:warzonevangard@gmail.com?subject=" + Uri.encode(strC) + "&body=" + Uri.encode(string)));
+        intent.putExtra("android.intent.extra.EMAIL", new String[]{"warzonevangard@gmail.com"});
         intent.putExtra("android.intent.extra.SUBJECT", strC);
         intent.putExtra("android.intent.extra.TEXT", string);
         try {

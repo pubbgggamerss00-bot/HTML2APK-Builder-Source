@@ -102,7 +102,7 @@
     <string name="ai_thinking_live">Přemýšlím…</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="animations_auto_off_toast">Animace byly vypnuty, protože zařízení mělo potíže. Zapněte je v Nastavení.</string>
-    <string name="app_name">HTML to APK Builder</string>
+    <string name="app_name">HTML2APK</string>
     <string name="billing_connecting">Připojování ke službě Google Play, zkuste to prosím za několik sekund znovu.</string>
     <string name="billing_restore_error">Chyba během dotazu: %1$s</string>
     <string name="billing_restore_not_found">Pro tento účet Google nebyl nalezen žádný aktivní nákup.</string>
@@ -118,7 +118,7 @@
     <string name="build_failed_dialog_send_email">Poslat e-mail</string>
     <string name="build_failed_dialog_title">Sestavení selhalo</string>
     <string name="build_failed_email_chooser">Odeslat hlášení o chybě přes…</string>
-    <string name="build_failed_email_subject">[HTML to APK] Zpráva o selhání sestavení - %1$s</string>
+    <string name="build_failed_email_subject">[HTML2APK] Zpráva o selhání sestavení - %1$s</string>
     <string name="build_format_aab">App Bundle</string>
     <string name="build_format_apk">APK</string>
     <string name="build_log_aab_build_completed">Sestavení AAB dokončeno: %1$s (%2$d bajtů)</string>
@@ -844,7 +844,7 @@
     <string name="free_premium_intro">Sdílejte to, co jste vytvořili, se světem a získejte za to verzi Pro. Stačí k tomu 3 jednoduché kroky:</string>
     <string name="free_premium_note">Tip: do e-mailu přiložte snímek obrazovky s počtem zhlédnutí, abyste urychlili ověření.</string>
     <string name="free_premium_send_email">Odeslat e-mail</string>
-    <string name="free_premium_step1_desc">Nahrajte video, které představuje aplikaci nebo hru vytvořenou pomocí HTML to APK, a sdílejte jej na YouTube, TikToku nebo Instagramu.</string>
+    <string name="free_premium_step1_desc">Nahrajte video, které představuje aplikaci nebo hru vytvořenou pomocí HTML2APK, a sdílejte jej na YouTube, TikToku nebo Instagramu.</string>
     <string name="free_premium_step1_title">Nahrajte a sdílejte video</string>
     <string name="free_premium_step2_desc">Jakmile vaše video dosáhne 10 000 zhlédnutí na kterékoli z těchto platforem, vaše odměna je připravena.</string>
     <string name="free_premium_step2_title">Dosáhněte 10 000 zhlédnutí</string>
@@ -952,10 +952,10 @@
     <string name="howto_organize_summary">Používejte složky a akce projektu, abyste měli ve všem pořádek.</string>
     <string name="howto_organize_title">Udržujte si v projektech pořádek</string>
     <string name="howto_output_body">APK slouží k instalaci do telefonu nebo k přímému sdílení. AAB je formát, který vyžaduje Google Play (Pro). S verzí Pro můžete také exportovat projekt jako projekt pro Android Studio (ZIP) z nabídky projektu. Starší sestavení najdete v části Výstupy sestavení ve stejné nabídce a hlavní nabídka umožňuje exportovat nebo importovat projekty jako zálohy ve formátu ZIP.</string>
-    <string name="howto_overview">S HTML to APK Builder můžete proměnit své webové stránky nebo HTML soubory ve skutečnou aplikaci pro Android. Není potřeba žádné programování!</string>
+    <string name="howto_overview">S HTML2APK můžete proměnit své webové stránky nebo HTML soubory ve skutečnou aplikaci pro Android. Není potřeba žádné programování!</string>
     <string name="howto_pdf_body">Vytvořte projekt a poté otevřete/zobrazte PDF, čímž se spustí čtečka. Můžete přibližovat, přepínat mezi světlým a tmavým režimem čtení, přidávat záložky a pokračovat od poslední stránky. Použijte funkci Upravit, pokud chcete změnit pořadí stránek nebo dokument opatřit poznámkami. Dokument můžete později převést na aplikaci.</string>
     <string name="howto_playstore_signing_action">Číst více</string>
-    <string name="howto_playstore_signing_body">Když se vás Play Console zeptá na „Předvolby podepisování aplikací“, zvolte první možnost: &lt;b&gt;Nechat Google spravovat a chránit váš podpisový klíč aplikace (doporučeno)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Tím se aktivuje &lt;b&gt;Play App Signing&lt;/b&gt;. Google si ponechá skutečný podpisový klíč; vy pouze nahrajete APK/AAB podepsané vaším nahrávacím klíčem.&lt;br/&gt;&lt;br/&gt;Pokud později ztratíte úložiště klíčů (například odinstalováním HTMLtoAPK), můžete v Play Console požádat o &lt;b&gt;reset nahrávacího klíče&lt;/b&gt; a uživatelé budou stále dostávat aktualizace.&lt;br/&gt;&lt;br/&gt;Pokud musíte nahrát svůj vlastní podpisový klíč, otevřete úložiště klíčů v této aplikaci a klepněte na &lt;b&gt;Exportovat pro Play Store (PEPK)&lt;/b&gt;. Vyberte stejnou metodu, kterou zobrazuje Play Console (hex veřejný klíč nebo RSA veřejný klíč PEM), vygenerujte &lt;b&gt;output.zip&lt;/b&gt; a nahrajte jej.&lt;br/&gt;&lt;br/&gt;Možnost „Exportovat a nahrát vlastní klíč“ zvolte pouze tehdy, pokud jste si naprosto jisti, že dokážete tento klíč navždy bezpečně uchovat. Jeho ztráta znamená, že aplikaci již nikdy nebudete moci aktualizovat.</string>
+    <string name="howto_playstore_signing_body">Když se vás Play Console zeptá na „Předvolby podepisování aplikací“, zvolte první možnost: &lt;b&gt;Nechat Google spravovat a chránit váš podpisový klíč aplikace (doporučeno)&lt;/b&gt;.&lt;br/&gt;&lt;br/&gt;Tím se aktivuje &lt;b&gt;Play App Signing&lt;/b&gt;. Google si ponechá skutečný podpisový klíč; vy pouze nahrajete APK/AAB podepsané vaším nahrávacím klíčem.&lt;br/&gt;&lt;br/&gt;Pokud později ztratíte úložiště klíčů (například odinstalováním HTML2APK), můžete v Play Console požádat o &lt;b&gt;reset nahrávacího klíče&lt;/b&gt; a uživatelé budou stále dostávat aktualizace.&lt;br/&gt;&lt;br/&gt;Pokud musíte nahrát svůj vlastní podpisový klíč, otevřete úložiště klíčů v této aplikaci a klepněte na &lt;b&gt;Exportovat pro Play Store (PEPK)&lt;/b&gt;. Vyberte stejnou metodu, kterou zobrazuje Play Console (hex veřejný klíč nebo RSA veřejný klíč PEM), vygenerujte &lt;b&gt;output.zip&lt;/b&gt; a nahrajte jej.&lt;br/&gt;&lt;br/&gt;Možnost „Exportovat a nahrát vlastní klíč“ zvolte pouze tehdy, pokud jste si naprosto jisti, že dokážete tento klíč navždy bezpečně uchovat. Jeho ztráta znamená, že aplikaci již nikdy nebudete moci aktualizovat.</string>
     <string name="howto_playstore_signing_summary">Pochopte nahrávací klíče, Play App Signing a PEPK.</string>
     <string name="howto_playstore_signing_title">Výběr podpisového klíče pro Obchod Play</string>
     <string name="howto_preview_body">Náhled spustí vaši stránku tak, jak bude vypadat ve výsledné aplikaci, včetně volání Android API. HTML editor zvýrazňuje kód, automaticky uzavírá značky a obsahuje funkci hledání a nahrazování; změny zůstávají zachovány při přepnutí do náhledu a zpět.</string>
@@ -1024,7 +1024,7 @@
     <string name="keystore_persist_switch">Ponechat kopii na tomto zařízení</string>
     <string name="keystore_persisted">Uloženo do Downloads/HTMLtoAPK/Keystores</string>
     <string name="keystore_project_linked">Projekt: %1$s</string>
-    <string name="keystore_recovery_body">Pokud jste odinstalovali HTMLtoAPK, automaticky vygenerované podpisové klíče aplikace mohly být ztraceny. Nový build bude podepsán jiným klíčem a Obchod Play může aktualizaci odmítnout.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Řešení 1 – Resetování nahrávacího klíče (doporučeno):&lt;/b&gt;&lt;br/&gt;1. Exportujte &lt;b&gt;certifikát PEM&lt;/b&gt; svého nového úložiště klíčů ze seznamu níže.&lt;br/&gt;2. V konzoli Play Console přejděte na &lt;b&gt;Podepisování aplikací &gt; Požádat o resetování nahrávacího klíče&lt;/b&gt;.&lt;br/&gt;3. Vyplňte formulář a nahrajte soubor PEM.&lt;br/&gt;4. Po schválení publikujte svůj nový APK/AAB podepsaný novým klíčem.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Řešení 2 – Nahrazení podpisového klíče aplikace:&lt;/b&gt;&lt;br/&gt;Pokud vám Play Console umožňuje nahrát nový podpisový klíč aplikace, použijte &lt;b&gt;Export pro Obchod Play (PEPK)&lt;/b&gt; v úložišti klíčů. Zvolte stejnou metodu, jaká je zobrazena v Play Console (hexadecimální klíč nebo RSA PEM), vygenerujte output.zip a nahrajte jej.&lt;br/&gt;&lt;br/&gt; Uživatelé budou nadále dostávat aktualizace, protože podpisový klíč aplikace zůstává u Googlu, když resetujete pouze nahrávací klíč.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Pokud je podepisování aplikací Google Play zakázáno&lt;/b&gt; a ztratili jste podpisový klíč, musíte aplikaci publikovat znovu s novým názvem balíčku.</string>
+    <string name="keystore_recovery_body">Pokud jste odinstalovali HTML2APK, automaticky vygenerované podpisové klíče aplikace mohly být ztraceny. Nový build bude podepsán jiným klíčem a Obchod Play může aktualizaci odmítnout.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Řešení 1 – Resetování nahrávacího klíče (doporučeno):&lt;/b&gt;&lt;br/&gt;1. Exportujte &lt;b&gt;certifikát PEM&lt;/b&gt; svého nového úložiště klíčů ze seznamu níže.&lt;br/&gt;2. V konzoli Play Console přejděte na &lt;b&gt;Podepisování aplikací &gt; Požádat o resetování nahrávacího klíče&lt;/b&gt;.&lt;br/&gt;3. Vyplňte formulář a nahrajte soubor PEM.&lt;br/&gt;4. Po schválení publikujte svůj nový APK/AAB podepsaný novým klíčem.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Řešení 2 – Nahrazení podpisového klíče aplikace:&lt;/b&gt;&lt;br/&gt;Pokud vám Play Console umožňuje nahrát nový podpisový klíč aplikace, použijte &lt;b&gt;Export pro Obchod Play (PEPK)&lt;/b&gt; v úložišti klíčů. Zvolte stejnou metodu, jaká je zobrazena v Play Console (hexadecimální klíč nebo RSA PEM), vygenerujte output.zip a nahrajte jej.&lt;br/&gt;&lt;br/&gt; Uživatelé budou nadále dostávat aktualizace, protože podpisový klíč aplikace zůstává u Googlu, když resetujete pouze nahrávací klíč.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Pokud je podepisování aplikací Google Play zakázáno&lt;/b&gt; a ztratili jste podpisový klíč, musíte aplikaci publikovat znovu s novým názvem balíčku.</string>
     <string name="keystore_recovery_close">Rozumím</string>
     <string name="keystore_recovery_open_console">Otevřít Play Console</string>
     <string name="keystore_recovery_title">Ztratili jste svůj podpisový klíč?</string>
@@ -1040,7 +1040,7 @@
     <string name="launcher_name_pdf_viewer">Prohlížeč PDF</string>
     <string name="licenses_count">%1$d knihoven</string>
     <string name="licenses_empty">Vašemu vyhledávání neodpovídá žádná knihovna.</string>
-    <string name="licenses_intro">HTML to APK je postaven na níže uvedeném open source softwaru. Knihovny označené jako „Generované aplikace“ jsou také zabaleny do aplikací, které vytváří (reklamní knihovny pouze tehdy, jsou-li reklamy zapnuty).</string>
+    <string name="licenses_intro">HTML2APK je postaven na níže uvedeném open source softwaru. Knihovny označené jako „Generované aplikace“ jsou také zabaleny do aplikací, které vytváří (reklamní knihovny pouze tehdy, jsou-li reklamy zapnuty).</string>
     <string name="licenses_load_failed">Seznam licencí se nepodařilo načíst.</string>
     <string name="licenses_open_license">Otevřít licenci</string>
     <string name="licenses_open_website">Webová stránka</string>
@@ -1077,13 +1077,13 @@
     <string name="m3c_dropdown_menu_toggle">Přepnout rozbalovací nabídku</string>
     <string name="m3c_snackbar_dismiss">Zavřít</string>
     <string name="mail_report_android">Verze Androidu: %1$s (API %2$d)</string>
-    <string name="mail_report_app_version">Verze HTML to APK: v%1$s (%2$d)</string>
+    <string name="mail_report_app_version">Verze HTML2APK: v%1$s (%2$d)</string>
     <string name="mail_report_date">Datum: %1$s</string>
     <string name="mail_report_default_project">Projekt</string>
     <string name="mail_report_device">Zařízení: %1$s %2$s</string>
     <string name="mail_report_end">=== KONEC ZPRÁVY ===</string>
     <string name="mail_report_format">Formát výstupu: %1$s</string>
-    <string name="mail_report_intro">Sestavení v aplikaci HTML to APK selhalo.</string>
+    <string name="mail_report_intro">Sestavení v aplikaci HTML2APK selhalo.</string>
     <string name="mail_report_intro2">Prosím, zkontrolujte tuto zprávu o chybě.</string>
     <string name="mail_report_package_name">Název balíčku: %1$s</string>
     <string name="mail_report_project_name">Název projektu: %1$s</string>
@@ -1117,7 +1117,7 @@
     <string name="nav_settings">Nastavení</string>
     <string name="nav_templates">Šablony</string>
     <string name="not_selected">Nevybráno</string>
-    <string name="offer_dialog_message">Sdílejte video představující aplikaci, kterou jste vytvořili pomocí HTML to APK. Jakmile dosáhne 10 000 zhlédnutí, verze Pro je vaše.</string>
+    <string name="offer_dialog_message">Sdílejte video představující aplikaci, kterou jste vytvořili pomocí HTML2APK. Jakmile dosáhne 10 000 zhlédnutí, verze Pro je vaše.</string>
     <string name="offer_dialog_no">Teď ne</string>
     <string name="offer_dialog_title">Získejte Pro zdarma</string>
     <string name="offer_dialog_yes">Jak ji mohu získat?</string>
@@ -1279,8 +1279,8 @@
     <string name="premium_credits_link_detail">Prodává se samostatně, není potřeba Pro. Nové účty získají svou první aplikaci zdarma.</string>
     <string name="premium_credits_link_title">Balíčky kreditů AI</string>
     <string name="premium_crown_subtitle">Odstraňte všechna omezení a tvořte naplno.</string>
-    <string name="premium_crown_title">HTML to APK Pro</string>
-    <string name="premium_dev_note_desc">Ahoj! Jsem Emre, je mi 19 let a vyvíjím HTML to APK zcela sám s velkou vášní. Mým cílem je umožnit vám bezproblémově přeměnit vaše webové projekty na skutečné aplikace pro Android, bez jakéhokoli složitého nastavování.\n\nZakoupením verze Pro přímo podpoříte mladého nezávislého vývojáře a podpoříte budoucí vývoj tohoto projektu. Mnohokrát děkuji za vaši laskavou podporu! ❤️</string>
+    <string name="premium_crown_title">HTML2APK Pro</string>
+    <string name="premium_dev_note_desc">Ahoj! Jsem Emre, je mi 19 let a vyvíjím HTML2APK zcela sám s velkou vášní. Mým cílem je umožnit vám bezproblémově přeměnit vaše webové projekty na skutečné aplikace pro Android, bez jakéhokoli složitého nastavování.\n\nZakoupením verze Pro přímo podpoříte mladého nezávislého vývojáře a podpoříte budoucí vývoj tohoto projektu. Mnohokrát děkuji za vaši laskavou podporu! ❤️</string>
     <string name="premium_dev_note_title">Poznámka od vývojáře 👋</string>
     <string name="premium_error_payment">Platba není dostupná. Zkuste to prosím později.</string>
     <string name="premium_extra_ads_detail">Žádné rušivé reklamy v pracovním prostoru aplikace ani ve všech exportovaných aplikacích. Užijte si čisté prostředí bez rozptylování.</string>
@@ -1308,7 +1308,7 @@
     <string name="premium_feature_unlimited_pdf_desc">Čtěte neomezený počet dokumentů PDF</string>
     <string name="premium_feature_unlimited_pdf_detail">Bezplatný tarif umožňuje uchovávat až 5 projektů dokumentů PDF. Verze Pro tento limit odstraňuje, takže vaše knihovna ke čtení může dále růst.</string>
     <string name="premium_feature_watermark_desc">Odstranit vodoznak z vygenerovaných aplikací</string>
-    <string name="premium_feature_watermark_detail">Odstraňte úvodní indikátory a vodoznaky \'Made with HTML to APK\' ze všech exportovaných sestavení pro plně bílé, značkové aplikace.</string>
+    <string name="premium_feature_watermark_detail">Odstraňte úvodní indikátory a vodoznaky \'Made with HTML2APK\' ze všech exportovaných sestavení pro plně bílé, značkové aplikace.</string>
     <string name="premium_feature_webview_desc">Pokročilé nastavení WebView</string>
     <string name="premium_feature_webview_detail">Získejte úplnou kontrolu nad hardwarovou akcelerací, protokoly konzole JS, vlastními řetězci User-Agent, oprávněními k nahrávání souborů a strategiemi ukládání do mezipaměti.</string>
     <string name="premium_less_features_button">Zobrazit méně</string>
@@ -1431,7 +1431,7 @@
     <string name="settings_feedback">Poslat zpětnou vazbu</string>
     <string name="settings_feedback_chooser">Poslat zpětnou vazbu</string>
     <string name="settings_feedback_no_app">Nebyla nalezena žádná e-mailová aplikace</string>
-    <string name="settings_feedback_subject">HTML to APK Builder - Zpětná vazba</string>
+    <string name="settings_feedback_subject">HTML2APK - Feedback</string>
     <string name="settings_feedback_summary">warzonevangard@gmail.com</string>
     <string name="settings_free_premium">Získejte Pro zdarma</string>
     <string name="settings_free_premium_summary">Sdílejte video, dosáhněte 10 000 zhlédnutí, získejte Pro</string>
@@ -1509,17 +1509,17 @@
     <string name="state_on">Zapnuto</string>
     <string name="support_button_action">Podpořit</string>
     <string name="support_cats_interactive_hint">Klepněte na jakoukoli kočku a pohlaďte ji! 🐾</string>
-    <string name="support_developer_desc">Ahoj! Mnohokrát děkuji za zakoupení verze Pro. Jako nezávislý vývojář průběžně udržuji a vylepšuji HTML to APK. Pokud se vám aplikace líbí a chcete podpořit budoucí aktualizace, můžete mi volitelně koupit kávu nebo jídlo. Každý příspěvek pro mě znamená celý svět! ❤️</string>
+    <string name="support_developer_desc">Ahoj! Mnohokrát děkuji za zakoupení verze Pro. Jako nezávislý vývojář průběžně udržuji a vylepšuji HTML2APK. Pokud se vám aplikace líbí a chcete podpořit budoucí aktualizace, můžete mi volitelně koupit kávu nebo jídlo. Každý příspěvek pro mě znamená celý svět! ❤️</string>
     <string name="support_developer_subtitle">Pokud byste mě chtěli podpořit ☕</string>
     <string name="support_developer_title">Podpořte vývojáře</string>
     <string name="support_success_button">Není zač ❤️</string>
-    <string name="support_success_message">Vaše podpora byla přijata! Jako nezávislý vývojář vytvářející HTML to APK jste mi dodali obrovskou sílu, morálku a motivaci. Naše kočky na vaši počest slaví! 🐾</string>
+    <string name="support_success_message">Vaše podpora byla přijata! Jako nezávislý vývojář vytvářející HTML2APK jste mi dodali obrovskou sílu, morálku a motivaci. Naše kočky na vaši počest slaví! 🐾</string>
     <string name="support_success_title">Jste úžasní! ❤️</string>
     <string name="support_tier_coffee_desc">Teplý šálek kávy pro noční programování ☕</string>
     <string name="support_tier_coffee_title">Koupit kávu</string>
     <string name="support_tier_meal_desc">Pěkná večeře, abych zůstal nabitý energií a soustředěný 🍕</string>
     <string name="support_tier_meal_title">Koupit jídlo</string>
-    <string name="support_tier_sponsor_desc">Přímý příspěvek na budoucnost HTML to APK 🚀</string>
+    <string name="support_tier_sponsor_desc">Přímý příspěvek na budoucnost HTML2APK 🚀</string>
     <string name="support_tier_sponsor_title">Super sponzor</string>
     <string name="switch_role">Přepnout</string>
     <string name="tab">Karta</string>
@@ -1583,9 +1583,9 @@
     <string name="template_fullscreen_title">Rozvržení na celou obrazovku</string>
     <string name="template_gallery_desc">Uložit base64 obrázek do fotogalerie.</string>
     <string name="template_gallery_title">Uložit do galerie</string>
-    <string name="template_guide_body">HTML to APK vloží do vašeho WebView globální objekt JavaScriptu s názvem AndroidAPI. Tyto metody můžete volat přímo ze svého kódu HTML/JS:</string>
+    <string name="template_guide_body">HTML2APK vloží do vašeho WebView globální objekt JavaScriptu s názvem AndroidAPI. Tyto metody můžete volat přímo ze svého kódu HTML/JS:</string>
     <string name="template_guide_code">AndroidAPI.showToast(Ahoj!)\nAndroidAPI.vibrate(500)\nAndroidAPI.setTorch(true)\nAndroidAPI.showNotification(Nadpis,Tělo)\nAndroidAPI.getDeviceInfo() // vrací JSON\nAndroidAPI.getBatteryLevel() // vrací int 0-100\nAndroidAPI.hasPermission(android.permission.CAMERA)\nAndroidAPI.getScreenBrightness() // vrací int 0-255</string>
-    <string name="template_guide_note">Tip: Použijte tato API uvnitř obslužných rutin onclick nebo jakékoli funkce JavaScriptu. Objekt je automaticky dostupný, když je vaše aplikace sestavena pomocí HTML to APK.</string>
+    <string name="template_guide_note">Tip: Použijte tato API uvnitř obslužných rutin onclick nebo jakékoli funkce JavaScriptu. Objekt je automaticky dostupný, když je vaše aplikace sestavena pomocí HTML2APK.</string>
     <string name="template_guide_title">Průvodce API</string>
     <string name="template_gyroscope_desc">Čtení rychlosti rotace zařízení na osách X, Y a Z.</string>
     <string name="template_gyroscope_title">Gyroskop</string>
