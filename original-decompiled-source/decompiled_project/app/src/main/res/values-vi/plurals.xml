@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d tin nhắn</item>
+        <item quantity="other">%1$d tin nhắn</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d vấn đề</item>
+        <item quantity="other">%1$d vấn đề</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d kết quả khớp đã được thay thế</item>
+        <item quantity="other">%1$d kết quả khớp đã được thay thế</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Mã của bạn sử dụng %1$d quyền chưa được bật.</item>
+        <item quantity="other">Mã của bạn sử dụng %1$d quyền chưa được bật.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d dự án</item>
+        <item quantity="other">%1$d dự án</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d trang</item>
+        <item quantity="other">%1$d trang</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Đã chọn %1$d trang</item>
+        <item quantity="other">Đã chọn %1$d trang</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d trang</item>
+        <item quantity="other">%1$d trang</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d ứng dụng mới</item>
+        <item quantity="other">≈ %1$d ứng dụng mới</item>
+    </plurals>
+</resources>

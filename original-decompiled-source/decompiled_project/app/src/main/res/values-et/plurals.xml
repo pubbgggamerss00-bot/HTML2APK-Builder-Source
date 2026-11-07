@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d sõnum</item>
+        <item quantity="other">%1$d sõnumit</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d probleem</item>
+        <item quantity="other">%1$d probleemi</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d vaste asendatud</item>
+        <item quantity="other">%1$d vastet asendatud</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Sinu kood kasutab %1$d luba, mis pole lubatud.</item>
+        <item quantity="other">Sinu kood kasutab %1$d luba, mis pole lubatud.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projekt</item>
+        <item quantity="other">%1$d projekti</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d lehekülg</item>
+        <item quantity="other">%1$d lehekülge</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d leht valitud</item>
+        <item quantity="other">%1$d lehte valitud</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d lehekülg</item>
+        <item quantity="other">%1$d lehekülge</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d uus rakendus</item>
+        <item quantity="other">≈ %1$d uut rakendust</item>
+    </plurals>
+</resources>

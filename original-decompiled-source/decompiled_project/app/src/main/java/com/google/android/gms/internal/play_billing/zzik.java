@@ -1,0 +1,14 @@
+package com.google.android.gms.internal.play_billing;
+
+/* loaded from: classes2.dex */
+final class zzik implements zzfl {
+    static final zzfl zza = new zzik();
+
+    private zzik() {
+    }
+
+    @Override // com.google.android.gms.internal.play_billing.zzfl
+    public final boolean zza(int i10) {
+        return (i10 != 0 ? i10 != 1 ? i10 != 2 ? i10 != 3 ? null : zzil.ALTERNATIVE_BILLING_ACTION : zzil.LOCAL_PURCHASES_UPDATED_ACTION : zzil.PURCHASES_UPDATED_ACTION : zzil.BROADCAST_ACTION_UNSPECIFIED) != null;
+    }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d žinutė</item>
+        <item quantity="other">%1$d žinutės</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d problema</item>
+        <item quantity="other">%1$d problemos</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">Pakeistas %1$d atitikmuo</item>
+        <item quantity="other">Pakeisti %1$d atitikmenys</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Jūsų kodas naudoja %1$d leidimą, kuris neįjungtas.</item>
+        <item quantity="other">Jūsų kodas naudoja %1$d leidimus, kurie neįjungti.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projektas</item>
+        <item quantity="other">%1$d projektai</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d puslapis</item>
+        <item quantity="other">%1$d puslapiai</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Pasirinktas %1$d puslapis</item>
+        <item quantity="other">Pasirinkti %1$d puslapiai</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d puslapis</item>
+        <item quantity="other">%1$d puslapiai</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d nauja programėlė</item>
+        <item quantity="other">≈ %1$d naujos programėlės</item>
+    </plurals>
+</resources>

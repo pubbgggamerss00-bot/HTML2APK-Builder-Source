@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d skilaboð</item>
+        <item quantity="other">%1$d skilaboð</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d vandamál</item>
+        <item quantity="other">%1$d vandamál</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d samsvörun skipt út</item>
+        <item quantity="other">%1$d samsvaranir skipt út</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Kóðinn þinn notar %1$d heimild sem er ekki virkjuð.</item>
+        <item quantity="other">Kóðinn þinn notar %1$d heimildir sem eru ekki virkjaðar.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d verkefni</item>
+        <item quantity="other">%1$d verkefni</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d síða</item>
+        <item quantity="other">%1$d síður</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d síða valin</item>
+        <item quantity="other">%1$d síður valdar</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d síða</item>
+        <item quantity="other">%1$d síður</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d nýtt forrit</item>
+        <item quantity="other">≈ %1$d ný forrit</item>
+    </plurals>
+</resources>

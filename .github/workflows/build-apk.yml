@@ -1,0 +1,41 @@
+name: Build APK
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Download Android build-tools & platform
+        run: |
+          mkdir -p $HOME/android-sdk/downloads && cd $HOME/android-sdk/downloads
+          curl -sL -o build-tools_r34.zip "https://dl.google.com/android/repository/build-tools_r34-linux.zip"
+          curl -sL -o platform-34.zip "https://dl.google.com/android/repository/platform-34-ext7_r03.zip"
+          cd $HOME/android-sdk
+          unzip -q downloads/build-tools_r34.zip
+          unzip -q downloads/platform-34.zip
+          echo "SDK=$HOME/android-sdk" >> $GITHUB_ENV
+
+      - name: Build signed APK
+        run: |
+          cd android-app
+          chmod +x build.sh
+          ./build.sh
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: HTML2APK-release
+          path: android-app/build/HTML2APK-v1.0-release.apk

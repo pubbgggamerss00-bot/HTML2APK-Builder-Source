@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>HTML2APK — معرفی پروژه</title>
+<style>
+  :root{
+    --navy:#080B12; --surface:#0E1524; --surface2:#131D31;
+    --cyan:#00D9FF; --lime:#A6FF00; --text:#E8EEF7; --muted:#8CA0BC;
+    --border:#1E2A42; --amber:#FFC94D;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--navy); color:var(--text);
+    font-family:"Vazirmatn","Tahoma",sans-serif;
+    line-height:1.9; overflow-x:hidden;
+  }
+  .wrap{max-width:760px;margin:0 auto;padding:0 20px 60px}
+
+  /* ---------- hero ---------- */
+  .hero{
+    text-align:center; padding:64px 16px 44px; position:relative;
+    background:radial-gradient(ellipse 90% 60% at 50% -10%, rgba(0,217,255,.16), transparent 70%);
+  }
+  .hero .logo{
+    width:118px;height:118px;border-radius:28px;
+    box-shadow:0 0 0 1px rgba(0,217,255,.35), 0 18px 50px rgba(0,217,255,.22);
+    animation:float 4.5s ease-in-out infinite;
+  }
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+  .hero h1{
+    margin-top:22px;font-size:2.5rem;font-weight:800;letter-spacing:.5px;
+    background:linear-gradient(90deg,var(--cyan),var(--lime));
+    -webkit-background-clip:text;background-clip:text;color:transparent;
+  }
+  .hero p.sub{color:var(--muted);margin-top:8px;font-size:1.02rem}
+  .badges{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:18px}
+  .badge{
+    font-size:.78rem;padding:5px 14px;border-radius:99px;
+    border:1px solid var(--border);background:var(--surface);color:var(--cyan);
+  }
+  .badge.lime{color:var(--lime)}
+
+  /* ---------- sections ---------- */
+  section{margin-top:44px;opacity:0;transform:translateY(18px);transition:all .6s ease}
+  section.visible{opacity:1;transform:none}
+  h2{
+    font-size:1.28rem;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:10px;
+  }
+  h2::before{content:"";width:5px;height:24px;border-radius:3px;
+    background:linear-gradient(180deg,var(--cyan),var(--lime))}
+
+  .card{
+    background:var(--surface);border:1px solid var(--border);
+    border-radius:16px;padding:20px 22px;
+  }
+  p.desc{color:var(--muted)}
+  p.desc b, p.desc strong{color:var(--text)}
+
+  /* notice */
+  .notice{
+    border:1px solid rgba(255,201,77,.35); background:rgba(255,201,77,.07);
+    border-radius:16px; padding:18px 20px; color:#F4E3BB; font-size:.93rem;
+  }
+  .notice b{color:var(--amber)}
+
+  /* spec table */
+  table{width:100%;border-collapse:collapse;font-size:.92rem}
+  th,td{padding:11px 14px;text-align:right;border-bottom:1px solid var(--border)}
+  tr:last-child td{border-bottom:none}
+  th{color:var(--muted);font-weight:600;width:42%}
+  td{color:var(--text)}
+  td code, .inline-code{
+    background:var(--surface2);border:1px solid var(--border);border-radius:7px;
+    padding:2px 8px;font-size:.82rem;color:var(--cyan);direction:ltr;display:inline-block;
+    font-family:ui-monospace,Menlo,monospace;
+  }
+
+  /* tree */
+  pre.tree{
+    background:var(--surface);border:1px solid var(--border);border-radius:16px;
+    padding:16px 14px;overflow-x:auto;direction:ltr;text-align:left;
+    font-family:ui-monospace,Menlo,monospace;font-size:.7rem;line-height:1.75;color:#B9C9E2;
+  }
+  pre.tree .c{color:var(--lime)} pre.tree .k{color:var(--cyan)}
+
+  /* feature grid */
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  .feat{
+    background:var(--surface);border:1px solid var(--border);border-radius:14px;
+    padding:16px;display:flex;flex-direction:row;align-items:center;gap:12px;
+  }
+  .feat .ico{
+    width:38px;height:38px;flex:0 0 38px;border-radius:11px;display:flex;align-items:center;justify-content:center;
+    background:rgba(0,217,255,.12);color:var(--cyan);font-size:1.05rem;text-align:center;
+  }
+  .feat h3{font-size:.92rem;font-weight:700}
+  .feat p{font-size:.78rem;color:var(--muted);line-height:1.7;margin-top:2px}
+
+  /* steps */
+  .step{display:flex;gap:14px;margin-bottom:14px}
+  .step .n{
+    width:30px;height:30px;flex:none;border-radius:50%;
+    background:linear-gradient(135deg,var(--cyan),#0090b3);color:#04121a;
+    font-weight:800;display:flex;align-items:center;justify-content:center;font-size:.9rem;
+  }
+  .step .t{font-size:.9rem;color:var(--muted);padding-top:3px}
+  .step .t b{color:var(--text)}
+
+  pre.cmd{
+    background:#050810;border:1px solid var(--border);border-radius:12px;
+    padding:14px 16px;direction:ltr;text-align:left;overflow-x:auto;
+    font-family:ui-monospace,Menlo,monospace;font-size:.78rem;color:#9FE8FF;
+    margin-top:10px;line-height:1.8;
+  }
+  pre.cmd .g{color:var(--lime)}
+
+  /* button */
+  .btn{
+    display:inline-flex;align-items:center;gap:8px;margin-top:6px;
+    background:linear-gradient(90deg,#00c8e8,#00a8c8);color:#04121A;font-weight:700;
+    padding:11px 22px;border-radius:12px;text-decoration:none;font-size:.9rem;
+    box-shadow:0 8px 24px rgba(0,217,255,.25);
+  }
+  .btn:active{transform:scale(.97)}
+
+  footer{
+    margin-top:56px;text-align:center;color:var(--muted);font-size:.8rem;
+    border-top:1px solid var(--border);padding-top:22px;
+  }
+  footer .h{color:var(--cyan);font-weight:700}
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <img class="logo" src="img/icon.png" alt="HTML2APK">
+  <h1>HTML2APK</h1>
+  <p class="sub">سازندهٔ HTML به APK — سورس‌کد کامل و پوستهٔ بازسازی‌شدهٔ WebView</p>
+  <div class="badges">
+    <span class="badge" dir="ltr">v1.32-zfix2</span>
+    <span class="badge" dir="ltr">minSdk 28 · Android 9+</span>
+    <span class="badge lime">Release Signed</span>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <section class="notice visible">
+    <b>⚠️ نکتهٔ مهم:</b>
+    سورس موجود در این بسته، <b>خروجی دی‌کامپایل jadx</b> از برنامهٔ <code class="inline-code">HTML to APK Builder v1.32</code>
+    است — نه سورس اصلی اندروید استودیو. کد اصلی با R8 مبهم‌سازی و با Pairip محافظت شده و
+    <b>قابل بیلد مستقیم نیست</b>. به همین دلیل، APK نصب‌شوندهٔ همراه ریپو از روی
+    <b>پوستهٔ تمیز و بازسازی‌شدهٔ WebView</b> (<code class="inline-code">android-app/</code>) با همان هویت
+    برندینگ HTML2APK ساخته شده است.
+  </section>
+
+  <section>
+    <h2>دربارهٔ پروژه</h2>
+    <div class="card">
+      <p class="desc">
+        <b>HTML to APK Builder</b> اپلیکیشنی است که به کاربر اجازه می‌دهد <b>بدون کامپیوتر</b> و مستقیماً روی گوشی،
+        پروژه‌های HTML/CSS/JS خود را به یک فایل <b>APK یا AAB امضاشده</b> تبدیل کند. موتور داخلی آن با
+        ویرایش مانیفست باینری، بازنویسی DEX (کتابخانهٔ dexlib2) و امضای apksig گوگل، خروجی را
+        از روی قالب‌های از پیش ساخته‌شده تولید می‌کند.
+        این ریپو شامل <b>سورس دی‌کامپایل‌شدهٔ کامل</b> این برنامه (برای مطالعه و یادگیری) به‌همراه
+        <b>یک پروژهٔ تمیز و قابل بیلد</b> از پوستهٔ WebView آن است.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>مشخصات فنی</h2>
+    <div class="card" style="padding:6px 4px">
+      <table>
+        <tr><th>پکیج برنامهٔ اصلی</th><td><code>com.basitce.htmltoapk</code></td></tr>
+        <tr><th>پکیج APK بازسازی‌شده</th><td><code>com.html2apk.app</code></td></tr>
+        <tr><th>نسخه</th><td>1.32-zfix2 (versionCode: 45)</td></tr>
+        <tr><th>زبان اصلی برنامه</th><td>Kotlin + Jetpack Compose</td></tr>
+        <tr><th>حداقل اندروید</th><td>API 28 (اندروید ۹)</td></tr>
+        <tr><th>SDK هدف</th><td>API 36 اصلی / 34 پوسته</td></tr>
+        <tr><th>محافظت نسخه اصلی</th><td>Pairip + R8 Obfuscation</td></tr>
+        <tr><th>حجم سورس دی‌کامپایل</th><td>~۲۱۱ مگابایت — ۱۷,۱۸۶ فایل جاوا</td></tr>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>ساختار ریپو</h2>
+    <pre class="tree">
+HTML2APK/
+├── README.md
+├── apk/
+│   └── HTML2APK-v1.0-release.apk
+├── android-app/          &#8592; rebuildable WebView shell
+│   ├── AndroidManifest.xml
+│   ├── build.sh          &#8592; Gradle-free build
+│   ├── java/com/html2apk/app/
+│   │   └── MainActivity.java
+│   ├── res/              &#8592; branding icons + theme
+│   └── assets/           &#8592; ★ your HTML here
+├── keystore/
+│   └── html2apk-release.keystore
+└── original-decompiled-source/ &#8592; 211MB jadx output</pre>
+    <div class="card" style="margin-top:12px;padding:16px 20px">
+      <p class="desc" style="font-size:.86rem">
+        <b style="color:var(--cyan)">apk/</b> خروجی نهایی قابل نصب ·
+        <b style="color:var(--cyan)">android-app/</b> پروژه تمیز و قابل بیلد ·
+        <b style="color:var(--cyan)">keystore/</b> کلید امضای Release ·
+        <b style="color:var(--cyan)">original-decompiled-source/</b> سورس کامل دی‌کامپایل‌شده برای مطالعه
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>امکانات این APK</h2>
+    <div class="grid">
+      <div class="feat"><div class="ico">🌐</div><div><h3>رندر کامل HTML5</h3><p>پشتیبانی از CSS3، JavaScript، localStorage و انیمیشن</p></div></div>
+      <div class="feat"><div class="ico">📴</div><div><h3>کاملاً آفلاین</h3><p>محتوا از assets داخلی خود APK بارگذاری می‌شود</p></div></div>
+      <div class="feat"><div class="ico">↗️</div><div><h3>لینک‌های خارجی</h3><p>لینک‌های http/https به‌طور خودکار در مرورگر باز می‌شوند</p></div></div>
+      <div class="feat"><div class="ico">🗂️</div><div><h3>انتخاب فایل</h3><p>ورودی‌های file در فرم‌های HTML پشتیبانی می‌شوند</p></div></div>
+      <div class="feat"><div class="ico">🌙</div><div><h3>تم سرمه‌ای تیره</h3><p>رنگ‌های برند: فیروزه‌ای و لیمویی روی سرمه‌ای عمیق</p></div></div>
+      <div class="feat"><div class="ico">📱</div><div><h3>RTL و Adaptive Icon</h3><p>رابط راست‌به‌چپ و آیکون تطبیقی در همه دانسیتی‌ها</p></div></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>HTML خودتان را جایگزین کنید</h2>
+    <div class="card">
+      <div class="step"><div class="n">۱</div><div class="t">فایل‌های HTML/CSS/JS خود را داخل <b>android-app/assets/</b> کپی کنید</div></div>
+      <div class="step"><div class="n">۲</div><div class="t">محتوای صفحهٔ اصلی را در <b>index.html</b> قرار دهید (یا آدرس شروع را در MainActivity.java عوض کنید)</div></div>
+      <div class="step"><div class="n">۳</div><div class="t">اسکریپت بیلد را اجرا کنید — بدون نیاز به Gradle یا Android Studio:</div></div>
+      <pre class="cmd">cd android-app
+<span class="g">./build.sh</span>
+<span class="c"># خروجی: build/HTML2APK-v1.0-release.apk</span></pre>
+      <p class="desc" style="font-size:.85rem;margin-top:10px">
+        پیش‌نیازها: JDK 17+، build-tools 34 و پلتفرم android-34.
+        مسیرها را می‌توانید با متغیرهای <code class="inline-code">SDK</code>، <code class="inline-code">BT</code> و <code class="inline-code">JDK</code> تغییر دهید.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <h2>مشخصات امضا</h2>
+    <div class="card" style="padding:6px 4px">
+      <table>
+        <tr><th>فایل کلید</th><td><code>keystore/html2apk-release.keystore</code></td></tr>
+        <tr><th>Alias</th><td><code>html2apk</code></td></tr>
+        <tr><th>رمز Store و Key</th><td><code>html2apk2026</code></td></tr>
+        <tr><th>الگوریتم</th><td>RSA 2048 — اعتبار ۳۰ سال</td></tr>
+        <tr><th>امضاهای فعال</th><td>v1 (JAR) + v2 (APK Signature Scheme v2)</td></tr>
+      </table>
+    </div>
+    <p class="desc" style="font-size:.83rem;margin-top:12px">
+      ⚠️ این کلید فقط برای تست و استفادهٔ شخصی ساخته شده و رمز آن عمومی است؛
+      برای انتشار عمومی حتماً کلید جدیدی با رمز اختصاصی بسازید.
+    </p>
+  </section>
+
+  <section style="text-align:center">
+    <h2 style="justify-content:center">سورس کامل در گیت‌هاب</h2>
+    <p class="desc" style="font-size:.9rem;margin-bottom:18px">
+      سورس دی‌کامپایل‌شدهٔ کامل، پروژهٔ قابل بیلد و فایل APK در ریپوی زیر موجود است.
+    </p>
+    <a class="btn" href="https://github.com/pubbgggamerss00-bot/HTML2APK">★ باز کردن ریپو در گیت‌هاب</a>
+  </section>
+
+  <footer>
+    <span class="h">HTML2APK</span> — بازسازی تمیز پوستهٔ WebView بر پایهٔ HTML to APK Builder v1.32-zfix2<br>
+    سورس اصلی: <span dir="ltr">com.basitce.htmltoapk</span> · ساخته‌شده با aapt2 + d8 + apksigner · ۲۰۲۶
+  </footer>
+
+</div>
+
+<script>
+  // reveal sections on scroll
+  const obs = new IntersectionObserver((entries)=>{
+    entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('visible'); }});
+  },{threshold:.12});
+  document.querySelectorAll('section').forEach(s=>obs.observe(s));
+</script>
+</body>
+</html>

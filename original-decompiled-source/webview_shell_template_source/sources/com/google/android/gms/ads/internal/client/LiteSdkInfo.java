@@ -1,0 +1,23 @@
+package com.google.android.gms.ads.internal.client;
+
+import android.content.Context;
+import com.google.android.gms.dynamite.descriptors.com.google.android.gms.ads.dynamite.ModuleDescriptor;
+import com.google.android.gms.internal.ads.dy;
+import com.google.android.gms.internal.ads.gy;
+
+/* compiled from: r8-map-id-c2e43b85b3faaa908d3d4eb519a292cdfb67c014e97b7e4873d9aa873c97b949 */
+/* loaded from: classes.dex */
+public class LiteSdkInfo extends zzcv {
+    public LiteSdkInfo(Context context) {
+    }
+
+    @Override // com.google.android.gms.ads.internal.client.zzcw
+    public gy getAdapterCreator() {
+        return new dy();
+    }
+
+    @Override // com.google.android.gms.ads.internal.client.zzcw
+    public zzfb getLiteSdkVersion() {
+        return new zzfb(ModuleDescriptor.MODULE_VERSION, 244410000, "23.6.0");
+    }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d સંદેશ</item>
+        <item quantity="other">%1$d સંદેશાઓ</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d સમસ્યા</item>
+        <item quantity="other">%1$d સમસ્યાઓ</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d મેચ બદલવામાં આવી</item>
+        <item quantity="other">%1$d મેચો બદલવામાં આવી</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">તમારો કોડ %1$d પરવાનગી વાપરે છે જે સક્ષમ નથી.</item>
+        <item quantity="other">તમારો કોડ %1$d પરવાનગીઓ વાપરે છે જે સક્ષમ નથી.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d પ્રોજેક્ટ</item>
+        <item quantity="other">%1$d પ્રોજેક્ટ્સ</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d પેજ</item>
+        <item quantity="other">%1$d પેજ</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d પેજ પસંદ કર્યું</item>
+        <item quantity="other">%1$d પેજ પસંદ કર્યા</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d પેજ</item>
+        <item quantity="other">%1$d પેજ</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d નવી அપ્લಿકેશನ</item>
+        <item quantity="other">≈ %1$d નવી அપ્લಿકેશನો</item>
+    </plurals>
+</resources>

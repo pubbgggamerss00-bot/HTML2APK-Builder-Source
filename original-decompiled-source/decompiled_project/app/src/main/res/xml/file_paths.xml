@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path
+        name="apk_output"
+        path="apk_output/"/>
+    <cache-path
+        name="aab_output"
+        path="aab_output/"/>
+    <cache-path
+        name="pdf_share"
+        path="pdf_share/"/>
+    <files-path
+        name="exports"
+        path="exports/"/>
+    <cache-path
+        name="keystore_exports"
+        path="keystore_exports/"/>
+    <files-path
+        name="clipboard_payloads"
+        path="clipboard_payloads/"/>
+    <files-path
+        name="project_outputs"
+        path="projects/"/>
+    <external-path
+        name="external_files"
+        path="."/>
+</paths>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d സന്ദേശം</item>
+        <item quantity="other">%1$d സന്ദേശങ്ങൾ</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d പ്രശ്നം</item>
+        <item quantity="other">%1$d പ്രശ്നങ്ങൾ</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d എണ്ണം മാറ്റിസ്ഥാപിച്ചു</item>
+        <item quantity="other">%1$d എണ്ണം മാറ്റിസ്ഥാപിച്ചു</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">നിങ്ങളുടെ കോഡ് പ്രവർത്തനക്ഷമമാക്കാത്ത %1$d അനുമതി ഉപയോഗിക്കുന്നു.</item>
+        <item quantity="other">നിങ്ങളുടെ കോഡ് പ്രവർത്തനക്ഷമമാക്കാത്ത %1$d അനുമതികൾ ഉപയോഗിക്കുന്നു.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d പ്രോജക്റ്റ്</item>
+        <item quantity="other">%1$d പ്രോജക്റ്റുകൾ</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d പേജ്</item>
+        <item quantity="other">%1$d പേജുകൾ</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d പേജ് തിരഞ്ഞെടുത്തു</item>
+        <item quantity="other">%1$d പേജുകൾ തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d പേജ്</item>
+        <item quantity="other">%1$d പേജുകൾ</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d പുതിയ ആപ്പ്</item>
+        <item quantity="other">≈ %1$d പുതിയ ആപ്പുകൾ</item>
+    </plurals>
+</resources>

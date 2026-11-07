@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">رسالة واحدة %1$d</item>
+        <item quantity="other">رسائل %1$d</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d مشكلة</item>
+        <item quantity="other">%1$d مشاكل</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">تم استبدال تطابق واحد %1$d</item>
+        <item quantity="other">تم استبدال %1$d من التطابقات</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">يستخدم كودك %1$d صلاحية غير مفعلة.</item>
+        <item quantity="other">يستخدم كودك %1$d صلاحيات غير مفعلة.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d مشروع</item>
+        <item quantity="other">%1$d مشاريع</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d صفحة</item>
+        <item quantity="other">%1$d صفحات</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">تم تحديد %1$d صفحة</item>
+        <item quantity="other">تم تحديد %1$d صفحات</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d صفحة</item>
+        <item quantity="other">%1$d صفحات</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d تطبيق جديد</item>
+        <item quantity="other">≈ %1$d تطبيقات جديدة</item>
+    </plurals>
+</resources>

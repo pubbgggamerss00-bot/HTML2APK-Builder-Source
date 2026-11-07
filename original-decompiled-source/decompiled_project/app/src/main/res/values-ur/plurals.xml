@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d پیغام</item>
+        <item quantity="other">%1$d پیغامات</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d مسئلہ</item>
+        <item quantity="other">%1$d مسائل</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d مماثلت تبدیل کی گئی</item>
+        <item quantity="other">%1$d مماثلتیں تبدیل کی گئیں</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">آپ کا کوڈ %1$d اجازت استعمال کرتا ہے جو فعال نہیں ہے۔</item>
+        <item quantity="other">آپ کا کوڈ %1$d اجازتیں استعمال کرتا ہے جو فعال نہیں ہیں۔</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d پروجیکٹ</item>
+        <item quantity="other">%1$d پروجیکٹس</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d صفحہ</item>
+        <item quantity="other">%1$d صفحات</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d صفحہ منتخب کیا گیا</item>
+        <item quantity="other">%1$d صفحات منتخب کیے گئے</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d صفحہ</item>
+        <item quantity="other">%1$d صفحات</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d نئی ایپ</item>
+        <item quantity="other">≈ %1$d نئی ایپس</item>
+    </plurals>
+</resources>

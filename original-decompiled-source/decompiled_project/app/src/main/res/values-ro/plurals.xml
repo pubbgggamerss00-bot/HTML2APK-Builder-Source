@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d mesaj</item>
+        <item quantity="other">%1$d mesaje</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d problemă</item>
+        <item quantity="other">%1$d probleme</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d potrivire înlocuită</item>
+        <item quantity="other">%1$d potriviri înlocuite</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Codul tău folosește %1$d permisiune care nu este activată.</item>
+        <item quantity="other">Codul tău folosește %1$d permisiuni care nu sunt activate.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d proiect</item>
+        <item quantity="other">%1$d proiecte</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d pagină</item>
+        <item quantity="other">%1$d pagini</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d pagină selectată</item>
+        <item quantity="other">%1$d pagini selectate</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d pagină</item>
+        <item quantity="other">%1$d pagini</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d aplicație nouă</item>
+        <item quantity="other">≈ %1$d aplicații noi</item>
+    </plurals>
+</resources>

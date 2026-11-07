@@ -1,0 +1,55 @@
+package com.google.android.gms.internal.play_billing;
+
+/* loaded from: classes2.dex */
+public final class zzjo extends zzfi implements zzgm {
+    private static final zzjo zzb;
+    private int zzd;
+    private zzig zze;
+    private long zzf;
+
+    static {
+        zzjo zzjoVar = new zzjo();
+        zzb = zzjoVar;
+        zzfi.zzw(zzjo.class, zzjoVar);
+    }
+
+    private zzjo() {
+    }
+
+    public static /* synthetic */ void zzA(zzjo zzjoVar, zzig zzigVar) {
+        zzigVar.getClass();
+        zzjoVar.zze = zzigVar;
+        zzjoVar.zzd |= 1;
+    }
+
+    public static /* synthetic */ void zzB(zzjo zzjoVar, long j10) {
+        zzjoVar.zzd |= 2;
+        zzjoVar.zzf = j10;
+    }
+
+    public static zzjm zzc() {
+        return (zzjm) zzb.zzl();
+    }
+
+    @Override // com.google.android.gms.internal.play_billing.zzfi
+    public final Object zzb(int i10, Object obj, Object obj2) {
+        int i11 = i10 - 1;
+        if (i11 == 0) {
+            return (byte) 1;
+        }
+        if (i11 == 2) {
+            return zzfi.zzt(zzb, "\u0004\u0002\u0000\u0001\u0001\u0002\u0002\u0000\u0000\u0000\u0001ဉ\u0000\u0002ဂ\u0001", new Object[]{"zzd", "zze", "zzf"});
+        }
+        if (i11 == 3) {
+            return new zzjo();
+        }
+        zzjn zzjnVar = null;
+        if (i11 == 4) {
+            return new zzjm(zzjnVar);
+        }
+        if (i11 == 5) {
+            return zzb;
+        }
+        throw null;
+    }
+}

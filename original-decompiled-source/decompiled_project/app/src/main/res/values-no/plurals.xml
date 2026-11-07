@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d melding</item>
+        <item quantity="other">%1$d meldinger</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d problem</item>
+        <item quantity="other">%1$d problemer</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d treff erstattet</item>
+        <item quantity="other">%1$d treff erstattet</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Koden din bruker %1$d tillatelse som ikke er aktivert.</item>
+        <item quantity="other">Koden din bruker %1$d tillatelser som ikke er aktivert.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d prosjekt</item>
+        <item quantity="other">%1$d prosjekter</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d side</item>
+        <item quantity="other">%1$d sider</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d side valgt</item>
+        <item quantity="other">%1$d sider valgt</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d side</item>
+        <item quantity="other">%1$d sider</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d ny app</item>
+        <item quantity="other">≈ %1$d nye apper</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+package com.android.apksig.internal.apk.stamp;
+
+import com.android.apksig.internal.util.Pair;
+import java.util.Comparator;
+
+/* loaded from: classes.dex */
+public final /* synthetic */ class d implements Comparator {
+    @Override // java.util.Comparator
+    public final int compare(Object obj, Object obj2) {
+        return V2SourceStampSigner.lambda$getSignedDigestsFor$1((Pair) obj, (Pair) obj2);
+    }
+}

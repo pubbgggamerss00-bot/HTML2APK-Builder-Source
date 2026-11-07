@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ai_ideas">
+        <item>A one-tap game at sunset: a ball bounces between hills and collects stars, with score and best score saved.</item>
+        <item>A dark-themed to-do list with categories and reminders.</item>
+        <item>A stylish calculator with a scientific mode and calculation history.</item>
+        <item>A running tracker: distance, time and pace from location while the app stays open on screen, plus a list of past runs.</item>
+        <item>A camera app: take photos, apply black-and-white, warm and cool filters, and save to the gallery.</item>
+        <item>A water reminder: daily goal, add a glass, weekly chart and notifications.</item>
+        <item>A Pomodoro timer: 25/5 minute cycles, vibration alerts and daily focus stats.</item>
+        <item>Classic snake: swipe to turn, levels that speed up and a high score.</item>
+        <item>A memory card matching game: emoji cards, move counter, timer and difficulty levels.</item>
+        <item>An expense tracker: categories, monthly budget, pie chart and CSV export.</item>
+        <item>A flashlight: one-tap on/off, SOS mode and a white screen light.</item>
+        <item>A mood journal: an emoji and a note each day, calendar view and monthly summary.</item>
+        <item>2048 number merging game: swipe controls, undo and best score.</item>
+        <item>A breathing exercise: 4-7-8 and box breathing, an animated growing circle and gentle vibration.</item>
+        <item>Vocabulary flashcards: an English–Turkish deck, flip cards, knew it / didn\'t, and spaced review.</item>
+        <item>A bill splitter and tip calculator: number of people, tip percentage and rounding.</item>
+        <item>A password generator: length slider, letters, digits and symbols, a strength meter and copy to clipboard.</item>
+        <item>A space shooter: the ship follows your finger, enemies come in waves, with power-ups.</item>
+        <item>A voice recorder: record, pause, list recordings, play and share.</item>
+        <item>A recipe book: ingredients, steps, scaling by servings and favourites.</item>
+        <item>A shopping list: grouped by store aisle, check items off and share.</item>
+        <item>Dice and coin flip: several dice, shake the phone to roll, roll history.</item>
+        <item>A two-octave touch piano with different sounds and recording.</item>
+        <item>A birthday countdown: people, days left, notifications and a confetti animation.</item>
+        <item>A unit converter: length, weight, temperature, speed and area, with quick search.</item>
+        <item>Sudoku: three difficulty levels, notes mode, mistake checking and hints.</item>
+        <item>A habit tracker: daily check-ins, streak counter and a weekly heat map.</item>
+        <item>Remember where I parked: save the location and show distance and direction to it.</item>
+        <item>A reaction time test: tap when the screen turns green, millisecond score and best results.</item>
+        <item>A drawing board: brush size, colour palette, eraser, undo and save to the gallery.</item>
+        <item>A bird game among the clouds: tap to flap, a day-night cycle and medals.</item>
+        <item>A class timetable: weekly grid, colourful subjects and a notification before the next class.</item>
+        <item>A metronome: BPM setting, beat indicator, vibrating tempo and rhythm patterns.</item>
+        <item>A trivia quiz: general knowledge questions, a time limit, lifelines and a scoreboard.</item>
+        <item>A sleep calculator: suggest the best wake-up times by sleep cycles and schedule a reminder notification.</item>
+        <item>A stopwatch with laps: lap list, highlight the fastest lap and share.</item>
+        <item>A sliding number puzzle: 3x3 and 4x4 boards, move counter and timer.</item>
+        <item>A brick breaker game: colourful bricks, power-ups, levels and vibration.</item>
+        <item>A notes app: coloured notes, tags, search, pinning and works offline.</item>
+        <item>A workout tracker: exercises, sets and reps, rest timer and progress chart.</item>
+        <item>A colour picker: take a photo and tap it to pick colours, show HEX and RGB, save palettes.</item>
+        <item>A spirit level: tilt from the accelerometer, a moving bubble, calibration and a vibration when level.</item>
+        <item>Tic-tac-toe: two players or against the computer, with a score.</item>
+        <item>A reading tracker: pages read, goals, book list and reading streak.</item>
+        <item>A plant watering reminder: plant list, watering interval, notifications and photos.</item>
+        <item>A drum kit: touch pads, beat recording and tempo control.</item>
+        <item>Daily motivation quotes: a new quote each day, favourites and sharing.</item>
+        <item>An endless runner: the character runs on its own, tap to jump, obstacles and coins.</item>
+        <item>A bill reminder: due dates, recurring bills and notifications.</item>
+        <item>A word search puzzle: find words in a letter grid, choose a theme, with a timer.</item>
+    </array>
+    <array name="legal_privacy_items">
+        <item>Without an account we collect no personal data, and the app has no analytics or advertising of its own.</item>
+        <item>If you sign in with Google to use AI, your account (name, e-mail, user ID), your credit balance and purchases, and your AI conversations (prompts, the project file sent for edits, answers) are stored on our servers in the EU. AI conversations are deleted after 30 days; you can delete them, or your whole account, at any time in Profile.</item>
+        <item>AI requests are processed in the United States by OpenRouter and the model providers behind it (OpenAI, Anthropic), with the consent you give when signing in; providers that train on your data are excluded.</item>
+        <item>Your projects, keystores and settings are stored only on your device; keystore passwords are kept encrypted.</item>
+        <item>The internet is used only for what you ask for: website (URL) projects, previews of pages that load online content, libraries your templates load, and, if you use them, Google sign-in, AI and purchases.</item>
+        <item>Purchases, the review dialog and update checks are handled by Google Play under Google\'s privacy policy.</item>
+        <item>Feedback e-mails are sent from your own mail app and only if you choose to send one.</item>
+        <item>If the apps you create show ads or collect data, you need your own privacy policy for them.</item>
+    </array>
+    <array name="legal_terms_items">
+        <item>You are responsible for the content you turn into an app, and for the apps you publish.</item>
+        <item>Only convert websites, files and media that you own or have permission to use.</item>
+        <item>Apps are built entirely on your device. We do not host, store or distribute the apps you create.</item>
+        <item>If you publish an app, you must follow the policies of the store you publish to, including Google Play\'s developer policies.</item>
+        <item>AI credits are Google Play purchases. They cannot be transferred or exchanged for money, and are removed if the purchase is refunded. Failed generations are free.</item>
+        <item>Check apps made with AI before you publish them; you are responsible for them. Using AI for malware, phishing, impersonation or illegal content ends AI access. The account and AI are for users aged 18 or over.</item>
+        <item>The app is provided as is. We are not liable for misuse or for how the apps you create are used.</item>
+    </array>
+</resources>

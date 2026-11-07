@@ -1,0 +1,135 @@
+package p0;
+
+import java.util.ArrayList;
+import w1.d;
+import w1.g;
+
+/* loaded from: classes.dex */
+public final class t8 {
+
+    /* renamed from: a, reason: collision with root package name */
+    public static w1.d f21043a;
+
+    public static final w1.d a() {
+        w1.d dVar = f21043a;
+        if (dVar != null) {
+            return dVar;
+        }
+        d.a aVar = new d.a("Filled.QrCode", 24.0f, 24.0f, 24.0f, 24.0f, 0L, 0, false, 96);
+        int i10 = w1.m.f31210a;
+        long j10 = q1.b1.f21648b;
+        q1.i2 i2Var = new q1.i2(j10);
+        w1.e eVar = new w1.e();
+        eVar.h(3.0f, 11.0f);
+        eVar.e(8.0f);
+        eVar.k(3.0f);
+        eVar.d(3.0f);
+        eVar.k(11.0f);
+        eVar.a();
+        eVar.h(5.0f, 5.0f);
+        eVar.e(4.0f);
+        eVar.l(4.0f);
+        eVar.d(5.0f);
+        eVar.k(5.0f);
+        eVar.a();
+        d.a.a(aVar, eVar.f31100a, 0, i2Var);
+        q1.i2 i2Var2 = new q1.i2(j10);
+        w1.e eVar2 = new w1.e();
+        eVar2.h(3.0f, 21.0f);
+        eVar2.e(8.0f);
+        eVar2.l(-8.0f);
+        eVar2.d(3.0f);
+        eVar2.k(21.0f);
+        eVar2.a();
+        eVar2.h(5.0f, 15.0f);
+        eVar2.e(4.0f);
+        eVar2.l(4.0f);
+        eVar2.d(5.0f);
+        eVar2.k(15.0f);
+        eVar2.a();
+        d.a.a(aVar, eVar2.f31100a, 0, i2Var2);
+        q1.i2 i2Var3 = new q1.i2(j10);
+        w1.e eVar3 = new w1.e();
+        eVar3.h(13.0f, 3.0f);
+        eVar3.l(8.0f);
+        eVar3.e(8.0f);
+        eVar3.k(3.0f);
+        eVar3.d(13.0f);
+        eVar3.a();
+        eVar3.h(19.0f, 9.0f);
+        eVar3.e(-4.0f);
+        eVar3.k(5.0f);
+        eVar3.e(4.0f);
+        eVar3.k(9.0f);
+        eVar3.a();
+        d.a.a(aVar, eVar3.f31100a, 0, i2Var3);
+        q1.i2 i2Var4 = new q1.i2(j10);
+        ArrayList arrayList = new ArrayList(32);
+        arrayList.add(new g.f(19.0f, 19.0f));
+        arrayList.add(new g.l(2.0f));
+        arrayList.add(new g.r(2.0f));
+        arrayList.add(new g.l(-2.0f));
+        g.b bVar = g.b.f31130c;
+        arrayList.add(bVar);
+        d.a.a(aVar, arrayList, 0, i2Var4);
+        q1.i2 i2Var5 = new q1.i2(j10);
+        ArrayList arrayList2 = new ArrayList(32);
+        arrayList2.add(new g.f(13.0f, 13.0f));
+        arrayList2.add(new g.l(2.0f));
+        arrayList2.add(new g.r(2.0f));
+        arrayList2.add(new g.l(-2.0f));
+        arrayList2.add(bVar);
+        d.a.a(aVar, arrayList2, 0, i2Var5);
+        q1.i2 i2Var6 = new q1.i2(j10);
+        ArrayList arrayList3 = new ArrayList(32);
+        arrayList3.add(new g.f(15.0f, 15.0f));
+        arrayList3.add(new g.l(2.0f));
+        arrayList3.add(new g.r(2.0f));
+        arrayList3.add(new g.l(-2.0f));
+        arrayList3.add(bVar);
+        d.a.a(aVar, arrayList3, 0, i2Var6);
+        q1.i2 i2Var7 = new q1.i2(j10);
+        ArrayList arrayList4 = new ArrayList(32);
+        arrayList4.add(new g.f(13.0f, 17.0f));
+        arrayList4.add(new g.l(2.0f));
+        arrayList4.add(new g.r(2.0f));
+        arrayList4.add(new g.l(-2.0f));
+        arrayList4.add(bVar);
+        d.a.a(aVar, arrayList4, 0, i2Var7);
+        q1.i2 i2Var8 = new q1.i2(j10);
+        ArrayList arrayList5 = new ArrayList(32);
+        arrayList5.add(new g.f(15.0f, 19.0f));
+        arrayList5.add(new g.l(2.0f));
+        arrayList5.add(new g.r(2.0f));
+        arrayList5.add(new g.l(-2.0f));
+        arrayList5.add(bVar);
+        d.a.a(aVar, arrayList5, 0, i2Var8);
+        q1.i2 i2Var9 = new q1.i2(j10);
+        ArrayList arrayList6 = new ArrayList(32);
+        arrayList6.add(new g.f(17.0f, 17.0f));
+        arrayList6.add(new g.l(2.0f));
+        arrayList6.add(new g.r(2.0f));
+        arrayList6.add(new g.l(-2.0f));
+        arrayList6.add(bVar);
+        d.a.a(aVar, arrayList6, 0, i2Var9);
+        q1.i2 i2Var10 = new q1.i2(j10);
+        ArrayList arrayList7 = new ArrayList(32);
+        arrayList7.add(new g.f(17.0f, 13.0f));
+        arrayList7.add(new g.l(2.0f));
+        arrayList7.add(new g.r(2.0f));
+        arrayList7.add(new g.l(-2.0f));
+        arrayList7.add(bVar);
+        d.a.a(aVar, arrayList7, 0, i2Var10);
+        q1.i2 i2Var11 = new q1.i2(j10);
+        ArrayList arrayList8 = new ArrayList(32);
+        arrayList8.add(new g.f(19.0f, 15.0f));
+        arrayList8.add(new g.l(2.0f));
+        arrayList8.add(new g.r(2.0f));
+        arrayList8.add(new g.l(-2.0f));
+        arrayList8.add(bVar);
+        d.a.a(aVar, arrayList8, 0, i2Var11);
+        w1.d dVarB = aVar.b();
+        f21043a = dVarB;
+        return dVarB;
+    }
+}

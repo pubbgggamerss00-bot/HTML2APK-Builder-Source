@@ -1,0 +1,3 @@
+rootProject.name = 'HTML to APK Builder'
+
+include 'app'

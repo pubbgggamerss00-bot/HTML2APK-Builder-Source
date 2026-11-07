@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="ai_ideas">
+        <item>Gün batımında geçen tek dokunuşlu bir oyun: top tepeler arasında zıplasın, yıldız toplasın, skor ve en iyi skor kaydedilsin.</item>
+        <item>Kategorili, hatırlatıcılı ve koyu temalı bir yapılacaklar listesi.</item>
+        <item>Bilimsel modu olan ve işlem geçmişini gösteren şık bir hesap makinesi.</item>
+        <item>Koşu takip uygulaması: uygulama ekranda açıkken konumla mesafe, süre ve tempo ölçsün, geçmiş koşuları listelesin.</item>
+        <item>Kamera uygulaması: fotoğraf çeksin, siyah beyaz, sıcak ve soğuk filtreler uygulasın, galeriye kaydetsin.</item>
+        <item>Su içme hatırlatıcısı: günlük hedef, bardak ekleme, haftalık grafik ve bildirimler.</item>
+        <item>Pomodoro zamanlayıcısı: 25/5 dakikalık döngüler, titreşimli uyarı ve günlük odak istatistiği.</item>
+        <item>Klasik yılan oyunu: kaydırarak yön değiştirme, hızlanan seviyeler ve en yüksek skor.</item>
+        <item>Hafıza kartı eşleştirme oyunu: emoji kartlar, hamle sayacı, süre ve zorluk seviyeleri.</item>
+        <item>Harcama takibi: kategoriler, aylık bütçe, pasta grafik ve CSV olarak dışa aktarma.</item>
+        <item>El feneri: tek dokunuşla aç/kapat, SOS modu ve beyaz ekran ışığı.</item>
+        <item>Ruh hali günlüğü: her gün bir emoji ve not, takvim görünümü ve aylık özet.</item>
+        <item>2048 sayı birleştirme oyunu: kaydırma kontrolleri, geri alma ve en iyi skor.</item>
+        <item>Nefes egzersizi: 4-7-8 ve kutu nefesi, büyüyüp küçülen animasyonlu daire ve hafif titreşim.</item>
+        <item>Kelime kartları: İngilizce–Türkçe deste, kartı çevir, bildim/bilemedim ve tekrar sistemi.</item>
+        <item>Hesap bölüşme ve bahşiş hesaplayıcısı: kişi sayısı, yüzde seçimi ve yuvarlama.</item>
+        <item>Şifre oluşturucu: uzunluk kaydırıcısı, harf, rakam ve sembol seçimi, güç göstergesi ve panoya kopyalama.</item>
+        <item>Uzay temalı nişancı oyunu: gemi parmakla hareket etsin, düşmanlar dalga dalga gelsin, güçlendirmeler olsun.</item>
+        <item>Ses kaydedici: kaydet, duraklat, kayıtları listele, dinle ve paylaş.</item>
+        <item>Tarif defteri: malzemeler, adımlar, porsiyona göre ölçekleme ve favoriler.</item>
+        <item>Alışveriş listesi: market bölümlerine göre gruplama, işaretleme ve paylaşma.</item>
+        <item>Zar ve yazı-tura uygulaması: birden fazla zar, telefonu sallayınca at, geçmiş atışlar.</item>
+        <item>İki oktavlık dokunmatik piyano: farklı ses tonları ve çaldığını kaydetme.</item>
+        <item>Doğum günü geri sayımı: kişiler, kalan gün, bildirim ve konfeti animasyonu.</item>
+        <item>Birim dönüştürücü: uzunluk, ağırlık, sıcaklık, hız ve alan, hızlı aramayla.</item>
+        <item>Sudoku: üç zorluk seviyesi, not alma modu, hata kontrolü ve ipucu.</item>
+        <item>Alışkanlık takipçisi: günlük işaretleme, seri sayacı ve haftalık ısı haritası.</item>
+        <item>Park yerimi kaydet: konumu kaydetsin, oraya olan mesafeyi ve yönü göstersin.</item>
+        <item>Reaksiyon testi: ekran yeşile dönünce dokun, milisaniye skoru ve en iyi sonuçlar.</item>
+        <item>Çizim tahtası: fırça kalınlığı, renk paleti, silgi, geri alma ve galeriye kaydetme.</item>
+        <item>Bulutlar arasında uçan bir kuş oyunu: dokununca kanat çırpsın, gece-gündüz döngüsü ve madalyalar olsun.</item>
+        <item>Ders programı: haftalık tablo, renkli dersler ve bir sonraki ders için bildirim.</item>
+        <item>Metronom: BPM ayarı, vuruş göstergesi, titreşimli tempo ve ritim kalıpları.</item>
+        <item>Bilgi yarışması: genel kültür soruları, süre sınırı, joker hakları ve skor tablosu.</item>
+        <item>Uyku hesaplayıcı: uyku döngülerine göre en iyi kalkış saatlerini önersin ve hatırlatma bildirimi kursun.</item>
+        <item>Kronometre ve tur zamanlayıcı: tur listesi, en hızlı turu vurgulama ve paylaşma.</item>
+        <item>Kayan sayı bulmacası: 3x3 ve 4x4 tahta, hamle sayacı ve süre.</item>
+        <item>Tuğla kırma oyunu: renkli tuğlalar, güçlendirmeler, seviyeler ve titreşim.</item>
+        <item>Not defteri: renkli notlar, etiketler, arama, üste sabitleme ve internetsiz çalışma.</item>
+        <item>Antrenman takibi: egzersizler, set ve tekrar, dinlenme sayacı ve ilerleme grafiği.</item>
+        <item>Renk yakalayıcı: fotoğraf çeksin, dokunulan yerin rengini HEX ve RGB olarak göstersin, paletleri kaydetsin.</item>
+        <item>Su terazisi: ivmeölçerle eğimi göstersin, hareket eden kabarcık, kalibrasyon ve düz olunca titreşim.</item>
+        <item>XOX oyunu: iki kişilik ve bilgisayara karşı mod, skor tutma.</item>
+        <item>Kitap okuma takibi: okunan sayfalar, hedef, kitap listesi ve okuma serisi.</item>
+        <item>Bitki sulama hatırlatıcısı: bitki listesi, sulama aralığı, bildirim ve fotoğraf.</item>
+        <item>Davul seti: dokunmatik pedler, ritim kaydı ve tempo ayarı.</item>
+        <item>Günlük motivasyon sözleri: her gün yeni bir söz, favorilere ekleme ve paylaşma.</item>
+        <item>Sonsuz koşu oyunu: karakter kendiliğinden koşsun, dokununca zıplasın, engeller ve paralar olsun.</item>
+        <item>Fatura hatırlatıcısı: son ödeme tarihleri, tekrar eden faturalar ve bildirim.</item>
+        <item>Kelime avı bulmacası: harf ızgarasında kelime arama, tema seçimi ve süre.</item>
+    </array>
+    <array name="legal_privacy_items">
+        <item>Hesapsız kullanımda kişisel veri toplamayız; uygulamanın kendi analitiği veya reklamı yoktur.</item>
+        <item>AI için Google ile giriş yaparsan hesabın (ad, e-posta, kullanıcı kimliği), kredi bakiyen ve satın almaların ile AI sohbetlerin (istemler, düzenleme için gönderilen proje dosyası, cevaplar) AB\'deki sunucularımızda saklanır. AI sohbetleri 30 gün sonra silinir; bunları veya tüm hesabını Profil\'den istediğin an silebilirsin.</item>
+        <item>AI istekleri, girişte verdiğin rızayla ABD\'de OpenRouter ve arkasındaki model sağlayıcıları (OpenAI, Anthropic) tarafından işlenir; verini eğitimde kullanan sağlayıcılar hariç tutulur.</item>
+        <item>Projelerin, keystore\'ların ve ayarların yalnızca cihazında saklanır; keystore şifreleri şifrelenmiş olarak tutulur.</item>
+        <item>İnternet yalnızca istediğin şeyler için kullanılır: web sitesi (URL) projeleri, çevrimiçi içerik yükleyen sayfaların önizlemesi, şablonlarının yüklediği kütüphaneler ve kullanırsan Google ile giriş, AI ve satın almalar.</item>
+        <item>Satın almalar, değerlendirme penceresi ve güncelleme denetimi Google\'ın gizlilik politikasıyla Google Play tarafından yürütülür.</item>
+        <item>Geri bildirim e-postaları kendi e-posta uygulamandan ve yalnızca sen göndermeyi seçersen gönderilir.</item>
+        <item>Oluşturduğun uygulamalar reklam gösteriyor veya veri topluyorsa, onlar için kendi gizlilik politikan olmalı.</item>
+    </array>
+    <array name="legal_terms_items">
+        <item>Uygulamaya dönüştürdüğün içerikten ve yayınladığın uygulamalardan sen sorumlusun.</item>
+        <item>Yalnızca sahibi olduğun veya kullanma iznin bulunan web sitelerini, dosyaları ve medyayı dönüştür.</item>
+        <item>Uygulamalar tamamen cihazında derlenir. Oluşturduğun uygulamaları barındırmayız, saklamayız ve dağıtmayız.</item>
+        <item>Bir uygulama yayınlarsan, Google Play geliştirici politikaları dahil yayınladığın mağazanın kurallarına uyman gerekir.</item>
+        <item>AI kredileri Google Play satın almalarıdır. Devredilemez, paraya çevrilemez ve satın alma iade edilirse geri alınır. Hatalı üretim ücretsizdir.</item>
+        <item>AI ile yapılan uygulamaları yayınlamadan önce kontrol et; onlardan sen sorumlusun. AI\'ı zararlı yazılım, oltalama, taklit veya yasa dışı içerik için kullanmak AI erişimini sonlandırır. Hesap ve AI 18 yaş ve üzeri kullanıcılar içindir.</item>
+        <item>Uygulama olduğu gibi sunulur. Kötüye kullanımdan veya oluşturduğun uygulamaların nasıl kullanıldığından sorumlu değiliz.</item>
+    </array>
+</resources>

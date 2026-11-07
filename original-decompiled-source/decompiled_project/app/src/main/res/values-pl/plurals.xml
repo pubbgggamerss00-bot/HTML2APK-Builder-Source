@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d wiadomość</item>
+        <item quantity="other">%1$d wiadomości</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d problem</item>
+        <item quantity="other">%1$d problemy</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">Zastąpiono %1$d dopasowanie</item>
+        <item quantity="other">Zastąpiono %1$d dopasowań</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Twój kod używa %1$d uprawnienia, które nie jest włączone.</item>
+        <item quantity="other">Twój kod używa %1$d uprawnień, które nie są włączone.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projekt</item>
+        <item quantity="other">%1$d projekty</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d strona</item>
+        <item quantity="other">%1$d stron</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Wybrano %1$d stronę</item>
+        <item quantity="other">Wybrano %1$d stron</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d strona</item>
+        <item quantity="other">%1$d stron</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d nowa aplikacja</item>
+        <item quantity="other">≈ %1$d nowych aplikacji</item>
+    </plurals>
+</resources>

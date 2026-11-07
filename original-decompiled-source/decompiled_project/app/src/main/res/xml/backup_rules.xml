@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <exclude
+        domain="database"
+        path="."/>
+    <exclude
+        domain="sharedpref"
+        path="."/>
+    <exclude
+        domain="file"
+        path="keystores/"/>
+    <exclude
+        domain="file"
+        path="default_keystore.p12"/>
+</full-backup-content>

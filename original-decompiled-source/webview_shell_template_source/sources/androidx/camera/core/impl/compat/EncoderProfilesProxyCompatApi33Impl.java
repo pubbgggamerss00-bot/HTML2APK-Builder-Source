@@ -1,0 +1,33 @@
+package androidx.camera.core.impl.compat;
+
+import android.media.EncoderProfiles;
+import androidx.camera.core.impl.EncoderProfilesProxy;
+import java.util.ArrayList;
+import java.util.List;
+
+/* compiled from: r8-map-id-c2e43b85b3faaa908d3d4eb519a292cdfb67c014e97b7e4873d9aa873c97b949 */
+/* loaded from: classes.dex */
+class EncoderProfilesProxyCompatApi33Impl {
+    private EncoderProfilesProxyCompatApi33Impl() {
+    }
+
+    public static EncoderProfilesProxy from(EncoderProfiles encoderProfiles) {
+        return EncoderProfilesProxy.ImmutableEncoderProfilesProxy.create(encoderProfiles.getDefaultDurationSeconds(), encoderProfiles.getRecommendedFileFormat(), fromAudioProfiles(encoderProfiles.getAudioProfiles()), fromVideoProfiles(encoderProfiles.getVideoProfiles()));
+    }
+
+    private static List<EncoderProfilesProxy.AudioProfileProxy> fromAudioProfiles(List<EncoderProfiles.AudioProfile> list) {
+        ArrayList arrayList = new ArrayList();
+        for (EncoderProfiles.AudioProfile audioProfile : list) {
+            arrayList.add(EncoderProfilesProxy.AudioProfileProxy.create(audioProfile.getCodec(), audioProfile.getMediaType(), audioProfile.getBitrate(), audioProfile.getSampleRate(), audioProfile.getChannels(), audioProfile.getProfile()));
+        }
+        return arrayList;
+    }
+
+    private static List<EncoderProfilesProxy.VideoProfileProxy> fromVideoProfiles(List<EncoderProfiles.VideoProfile> list) {
+        ArrayList arrayList = new ArrayList();
+        for (EncoderProfiles.VideoProfile videoProfile : list) {
+            arrayList.add(EncoderProfilesProxy.VideoProfileProxy.create(videoProfile.getCodec(), videoProfile.getMediaType(), videoProfile.getBitrate(), videoProfile.getFrameRate(), videoProfile.getWidth(), videoProfile.getHeight(), videoProfile.getProfile(), videoProfile.getBitDepth(), videoProfile.getChromaSubsampling(), videoProfile.getHdrFormat()));
+        }
+        return arrayList;
+    }
+}

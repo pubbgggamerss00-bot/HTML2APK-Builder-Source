@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d개 머서자어</item>
+        <item quantity="other">%1$d개 머서자어</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d개의 문제</item>
+        <item quantity="other">%1$d개의 문제</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d개 일치 항목이 대체됨</item>
+        <item quantity="other">%1$d개 일치 항목이 대체됨</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">코드가 활성화되지 않은 %1$d개의 권한을 사용합니다.</item>
+        <item quantity="other">코드가 활성화되지 않은 %1$d개의 권한을 사용합니다.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">프로젝트 %1$d개</item>
+        <item quantity="other">프로젝트 %1$d개</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d페이지</item>
+        <item quantity="other">%1$d페이지</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d페이지 선택됨</item>
+        <item quantity="other">%1$d페이지 선택됨</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d페이지</item>
+        <item quantity="other">%1$d페이지</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ 사여다 %1$d개 애프</item>
+        <item quantity="other">≈ 사여다 %1$d개 애프</item>
+    </plurals>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$dটি মেসেজ</item>
+        <item quantity="other">%1$dটি মেসেজ</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$dটি সমস্যা</item>
+        <item quantity="other">%1$dটি সমস্যা</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$dটি ম্যাচ রিপ্লেস করা হয়েছে</item>
+        <item quantity="other">%1$dটি ম্যাচ রিপ্লেস করা হয়েছে</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">আপনার কোডটি %1$d টি অনুমতি ব্যবহার করে যা সক্রিয় করা হয়নি।</item>
+        <item quantity="other">আপনার কোডটি %1$d টি অনুমতি ব্যবহার করে যা সক্রিয় করা হয়নি।</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d টি প্রজেক্ট</item>
+        <item quantity="other">%1$d টি প্রজেক্ট</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d পৃষ্ঠা</item>
+        <item quantity="other">%1$d পৃষ্ঠা</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d টি পৃষ্ঠা নির্বাচিত</item>
+        <item quantity="other">%1$d টি পৃষ্ঠা নির্বাচিত</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d পৃষ্ঠা</item>
+        <item quantity="other">%1$d পৃষ্ঠা</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d নতুন অ্যাপ</item>
+        <item quantity="other">≈ %1$d টি নতুন অ্যাপ</item>
+    </plurals>
+</resources>

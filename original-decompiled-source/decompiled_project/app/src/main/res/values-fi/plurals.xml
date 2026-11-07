@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d viesti</item>
+        <item quantity="other">%1$d viestiä</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d ongelma</item>
+        <item quantity="other">%1$d ongelmaa</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d osuma korvattu</item>
+        <item quantity="other">%1$d osumaa korvattu</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Koodisi käyttää %1$d käyttöoikeutta, jota ei ole otettu käyttöön.</item>
+        <item quantity="other">Koodisi käyttää %1$d käyttöoikeutta, joita ei ole otettu käyttöön.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projekti</item>
+        <item quantity="other">%1$d projektia</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d sivu</item>
+        <item quantity="other">%1$d sivua</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d sivu valittu</item>
+        <item quantity="other">%1$d sivua valittu</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d sivu</item>
+        <item quantity="other">%1$d sivua</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d uusi sovellus</item>
+        <item quantity="other">≈ %1$d uutta sovellusta</item>
+    </plurals>
+</resources>

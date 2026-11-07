@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d pesan</item>
+        <item quantity="other">%1$d pesan</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d masalah</item>
+        <item quantity="other">%1$d masalah</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d kecocokan diganti</item>
+        <item quantity="other">%1$d kecocokan diganti</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Kode Anda menggunakan %1$d izin yang tidak diaktifkan.</item>
+        <item quantity="other">Kode Anda menggunakan %1$d izin yang tidak diaktifkan.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d proyek</item>
+        <item quantity="other">%1$d proyek</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d halaman</item>
+        <item quantity="other">%1$d halaman</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d halaman dipilih</item>
+        <item quantity="other">%1$d halaman dipilih</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d halaman</item>
+        <item quantity="other">%1$d halaman</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d aplikasi baru</item>
+        <item quantity="other">≈ %1$d aplikasi baru</item>
+    </plurals>
+</resources>

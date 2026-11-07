@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d μήνυμα</item>
+        <item quantity="other">%1$d μηνύματα</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d ζήτημα</item>
+        <item quantity="other">%1$d ζητήματα</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d αντιστοιχία αντικαταστάθηκε</item>
+        <item quantity="other">%1$d αντιστοιχίες αντικαταστάθηκαν</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Ο κώδικάς σας χρησιμοποιεί %1$d άδεια που δεν είναι ενεργοποιημένη.</item>
+        <item quantity="other">Ο κώδικάς σας χρησιμοποιεί %1$d άδειες που δεν είναι ενεργοποιημένες.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d έργο</item>
+        <item quantity="other">%1$d έργα</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d σελίδα</item>
+        <item quantity="other">%1$d σελίδες</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Επιλέχθηκε %1$d σελίδα</item>
+        <item quantity="other">Επιλέχθηκαν %1$d σελίδες</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d σελίδα</item>
+        <item quantity="other">%1$d σελίδες</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d νέα εφαρμογή</item>
+        <item quantity="other">≈ %1$d νέες εφαρμογές</item>
+    </plurals>
+</resources>

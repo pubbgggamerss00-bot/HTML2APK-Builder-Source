@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d ข้อความ</item>
+        <item quantity="other">%1$d ข้อความ</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d ปัญหา</item>
+        <item quantity="other">%1$d ปัญหา</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">แทนที่แล้ว %1$d รายการ</item>
+        <item quantity="other">แทนที่แล้ว %1$d รายการ</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">โค้ดของคุณใช้ %1$d สิทธิ์ที่ยังไม่ได้เปิดใช้งาน</item>
+        <item quantity="other">โค้ดของคุณใช้ %1$d สิทธิ์ที่ยังไม่ได้เปิดใช้งาน</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d โปรเจกต์</item>
+        <item quantity="other">%1$d โปรเจกต์</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d หน้า</item>
+        <item quantity="other">%1$d หน้า</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">เลือกไว้ %1$d หน้า</item>
+        <item quantity="other">เลือกไว้ %1$d หน้า</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d หน้า</item>
+        <item quantity="other">%1$d หน้า</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ แอปใหม่ %1$d แอป</item>
+        <item quantity="other">≈ แอปใหม่ %1$d แอป</item>
+    </plurals>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d zpráva</item>
+        <item quantity="other">%1$d zpráv</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d problém</item>
+        <item quantity="other">%1$d problémů</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d shoda nahrazena</item>
+        <item quantity="other">%1$d shod nahrazeno</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Váš kód používá %1$d oprávnění, které není povoleno.</item>
+        <item quantity="other">Váš kód používá %1$d oprávnění, která nejsou povolená.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projekt</item>
+        <item quantity="other">%1$d projektů</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d stránka</item>
+        <item quantity="other">%1$d stránek</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Vybrána %1$d stránka</item>
+        <item quantity="other">Vybráno %1$d stránek</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d strana</item>
+        <item quantity="other">%1$d stran</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d nová aplikace</item>
+        <item quantity="other">≈ %1$d nových aplikací</item>
+    </plurals>
+</resources>

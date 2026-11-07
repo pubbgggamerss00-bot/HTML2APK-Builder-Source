@@ -1,0 +1,34 @@
+package com.google.android.gms.internal.consent_sdk;
+
+/* compiled from: r8-map-id-c2e43b85b3faaa908d3d4eb519a292cdfb67c014e97b7e4873d9aa873c97b949 */
+/* loaded from: classes.dex */
+public final class n1 extends z6 implements w7 {
+    private static final n1 zzb;
+
+    static {
+        n1 n1Var = new n1();
+        zzb = n1Var;
+        z6.l(n1.class, n1Var);
+    }
+
+    @Override // com.google.android.gms.internal.consent_sdk.z6
+    public final Object f(int i6) {
+        int i7 = i6 - 1;
+        if (i7 == 0) {
+            return (byte) 1;
+        }
+        if (i7 == 2) {
+            return new d8(zzb, "\u0004\u0000", null);
+        }
+        if (i7 == 3) {
+            return new n1();
+        }
+        if (i7 == 4) {
+            return new m1(zzb);
+        }
+        if (i7 == 5) {
+            return zzb;
+        }
+        throw null;
+    }
+}

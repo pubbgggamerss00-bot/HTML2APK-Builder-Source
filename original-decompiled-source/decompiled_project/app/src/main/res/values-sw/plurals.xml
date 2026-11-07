@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">ujumbe %1$d</item>
+        <item quantity="other">ujumbe %1$d</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">Tatizo %1$d</item>
+        <item quantity="other">Matatizo %1$d</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">Mechi %1$d imebadilishwa</item>
+        <item quantity="other">Mechi %1$d zimebadilishwa</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Nambari yako ya siri inatumia ruhusa %1$d ambayo haijawashwa.</item>
+        <item quantity="other">Nambari yako ya siri inatumia ruhusa %1$d ambazo hazijawashwa.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">Mradi %1$d</item>
+        <item quantity="other">Miradi %1$d</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">Ukurasa %1$d</item>
+        <item quantity="other">Kurasa %1$d</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Ukurasa %1$d umechaguliwa</item>
+        <item quantity="other">Kurasa %1$d zimechaguliwa</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">Ukurasa %1$d</item>
+        <item quantity="other">Kurasa %1$d</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ programu mpya %1$d</item>
+        <item quantity="other">≈ programu mpya %1$d</item>
+    </plurals>
+</resources>

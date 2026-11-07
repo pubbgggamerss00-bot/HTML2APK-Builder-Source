@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d сообщение</item>
+        <item quantity="other">%1$d сообщений</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d проблема</item>
+        <item quantity="other">%1$d проблем</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d совпадение заменено</item>
+        <item quantity="other">%1$d совпадений заменено</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Ваш код использует %1$d разрешение, которое не включено.</item>
+        <item quantity="other">Ваш код использует %1$d разрешений, которые не включены.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d проект</item>
+        <item quantity="other">%1$d проектов</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d страница</item>
+        <item quantity="other">%1$d страниц</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Выбрана %1$d страница</item>
+        <item quantity="other">Выбрано страниц: %1$d</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d страница</item>
+        <item quantity="other">%1$d страниц</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d новое приложение</item>
+        <item quantity="other">≈ %1$d новых приложений</item>
+    </plurals>
+</resources>

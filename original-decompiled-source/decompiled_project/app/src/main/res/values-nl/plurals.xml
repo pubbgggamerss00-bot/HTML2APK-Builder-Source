@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d bericht</item>
+        <item quantity="other">%1$d berichten</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d probleem</item>
+        <item quantity="other">%1$d problemen</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d overeenkomst vervangen</item>
+        <item quantity="other">%1$d overeenkomsten vervangen</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Je code gebruikt %1$d permissie die niet is ingeschakeld.</item>
+        <item quantity="other">Je code gebruikt %1$d permissies die niet zijn ingeschakeld.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d project</item>
+        <item quantity="other">%1$d projecten</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d pagina</item>
+        <item quantity="other">%1$d pagina&apos;s</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d pagina geselecteerd</item>
+        <item quantity="other">%1$d pagina&apos;s geselecteerd</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d pagina</item>
+        <item quantity="other">%1$d pagina&apos;s</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d nieuwe app</item>
+        <item quantity="other">≈ %1$d nieuwe apps</item>
+    </plurals>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d ziņojums</item>
+        <item quantity="other">%1$d ziņojumi</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d problēma</item>
+        <item quantity="other">%1$d problēmas</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">Aizstāta %1$d atbilstība</item>
+        <item quantity="other">Aizstātas %1$d atbilstības</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Jūsu kods izmanto %1$d atļauju, kas nav iespējota.</item>
+        <item quantity="other">Jūsu kods izmanto %1$d atļaujas, kas nav iespējotas.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projekts</item>
+        <item quantity="other">%1$d projekti</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d lapa</item>
+        <item quantity="other">%1$d lapas</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Atlasīta %1$d lapa</item>
+        <item quantity="other">Atlasītas %1$d lapas</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d lapa</item>
+        <item quantity="other">%1$d lapas</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d jauna lietotne</item>
+        <item quantity="other">≈ %1$d jaunas lietotnes</item>
+    </plurals>
+</resources>

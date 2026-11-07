@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d సందేశం</item>
+        <item quantity="other">%1$d సందేశాలు</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d సమస్య</item>
+        <item quantity="other">%1$d సమస్యలు</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d సరిపోలిక మార్చబడింది</item>
+        <item quantity="other">%1$d సరిపోలికలు మార్చబడ్డాయి</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">మీ కోడ్ ప్రారంభించబడని %1$d అనుమతిని ఉపయోగిస్తుంది.</item>
+        <item quantity="other">మీ కోడ్ ప్రారంభించబడని %1$d అనుమతులను ఉపయోగిస్తుంది.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d ప్రాజెక్ట్</item>
+        <item quantity="other">%1$d ప్రాజెక్ట్‌లు</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d పేజీ</item>
+        <item quantity="other">%1$d పేజీలు</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d పేజీ ఎంపిక చేయబడింది</item>
+        <item quantity="other">%1$d పేజీలు ఎంపిక చేయబడ్డాయి</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d పేజీ</item>
+        <item quantity="other">%1$d పేజీలు</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d కొత్త యాప్</item>
+        <item quantity="other">≈ %1$d కొత్త యాప్‌లు</item>
+    </plurals>
+</resources>

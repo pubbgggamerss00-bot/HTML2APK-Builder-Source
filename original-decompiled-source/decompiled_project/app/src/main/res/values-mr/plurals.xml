@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d संदेश</item>
+        <item quantity="other">%1$d संदेश</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d समस्या</item>
+        <item quantity="other">%1$d समस्या</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d जुळवणी बदलली</item>
+        <item quantity="other">%1$d जुळवण्या बदलल्या</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">तुमचा कोड %1$d परवानगी वापरतो जी सक्षम केलेली नाही.</item>
+        <item quantity="other">तुमचा कोड %1$d परवानग्या वापरतो ज्या सक्षम केलेल्या नाहीत.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d प्रकल्प</item>
+        <item quantity="other">%1$d प्रकल्प</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d पृष्ठ</item>
+        <item quantity="other">%1$d पृष्ठे</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d पृष्ठ निवडले</item>
+        <item quantity="other">%1$d पृष्ठे निवडली</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d पान</item>
+        <item quantity="other">%1$d पाने</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d नवीन ॲप</item>
+        <item quantity="other">≈ %1$d नवीन ॲप्स</item>
+    </plurals>
+</resources>

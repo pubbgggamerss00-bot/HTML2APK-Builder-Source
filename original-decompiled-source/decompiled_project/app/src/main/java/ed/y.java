@@ -1,0 +1,90 @@
+package ed;
+
+import com.google.crypto.tink.shaded.protobuf.e1;
+import com.google.crypto.tink.shaded.protobuf.w;
+import com.google.crypto.tink.shaded.protobuf.z0;
+
+/* loaded from: classes2.dex */
+public final class y extends com.google.crypto.tink.shaded.protobuf.w<y, a> implements com.google.crypto.tink.shaded.protobuf.q0 {
+    private static final y DEFAULT_INSTANCE;
+    private static volatile z0<y> PARSER;
+
+    public static final class a extends w.a<y, a> implements com.google.crypto.tink.shaded.protobuf.q0 {
+        @Override // com.google.crypto.tink.shaded.protobuf.w.a, com.google.crypto.tink.shaded.protobuf.p0.a
+        public final /* bridge */ /* synthetic */ com.google.crypto.tink.shaded.protobuf.w buildPartial() {
+            return buildPartial();
+        }
+
+        @Override // com.google.crypto.tink.shaded.protobuf.w.a
+        public final /* bridge */ /* synthetic */ Object clone() throws CloneNotSupportedException {
+            return clone();
+        }
+
+        @Override // com.google.crypto.tink.shaded.protobuf.w.a, com.google.crypto.tink.shaded.protobuf.q0
+        public final com.google.crypto.tink.shaded.protobuf.w getDefaultInstanceForType() {
+            return this.f6807a;
+        }
+    }
+
+    static {
+        y yVar = new y();
+        DEFAULT_INSTANCE = yVar;
+        com.google.crypto.tink.shaded.protobuf.w.t(y.class, yVar);
+    }
+
+    public static y v() {
+        return DEFAULT_INSTANCE;
+    }
+
+    public static y w(com.google.crypto.tink.shaded.protobuf.h hVar, com.google.crypto.tink.shaded.protobuf.o oVar) throws com.google.crypto.tink.shaded.protobuf.z {
+        return (y) com.google.crypto.tink.shaded.protobuf.w.r(DEFAULT_INSTANCE, hVar, oVar);
+    }
+
+    @Override // com.google.crypto.tink.shaded.protobuf.w, com.google.crypto.tink.shaded.protobuf.q0
+    public final /* bridge */ /* synthetic */ com.google.crypto.tink.shaded.protobuf.w getDefaultInstanceForType() {
+        return getDefaultInstanceForType();
+    }
+
+    @Override // com.google.crypto.tink.shaded.protobuf.w
+    public final Object i(w.f fVar) {
+        z0 bVar;
+        switch (fVar.ordinal()) {
+            case 0:
+                return (byte) 1;
+            case 1:
+                return null;
+            case 2:
+                return new e1(DEFAULT_INSTANCE, "\u0000\u0000", null);
+            case 3:
+                return new y();
+            case 4:
+                return new a(DEFAULT_INSTANCE);
+            case 5:
+                return DEFAULT_INSTANCE;
+            case 6:
+                z0<y> z0Var = PARSER;
+                if (z0Var != null) {
+                    return z0Var;
+                }
+                synchronized (y.class) {
+                    try {
+                        bVar = PARSER;
+                        if (bVar == null) {
+                            bVar = new w.b();
+                            PARSER = bVar;
+                        }
+                    } catch (Throwable th2) {
+                        throw th2;
+                    }
+                }
+                return bVar;
+            default:
+                throw new UnsupportedOperationException();
+        }
+    }
+
+    @Override // com.google.crypto.tink.shaded.protobuf.w, com.google.crypto.tink.shaded.protobuf.p0
+    public final /* bridge */ /* synthetic */ w.a newBuilderForType() {
+        return newBuilderForType();
+    }
+}

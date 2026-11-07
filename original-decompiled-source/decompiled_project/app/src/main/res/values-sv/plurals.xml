@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d meddelande</item>
+        <item quantity="other">%1$d meddelanden</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d problem</item>
+        <item quantity="other">%1$d problem</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d matchning ersatt</item>
+        <item quantity="other">%1$d matchningar ersatta</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Din kod använder %1$d behörighet som inte är aktiverad.</item>
+        <item quantity="other">Din kod använder %1$d behörigheter som inte är aktiverade.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projekt</item>
+        <item quantity="other">%1$d projekt</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d sida</item>
+        <item quantity="other">%1$d sidor</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d sida markerad</item>
+        <item quantity="other">%1$d sidor markerade</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d sida</item>
+        <item quantity="other">%1$d sidor</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d ny app</item>
+        <item quantity="other">≈ %1$d nya appar</item>
+    </plurals>
+</resources>

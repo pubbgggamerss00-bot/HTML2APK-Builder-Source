@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- HTML2APK branding: deep navy / cyan / electric lime -->
+    <color name="navy_bg">#080B12</color>
+    <color name="navy_surface">#0E1524</color>
+    <color name="cyan_accent">#00D9FF</color>
+    <color name="lime_accent">#A6FF00</color>
+    <color name="launcher_background">#080B12</color>
+</resources>

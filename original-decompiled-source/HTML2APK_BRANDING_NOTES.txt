@@ -1,0 +1,12 @@
+HTML2APK branding update
+========================
+
+Applied to the supplied decompiled Android project:
+- Launcher/app display name changed to HTML2APK (default English resource).
+- Replaced launcher icon artwork in mdpi, hdpi, xhdpi, xxhdpi and xxxhdpi densities.
+- Updated adaptive launcher foreground artwork and retained the existing adaptive-icon XML wiring.
+- Switched the app window theme from dynamic day/night Material 3 to a fixed dark Material 3 parent.
+- Updated legacy Android theme accent colors to cyan (#00D9FF), electric lime (#A6FF00), and deep navy backgrounds.
+
+Important build note:
+This is a decompiled APK project, not a clean original Android Studio source checkout. The UI's main Compose implementation is represented by decompiled/obfuscated Java classes, so a complete component-by-component redesign and a verified APK build cannot be guaranteed from this source archive alone. The branding, launcher identity, and Android resource theme changes above are applied. The original uploaded ZIP was not modified.

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">umyalezo ongu-%1$d</item>
+        <item quantity="other">Imiyalezo engu-%1$d</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">Inkinga engu-%1$d</item>
+        <item quantity="other">Izinkinga ezingu-%1$d</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d okufanayo okushintshiwe</item>
+        <item quantity="other">%1$d okufanayo okushintshiwe</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Ikhodi yakho isebenzisa imvume engu-%1$d engavuliwe.</item>
+        <item quantity="other">Ikhodi yakho isebenzisa izimvume ezingu-%1$d ezingavuliwe.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">iphrojekthi engu-%1$d</item>
+        <item quantity="other">amaphrojekthi angu-%1$d</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d ikhasi</item>
+        <item quantity="other">%1$d amakhasi</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Ikhasini elingu-%1$d elikhethiwe</item>
+        <item quantity="other">Amakhasi angu-%1$d akhethiwe</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">Ikhasi elingu-%1$d</item>
+        <item quantity="other">Amakhasi angu-%1$d</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d uhlelo olusha</item>
+        <item quantity="other">≈ %1$d izinhlelo ezintsha</item>
+    </plurals>
+</resources>

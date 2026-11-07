@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d پیام</item>
+        <item quantity="other">%1$d پیام</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d مشکل</item>
+        <item quantity="other">%1$d مشکل</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d مورد جایگزین شد</item>
+        <item quantity="other">%1$d مورد جایگزین شدند</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">کد شما از %1$d دسترسی استفاده می‌کند که فعال نشده است.</item>
+        <item quantity="other">کد شما از %1$d دسترسی استفاده می‌کند که فعال نشده‌اند.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d پروژه</item>
+        <item quantity="other">%1$d پروژه</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d صفحه</item>
+        <item quantity="other">%1$d صفحه</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d صفحه انتخاب شد</item>
+        <item quantity="other">%1$d صفحه انتخاب شدند</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d صفحه</item>
+        <item quantity="other">%1$d صفحه</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d برنامه جدید</item>
+        <item quantity="other">≈ %1$d برنامه جدید</item>
+    </plurals>
+</resources>

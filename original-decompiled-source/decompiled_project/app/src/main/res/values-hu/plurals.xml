@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d üzenet</item>
+        <item quantity="other">%1$d üzenet</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d probléma</item>
+        <item quantity="other">%1$d probléma</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d találat cserélve</item>
+        <item quantity="other">%1$d találat cserélve</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">A kódod %1$d engedélyt használ, amely nincs engedélyezve.</item>
+        <item quantity="other">A kódod %1$d engedélyt használ, amelyek nincsenek engedélyezve.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projekt</item>
+        <item quantity="other">%1$d projekt</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d oldal</item>
+        <item quantity="other">%1$d oldal</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d oldal kiválasztva</item>
+        <item quantity="other">%1$d oldal kiválasztva</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d oldal</item>
+        <item quantity="other">%1$d oldal</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d új alkalmazás</item>
+        <item quantity="other">≈ %1$d új alkalmazás</item>
+    </plurals>
+</resources>

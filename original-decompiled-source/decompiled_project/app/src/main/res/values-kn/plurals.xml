@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d ಸಂದೇಶ</item>
+        <item quantity="other">%1$d ಸಂದೇಶಗಳು</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d ಸಮಸ್ಯೆ</item>
+        <item quantity="other">%1$d ಸಮಸ್ಯೆಗಳು</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d ಹೊಂದಾಣಿಕೆಯನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ</item>
+        <item quantity="other">%1$d ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಬದಲಾಯಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">ನಿಮ್ಮ ಕೋಡ್ ಸಕ್ರಿಯಗೊಳಿಸದ %1$d ಅನುಮತಿಯನ್ನು ಬಳಸುತ್ತದೆ.</item>
+        <item quantity="other">ನಿಮ್ಮ ಕೋಡ್ ಸಕ್ರಿಯಗೊಳಿಸದ %1$d ಅನುಮತಿಗಳನ್ನು ಬಳಸುತ್ತದೆ.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d ಯೋಜನೆ</item>
+        <item quantity="other">%1$d ಯೋಜನೆಗಳು</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d ಪುಟ</item>
+        <item quantity="other">%1$d ಪುಟಗಳು</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d ಪುಟವನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="other">%1$d ಪುಟಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d ಪುಟ</item>
+        <item quantity="other">%1$d ಪುಟಗಳು</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d ಹೊಸ ಅಪ್ಲಿಕೇಶನ್</item>
+        <item quantity="other">≈ %1$d ಹೊಸ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು</item>
+    </plurals>
+</resources>

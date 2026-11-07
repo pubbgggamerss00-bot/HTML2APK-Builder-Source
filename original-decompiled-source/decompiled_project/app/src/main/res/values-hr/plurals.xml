@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d poruka</item>
+        <item quantity="other">%1$d poruka</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d problem</item>
+        <item quantity="other">%1$d problema</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d podudaranje zamijenjeno</item>
+        <item quantity="other">%1$d podudaranja zamijenjeno</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Vaš kod koristi %1$d dozvolu koja nije omogućena.</item>
+        <item quantity="other">Vaš kod koristi %1$d dozvola koje nisu omogućene.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d projekt</item>
+        <item quantity="other">%1$d projekata</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d stranica</item>
+        <item quantity="other">%1$d stranica</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d stranica odabrana</item>
+        <item quantity="other">%1$d stranica odabrano</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d stranica</item>
+        <item quantity="other">%1$d stranica</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d nova aplikacija</item>
+        <item quantity="other">≈ %1$d novih aplikacija</item>
+    </plurals>
+</resources>

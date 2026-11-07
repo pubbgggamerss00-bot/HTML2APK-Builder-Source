@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d செய்தி</item>
+        <item quantity="other">%1$d செய்திகள்</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d சிக்கல்</item>
+        <item quantity="other">%1$d சிக்கல்கள்</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">%1$d பொருத்தம் மாற்றப்பட்டது</item>
+        <item quantity="other">%1$d பொருத்தங்கள் மாற்றப்பட்டன</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">உங்கள் குறியீடு இயக்கப்படாத %1$d அனுமதியைப் பயன்படுத்துகிறது.</item>
+        <item quantity="other">உங்கள் குறியீடு இயக்கப்படாத %1$d அனுமதிகளைப் பயன்படுத்துகிறது.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d திட்டம்</item>
+        <item quantity="other">%1$d திட்டங்கள்</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d பக்கம்</item>
+        <item quantity="other">%1$d பக்கங்கள்</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">%1$d பக்கம் தேர்ந்தெடுக்கப்பட்டது</item>
+        <item quantity="other">%1$d பக்கங்கள் தேர்ந்தெடுக்கப்பட்டன</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d பக்கம்</item>
+        <item quantity="other">%1$d பக்கங்கள்</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d புதிய செயலி</item>
+        <item quantity="other">≈ %1$d புதிய செயலிகள்</item>
+    </plurals>
+</resources>

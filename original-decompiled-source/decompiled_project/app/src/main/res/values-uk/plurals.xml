@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d повідомлення</item>
+        <item quantity="other">%1$d повідомлень</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">%1$d проблема</item>
+        <item quantity="other">%1$d проблем</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">Замінено %1$d збіг</item>
+        <item quantity="other">Замінено %1$d збігів</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">Ваш код використовує %1$d дозвіл, який не ввімкнено.</item>
+        <item quantity="other">Ваш код використовує %1$d дозволів, які не ввімкнено.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d проєкт</item>
+        <item quantity="other">%1$d проєктів</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d сторінка</item>
+        <item quantity="other">%1$d сторінок</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">Вибрано %1$d сторінку</item>
+        <item quantity="other">Вибрано %1$d сторінок</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">%1$d сторінка</item>
+        <item quantity="other">%1$d сторінок</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d новий додаток</item>
+        <item quantity="other">≈ %1$d нових додатків</item>
+    </plurals>
+</resources>

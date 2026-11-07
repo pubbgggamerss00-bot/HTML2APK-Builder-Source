@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ai_history_turns">
+        <item quantity="one">%1$d הודעה</item>
+        <item quantity="other">%1$d הודעות</item>
+    </plurals>
+    <plurals name="editor_html_issue_count">
+        <item quantity="one">בעיה %1$d</item>
+        <item quantity="other">%1$d בעיות</item>
+    </plurals>
+    <plurals name="editor_html_replaced_count">
+        <item quantity="one">התאמה %1$d הוחלפה</item>
+        <item quantity="other">%1$d התאמות הוחלפו</item>
+    </plurals>
+    <plurals name="editor_permissions_detected_missing">
+        <item quantity="one">הקוד שלך משתמש בהרשאה %1$d שאינה מופעלת.</item>
+        <item quantity="other">הקוד שלך משתמש ב-%1$d הרשאות שאינן מופעלות.</item>
+    </plurals>
+    <plurals name="folder_project_count">
+        <item quantity="one">%1$d פרויקט</item>
+        <item quantity="other">%1$d פרויקטים</item>
+    </plurals>
+    <plurals name="pdf_document_page_count">
+        <item quantity="one">%1$d עמוד</item>
+        <item quantity="other">%1$d עמודים</item>
+    </plurals>
+    <plurals name="pdf_edit_selected">
+        <item quantity="one">נבחר עמוד %1$d</item>
+        <item quantity="other">נבחרו %1$d עמודים</item>
+    </plurals>
+    <plurals name="pdf_reader_page_count">
+        <item quantity="one">דף %1$d</item>
+        <item quantity="other">%1$d דפים</item>
+    </plurals>
+    <plurals name="profile_credits_apps">
+        <item quantity="one">≈ %1$d אפליקציה חדשה</item>
+        <item quantity="other">≈ %1$d אפליקציות חדשות</item>
+    </plurals>
+</resources>
